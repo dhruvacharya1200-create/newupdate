@@ -1,0 +1,38 @@
+name: Update UPSC Daily Briefing
+
+on:
+  schedule:
+    # 3:30 UTC = 9:00 AM IST, every day
+    - cron: '30 3 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Collect raw headlines
+        run: node fetch-sources.mjs
+
+      - name: Curate with Gemini
+        run: node curate.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push if curated.json changed
+        run: |
+          git config user.name "upsc-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add curated.json raw-articles.json
+          git diff --staged --quiet || git commit -m "Daily briefing: $(date -u +'%Y-%m-%d')"
+          git push
