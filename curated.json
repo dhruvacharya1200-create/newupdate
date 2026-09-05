@@ -1,37 +1,321 @@
 {
   "date": "2026-09-05",
-  "updatedAt": "2026-09-05T03:30:00.000Z",
+  "updatedAt": "2026-09-05T13:13:37.859Z",
   "frontPage": [
     {
-      "headline": "Sample story — run the workflow once to replace this with today's real curated briefing",
-      "sources": [{ "name": "The Hindu", "url": "#" }],
+      "headline": "UN General Assembly adopts resolution supporting 'Equal Earth' map to correct Mercator projection distortions",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/india-votes-in-favour-of-unga-resolution-endorsing-new-world-map/article71431214.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "World Geography & Cartographic Projections",
+      "summary": "The United Nations General Assembly has approved a resolution endorsing the 'Equal Earth' map projection, which accurately reflects the true relative surface areas of landmasses. The resolution notes that traditional 16th-century Mercator projections distort global geography by significantly shrinking the perceived size of Africa, South Asia, and Latin America. India voted in favour of the resolution, while the United States was the sole vote against.",
+      "whyItMatters": "This move highlights cartographic bias and its eurocentric geopolitical legacy. Understanding map projections (Mercator vs. Equal Area projections) is a core topic in Geography (GS I), while international voting patterns and South-South advocacy connect to GS II Global Relations."
+    },
+    {
+      "headline": "ISRO staff unions demand formal policy framework regarding private sector expansion in space operations",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/in-a-first-9-isro-staff-bodies-seek-written-clarity-on-private-sector-shift/articleshow/133801451.cms"
+        }
+      ],
       "date": "2026-09-05",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Sample",
-      "summary": "This is placeholder content. Once you run the daily workflow (or wait for the 9 AM automatic run), this will be replaced with real curated UPSC content.",
-      "whyItMatters": "This is a placeholder shown before the first automated run."
+      "topic": "Space Technology & Industrial Policy",
+      "summary": "Nine employee associations across Indian Space Research Organisation (ISRO) centers have jointly submitted a representation seeking written policy clarity on the government's push for private sector participation in space activities. While acknowledging that commercial firms can co-exist with ISRO, the unions emphasized the need for a defined policy governing technology transfers, asset sharing, and human resource security.",
+      "whyItMatters": "As India liberalizes its space sector through IN-SPACe and NewSpace India Limited (NSIL), balancing public research infrastructure with commercial enterprise is vital for industrial transition and state-backed technology R&D (GS III Science & Technology)."
+    },
+    {
+      "headline": "Union government approves low-cost particulate filter retrofit to cut old diesel vehicle emissions by 90%",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/gadkari-says-govt-will-allow-rs-5000-iit-delhi-innovation-to-be-retrofitted-for-old-diesel-trucks-and-buses-device-can-cut-particulate-pollution-up-to-90-and-bring-emissions-on-par-with-bs-vi/articleshow/133756610.cms"
+        }
+      ],
+      "date": "2026-09-04",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Pollution & Technology Innovation",
+      "summary": "The Ministry of Road Transport and Highways announced approval for retrofitting commercial diesel vehicles with an indigenous, low-cost device developed by IIT-Delhi. Costing approximately ₹5,000, the device reduces particulate matter emissions from older BS-III and BS-IV trucks and buses by up to 90%, bringing their emission levels close to BS-VI standards.",
+      "whyItMatters": "Vehicular emissions are a major contributor to urban air pollution and smog in Northern India. Affordable technological innovations offer a practical alternative to mandatory vehicle scrapping, balancing environmental protection with economic viability for commercial transport operators."
+    },
+    {
+      "headline": "Revising India's Bilateral Investment Treaty framework requires structural safeguards and accountability",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/op-ed/a-bit-of-a-reset-with-a-wider-debate/article71429058.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Bilateral Investment Treaties & Foreign Direct Investment",
+      "summary": "Analyses of India's Model Bilateral Investment Treaty (BIT) highlight the need for balancing foreign investor protections with national regulatory sovereignty. Following arbitration losses in international tribunals, India revised its Model BIT in 2015, but global trade realities necessitate broader consultation with stakeholders to ensure equitable Investor-State Dispute Settlement (ISDS) mechanisms.",
+      "whyItMatters": "BITs directly impact Foreign Direct Investment (FDI) inflows, legal sovereignty, and policy space for domestic welfare initiatives. This is a recurring theme in GS III Economy and international trade law."
+    },
+    {
+      "headline": "UNEP report highlights risk of climate overshoot and urgent need for emissions reduction",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/warning-on-warming-on-the-unep-report-limiting-overshoot/article71428123.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Climate Change & UNEP Reports",
+      "summary": "The United Nations Environment Programme (UNEP) report 'Limiting Overshoot' cautions against relying excessively on future carbon dioxide removal technologies to reverse temperature rises above the 1.5°C threshold. The report stresses that temporary climate overshoot poses irreversible risks to ecosystems, biodiversity, and sea levels, reinforcing the necessity of immediate, deep emission cuts.",
+      "whyItMatters": "Climate negotiations (COP) and IPCC/UNEP findings are core to GS III Environment. Relying on unproven CDR (Carbon Dioxide Removal) rather than mitigation exposes vulnerable developing nations to extreme climate events."
+    },
+    {
+      "headline": "Discrepancies in manufacturing sector GVA highlight data calibration needs in national accounting",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece"
+        }
+      ],
+      "date": "2026-09-03",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "National Income Accounting & Manufacturing Growth",
+      "summary": "Official National Accounts Statistics estimate manufacturing Gross Value Added (GVA) at ₹38.6 lakh crore for 2023-24. However, alternative estimates compiled using primary survey data from the Annual Survey of Industries (ASI) and the Annual Survey of Unincorporated Sector Enterprises (ASUSE) yield a noticeably lower figure, raising debate among economists on methodology, corporate data reliance, and survey coverage.",
+      "whyItMatters": "Accurate GDP and GVA estimation is vital for monetary and fiscal policy formulation. Data inconsistencies in national accounts affect economic planning and industrial policy formulation under GS III."
     }
   ],
-  "gs1": [],
-  "gs2": [],
-  "gs3": [],
+  "gs1": [
+    {
+      "headline": "Equal Earth Projection selected by UN resolution to address historical cartographic distortions",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Geography - Cartography and Map Projections",
+      "summary": "The UNGA supported a resolution encouraging educational adoption of equal-area map projections like 'Equal Earth'. Traditional cylindrical projections like Mercator exaggerate landmass sizes at higher latitudes while underrepresenting tropical regions, altering public perception of continent sizes.",
+      "whyItMatters": "Directly touches on fundamental physical geography, cartographic projections, and global geographic awareness under GS I Geography."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Decennial Census process commences in remote regions amid discussions on operational questionnaires",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/census-2027-the-14-questions-and-why-opposition-fears-an-npr-backdoor/articleshow/133796101.cms"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Governance, Census & Population Statistics",
+      "summary": "Field enumeration for the upcoming Census has commenced in snowbound areas including Ladakh. Questions surrounding household amenities, assets, and demographic details have sparked political debate regarding administrative overlap with the National Population Register (NPR) and demands for a comprehensive caste enumeration.",
+      "whyItMatters": "The Census is the bedrock of demographic data, welfare targetting, boundary delimitation, and fiscal devolution under Article 246 (Union List Item 69)."
+    },
+    {
+      "headline": "Addressing health needs of midlife women through dedicated perimenopausal policy frameworks",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/out-of-neglect-bin-on-perimenopausal-policy/article71428165.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Social Justice & Public Health",
+      "summary": "Public health experts are advocating for institutional policy attention towards perimenopausal care. Integrating midlife reproductive and hormonal healthcare into primary health centers can improve workforce retention, quality of life, and preventive health management for women.",
+      "whyItMatters": "Extends healthcare social security beyond maternal and child care, addressing gender-specific health equity and public health governance under GS II Social Justice."
+    }
+  ],
+  "gs3": [
+    {
+      "headline": "Specialized NIA court convicts ten individuals in 2013 Jheeram Valley Maoist attack case",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/chhattisgarh/nia-special-court-convicts-10-accused-in-2013-jheeram-valley-massacre/article71431808.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Internal Security & Left-Wing Extremism",
+      "summary": "A special National Investigation Agency (NIA) court convicted ten people involved in the 2013 Jheeram Valley attack in Sukma district, Chhattisgarh, which resulted in the deaths of 27 people, including political leadership. The verdict marks a significant judicial milestone in addressing Left-Wing Extremism (LWE).",
+      "whyItMatters": "Highlights legal prosecution mechanisms under the UAPA and judicial accountability in counter-insurgency operations within the Red Corridor (GS III Internal Security)."
+    },
+    {
+      "headline": "Law enforcement agencies expand crackdown against organized 'digital arrest' cybercrime networks",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/digital-arrest-scams-cbis-nationwide-crackdown-and-the-supreme-courts-continuing-oversight/article71431189.ece"
+        }
+      ],
+      "date": "2026-09-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Cybersecurity & Cyber Fraud",
+      "summary": "The Central Bureau of Investigation (CBI) conducted coordinated searches across 89 locations in 20 States to dismantle transnational cybercrime syndicates orchestrating 'digital arrest' scams. The Supreme Court continues to monitor inter-agency coordination, telecom regulation, and banking channel security to prevent financial fraud.",
+      "whyItMatters": "Cyber crime, phishing, and fake law enforcement imposter scams represent growing threats to critical infrastructure, financial security, and citizen safety (GS III Cybersecurity)."
+    },
+    {
+      "headline": "Warming peatland ecosystems risk turning from global carbon sinks to active carbon emitters",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/scientists-built-10-giant-chambers-around-a-minnesota-peat-bog-and-warmed-it-by-up-to-9c-within-3-years-every-warmed-plot-switched-from-storing-carbon-to-releasing-it/articleshow/133738972.cms"
+        }
+      ],
+      "date": "2026-09-03",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Ecology & Climate Feedback Loops",
+      "summary": "Long-term ecological experiments warming peatland bogs revealed that elevated temperatures cause peat ecosystems to rapidly transition from net carbon sinks into carbon sources. Microbial decomposition accelerates sharply under higher temperatures, releasing stored methane and carbon dioxide.",
+      "whyItMatters": "Peatlands hold vast global soil carbon stocks. Their degradation accelerates positive climate feedback loops, an essential concept in GS III Ecology."
+    }
+  ],
   "gs4": [],
   "prelimsRadar": [
-    { "fact": "Sample fact", "category": "Terminology", "detail": "Placeholder — replaced after first run." }
+    {
+      "fact": "Equal Earth Map Projection",
+      "category": "Terminology",
+      "detail": "An equal-area pseudocylindrical map projection created in 2018 that accurately portrays the relative relative sizes of continents without extreme polar distortion."
+    },
+    {
+      "fact": "Thismia daemona",
+      "category": "Species",
+      "detail": "A newly discovered leaf-less, non-photosynthetic mycoheterotrophic plant species found in Thailand's Thong Pha Phum National Park that obtains nutrients entirely from subterranean fungi."
+    },
+    {
+      "fact": "Jheeram Valley",
+      "category": "Places",
+      "detail": "Located in Sukma district of Chhattisgarh, known for the 2013 Maoist ambush on a political convoy in the Darbha region."
+    },
+    {
+      "fact": "International Day For Elimination Of Child, Early & Forced Marriage",
+      "category": "Organizations",
+      "detail": "The United Nations General Assembly adopted a resolution officially designating November 27 as this international observance day."
+    },
+    {
+      "fact": "Mindoro Bleeding-Heart Pigeon",
+      "category": "Species",
+      "detail": "A critically endangered bird species endemic to the island of Mindoro in the Philippines, recently photographed in the wild after 20 years."
+    },
+    {
+      "fact": "Glacier Grafting / Artificial Glaciers",
+      "category": "Terminology",
+      "detail": "An indigenous water-conservation practice in high-altitude Gilgit-Baltistan and Ladakh where ice masses are combined and nurtured to form seasonal artificial glaciers."
+    }
   ],
   "quiz": [
     {
-      "question": "Sample question — this will be replaced after the first run",
-      "options": ["Option A", "Option B", "Option C", "Option D"],
-      "correctIndex": 0,
-      "explanation": "Placeholder explanation."
+      "question": "Which of the following statements regarding map projections is correct?",
+      "options": [
+        "The Mercator projection accurately preserves land surface areas across all latitudes.",
+        "The Equal Earth projection is an equal-area projection that preserves relative landmass sizes.",
+        "The Robinson projection is a true conformal projection used primarily for navigation.",
+        "Cylindrical map projections show no distortion at the polar regions."
+      ],
+      "correctIndex": 1,
+      "explanation": "The Equal Earth projection was created to provide a visually pleasing world map that accurately preserves the relative surface areas of continents, unlike the Mercator projection which distorts areas near the poles."
+    },
+    {
+      "question": "The term 'digital arrest' frequently seen in recent news refers to:",
+      "options": [
+        "A lawful procedure under the Bharatiya Nagarik Suraksha Sanhita for online summons.",
+        "A cyber-fraud scam where fraudsters impersonate law enforcement officials over video call to extort money.",
+        "An automated suspension of bank accounts by the Reserve Bank of India for NPA defaults.",
+        "A judicial order restricting cyber-criminals from accessing internet services."
+      ],
+      "correctIndex": 1,
+      "explanation": "Digital arrest is a cyber-scam where fraudsters intimidate victims by posing as police, CBI, or customs officials via video calls, falsely threatening them with arrest to extract money."
+    },
+    {
+      "question": "Consider the following statements regarding Peatlands:\n1. Peatlands store more carbon than all other vegetation types in the world combined.\n2. When peatlands are warmed or drained, they switch from being net carbon sinks to carbon emitters.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Peatlands are the largest terrestrial carbon store on Earth, holding more carbon than world forests. When warmed, degraded, or drained, aerobic decomposition converts them into net carbon emitters."
+    },
+    {
+      "question": "With reference to mycoheterotrophic plants, consider the following statements:\n1. They lack chlorophyll and do not perform photosynthesis.\n2. They derive food and nutrients by parasitizing fungal networks.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mycoheterotrophic plants (like the newly found Thismia daemona) are non-photosynthetic plants that obtain carbon and nutrients entirely through symbiotic or parasitic association with fungi."
+    },
+    {
+      "question": "The 'Glacier Grafting' technique traditionally practiced in Northern Himalayan regions is primarily aimed at:",
+      "options": [
+        "Preventing sudden Glacial Lake Outburst Floods (GLOFs).",
+        "Creating artificial ice reserves to conserve spring meltwater for farming.",
+        "Increasing timber line vegetation in alpine meadows.",
+        "Extracting deep subterranean mineral resources."
+      ],
+      "correctIndex": 1,
+      "explanation": "Glacier grafting (or glacier marriage) is an indigenous technique in mountain regions like Ladakh and Gilgit-Baltistan to build artificial ice masses that melt slowly in spring, providing irrigation water during scarce months."
     }
   ],
   "schemes": [],
-  "mainsEnrichment": [],
+  "mainsEnrichment": [
+    {
+      "topic": "Urban Environmental Management & Vehicular Pollution",
+      "points": [
+        "Frugal Indigenous Innovation: IIT-Delhi's ₹5,000 particulate retrofit device demonstrates how domestic tech innovation can achieve BS-VI emission standards (90% particulate reduction) without forcing immediate fleet scrapping on small commercial operators.",
+        "Cost-Effective Mitigation: Transitioning older commercial transport fleets using retrofitting bridges environmental compliance and economic sustainability for low-income transport workers."
+      ]
+    },
+    {
+      "topic": "Data Integrity in National Income Accounting",
+      "points": [
+        "GVA Methodology Discrepancies: National Accounts Statistics report manufacturing GVA at ₹38.6 lakh crore, whereas survey-based estimates (ASI and ASUSE) show lower output, emphasizing the need to reconcile corporate MCA-21 database inputs with field enterprise surveys."
+      ]
+    }
+  ],
   "whatToRemember": [
-    "Run the GitHub Action once (or wait for 9 AM IST) to replace this placeholder with real content."
+    "UNGA adopted a resolution backing the Equal Earth map projection to correct Mercator area distortions; India voted in favour, US voted against.",
+    "ISRO employee unions requested a clear, written national policy on private sector participation and asset sharing in space operations.",
+    "Union Road Ministry cleared an IIT-Delhi developed ₹5,000 particulate filter retrofit that cuts old diesel vehicle emissions by up to 90%.",
+    "UNEP's 'Limiting Overshoot' report warns against over-relying on future carbon removal technologies instead of making immediate emission cuts.",
+    "CBI conducted nationwide raids across 89 locations against organised 'digital arrest' cybercrime networks under Supreme Court oversight."
   ]
 }
