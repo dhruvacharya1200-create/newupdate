@@ -2,7 +2,7 @@
 import fs from 'fs';
 
 const API_KEY = process.env.GEMINI_API_KEY;
-// Use gemini-1.5-flash for speed and reliability
+// Stable model version
 const MODEL = 'gemini-1.5-flash';
 
 if (!API_KEY) {
@@ -11,10 +11,8 @@ if (!API_KEY) {
 }
 
 // 1. Load and Clean Input
+// 176 articles bahut zyada hain, isliye hum top 80 le rahe hain taaki JSON cut-off na ho.
 const rawData = JSON.parse(fs.readFileSync('raw-articles.json', 'utf8'));
-
-// Limit to top 80 articles to prevent the output from being truncated (cut off)
-// Also trim descriptions to keep the prompt size manageable
 const compactArticles = rawData.articles
   .slice(0, 80) 
   .map((a) => ({
@@ -30,30 +28,29 @@ Your task is to filter the provided news for a serious aspirant.
 
 ## STRICT FILTERING RULES
 - KEEP: GS I (History/Geo), GS II (Polity/IR/Governance), GS III (Economy/Env/Sci-Tech/Security), GS IV (Ethics).
-- DISCARD: Sports, Celebrity, Bollywood, local crime, routine political mud-slinging, or stock market daily ups/downs.
+- DISCARD: Sports, Celebrity, Bollywood, local crime, routine political news, or stock market daily ups/downs.
 - DEDUPLICATE: If multiple sources report the same news, merge them into ONE StoryObject.
 
 ## OUTPUT FORMAT
-Return ONLY a valid JSON object. No markdown, no backticks, no text before or after.
+Return ONLY a valid JSON object. No markdown, no backticks.
 {
-  "frontPage": [], // 5-8 major stories
+  "frontPage": [], 
   "gs1": [], "gs2": [], "gs3": [], "gs4": [],
-  "prelimsRadar": [], // 6-12 facts
-  "quiz": [], // 5 MCQs
+  "prelimsRadar": [], 
+  "quiz": [], 
   "schemes": [],
   "mainsEnrichment": [],
   "whatToRemember": []
 }
 
 ## CRITICAL JSON RULES
-- Use ONLY double quotes for strings.
+- Summaries must be strictly 2 sentences max.
 - Do NOT use literal newlines inside a string; use \\n instead.
-- If you use a quote inside a summary, escape it like this: \\"
-- Ensure every opened " is closed.
-- Summaries must be 2 sentences max to keep the response length within limits.`;
+- If you use a quote inside a summary, escape it like this: \\" `;
 
 async function callGemini() {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
+  // FIXED: Changed v1beta to v1 to avoid 404 error
+  const url = `https://generativelanguage.googleapis.com/v1/models/${MODEL}:generateContent?key=${API_KEY}`;
 
   const res = await fetch(url, {
     method: 'POST',
@@ -70,7 +67,7 @@ async function callGemini() {
       ],
       generationConfig: {
         maxOutputTokens: 8192,
-        temperature: 0.1, // Lower temperature = more stable JSON
+        temperature: 0.1, 
         responseMimeType: 'application/json',
       },
     }),
@@ -87,7 +84,6 @@ async function callGemini() {
 
 function extractJson(text) {
   try {
-    // Locate the boundaries of the JSON object
     const start = text.indexOf('{');
     const end = text.lastIndexOf('}');
     
@@ -97,13 +93,12 @@ function extractJson(text) {
 
     let jsonString = text.substring(start, end + 1);
     
-    // Clean up common AI errors: literal newlines that break JSON
-    // We replace actual line breaks with space or \n literal
+    // Cleaning literal newlines that break JSON parsing
     jsonString = jsonString.replace(/\n/g, ' ').replace(/\r/g, ' ');
 
     return JSON.parse(jsonString);
   } catch (e) {
-    console.error("FAILED TO PARSE JSON. Raw Response Preview:");
+    console.error("FAILED TO PARSE JSON. Raw Response:");
     console.error(text.substring(0, 1000));
     throw e;
   }
@@ -125,6 +120,7 @@ async function main() {
 
     fs.writeFileSync('curated.json', JSON.stringify(output, null, 2));
     console.log('Success: curated.json written.');
+    console.log(`FrontPage: ${output.frontPage.length}, GS2: ${output.gs2.length}, GS3: ${output.gs3.length}`);
   } catch (err) {
     console.error('Curation failed:', err.message);
     process.exit(1);
