@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-05",
+  "updatedAt": "2026-09-05T03:30:00.000Z",
+  "frontPage": [
+    {
+      "headline": "Sample story — run the workflow once to replace this with today's real curated briefing",
+      "sources": [{ "name": "The Hindu", "url": "#" }],
+      "date": "2026-09-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Sample",
+      "summary": "This is placeholder content. Once you run the daily workflow (or wait for the 9 AM automatic run), this will be replaced with real curated UPSC content.",
+      "whyItMatters": "This is a placeholder shown before the first automated run."
+    }
+  ],
+  "gs1": [],
+  "gs2": [],
+  "gs3": [],
+  "gs4": [],
+  "prelimsRadar": [
+    { "fact": "Sample fact", "category": "Terminology", "detail": "Placeholder — replaced after first run." }
+  ],
+  "quiz": [
+    {
+      "question": "Sample question — this will be replaced after the first run",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0,
+      "explanation": "Placeholder explanation."
+    }
+  ],
+  "schemes": [],
+  "mainsEnrichment": [],
+  "whatToRemember": [
+    "Run the GitHub Action once (or wait for 9 AM IST) to replace this placeholder with real content."
+  ]
+}

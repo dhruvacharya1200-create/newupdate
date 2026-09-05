@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Paper — UPSC Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F2EDE1;
+    --card: #FAF7EF;
+    --ink: #1B1B1B;
+    --muted: #6B6355;
+    --navy: #1F3A5F;
+    --maroon: #7A2E2E;
+    --hairline: #D8CFB8;
+    --gs1: #7A5C2E;
+    --gs2: #1F3A5F;
+    --gs3: #2E6B4F;
+    --gs4: #7A2E2E;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: inherit; }
+
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 0 20px 100px; }
+
+  /* ---------- Masthead ---------- */
+  header.masthead { text-align: center; padding: 36px 20px 0; }
+  .kicker { font-size: 13px; letter-spacing: 0.03em; color: var(--maroon); font-weight: 600; }
+  h1.title {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 700;
+    font-size: clamp(38px, 6.5vw, 60px);
+    margin: 6px 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .subline { font-size: 14px; color: var(--muted); margin-bottom: 18px; }
+  hr.rule { border: none; border-top: 3px solid var(--ink); margin: 0; }
+  hr.rule-thin { border: none; border-top: 1px solid var(--hairline); }
+
+  .meta-row {
+    display: flex; justify-content: space-between; align-items: baseline;
+    padding: 10px 0; font-size: 13px; color: var(--muted); flex-wrap: wrap; gap: 8px;
+  }
+  .meta-row .edition { font-weight: 600; color: var(--ink); }
+
+  /* ---------- Time mode ---------- */
+  .timemode {
+    display: flex; align-items: center; gap: 10px; justify-content: center;
+    padding: 18px 0 6px; flex-wrap: wrap;
+  }
+  .timemode span.label { font-size: 13px; color: var(--muted); }
+  .timemode button {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 14px; font-weight: 600;
+    background: var(--card); border: 1px solid var(--hairline); color: var(--ink);
+    padding: 8px 18px; border-radius: 4px; cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  }
+  .timemode button:hover { border-color: var(--navy); }
+  .timemode button.active { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+
+  /* ---------- Section nav ---------- */
+  nav.sections {
+    display: flex; gap: 4px; flex-wrap: wrap; padding: 16px 0 4px;
+    justify-content: center;
+  }
+  nav.sections button {
+    font-family: 'IBM Plex Sans', sans-serif; font-size: 13px; font-weight: 600;
+    background: none; border: 1px solid var(--hairline); color: var(--muted);
+    padding: 6px 14px; border-radius: 999px; cursor: pointer;
+  }
+  nav.sections button:hover { border-color: var(--navy); color: var(--ink); }
+
+  /* ---------- Sections ---------- */
+  section.block { margin-top: 40px; scroll-margin-top: 20px; }
+  section.block.hidden-mode { display: none; }
+  h2.section-title {
+    font-family: 'Source Serif 4', serif; font-weight: 700; font-size: 28px; margin: 0 0 2px;
+  }
+  p.section-sub { font-size: 13px; color: var(--muted); margin: 0 0 16px; }
+
+  /* ---------- Story cards ---------- */
+  .story { padding: 18px 0; border-bottom: 1px solid var(--hairline); }
+  .story:first-of-type { padding-top: 6px; }
+  .story.hidden-importance { display: none; }
+
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+  .tag {
+    font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 3px;
+    border: 1px solid currentColor;
+  }
+  .tag.gs-I { color: var(--gs1); }
+  .tag.gs-II { color: var(--gs2); }
+  .tag.gs-III { color: var(--gs3); }
+  .tag.gs-IV { color: var(--gs4); }
+  .tag.relevance { color: var(--navy); }
+  .tag.importance-High { color: var(--maroon); background: rgba(122,46,46,0.07); }
+  .tag.importance-Medium { color: var(--muted); }
+
+  .story h3.headline {
+    font-family: 'Source Serif 4', serif; font-weight: 600; font-size: 20px;
+    line-height: 1.4; margin: 4px 0 6px;
+  }
+  .story .summary { font-size: 14.5px; line-height: 1.6; margin: 0 0 10px; color: #2A2A2A; }
+  .story .why {
+    font-size: 13.5px; line-height: 1.55; color: var(--navy);
+    background: rgba(31,58,95,0.05); border-left: 3px solid var(--navy);
+    padding: 8px 12px; margin: 0 0 10px;
+  }
+  .story .why b { font-weight: 600; }
+  .story .byline { font-size: 12px; color: var(--muted); display: flex; gap: 10px; flex-wrap: wrap; }
+  .story .byline a { text-decoration: none; color: var(--navy); font-weight: 600; }
+  .story .byline a:hover { text-decoration: underline; }
+  .story .byline .dot { color: var(--hairline); }
+
+  /* ---------- Prelims radar ---------- */
+  .radar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+  .radar-item { background: var(--card); border: 1px solid var(--hairline); border-radius: 4px; padding: 12px 14px; }
+  .radar-item .cat { font-size: 11px; font-weight: 600; color: var(--maroon); margin-bottom: 4px; }
+  .radar-item .fact { font-family: 'Source Serif 4', serif; font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+  .radar-item .detail { font-size: 13px; color: var(--muted); line-height: 1.5; }
+
+  /* ---------- Quiz ---------- */
+  .quiz-item { background: var(--card); border: 1px solid var(--hairline); border-radius: 4px; padding: 18px 20px; margin-bottom: 16px; }
+  .quiz-item .q { font-family: 'Source Serif 4', serif; font-size: 17px; font-weight: 600; margin-bottom: 12px; }
+  .quiz-item .opt {
+    display: block; width: 100%; text-align: left; font-size: 14.5px;
+    background: var(--paper); border: 1px solid var(--hairline); border-radius: 4px;
+    padding: 9px 12px; margin-bottom: 8px; cursor: pointer; font-family: inherit;
+  }
+  .quiz-item .opt:hover { border-color: var(--navy); }
+  .quiz-item .opt.correct { border-color: var(--gs3); background: rgba(46,107,79,0.1); font-weight: 600; }
+  .quiz-item .opt.incorrect { border-color: var(--maroon); background: rgba(122,46,46,0.08); }
+  .quiz-item .reveal-btn {
+    font-size: 13px; font-weight: 600; color: var(--navy); background: none;
+    border: 1px solid var(--navy); border-radius: 4px; padding: 6px 14px; cursor: pointer; margin-top: 6px;
+  }
+  .quiz-item .explanation {
+    display: none; font-size: 13.5px; line-height: 1.55; color: #2A2A2A;
+    margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--hairline);
+  }
+  .quiz-item.revealed .explanation { display: block; }
+
+  /* ---------- Schemes ---------- */
+  .scheme-card { border: 1px solid var(--hairline); border-radius: 4px; padding: 16px 18px; margin-bottom: 14px; background: var(--card); }
+  .scheme-card h3 { font-family: 'Source Serif 4', serif; font-size: 18px; margin: 0 0 4px; }
+  .scheme-card .ministry { font-size: 12.5px; color: var(--maroon); font-weight: 600; margin-bottom: 8px; }
+  .scheme-card dl { display: grid; grid-template-columns: 110px 1fr; gap: 4px 10px; font-size: 13.5px; margin: 0; }
+  .scheme-card dt { color: var(--muted); font-weight: 600; }
+  .scheme-card dd { margin: 0; }
+  .scheme-card ul { margin: 4px 0 0; padding-left: 18px; }
+  .scheme-card .upsc-note {
+    margin-top: 10px; font-size: 13px; color: var(--navy); background: rgba(31,58,95,0.05);
+    border-left: 3px solid var(--navy); padding: 6px 10px;
+  }
+
+  /* ---------- Mains enrichment ---------- */
+  .enrich-item { margin-bottom: 18px; }
+  .enrich-item h3 { font-family: 'Source Serif 4', serif; font-size: 17px; margin: 0 0 6px; }
+  .enrich-item ul { margin: 0; padding-left: 18px; font-size: 14px; line-height: 1.6; }
+
+  /* ---------- What to remember ---------- */
+  .remember-box { background: var(--ink); color: var(--paper); border-radius: 4px; padding: 26px 26px 20px; }
+  .remember-box h2 { font-family: 'Source Serif 4', serif; font-size: 24px; margin: 0 0 14px; color: var(--paper); }
+  .remember-box ul { margin: 0; padding-left: 20px; font-size: 15px; line-height: 1.7; }
+
+  .empty { padding: 16px 0; color: var(--muted); font-style: italic; font-size: 14px; }
+
+  footer {
+    margin-top: 60px; padding-top: 18px; border-top: 1px solid var(--hairline);
+    font-size: 12.5px; color: var(--muted); text-align: center; line-height: 1.7;
+  }
+  footer code { background: var(--card); padding: 2px 6px; border-radius: 4px; }
+
+  @media (max-width: 560px) {
+    header.masthead { padding-top: 26px; }
+    .meta-row { flex-direction: column; align-items: flex-start; }
+    .scheme-card dl { grid-template-columns: 90px 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="kicker">Your daily GS I–IV briefing, curated</div>
+  <h1 class="title">The Daily Paper</h1>
+  <div class="subline">The Hindu · PIB · Times of India — filtered for UPSC relevance only</div>
+</header>
+
+<div class="wrap">
+  <hr class="rule">
+  <div class="meta-row">
+    <span class="edition" id="edition">—</span>
+    <span id="status">Loading today's briefing…</span>
+  </div>
+  <hr class="rule-thin">
+
+  <div class="timemode">
+    <span class="label">I have</span>
+    <button data-mode="15">15 minutes</button>
+    <button data-mode="30">30 minutes</button>
+    <button data-mode="60" class="active">60 minutes</button>
+  </div>
+
+  <nav class="sections" id="sectionNav"></nav>
+
+  <main id="content"></main>
+
+  <footer>
+    Curated automatically each morning from The Hindu, PIB, and Times of India · duplicate stories across sources are merged<br>
+    Schedule lives in <code>.github/workflows/update-upsc.yml</code> · curation logic in <code>curate.mjs</code>
+  </footer>
+</div>
+
+<script>
+  let DATA = null;
+  let timeMode = 60;
+
+  const SECTION_META = [
+    { key: 'frontPage', label: "Today's Front Page", sub: "The 5–8 most important UPSC stories of the day", modes: [15, 30, 60] },
+    { key: 'gs1', label: 'GS I', sub: 'History, Art & Culture, Geography, Society', modes: [30, 60] },
+    { key: 'gs2', label: 'GS II', sub: 'Polity, Constitution, Governance, Social Justice, International Relations', modes: [30, 60] },
+    { key: 'gs3', label: 'GS III', sub: 'Economy, Agriculture, Environment, Disaster Management, Internal Security, Science & Tech', modes: [30, 60] },
+    { key: 'gs4', label: 'GS IV', sub: 'Ethics, governance-related ethical issues, case studies', modes: [30, 60] },
+    { key: 'prelimsRadar', label: 'Prelims Radar', sub: 'Facts, places, species, orgs, reports, indices, schemes, terms, personalities', modes: [30, 60] },
+    { key: 'quiz', label: 'Daily Quiz', sub: "UPSC-style questions from this week's news", modes: [60] },
+    { key: 'schemes', label: 'Schemes Tracker', sub: 'Government schemes in recent news', modes: [60] },
+    { key: 'mainsEnrichment', label: 'Mains Enrichment', sub: 'Data, judgments, reports, and examples to strengthen answers', modes: [60] },
+    { key: 'whatToRemember', label: 'What I Should Remember', sub: "Today's must-remember takeaways", modes: [15, 30, 60] },
+  ];
+
+  function escapeHtml(str) {
+    return String(str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function gsClass(gsPaper) {
+    if (!gsPaper) return '';
+    if (gsPaper.includes('IV')) return 'gs-IV';
+    if (gsPaper.includes('III')) return 'gs-III';
+    if (gsPaper.includes('II')) return 'gs-II';
+    return 'gs-I';
+  }
+
+  function renderStory(story) {
+    const sourcesHtml = (story.sources || []).map((s, i) =>
+      `${i > 0 ? '<span class="dot">·</span>' : ''}<a href="${s.url || '#'}" target="_blank" rel="noopener noreferrer">${escapeHtml(s.name)}</a>`
+    ).join('');
+
+    return `
+    <div class="story" data-importance="${story.importance || 'Medium'}">
+      <div class="tags">
+        <span class="tag ${gsClass(story.gsPaper)}">${escapeHtml(story.gsPaper || '')}</span>
+        <span class="tag relevance">${escapeHtml(story.relevance || '')}</span>
+        <span class="tag importance-${story.importance || 'Medium'}">${escapeHtml(story.importance || '')} priority</span>
+        ${story.topic ? `<span class="tag" style="color:var(--muted);">${escapeHtml(story.topic)}</span>` : ''}
+      </div>
+      <h3 class="headline">${escapeHtml(story.headline)}</h3>
+      ${story.summary ? `<p class="summary">${escapeHtml(story.summary)}</p>` : ''}
+      ${story.whyItMatters ? `<div class="why"><b>Why it matters:</b> ${escapeHtml(story.whyItMatters)}</div>` : ''}
+      <div class="byline">
+        ${sourcesHtml}
+        <span class="dot">·</span><span>${escapeHtml(story.date || '')}</span>
+      </div>
+    </div>`;
+  }
+
+  function renderStorySection(key, items) {
+    if (!items || items.length === 0) return '<div class="empty">No stories in this section today.</div>';
+    return items.map(renderStory).join('');
+  }
+
+  function renderPrelimsRadar(items) {
+    if (!items || items.length === 0) return '<div class="empty">Nothing flagged today.</div>';
+    return `<div class="radar-grid">${items.map(f => `
+      <div class="radar-item">
+        <div class="cat">${escapeHtml(f.category || '')}</div>
+        <div class="fact">${escapeHtml(f.fact)}</div>
+        <div class="detail">${escapeHtml(f.detail || '')}</div>
+      </div>`).join('')}</div>`;
+  }
+
+  function renderQuiz(items) {
+    if (!items || items.length === 0) return '<div class="empty">No quiz today.</div>';
+    return items.map((q, qi) => `
+      <div class="quiz-item" id="quiz-${qi}">
+        <div class="q">${qi + 1}. ${escapeHtml(q.question)}</div>
+        ${(q.options || []).map((opt, oi) => `
+          <button class="opt" data-qi="${qi}" data-oi="${oi}">${String.fromCharCode(65 + oi)}. ${escapeHtml(opt)}</button>
+        `).join('')}
+        <br>
+        <button class="reveal-btn" data-qi="${qi}">Reveal answer</button>
+        <div class="explanation">${escapeHtml(q.explanation || '')}</div>
+      </div>
+    `).join('');
+  }
+
+  function renderSchemes(items) {
+    if (!items || items.length === 0) return '<div class="empty">No schemes in the news today.</div>';
+    return items.map(s => `
+      <div class="scheme-card">
+        <h3>${escapeHtml(s.name)}</h3>
+        <div class="ministry">${escapeHtml(s.ministry || '')}</div>
+        <dl>
+          <dt>Beneficiaries</dt><dd>${escapeHtml(s.beneficiaries || '—')}</dd>
+          <dt>Objective</dt><dd>${escapeHtml(s.objective || '—')}</dd>
+          ${s.funding ? `<dt>Funding</dt><dd>${escapeHtml(s.funding)}</dd>` : ''}
+        </dl>
+        ${s.keyFeatures && s.keyFeatures.length ? `<ul>${s.keyFeatures.map(f => `<li>${escapeHtml(f)}</li>`).join('')}</ul>` : ''}
+        ${s.upscRelevance ? `<div class="upsc-note"><b>UPSC relevance:</b> ${escapeHtml(s.upscRelevance)}</div>` : ''}
+      </div>
+    `).join('');
+  }
+
+  function renderMainsEnrichment(items) {
+    if (!items || items.length === 0) return '<div class="empty">Nothing added today.</div>';
+    return items.map(e => `
+      <div class="enrich-item">
+        <h3>${escapeHtml(e.topic)}</h3>
+        <ul>${(e.points || []).map(p => `<li>${escapeHtml(p)}</li>`).join('')}</ul>
+      </div>
+    `).join('');
+  }
+
+  function renderWhatToRemember(items) {
+    if (!items || items.length === 0) return '';
+    return `<div class="remember-box"><h2>What I should remember today</h2><ul>${items.map(i => `<li>${escapeHtml(i)}</li>`).join('')}</ul></div>`;
+  }
+
+  function renderAll() {
+    const contentEl = document.getElementById('content');
+    const navEl = document.getElementById('sectionNav');
+    contentEl.innerHTML = '';
+    navEl.innerHTML = '';
+
+    SECTION_META.forEach(meta => {
+      const visible = meta.modes.includes(timeMode);
+      if (!visible) return;
+
+      const navBtn = document.createElement('button');
+      navBtn.textContent = meta.label;
+      navBtn.addEventListener('click', () => {
+        document.getElementById('sec-' + meta.key).scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+      navEl.appendChild(navBtn);
+
+      const block = document.createElement('section');
+      block.className = 'block';
+      block.id = 'sec-' + meta.key;
+
+      let inner = '';
+      const data = DATA[meta.key];
+
+      if (meta.key === 'prelimsRadar') inner = renderPrelimsRadar(data);
+      else if (meta.key === 'quiz') inner = renderQuiz(data);
+      else if (meta.key === 'schemes') inner = renderSchemes(data);
+      else if (meta.key === 'mainsEnrichment') inner = renderMainsEnrichment(data);
+      else if (meta.key === 'whatToRemember') { block.innerHTML = renderWhatToRemember(data); contentEl.appendChild(block); return; }
+      else inner = renderStorySection(meta.key, data);
+
+      block.innerHTML = `<h2 class="section-title">${meta.label}</h2><p class="section-sub">${meta.sub}</p>${inner}`;
+      contentEl.appendChild(block);
+    });
+
+    // In 30-minute mode, only show High-importance stories within GS sections
+    if (timeMode === 30) {
+      document.querySelectorAll('#sec-gs1 .story, #sec-gs2 .story, #sec-gs3 .story, #sec-gs4 .story').forEach(el => {
+        if (el.dataset.importance !== 'High') el.classList.add('hidden-importance');
+      });
+    }
+
+    attachQuizHandlers();
+  }
+
+  function attachQuizHandlers() {
+    document.querySelectorAll('.quiz-item .opt').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const qi = btn.dataset.qi;
+        const q = DATA.quiz[qi];
+        document.querySelectorAll(`.opt[data-qi="${qi}"]`).forEach(o => {
+          o.classList.remove('correct', 'incorrect');
+          const oi = parseInt(o.dataset.oi, 10);
+          if (oi === q.correctIndex) o.classList.add('correct');
+          else if (o === btn) o.classList.add('incorrect');
+        });
+        document.getElementById('quiz-' + qi).classList.add('revealed');
+      });
+    });
+    document.querySelectorAll('.reveal-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.getElementById('quiz-' + btn.dataset.qi).classList.add('revealed');
+      });
+    });
+  }
+
+  document.querySelectorAll('.timemode button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.timemode button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      timeMode = parseInt(btn.dataset.mode, 10);
+      renderAll();
+    });
+  });
+
+  async function load() {
+    try {
+      const res = await fetch('curated.json?ts=' + Date.now());
+      DATA = await res.json();
+
+      const updated = new Date(DATA.updatedAt);
+      document.getElementById('edition').textContent = updated.toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric' });
+      document.getElementById('status').textContent = 'Updated ' + updated.toLocaleString('en-IN', { hour: '2-digit', minute: '2-digit' });
+
+      renderAll();
+    } catch (err) {
+      document.getElementById('status').textContent = 'Could not load curated.json — is it in the same folder as this page?';
+      console.error(err);
+    }
+  }
+
+  load();
+</script>
+
+</body>
+</html>
