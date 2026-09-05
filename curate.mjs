@@ -10,7 +10,7 @@ import fs from 'fs';
 // Uses Google Gemini's free tier (no credit card needed) by default.
 // Get a key at https://aistudio.google.com/apikey
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = 'gemini-2.0-flash';
+const MODEL ='gemini-3.6-flash';
 
 if (!API_KEY) {
   console.error('GEMINI_API_KEY is not set. Add it as a repo secret (see README).');
