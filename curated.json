@@ -1,41 +1,151 @@
 {
-  "date": "2026-09-06",
-  "updatedAt": "2026-09-06T03:41:17.579Z",
+  "date": "2026-09-07",
+  "updatedAt": "2026-09-07T03:43:38.346Z",
   "frontPage": [
     {
-      "headline": "China Advances Brahmaputra Mega-Dam Project Amid Downstream Concerns and Himalayan Climate Disasters",
+      "headline": "Tribal Affairs Ministry Clarifies Forest Rights Act Does Not Mandate Gram Sabha Consent for Projects",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/china-to-proceed-with-brahmaputra-mega-dam-despite-new-concerns/article71432282.ece"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Transboundary Water Governance & Disaster Management",
-      "summary": "China has confirmed it will proceed with its massive hydropower dam on the Yarlung Zangbo (Brahmaputra) river in Tibet, including it in its 15th Five-Year Plan. The move escalates downstream flood and ecological security risks for India and Bangladesh, especially following recent catastrophic flash floods in the Himalayan region.",
-      "whyItMatters": "Crucial for GS-II (India and its neighborhood relations) and GS-III (disaster risk reduction and transboundary river management). Highlights water hegemony challenges in South Asia and the absence of a formal bilateral water-sharing treaty between India and China."
-    },
-    {
-      "headline": "Bihar Withdraws General Consent to CBI for Probing State Employees",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/bihar/bihar-govt-restricts-cbi-power-state-nod-mandatory-to-probe-against-its-employees/article71431967.ece"
+          "url": "https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece"
         }
       ],
       "date": "2026-09-06",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Federal Structure and Statutory Bodies",
-      "summary": "The Bihar government has mandated prior state sanction for the Central Bureau of Investigation (CBI) to investigate state public servants, effectively restricting general consent under Section 6 of the DSPE Act. However, investigations involving Central government employees remain exempt from this requirement.",
-      "whyItMatters": "Directly impacts GS-II topics on Centre-State administrative relations, federal friction, the constitutional framework of Delhi Special Police Establishment Act (DSPE), and the autonomy of central investigative agencies."
+      "topic": "Government Policies & Interventions",
+      "summary": "The Ministry of Tribal Affairs informed the Power Ministry that the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 contains no statutory clause mandating Gram Sabha consent for infrastructure projects. The ministry further stated that issues concerning project clearances in forest areas fall outside its official jurisdiction.",
+      "whyItMatters": "This clarification impacts environmental clearances, tribal rights governance, and corporate project execution in forest regions, directly touching upon the fragile balance between environmental regulation and developmental imperatives under GS II and GS III."
     },
     {
-      "headline": "BRICS Pushes for Alternative Cross-Border Payment Systems to Reduce Dollar Dependency",
+      "headline": "UN General Assembly Adopts Equal Earth Map Resolution to Correct Historical Cartographic Bias",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/india-163-others-vote-at-unga-for-map-with-bigger-africa-shrunk-n-america/articleshow/133855185.cms"
+        }
+      ],
+      "date": "2026-09-07",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Geography & International Organizations",
+      "summary": "The United Nations General Assembly passed a resolution supporting the adoption of equal-area map projections, such as the Equal Earth map, replacing the traditional 16th-century Mercator projection which distorts landmass sizes near the poles. India backed the move while stipulating that UN maps must accurately reflect national territorial boundaries.",
+      "whyItMatters": "Map projections influence global perception and geographic education; understanding equal-area projections versus conformal projections like Mercator is a classic UPSC Geography concept."
+    },
+    {
+      "headline": "IN-SPACe Clarifies ISRO Role Amid Privatization Concerns in Space Sector",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/isro-staff-bodies-seek-clarification-on-the-trajectory-of-privatisation/article71434745.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms"
+        }
+      ],
+      "date": "2026-09-07",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology",
+      "summary": "Addressing concerns raised by ISRO employee unions regarding sector privatization, the Chairman of IN-SPACe reaffirmed that the national space agency will not be privatized or diminished. Instead, ISRO will focus on advanced R&D, strategic missions, and guiding private sector participation via IN-SPACe.",
+      "whyItMatters": "Understanding the division of responsibilities between ISRO, IN-SPACe, and NewSpace India Limited (NSIL) is essential for GS III Space Policy topics."
+    },
+    {
+      "headline": "India Co-sponsors UN Resolution Declaring International Day Against Child Marriage",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/india-co-sponsors-unga-resolution-to-declare-november-27-day-against-child-marriage/article71434559.ece"
+        }
+      ],
+      "date": "2026-09-06",
+      "gsPaper": "GS II",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Social Justice & International Treaties",
+      "summary": "India co-sponsored a resolution adopted by the UN General Assembly designating November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. The initiative seeks to strengthen global commitment to protecting the rights of young girls.",
+      "whyItMatters": "Directly links to SDG 5 (Gender Equality) and India's social justice initiatives targeting child rights and female education."
+    },
+    {
+      "headline": "Environment Ministry Advocates Vulture Safe Zones to Accelerate Population Recovery",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/india-intensifies-efforts-for-vulture-conservation-bhupender-yadav-calls-for-creating-vulture-safe-zones/articleshow/133839234.cms"
+        }
+      ],
+      "date": "2026-09-06",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Biodiversity & Conservation",
+      "summary": "Union Minister for Environment, Forest and Climate Change Bhupender Yadav called for expanding 'Vulture Safe Zones' across critical habitats to mitigate toxicity risks from veterinary NSAIDs like diclofenac, aceclofenac, and ketoprofen. The strategy emphasizes targeted breeding programmes and public awareness among livestock farmers.",
+      "whyItMatters": "Vulture species in India (e.g., Gyps bengalensis) are critically endangered; conservation measures and drug bans are high-frequency topics in UPSC Prelims and GS III Environment."
+    }
+  ],
+  "gs1": [
+    {
+      "headline": "UNGA Resolution Replaces Mercator Map Projection with Equal-Area Maps in Global Standards",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/whats-the-issue-with-the-way-africa-is-shown-on-maps-explained/article69963529.ece"
+        }
+      ],
+      "date": "2026-09-06",
+      "gsPaper": "GS I",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Physical & World Geography",
+      "summary": "Cartographers and scientists highlighted the technical limitations of the 1569 Mercator projection, which preserves shapes for navigation but severely inflates landmasses near high latitudes while shrinking tropical regions like Africa and South America. Equal-area alternatives, such as the Gall-Peters and Equal Earth projections, present true relative surface proportions.",
+      "whyItMatters": "Combines fundamental physical geography (cartographic projections, scale distortions) with social geography and post-colonial perceptions."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Union Ministry Clarifies Legal Stand on Gram Sabha Powers under Forest Rights Act",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece"
+        }
+      ],
+      "date": "2026-09-06",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Statutory Bodies & Social Justice",
+      "summary": "The Ministry of Tribal Affairs informed government bodies that the Forest Rights Act (FRA), 2006 does not explicitly mandate obtaining Gram Sabha consent for infrastructure development projects in forest lands. The statutory framework focuses on recognizing individual and community forest rights rather than executive project approvals.",
+      "whyItMatters": "Gram Sabha consent is a central issue in judicial interpretations of FRA 2006 and PESA 1996; this executive interpretation holds significance for GS II governance topics."
+    },
+    {
+      "headline": "India-France Strategic Ties Highlight Innovation and Cultural Exchange",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-france-relations-have-reached-new-heights-pm-modi/article71436431.ece"
+        }
+      ],
+      "date": "2026-09-07",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Bilateral Relations",
+      "summary": "Marking the ongoing 'India-France Year of Innovation 2026', leaders from both nations emphasized expanding strategic partnerships into new technologies, defence co-development, and cultural ties. The collaboration underlines France's position as a key partner for India in Western Europe.",
+      "whyItMatters": "India-France bilateral mechanisms and defence/tech partnerships are core to GS II International Relations."
+    }
+  ],
+  "gs3": [
+    {
+      "headline": "BRICS Nations Examine Mechanisms for Sovereign Cross-Border Payment Systems",
       "sources": [
         {
           "name": "The Hindu",
@@ -43,239 +153,143 @@
         }
       ],
       "date": "2026-09-06",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Financial Architecture & Global Groupings",
-      "summary": "BRICS nations are actively evaluating independent cross-border payment mechanisms and local currency settlement networks to bypass SWIFT and reduce vulnerability to Western economic sanctions. India is advocating for interoperability between national instant payment systems like UPI alongside local currency trade settlement.",
-      "whyItMatters": "Directly links to GS-II (BRICS and global geopolitics) and GS-III (External sector, de-dollarization, and financial technology infrastructure)."
-    },
-    {
-      "headline": "Coal Stock Depletion Triggers Inventory Management Challenges Across Thermal Power Sector",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/coal-stock-management-emerges-as-key-challenge-for-thermal-power-producers/article71369117.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cil-offers-extra-fuel-57-plants-now-report-critically-low-stock/articleshow/133814003.cms"
-        }
-      ],
-      "date": "2026-09-06",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Energy Infrastructure & Supply Chain Management",
-      "summary": "Over 50 thermal power plants in India have reported critically low coal inventory levels following monsoon-induced supply chain slowdowns. While Coal India Limited (CIL) has boosted daily production to 1.7 million tonnes, the situation highlights systemic gaps in fuel supply agreement (FSA) compliance and power plant inventory norms.",
-      "whyItMatters": "Essential for GS-III (Energy security, infrastructure bottlenecks, and power sector stability). Examines operational challenges in balancing base-load coal power during peak seasonal demands."
+      "topic": "Indian Economy & International Trade",
+      "summary": "BRICS member countries are exploring independent cross-border messaging and settlement frameworks to reduce reliance on SWIFT and US dollar transactions. India has advocated for leveraging interconnected national fast-payment systems, such as UPI, alongside local currency trade invoicing.",
+      "whyItMatters": "Crucial for understanding de-dollarization, cross-border financial architecture, and internationalization of the Indian Rupee."
     },
     {
-      "headline": "Government Approves IIT-Delhi Retrofit Device to Reduce Old Diesel Vehicle Emissions by 90%",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/gadkari-says-govt-will-allow-rs-5000-iit-delhi-innovation-to-be-retrofitted-for-old-diesel-trucks-and-buses-device-can-cut-particulate-pollution-up-to-90-and-bring-emissions-on-par-with-bs-vi/articleshow/133756610.cms"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Environmental Pollution & Technological Innovations",
-      "summary": "The Ministry of Road Transport and Highways has sanctioned the commercial retrofitting of a low-cost filter device developed by IIT-Delhi for older BS-III and BS-IV commercial diesel vehicles. The system captures up to 90% of particulate matter emissions, bringing older engines close to BS-VI emission performance standards.",
-      "whyItMatters": "Relevant for GS-III (Environmental technology, air pollution mitigation, and indigenous technological innovation). Offers an affordable transition solution for heavy commercial transport emission control."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "UN General Assembly Adopts Resolution Endorsing Equal Earth Map Projection to Correct Mercator Distortion",
+      "headline": "Assessing the Structural Efficacy of Inflation Targeting in the Indian Economy",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "World Geography & Cartography",
-      "summary": "The United Nations General Assembly supported an initiative to adopt equal-area map projections, such as the Equal Earth projection, replacing the traditional 16th-century Mercator map. The resolution emphasizes accurate geographic representation, correct land-area proportions, and removing cartographic distortions that underrepresent the African continent.",
-      "whyItMatters": "Connects to GS-I geography concepts regarding map projections, spatial representation, and historical cartographic biases."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Eight High Court Judges Appointed as Chief Justices in Major Judicial Reshuffle",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/eight-high-court-judges-appointed-as-chief-justices/article71433268.ece"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS II",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Structure, Organization and Functioning of Judiciary",
-      "summary": "The Union Ministry of Law and Justice notified the appointment of eight High Court judges as Chief Justices across various state High Courts following recommendations from the Supreme Court Collegium.",
-      "whyItMatters": "Relates to GS-II constitutional provisions regarding appointment of High Court Chief Justices under Article 217 and the Collegium mechanism."
-    },
-    {
-      "headline": "Nepal Demands Climate Loss and Damage Compensation Following Glacial Collapse",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/nepal-wants-climate-compensation-putting-major-emitters-on-the-hook/article71428646.ece"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS II & III",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "International Environmental Governance & Climate Justice",
-      "summary": "Following catastrophic glacial lake outburst floods that caused massive casualties, Nepal has called upon global major emitters to honor climate loss and damage compensation. The nation advocates shifting the global climate framework from voluntary adaptation aid to actionable liability and global climate liability rules.",
-      "whyItMatters": "Important for GS-II (International organizations/agreements) and GS-III (Climate change liability, Loss and Damage Fund, Common But Differentiated Responsibilities)."
-    }
-  ],
-  "gs3": [
-    {
-      "headline": "India Considers Acquisition of Javelin Anti-Tank Guided Missiles for Infantry Capabilities",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/javelin-an-icon-of-modern-warfare/article71433164.ece"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Defense Technology & Security Capabilities",
-      "summary": "India is evaluating the procurement and co-production of the fire-and-forget Javelin Anti-Tank Guided Missile (ATGM) system from the U.S. to enhance infantry combat readiness along border zones.",
-      "whyItMatters": "Relevant for GS-III security topics covering defense procurement, transfer of defense technology, and modern anti-armor warfare systems."
-    },
-    {
-      "headline": "UNEP Report Warns Against Long-Term reliance on Climate Overshoot Scenarios",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/warning-on-warming-on-the-unep-report-limiting-overshoot/article71428123.ece"
+          "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece"
         }
       ],
       "date": "2026-09-06",
       "gsPaper": "GS III",
       "relevance": "Mains",
       "importance": "High",
-      "topic": "Conservation, Environmental Pollution and Degradation",
-      "summary": "The UNEP report titled 'Limiting Overshoot' cautions against assuming that global temperatures can temporarily exceed the 1.5°C Paris target and later be reversed using speculative Carbon Dioxide Removal (CDR) technologies. It emphasizes immediate near-term deep emission reductions.",
-      "whyItMatters": "Provides analytical material for GS-III essays and answers on climate change mitigation, risk of carbon overshoot, and carbon capture limits."
+      "topic": "Monetary Policy & Economy",
+      "summary": "Economic analysis suggests that India's Phillips curve remains relatively flat, meaning strict monetary tightening to curb cost-push supply-shock inflation can suppress output and employment without rapidly taming household inflation expectations.",
+      "whyItMatters": "The Flexible Inflation Targeting (FIT) framework under the RBI Act is a recurring debate in UPSC GS III Macroeconomics."
+    },
+    {
+      "headline": "Glacial Hazards in the Himalayas: Analysis of Rapid Avalanches and Flash Floods",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/videos/how-a-mountain-collapse-triggered-nepals-deadly-flood-in-just-7-minutes-the-climate-economy/article71434691.ece"
+        }
+      ],
+      "date": "2026-09-06",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Disaster Management & Climate Change",
+      "summary": "Scientists analyzing a catastrophic flash flood along the Nepal-Tibet border revealed how a sudden ice-rock avalanche caused mountain collapse, triggering devastating downstream surge flows in under ten minutes. The event highlights increasing vulnerability in high-altitude Himalayan catchments due to climate thermal shifts.",
+      "whyItMatters": "Himalayan disaster dynamics, Glacial Lake Outburst Floods (GLOFs), and early warning challenges are vital GS III Disaster Management topics."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Anak Krakatau Volcano",
-      "category": "Places",
-      "detail": "Volcanic island located in the Sunda Strait between Java and Sumatra, Indonesia; recently erupted causing flight disruptions."
-    },
-    {
-      "fact": "Section 6 of DSPE Act, 1946",
+      "fact": "Equal Earth Map Projection",
       "category": "Terminology",
-      "detail": "Requires the CBI to obtain consent from the respective state government before exercising powers and jurisdiction within state territory."
+      "detail": "An equal-area pseudocylindrical map projection created in 2018 to visually represent continents in accurate proportion to their actual relative surface area, avoiding poleward distortion."
     },
     {
-      "fact": "Equal Earth Projection",
-      "category": "Terminology",
-      "detail": "An equal-area pseudocylindrical map projection designed in 2018 to visually depict true relative continent sizes without polar area inflation."
+      "fact": "Vulture Safe Zones (VSZs)",
+      "category": "Schemes",
+      "detail": "Geographic zones designated within a 100-km radius around key vulture breeding colonies where non-steroidal anti-inflammatory drugs (NSAIDs) toxic to vultures are completely excluded from veterinary use."
     },
     {
-      "fact": "Thismia daemona",
-      "category": "Species",
-      "detail": "A newly discovered achlorophyllous mycoheterotrophic flowering plant species in Thailand's Thong Pha Phum National Park that lacks leaves and derives energy via soil fungi."
-    },
-    {
-      "fact": "International Day for Elimination of Child Marriage",
+      "fact": "IN-SPACe (Indian National Space Promotion and Authorization Centre)",
       "category": "Organizations",
-      "detail": "Declared by the United Nations General Assembly to be observed annually on November 27 to promote child rights and gender equality."
+      "detail": "An autonomous single-window nodal agency under the Department of Space that permits and regulates private space activities and facilitates infrastructure sharing with ISRO."
     },
     {
-      "fact": "Kharg Island",
+      "fact": "International Day for the Elimination of Child, Early and Forced Marriage",
+      "category": "Terminology",
+      "detail": "Declared by the UN General Assembly to be observed annually on November 27 to generate momentum toward ending child marriages globally."
+    },
+    {
+      "fact": "Anak Krakatau",
       "category": "Places",
-      "detail": "A strategic continental shelf island in the Persian Gulf owned by Iran, acting as its primary crude oil export terminal."
+      "detail": "An active volcanic island situated in the Sunda Strait between Java and Sumatra in Indonesia, formed following the historic 1883 eruption of Krakatoa."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the Delhi Special Police Establishment (DSPE) Act, 1946, consider the following statements:\n1. The Central Bureau of Investigation (CBI) derives its investigative powers from the DSPE Act.\n2. State governments can grant general consent allowing the CBI to operate seamlessly within their jurisdiction.\n3. Withdrawal of general consent by a state prevents the CBI from investigating central government employees stationed in that state.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding map projections, consider the following statements:\n1. The Mercator projection preserves the shapes of landmasses but distorts their relative sizes toward the poles.\n2. The Equal Earth projection is an equal-area map projection that retains the true relative size of continents.\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 and 3 only",
-        "1, 2 and 3"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
-      "correctIndex": 0,
-      "explanation": "Statements 1 and 2 are correct. Under Section 6 of the DSPE Act, state consent is mandatory. Withdrawal of general consent forces CBI to seek case-by-case approval for state jurisdiction, but state consent rules do not restrict CBI's jurisdiction over Central Government employees or central matters."
+      "correctIndex": 2,
+      "explanation": "Both statements are correct. The 16th-century Mercator map is conformal (preserves angles/shapes) but severely inflates high-latitude regions, whereas the Equal Earth projection maintains accurate proportional areas across all latitudes."
     },
     {
-      "question": "Which map projection preserves the relative aerial size of landmasses without the extreme polar enlargement seen in the traditional Mercator projection?",
+      "question": "Which of the following veterinary drugs has been primarily banned in India due to severe renal failure in vulture populations?",
       "options": [
-        "Mercator Projection",
-        "Equal Earth Projection",
-        "Equidistant Cylindrical Projection",
-        "Stereographic Projection"
+        "Diclofenac",
+        "Paracetamol",
+        "Amoxicillin",
+        "Ivermectin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diclofenac administered to cattle causes visceral gout and acute kidney failure in vultures feeding on carcasses, leading to a collapse in their populations."
+    },
+    {
+      "question": "With reference to space sector governance in India, what is the main mandate of IN-SPACe?",
+      "options": [
+        "To execute deep-space military missions for defence forces.",
+        "To serve as a single-window regulatory and promotional body for private space endeavors.",
+        "To operate commercial satellite launches on behalf of international customers exclusively.",
+        "To conduct planetary exploration missions independently of ISRO."
       ],
       "correctIndex": 1,
-      "explanation": "The Equal Earth projection is an equal-area map projection created to show the relative true size of continents, whereas the Mercator projection distorts land areas increasingly towards the poles."
-    },
-    {
-      "question": "Consider the following statements regarding the Yarlung Zangbo / Brahmaputra River:\n1. It originates from the Angsi Glacier in western Tibet.\n2. It forms the world's deepest canyon, the Great Bend, before entering India through Arunachal Pradesh.\n3. India and China have signed a comprehensive multilateral water-sharing treaty governing the river basin.\nWhich of the statements given above is/are correct?",
-      "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 only",
-        "1, 2 and 3"
-      ],
-      "correctIndex": 0,
-      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because there is no formal water-sharing treaty between India and China; only operational MOUs exist for sharing hydrological data during flood seasons."
+      "explanation": "IN-SPACe acts as the single-window nodal agency to authorize, facilitate, and promote private sector space activities in India."
     }
   ],
   "schemes": [
     {
-      "name": "Coal Gasification Incentive Scheme",
-      "ministry": "Ministry of Coal",
-      "beneficiaries": "Public Sector Undertakings (PSUs) and Private Sector Power/Chemical entities",
-      "objective": "Promote coal gasification projects to produce syngas, chemicals, and fertilizers, reducing reliance on natural gas imports.",
+      "name": "Action Plan for Vulture Conservation in India (2020-2025)",
+      "ministry": "Ministry of Environment, Forest and Climate Change",
+      "beneficiaries": "Critically endangered vulture species (Gyps bengalensis, Gyps indicus, Gyps tenuirostris, Sarcogyps calvus) and ecosystem food chains.",
+      "objective": "To prevent extinction and rehabilitate native vulture populations across India through safety measures, bans on toxic drugs, and conservation breeding.",
       "keyFeatures": [
-        "Financial support provided through targeted outlay categories for both PSUs and private entities.",
-        "Aims to achieve 100 MT coal gasification target by 2030."
+        "Establishment of Vulture Safe Zones in key habitats.",
+        "Safety testing of non-steroidal anti-inflammatory drugs (NSAIDs) before veterinary release.",
+        "Expansion of Vulture Conservation Breeding Centres (VCBCs) managed by BNHS and state forest departments."
       ],
-      "funding": "Government capital support and financial incentive model",
-      "upscRelevance": "GS-III Energy transition, clean coal technology, and industrial raw material diversification."
+      "funding": "Centrally sponsored scheme component under Development of Wildlife Habitats.",
+      "upscRelevance": "High relevance for GS III Environment & Biodiversity questions on species recovery programmes."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Centre-State Administrative Relations & Federal Governance",
+      "topic": "Monetary Policy and Inflation Targeting",
       "points": [
-        "Section 6 of DSPE Act 1946 requirement highlights jurisdictional friction between national anti-corruption bodies and state police powers.",
-        "Over 9 states have intermittently revoked general consent to CBI, underlining the urgent need for a dedicated, constitutional national investigative law."
+        "Structural limitation: India's Phillips curve is relatively flat, meaning monetary policy tightening primarily constrains real output and employment before significantly suppressing supply-side food/energy inflation."
       ]
     },
     {
-      "topic": "Climate Risk, Adaptation & Loss/Damage",
+      "topic": "Forest Governance & Tribal Rights",
       "points": [
-        "Glacial melt and GLOF hazards in the Trans-Himalayas demonstrate the inadequacy of traditional disaster management frameworks against climate-induced extreme events.",
-        "Developing nations are shifting discourse from climate aid to legally binding loss and damage compensation protocols under international law."
+        "Tribal Affairs Ministry clarification: The Forest Rights Act, 2006 focuses on title recognition; statutory provisions requiring 100% Gram Sabha consent for infrastructure projects are governed under specific environmental impact assessment rules rather than the FRA statute itself."
       ]
     }
   ],
   "whatToRemember": [
-    "China's mega-dam on Yarlung Zangbo is officially integrated into its 15th Five-Year Plan, escalating downstream risks for India.",
-    "Section 6 of the DSPE Act mandates state consent for CBI investigations; Bihar has restricted general consent for state employees.",
-    "BRICS is exploring local currency cross-border clearing systems to reduce dependence on SWIFT and US Dollar settlement.",
-    "The UN General Assembly endorsed equal-area map projections (Equal Earth) to correct cartographic land area distortions.",
-    "Thermal power plants face critical operational bottlenecks when coal stocks dip below prescribed normative levels during seasonal shocks."
+    "UN General Assembly passed a resolution supporting equal-area maps like the Equal Earth projection to eliminate cartographic distortion of tropical regions like Africa.",
+    "Ministry of Tribal Affairs stated that FRA 2006 lacks a statutory provision requiring Gram Sabha consent for developmental projects in forests.",
+    "IN-SPACe reaffirmed ISRO's role as the central research bedrock while private firms scale commercial operations.",
+    "Environment Ministry urges setting up 100-km radius Vulture Safe Zones around key habitats to ban toxic veterinary NSAIDs.",
+    "India co-sponsored the UN resolution establishing November 27 as the International Day for the Elimination of Child Marriage."
   ]
 }
