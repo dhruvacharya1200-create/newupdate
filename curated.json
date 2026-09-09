@@ -1,295 +1,362 @@
 {
-  "date": "2026-09-07",
-  "updatedAt": "2026-09-07T03:43:38.346Z",
+  "date": "2026-09-09",
+  "updatedAt": "2026-09-09T03:43:18.805Z",
   "frontPage": [
     {
-      "headline": "Tribal Affairs Ministry Clarifies Forest Rights Act Does Not Mandate Gram Sabha Consent for Projects",
+      "headline": "Public Accounts Committee Flags Unutilized Cess Collections Diverted Away From Reserve Funds",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece"
+          "url": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
         }
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-08",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Government Policies & Interventions",
-      "summary": "The Ministry of Tribal Affairs informed the Power Ministry that the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 contains no statutory clause mandating Gram Sabha consent for infrastructure projects. The ministry further stated that issues concerning project clearances in forest areas fall outside its official jurisdiction.",
-      "whyItMatters": "This clarification impacts environmental clearances, tribal rights governance, and corporate project execution in forest regions, directly touching upon the fragile balance between environmental regulation and developmental imperatives under GS II and GS III."
+      "topic": "Parliamentary Committees & Public Finance Management",
+      "summary": "Parliament's Public Accounts Committee (PAC) questioned the Finance Ministry over its failure to transfer ₹9,222 crore collected via cesses into dedicated non-lapsable reserve funds. The panel emphasized that cess proceeds are non-shareable revenues earmarked for designated purposes and must not be retained within the Consolidated Fund of India to artificially cushion fiscal deficits.",
+      "whyItMatters": "Connects directly to Parliamentary oversight, fiscal federalism, and the accounting transparency of non-tax revenue/cesses under GS II and GS III Public Finance."
     },
     {
-      "headline": "UN General Assembly Adopts Equal Earth Map Resolution to Correct Historical Cartographic Bias",
+      "headline": "India Formally Completes Operationalizing Dedicated Freight Corridor Network across 2,843 km",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/un-approves-resolution-in-support-of-mapthat-shows-africas-true-size/article71429647.ece"
-        },
-        {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-163-others-vote-at-unga-for-map-with-bigger-africa-shrunk-n-america/articleshow/133855185.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rs-20700-crore-326-km-more-india-completes-its-dedicated-freight-corridor-network-as-pm-modi-inaugurates-three-new-sections-now-fully-operational-across-2843-km-with-443-trains-daily-as-of-now/articleshow/133914769.cms"
         }
       ],
-      "date": "2026-09-07",
-      "gsPaper": "GS I & III",
+      "date": "2026-09-08",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Geography & International Organizations",
-      "summary": "The United Nations General Assembly passed a resolution supporting the adoption of equal-area map projections, such as the Equal Earth map, replacing the traditional 16th-century Mercator projection which distorts landmass sizes near the poles. India backed the move while stipulating that UN maps must accurately reflect national territorial boundaries.",
-      "whyItMatters": "Map projections influence global perception and geographic education; understanding equal-area projections versus conformal projections like Mercator is a classic UPSC Geography concept."
+      "topic": "Infrastructure: Railways & Logistics",
+      "summary": "India completed its landmark Dedicated Freight Corridor (DFC) initiative with the inauguration of final sections across the Eastern (EDFC) and Western (WDFC) networks. Spanning 2,843 km, the dedicated corridors decouple freight traffic from passenger routes, significantly lowering logistics costs, accelerating transit speeds, and boosting industrial competitiveness.",
+      "whyItMatters": "Crucial infrastructure development topic for GS III Economy, focusing on national logistics efficiency, supply chain bottlenecks, and multimodal connectivity."
     },
     {
-      "headline": "IN-SPACe Clarifies ISRO Role Amid Privatization Concerns in Space Sector",
+      "headline": "India and China Hold First Corps Commander-Level Talks in Eastern Sector Post-Escalation",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms"
+        }
+      ],
+      "date": "2026-09-09",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "India and its Neighborhood - Relations",
+      "summary": "India and China conducted a two-day Corps Commander-level dialogue focusing on the Eastern Sector of the Line of Actual Control (LAC). The Ministry of External Affairs noted that bilateral engagements are gradually stabilizing military deployments and restoring political confidence along contested Himalayan frontiers.",
+      "whyItMatters": "Border security and diplomatic relations with China are central to GS II International Relations and GS III Internal Security."
+    },
+    {
+      "headline": "Supreme Court Refuses Extension to Aravalli Panel, Sets Firm Deadline for Regulatory Framework",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/isro-staff-bodies-seek-clarification-on-the-trajectory-of-privatisation/article71434745.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece"
         }
       ],
       "date": "2026-09-07",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Space Technology",
-      "summary": "Addressing concerns raised by ISRO employee unions regarding sector privatization, the Chairman of IN-SPACe reaffirmed that the national space agency will not be privatized or diminished. Instead, ISRO will focus on advanced R&D, strategic missions, and guiding private sector participation via IN-SPACe.",
-      "whyItMatters": "Understanding the division of responsibilities between ISRO, IN-SPACe, and NewSpace India Limited (NSIL) is essential for GS III Space Policy topics."
+      "topic": "Environmental Conservation & Judicial Interventions",
+      "summary": "The Supreme Court declined to grant additional time to a high-powered committee tasked with defining the ecologically sensitive Aravalli range and regulating illegal mining. The court directed the panel to submit a uniform definition and actionable conservation guidelines by November 30 to curb irreversible desertification in North India.",
+      "whyItMatters": "Crucial for GS III Environment and Ecology topics covering mining regulations, desertification barriers, and environmental governance."
     },
     {
-      "headline": "India Co-sponsors UN Resolution Declaring International Day Against Child Marriage",
+      "headline": "US-Iran Escalation Drives Crude Prices Toward $100/Barrel, Threatening Global Energy Stability",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/india-co-sponsors-unga-resolution-to-declare-november-27-day-against-child-marriage/article71434559.ece"
+          "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-inches-closer-to-100-per-barrel-as-iran-strikes-us-targets-in-jordan/articleshow/133948682.cms"
         }
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-09",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "West Asian Conflict & Global Energy Security",
+      "summary": "Direct military exchanges between US forces and Iranian naval/oil infrastructure near Kharg Island and the Strait of Hormuz sent global crude oil prices surging toward $100 per barrel. The escalation risks disrupting energy shipping corridors critical for net oil-importing economies like India.",
+      "whyItMatters": "Spans GS II (Geopolitics of West Asia) and GS III (Macroeconomic stability, imported inflation, energy security)."
+    },
+    {
+      "headline": "Supreme Court Warns States Against Diluting Teacher Eligibility Standards in Private Schools",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/absorbing-unqualified-pvt-school-teachers-will-ruin-students-supreme-court/articleshow/133945624.cms"
+        }
+      ],
+      "date": "2026-09-09",
       "gsPaper": "GS II",
-      "relevance": "Prelims",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Social Justice & International Treaties",
-      "summary": "India co-sponsored a resolution adopted by the UN General Assembly designating November 27 as the International Day for the Elimination of Child, Early and Forced Marriage. The initiative seeks to strengthen global commitment to protecting the rights of young girls.",
-      "whyItMatters": "Directly links to SDG 5 (Gender Equality) and India's social justice initiatives targeting child rights and female education."
-    },
-    {
-      "headline": "Environment Ministry Advocates Vulture Safe Zones to Accelerate Population Recovery",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-intensifies-efforts-for-vulture-conservation-bhupender-yadav-calls-for-creating-vulture-safe-zones/articleshow/133839234.cms"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Biodiversity & Conservation",
-      "summary": "Union Minister for Environment, Forest and Climate Change Bhupender Yadav called for expanding 'Vulture Safe Zones' across critical habitats to mitigate toxicity risks from veterinary NSAIDs like diclofenac, aceclofenac, and ketoprofen. The strategy emphasizes targeted breeding programmes and public awareness among livestock farmers.",
-      "whyItMatters": "Vulture species in India (e.g., Gyps bengalensis) are critically endangered; conservation measures and drug bans are high-frequency topics in UPSC Prelims and GS III Environment."
+      "topic": "Issues Relating to Development and Management of Education",
+      "summary": "The Supreme Court held that absorbing or regularizing unqualified private school teachers without mandatory qualifications violates the Right to Education (RTE) framework. The apex court stressed that compromised teacher quality directly undermines foundational learning outcomes for students.",
+      "whyItMatters": "Relevant to GS II Social Justice (Education policy, Right to Education Act implementation, governance of primary education)."
     }
   ],
   "gs1": [
     {
-      "headline": "UNGA Resolution Replaces Mercator Map Projection with Equal-Area Maps in Global Standards",
+      "headline": "Kashmiri Mysticism Preserved Through Traditional Pashmina Weaving Artistry",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/whats-the-issue-with-the-way-africa-is-shown-on-maps-explained/article69963529.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/artist-puts-kashmiri-poet-lal-deds-mysticism-on-pashmina/articleshow/133939137.cms"
         }
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-09",
       "gsPaper": "GS I",
-      "relevance": "Both",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Physical & World Geography",
-      "summary": "Cartographers and scientists highlighted the technical limitations of the 1569 Mercator projection, which preserves shapes for navigation but severely inflates landmasses near high latitudes while shrinking tropical regions like Africa and South America. Equal-area alternatives, such as the Gall-Peters and Equal Earth projections, present true relative surface proportions.",
-      "whyItMatters": "Combines fundamental physical geography (cartographic projections, scale distortions) with social geography and post-colonial perceptions."
+      "topic": "Indian Culture & Literature",
+      "summary": "Artisans in Jammu & Kashmir are integrating the 14th-century mystic poetry of Lalleshwari (Lal Ded) into intricate Pashmina textile designs. Lalleshwari was a pioneer of the Bhakti-Sufi syncretic tradition and Lal Vakh (poetic verses) in Kashmiri literature.",
+      "whyItMatters": "Connects to Medieval Indian History, Bhakti movement saints, and traditional handicraft heritage under GS I Art & Culture."
     }
   ],
   "gs2": [
     {
-      "headline": "Union Ministry Clarifies Legal Stand on Gram Sabha Powers under Forest Rights Act",
+      "headline": "Delhi High Court Censures Inclusion of Sexual Harassment Survivor's Identity in Official Handbook",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/court-raps-centre-for-outing-survivors-name-in-its-posh-handbook/articleshow/133947719.cms"
         }
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-09",
       "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Statutory Bodies & Social Justice",
-      "summary": "The Ministry of Tribal Affairs informed government bodies that the Forest Rights Act (FRA), 2006 does not explicitly mandate obtaining Gram Sabha consent for infrastructure development projects in forest lands. The statutory framework focuses on recognizing individual and community forest rights rather than executive project approvals.",
-      "whyItMatters": "Gram Sabha consent is a central issue in judicial interpretations of FRA 2006 and PESA 1996; this executive interpretation holds significance for GS II governance topics."
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Protection of Women & Workplace Harassment Framework",
+      "summary": "The Delhi High Court severely criticized executive authorities for disclosing the name of a sexual harassment survivor in a government-published POSH (Prevention of Sexual Harassment) training handbook. The court emphasized that maintaining confidentiality is a non-negotiable statutory mandate to protect victim dignity and enable safe reporting.",
+      "whyItMatters": "Demonstrates gaps in institutional execution of POSH Act guidelines and right-to-privacy protections in governance."
     },
     {
-      "headline": "India-France Strategic Ties Highlight Innovation and Cultural Exchange",
+      "headline": "Defense Minister Visits Sri Lanka to Deepen Security and Maritime Ties under SAGAR Vision",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-france-relations-have-reached-new-heights-pm-modi/article71436431.ece"
+          "url": "https://www.thehindu.com/news/international/rajnath-singh-arrives-in-sri-lanka-for-three-day-visit/article71442452.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sri-lanka-a-close-friend-india-stands-by-it-rajnath-singh/articleshow/133945710.cms"
         }
       ],
-      "date": "2026-09-07",
+      "date": "2026-09-09",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Bilateral Relations",
-      "summary": "Marking the ongoing 'India-France Year of Innovation 2026', leaders from both nations emphasized expanding strategic partnerships into new technologies, defence co-development, and cultural ties. The collaboration underlines France's position as a key partner for India in Western Europe.",
-      "whyItMatters": "India-France bilateral mechanisms and defence/tech partnerships are core to GS II International Relations."
+      "topic": "India and its Neighborhood - Relations",
+      "summary": "India's Defense Minister initiated a three-day official visit to Sri Lanka to review bilateral defense infrastructure cooperation, maritime domain awareness, and joint capacity building in the Indian Ocean Region.",
+      "whyItMatters": "Highlights India's 'Neighbourhood First' policy and SAGAR (Security and Growth for All in the Region) initiative amidst Indian Ocean geopolitical competition."
     }
   ],
   "gs3": [
     {
-      "headline": "BRICS Nations Examine Mechanisms for Sovereign Cross-Border Payment Systems",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/why-is-brics-exploring-cross-border-payments-explained/article71433307.ece"
-        }
-      ],
-      "date": "2026-09-06",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & International Trade",
-      "summary": "BRICS member countries are exploring independent cross-border messaging and settlement frameworks to reduce reliance on SWIFT and US dollar transactions. India has advocated for leveraging interconnected national fast-payment systems, such as UPI, alongside local currency trade invoicing.",
-      "whyItMatters": "Crucial for understanding de-dollarization, cross-border financial architecture, and internationalization of the Indian Rupee."
-    },
-    {
-      "headline": "Assessing the Structural Efficacy of Inflation Targeting in the Indian Economy",
+      "headline": "Study Highlights Monetary Policy Limitations: Flat Phillips Curve and High Inflation Expectations in India",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece"
         }
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "gsPaper": "GS III",
       "relevance": "Mains",
       "importance": "High",
-      "topic": "Monetary Policy & Economy",
-      "summary": "Economic analysis suggests that India's Phillips curve remains relatively flat, meaning strict monetary tightening to curb cost-push supply-shock inflation can suppress output and employment without rapidly taming household inflation expectations.",
-      "whyItMatters": "The Flexible Inflation Targeting (FIT) framework under the RBI Act is a recurring debate in UPSC GS III Macroeconomics."
+      "topic": "Indian Economy: Monetary Policy & Inflation",
+      "summary": "An empirical analysis of India's Inflation Targeting Framework reveals a flat Phillips curve alongside elevated household inflation expectations relative to RBI targets. The study indicates that aggressive monetary tightening may suppress real output and employment without proportionately dampening supply-side food and fuel shocks.",
+      "whyItMatters": "Provides analytical fodder for Mains questions assessing the efficacy, structural limitations, and target flexibility of RBI's Flexible Inflation Targeting (FIT) regime."
     },
     {
-      "headline": "Glacial Hazards in the Himalayas: Analysis of Rapid Avalanches and Flash Floods",
+      "headline": "Assam Eco-Sensitive Zone Notification Controversy Surrounding Kaziranga Wildlife Corridors",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/videos/how-a-mountain-collapse-triggered-nepals-deadly-flood-in-just-7-minutes-the-climate-economy/article71434691.ece"
+          "url": "https://www.thehindu.com/news/national/assam/why-is-kazirangas-eco-sensitive-zone-in-focus-explained/article71354843.ece"
         }
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-08",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Disaster Management & Climate Change",
-      "summary": "Scientists analyzing a catastrophic flash flood along the Nepal-Tibet border revealed how a sudden ice-rock avalanche caused mountain collapse, triggering devastating downstream surge flows in under ten minutes. The event highlights increasing vulnerability in high-altitude Himalayan catchments due to climate thermal shifts.",
-      "whyItMatters": "Himalayan disaster dynamics, Glacial Lake Outburst Floods (GLOFs), and early warning challenges are vital GS III Disaster Management topics."
+      "topic": "Conservation, Environmental Impact Assessment & Wildlife Corridors",
+      "summary": "A major policy conflict has emerged over proposals to reduce the Eco-Sensitive Zone (ESZ) buffer around Kaziranga National Park to 1 km from the 10 km normative standard. Environmentalists have raised alarms over the omission of vital animal movement corridors, including Panbari, from official gazette maps, threatening the ecological integrity of the elephant and rhino habitat.",
+      "whyItMatters": "Directly links to GS III topics on linear infrastructure impacts, land-use conflicts around protected areas, and corridor conservation."
+    },
+    {
+      "headline": "India Joins US-Led International Coalition to Accelerate Next-Generation 6G Telecom Standards",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-part-of-us-led-group-of-nations-to-develop-6g/articleshow/133950386.cms"
+        }
+      ],
+      "date": "2026-09-09",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Awareness in Science and Technology: Telecommunications",
+      "summary": "India has formally joined a multilateral partnership led by advanced economies to co-develop international standards, open architecture, and resilient supply chains for 6G wireless communication technology. The collaboration focuses on securing next-gen communication infrastructure and spectrum harmonizing.",
+      "whyItMatters": "Relevant for critical emerging technologies, digital public infrastructure, and strategic international technology alliances under GS III S&T."
+    },
+    {
+      "headline": "Agnikul Cosmos Unveils Dedicated Infrastructure for Reusable Rocket Stage Validation",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/indian-startup-agnikul-cosmos-unveils-testing-manufacturing-hubs-in-chennai-to-validate-reusable-rocket-stages/articleshow/133922997.cms"
+        }
+      ],
+      "date": "2026-09-08",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Space Technology & Commercialization",
+      "summary": "Private space tech startup Agnikul Cosmos inaugurated integrated testing and additive manufacturing facilities in Chennai to support reusable launch vehicle development. This infrastructure aims to lower payload delivery costs and accelerate commercial launch schedules under India's liberalized space policy.",
+      "whyItMatters": "Highlights private sector participation in deep tech, commercial space missions, and advanced manufacturing in India."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Equal Earth Map Projection",
-      "category": "Terminology",
-      "detail": "An equal-area pseudocylindrical map projection created in 2018 to visually represent continents in accurate proportion to their actual relative surface area, avoiding poleward distortion."
-    },
-    {
-      "fact": "Vulture Safe Zones (VSZs)",
-      "category": "Schemes",
-      "detail": "Geographic zones designated within a 100-km radius around key vulture breeding colonies where non-steroidal anti-inflammatory drugs (NSAIDs) toxic to vultures are completely excluded from veterinary use."
-    },
-    {
-      "fact": "IN-SPACe (Indian National Space Promotion and Authorization Centre)",
-      "category": "Organizations",
-      "detail": "An autonomous single-window nodal agency under the Department of Space that permits and regulates private space activities and facilitates infrastructure sharing with ISRO."
-    },
-    {
-      "fact": "International Day for the Elimination of Child, Early and Forced Marriage",
-      "category": "Terminology",
-      "detail": "Declared by the UN General Assembly to be observed annually on November 27 to generate momentum toward ending child marriages globally."
-    },
-    {
-      "fact": "Anak Krakatau",
+      "fact": "Kharg Island is an Iran-controlled strategic island in the Persian Gulf housing major crude oil export terminals.",
       "category": "Places",
-      "detail": "An active volcanic island situated in the Sunda Strait between Java and Sumatra in Indonesia, formed following the historic 1883 eruption of Krakatoa."
+      "detail": "Gained news attention following direct strikes on surrounding oil tankers during regional escalations."
+    },
+    {
+      "fact": "Lalleshwari (Lal Ded) was a 14th-century female Kashmiri mystic poet who originated the 'Lal Vakh' poetic style.",
+      "category": "Personalities",
+      "detail": "Associated with the Shaivite school of philosophy and the Bhakti movement in Northern India."
+    },
+    {
+      "fact": "Panbari Animal Corridor is a vital ecological passage connecting Kaziranga National Park to Karbi Anglong Hills.",
+      "category": "Places",
+      "detail": "Currently under controversy regarding its inclusion in official Eco-Sensitive Zone maps."
+    },
+    {
+      "fact": "CosmoCube is a planned satellite concept designed to detect 21-cm radio emissions from neutral hydrogen formed during the Cosmic Dawn.",
+      "category": "Terminology",
+      "detail": "Aims to isolate extremely faint radio signals obscured by solar and galactic noise background."
+    },
+    {
+      "fact": "LPG booking interval for rural consumers has been reduced from 45 days to 25 days by the Ministry of Petroleum and Natural Gas.",
+      "category": "Schemes",
+      "detail": "Parity established between rural and urban Pradhan Mantri Ujjwala Yojana / LPG domestic beneficiaries."
+    },
+    {
+      "fact": "Flue Gas Desulphurisation (FGD) systems are pollution control technologies that remove SO2 from thermal power station exhaust emissions.",
+      "category": "Terminology",
+      "detail": "Subject of a Supreme Court hearing regarding implementation deadlines for power plants."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding map projections, consider the following statements:\n1. The Mercator projection preserves the shapes of landmasses but distorts their relative sizes toward the poles.\n2. The Equal Earth projection is an equal-area map projection that retains the true relative size of continents.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the dedicated non-lapsable funds created out of cess collections in India, consider the following statements:\n1. Proceeds from cesses form part of the divisible pool of taxes shared with State Governments under Article 270.\n2. Cesses collected by the Union must be transferred to designated reserve funds established in the Public Account of India.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 2,
-      "explanation": "Both statements are correct. The 16th-century Mercator map is conformal (preserves angles/shapes) but severely inflates high-latitude regions, whereas the Equal Earth projection maintains accurate proportional areas across all latitudes."
+      "correctIndex": 1,
+      "explanation": "Cesses collected by the Central Government do not form part of the divisible pool of taxes distributed among states under Article 270. They are earmarked for specific expenditures and must be transferred to designated reserve funds in the Public Account of India."
     },
     {
-      "question": "Which of the following veterinary drugs has been primarily banned in India due to severe renal failure in vulture populations?",
+      "question": "Which of the following statements regarding the Eastern and Western Dedicated Freight Corridors (DFCs) is correct?",
       "options": [
-        "Diclofenac",
-        "Paracetamol",
-        "Amoxicillin",
-        "Ivermectin"
+        "The Western DFC connects Ludhiana in Punjab to Dankuni in West Bengal.",
+        "The Eastern DFC terminates at Jawaharlal Nehru Port Trust (JNPT) near Mumbai.",
+        "DFCs are designed exclusively for freight trains, operating with higher axle loads and speeds.",
+        "DFCs are fully funded and owned by the International Monetary Fund."
       ],
-      "correctIndex": 0,
-      "explanation": "Diclofenac administered to cattle causes visceral gout and acute kidney failure in vultures feeding on carcasses, leading to a collapse in their populations."
+      "correctIndex": 2,
+      "explanation": "DFCs are dedicated rail corridors built exclusively to carry heavy freight traffic with 25 to 32.5-tonne axle loads at speeds up to 100 km/h. EDFC runs from Ludhiana to Dankuni/Sonnagar, while WDFC connects Dadri to JNPT."
     },
     {
-      "question": "With reference to space sector governance in India, what is the main mandate of IN-SPACe?",
+      "question": "With reference to 21-cm radio astronomy, what does the 21-cm line primarily allow astronomers to map?",
       "options": [
-        "To execute deep-space military missions for defence forces.",
-        "To serve as a single-window regulatory and promotional body for private space endeavors.",
-        "To operate commercial satellite launches on behalf of international customers exclusively.",
-        "To conduct planetary exploration missions independently of ISRO."
+        "Atmospheric ozone depletion on Earth",
+        "Distribution of neutral atomic hydrogen across cosmic time",
+        "Gamma-ray bursts from deep space black holes",
+        "Solar flare radiation intensities"
       ],
       "correctIndex": 1,
-      "explanation": "IN-SPACe acts as the single-window nodal agency to authorize, facilitate, and promote private sector space activities in India."
+      "explanation": "The 21-cm spectral line is emitted by neutral atomic hydrogen. Detecting this signal allows cosmologists to probe the Cosmic Dawn and Epoch of Reionization when the first stars began forming."
+    },
+    {
+      "question": "With reference to Eco-Sensitive Zones (ESZs) in India, consider the following statements:\n1. ESZs are notified by the Ministry of Environment, Forest and Climate Change under the Wildlife Protection Act, 1972.\n2. The main objective of declaring ESZs is to create shock absorbers around protected areas by regulating human activities.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Statement 1 is incorrect: ESZs are notified under Section 3(2)(v) of the Environment (Protection) Act, 1986, not the Wildlife Protection Act. Statement 2 is correct."
+    },
+    {
+      "question": "Which saint-poetess of medieval India composed mystic verses known as 'Vakhs' in the Kashmiri language?",
+      "options": [
+        "Akka Mahadevi",
+        "Lalleshwari (Lal Ded)",
+        "Mirabai",
+        "Bahinabai"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lalleshwari (Lal Ded) was a 14th-century Shaivite mystic poetess from Kashmir who composed short four-line devotional poems called 'Vakhs'."
     }
   ],
   "schemes": [
     {
-      "name": "Action Plan for Vulture Conservation in India (2020-2025)",
-      "ministry": "Ministry of Environment, Forest and Climate Change",
-      "beneficiaries": "Critically endangered vulture species (Gyps bengalensis, Gyps indicus, Gyps tenuirostris, Sarcogyps calvus) and ecosystem food chains.",
-      "objective": "To prevent extinction and rehabilitate native vulture populations across India through safety measures, bans on toxic drugs, and conservation breeding.",
+      "name": "Pradhan Mantri Ujjwala Yojana (PMUY) / Domestic LPG Distribution Framework",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "beneficiaries": "BPL households and rural domestic consumers",
+      "objective": "Provide clean cooking fuel to rural households to eliminate indoor air pollution and health hazards associated with burning biomass.",
       "keyFeatures": [
-        "Establishment of Vulture Safe Zones in key habitats.",
-        "Safety testing of non-steroidal anti-inflammatory drugs (NSAIDs) before veterinary release.",
-        "Expansion of Vulture Conservation Breeding Centres (VCBCs) managed by BNHS and state forest departments."
+        "Refill booking interval for rural consumers shortened from 45 to 25 days to match urban standards.",
+        "Targeted digital refill tracking and direct benefit transfer (DBT) of subsidies."
       ],
-      "funding": "Centrally sponsored scheme component under Development of Wildlife Habitats.",
-      "upscRelevance": "High relevance for GS III Environment & Biodiversity questions on species recovery programmes."
+      "funding": "Centrally sponsored budget allocations and oil marketing company support.",
+      "upscRelevance": "GS II Welfare Schemes & GS III Energy Access/Gender Health."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Monetary Policy and Inflation Targeting",
+      "topic": "Public Finance & Fiscal Accounting Integrity",
       "points": [
-        "Structural limitation: India's Phillips curve is relatively flat, meaning monetary policy tightening primarily constrains real output and employment before significantly suppressing supply-side food/energy inflation."
+        "PAC Findings on Cess Management: Over ₹9,200 crore of collected cess proceeds were not credited to earmarked non-lapsable funds, leading to opaque fiscal accounting.",
+        "Policy Impact: Using dedicated cess revenue to artificially pad the Consolidated Fund of India weakens parliamentary budget oversight and breaches statutory mandates."
       ]
     },
     {
-      "topic": "Forest Governance & Tribal Rights",
+      "topic": "Infrastructure & Logistics Reform",
       "points": [
-        "Tribal Affairs Ministry clarification: The Forest Rights Act, 2006 focuses on title recognition; statutory provisions requiring 100% Gram Sabha consent for infrastructure projects are governed under specific environmental impact assessment rules rather than the FRA statute itself."
+        "Completion of Dedicated Freight Corridors (2,843 km): Frees up over 70% of existing trunk rail lines by segregating freight movements.",
+        "Efficiency Gains: Expected to reduce national logistics costs from ~13-14% of GDP toward global benchmarks of 8-9%."
+      ]
+    },
+    {
+      "topic": "Education & Standard of Human Capital",
+      "points": [
+        "Supreme Court Observation on RTE and Quality Education: Absorbing untrained/unqualified teaching staff in schools directly violates children's fundamental right to quality education under Article 21A."
       ]
     }
   ],
   "whatToRemember": [
-    "UN General Assembly passed a resolution supporting equal-area maps like the Equal Earth projection to eliminate cartographic distortion of tropical regions like Africa.",
-    "Ministry of Tribal Affairs stated that FRA 2006 lacks a statutory provision requiring Gram Sabha consent for developmental projects in forests.",
-    "IN-SPACe reaffirmed ISRO's role as the central research bedrock while private firms scale commercial operations.",
-    "Environment Ministry urges setting up 100-km radius Vulture Safe Zones around key habitats to ban toxic veterinary NSAIDs.",
-    "India co-sponsored the UN resolution establishing November 27 as the International Day for the Elimination of Child Marriage."
+    "PAC highlighted ₹9,222 crore worth of uncredited cess funds, demanding strict accounting compliance for earmarked public funds.",
+    "India completed its 2,843 km Dedicated Freight Corridor (DFC) network, significantly enhancing national freight efficiency.",
+    "First Corps Commander-level talks were held between India and China specifically addressing the Eastern LAC sector.",
+    "Supreme Court issued a firm November 30 deadline for defining the Aravalli range and regulating regional mining.",
+    "Rising West Asian conflict involving US and Iranian assets pushed global crude oil prices toward $100/barrel.",
+    "Supreme Court barred States from diluting mandatory teacher qualification standards under the Right to Education Act."
   ]
 }
