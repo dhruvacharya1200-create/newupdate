@@ -1,362 +1,329 @@
 {
-  "date": "2026-09-09",
-  "updatedAt": "2026-09-09T03:43:18.805Z",
+  "date": "2026-09-11",
+  "updatedAt": "2026-09-11T03:42:56.032Z",
   "frontPage": [
     {
-      "headline": "Public Accounts Committee Flags Unutilized Cess Collections Diverted Away From Reserve Funds",
+      "headline": "India Hosts 2026 BRICS Summit in New Delhi Amid Global Trade and Energy Friction",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/public-accounts-committee-flags-failure-to-transfer-9222-crore-in-cess-collections-to-designated-reserve-funds/article71443327.ece"
-        }
-      ],
-      "date": "2026-09-08",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Parliamentary Committees & Public Finance Management",
-      "summary": "Parliament's Public Accounts Committee (PAC) questioned the Finance Ministry over its failure to transfer ₹9,222 crore collected via cesses into dedicated non-lapsable reserve funds. The panel emphasized that cess proceeds are non-shareable revenues earmarked for designated purposes and must not be retained within the Consolidated Fund of India to artificially cushion fiscal deficits.",
-      "whyItMatters": "Connects directly to Parliamentary oversight, fiscal federalism, and the accounting transparency of non-tax revenue/cesses under GS II and GS III Public Finance."
-    },
-    {
-      "headline": "India Formally Completes Operationalizing Dedicated Freight Corridor Network across 2,843 km",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rs-20700-crore-326-km-more-india-completes-its-dedicated-freight-corridor-network-as-pm-modi-inaugurates-three-new-sections-now-fully-operational-across-2843-km-with-443-trains-daily-as-of-now/articleshow/133914769.cms"
-        }
-      ],
-      "date": "2026-09-08",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Infrastructure: Railways & Logistics",
-      "summary": "India completed its landmark Dedicated Freight Corridor (DFC) initiative with the inauguration of final sections across the Eastern (EDFC) and Western (WDFC) networks. Spanning 2,843 km, the dedicated corridors decouple freight traffic from passenger routes, significantly lowering logistics costs, accelerating transit speeds, and boosting industrial competitiveness.",
-      "whyItMatters": "Crucial infrastructure development topic for GS III Economy, focusing on national logistics efficiency, supply chain bottlenecks, and multimodal connectivity."
-    },
-    {
-      "headline": "India and China Hold First Corps Commander-Level Talks in Eastern Sector Post-Escalation",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/1st-corps-commander-level-india-china-talks-in-eastern-sector-held-over-2-days-mea-says-ties-gradually-moving-in-positive-direction/articleshow/133940419.cms"
-        }
-      ],
-      "date": "2026-09-09",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "India and its Neighborhood - Relations",
-      "summary": "India and China conducted a two-day Corps Commander-level dialogue focusing on the Eastern Sector of the Line of Actual Control (LAC). The Ministry of External Affairs noted that bilateral engagements are gradually stabilizing military deployments and restoring political confidence along contested Himalayan frontiers.",
-      "whyItMatters": "Border security and diplomatic relations with China are central to GS II International Relations and GS III Internal Security."
-    },
-    {
-      "headline": "Supreme Court Refuses Extension to Aravalli Panel, Sets Firm Deadline for Regulatory Framework",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece"
-        }
-      ],
-      "date": "2026-09-07",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation & Judicial Interventions",
-      "summary": "The Supreme Court declined to grant additional time to a high-powered committee tasked with defining the ecologically sensitive Aravalli range and regulating illegal mining. The court directed the panel to submit a uniform definition and actionable conservation guidelines by November 30 to curb irreversible desertification in North India.",
-      "whyItMatters": "Crucial for GS III Environment and Ecology topics covering mining regulations, desertification barriers, and environmental governance."
-    },
-    {
-      "headline": "US-Iran Escalation Drives Crude Prices Toward $100/Barrel, Threatening Global Energy Stability",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece"
+          "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/oil-inches-closer-to-100-per-barrel-as-iran-strikes-us-targets-in-jordan/articleshow/133948682.cms"
+          "url": "https://timesofindia.indiatimes.com/india/brics-summit-whats-on-agenda-as-world-leaders-gather-in-delhi-amid-global-tensions/articleshow/134041840.cms"
         }
       ],
-      "date": "2026-09-09",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "West Asian Conflict & Global Energy Security",
-      "summary": "Direct military exchanges between US forces and Iranian naval/oil infrastructure near Kharg Island and the Strait of Hormuz sent global crude oil prices surging toward $100 per barrel. The escalation risks disrupting energy shipping corridors critical for net oil-importing economies like India.",
-      "whyItMatters": "Spans GS II (Geopolitics of West Asia) and GS III (Macroeconomic stability, imported inflation, energy security)."
-    },
-    {
-      "headline": "Supreme Court Warns States Against Diluting Teacher Eligibility Standards in Private Schools",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/absorbing-unqualified-pvt-school-teachers-will-ruin-students-supreme-court/articleshow/133945624.cms"
-        }
-      ],
-      "date": "2026-09-09",
+      "date": "2026-09-11",
       "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Issues Relating to Development and Management of Education",
-      "summary": "The Supreme Court held that absorbing or regularizing unqualified private school teachers without mandatory qualifications violates the Right to Education (RTE) framework. The apex court stressed that compromised teacher quality directly undermines foundational learning outcomes for students.",
-      "whyItMatters": "Relevant to GS II Social Justice (Education policy, Right to Education Act implementation, governance of primary education)."
+      "importance": "High",
+      "topic": "International Relations & Groupings",
+      "summary": "World leaders, including Russian President Vladimir Putin and Iranian leadership, gather in New Delhi for the 2026 BRICS Summit. Deliberations center on global economic stability, energy security, and regional conflicts impacting international trade corridors.",
+      "whyItMatters": "Examines India's strategic autonomy and diplomatic balancing between Western nations and Global South partners under the BRICS framework."
+    },
+    {
+      "headline": "United States Proposes Rule to End 60-Day Grace Period for H-1B Visa Holders",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-proposes-new-rule-to-scrap-60-day-grace-period-for-h-1b-workers-after-job-loss/article71454521.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/last-day-of-work-is-last-day-in-us-immigration-expert-suggests-6-steps-if-60-day-grace-period-for-h-1b-ends/articleshow/134029526.cms"
+        }
+      ],
+      "date": "2026-09-11",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Diaspora & Global Immigration Policies",
+      "summary": "A newly proposed rule by the US immigration authorities seeks to eliminate the 60-day post-termination grace period for H-1B visa holders. If enacted, foreign professionals facing job losses would be required to exit the country immediately unless they hold alternative authorization.",
+      "whyItMatters": "Directly impacts thousands of skilled Indian tech professionals working in the US, highlighting vulnerabilities in high-skilled diaspora migration policies."
+    },
+    {
+      "headline": "Houthi Forces Seize Port City of Mokha Near Strategic Bab el-Mandeb Strait",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/iran-backed-houthi-rebels-take-over-a-strategic-port-city-in-yemen-posing-a-new-threat-to-shipping/article71452799.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms"
+        }
+      ],
+      "date": "2026-09-11",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "West Asia Conflict & Maritime Security",
+      "summary": "Yemen-based Houthi fighters have taken control of Mokha, a port city situated nearly 80 kilometers from the vital Bab el-Mandeb Strait. The takeover introduces renewed risks to global maritime commercial routes passing through the Red Sea.",
+      "whyItMatters": "Geopolitically crucial for global energy supply chains and international maritime security, directly affecting trade transit through the Suez Canal."
+    },
+    {
+      "headline": "Supreme Court Questions FSSAI Over Standards for Front-of-Pack Food Labels",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/front-of-pack-labels-on-packaged-food-supreme-court-says-it-is-concerned-about-health-of-people/article71450760.ece"
+        }
+      ],
+      "date": "2026-09-11",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Public Health & Governance Regulations",
+      "summary": "The Supreme Court has asked the Food Safety and Standards Authority of India (FSSAI) to justify its threshold definitions for high sugar, salt, and fat in processed foods. The court highlighted public health as a matter of vital national interest during discussions on mandatory front-of-pack warning labels.",
+      "whyItMatters": "Connects to non-communicable disease burden in India, food governance, regulatory transparency, and consumer rights under Right to Health."
+    },
+    {
+      "headline": "Upcoming Launch of PM-KUSUM 2.0 to Integrate Dedicated Agrivoltaics Component",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Industry/pm-kusum-20-announcement-likely-soon-agrivoltaics-to-get-dedicated-component/article71448484.ece"
+        }
+      ],
+      "date": "2026-09-09",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Agriculture & Renewable Energy Integration",
+      "summary": "The Union government is finalizing the next phase of the PM-KUSUM scheme, featuring a dedicated framework for agrivoltaics—combining agriculture with solar power generation on the same land. The move aims to boost farmer incomes while expanding distributed solar capacity.",
+      "whyItMatters": "Important for India's clean energy targets, decentralised solar energy, and sustainable agricultural practices."
+    },
+    {
+      "headline": "Debate Mounts Over Gram Sabha Consent and Forest Rights Act Implementation",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tribal-affairs-secretary-says-community-rights-have-potential-to-strengthen-gram-sabha-led-forest-governance/article71453008.ece"
+        }
+      ],
+      "date": "2026-09-10",
+      "gsPaper": "GS II & GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Tribal Rights, Forest Conservation & Decentralization",
+      "summary": "Discussions surrounding the Forest Rights Act (FRA), 2006, have intensified over whether consent from Gram Sabhas should remain mandatory for diverting forest lands for infrastructure projects. While tribal rights groups urge the preservation of community consent powers, administrators emphasize balancing local governance with development requirements.",
+      "whyItMatters": "Relevance spans Fifth Schedule area administration, Gram Sabha empowerment, environmental clearance mechanisms, and indigenous rights."
     }
   ],
   "gs1": [
     {
-      "headline": "Kashmiri Mysticism Preserved Through Traditional Pashmina Weaving Artistry",
+      "headline": "Evolution and Decentralized Character of Feminist Movements in India",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/artist-puts-kashmiri-poet-lal-deds-mysticism-on-pashmina/articleshow/133939137.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/society/gloria-steinem-indian-feminism-70s-to-now-women-protest-movements/article71442119.ece"
         }
       ],
-      "date": "2026-09-09",
+      "date": "2026-09-11",
       "gsPaper": "GS I",
-      "relevance": "Prelims",
+      "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Indian Culture & Literature",
-      "summary": "Artisans in Jammu & Kashmir are integrating the 14th-century mystic poetry of Lalleshwari (Lal Ded) into intricate Pashmina textile designs. Lalleshwari was a pioneer of the Bhakti-Sufi syncretic tradition and Lal Vakh (poetic verses) in Kashmiri literature.",
-      "whyItMatters": "Connects to Medieval Indian History, Bhakti movement saints, and traditional handicraft heritage under GS I Art & Culture."
+      "topic": "Role of Women and Women's Organizations",
+      "summary": "Indian feminist discourse over the past five decades has developed as a decentralized, collective effort across diverse socio-economic sectors rather than relying on single iconic figureheads. This collective decentralization has allowed gender movements in India to continuously adapt to localized grassroot challenges.",
+      "whyItMatters": "Useful analytical context for GS I questions regarding social movements, women's empowerment, and Indian social structure."
     }
   ],
   "gs2": [
     {
-      "headline": "Delhi High Court Censures Inclusion of Sexual Harassment Survivor's Identity in Official Handbook",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/court-raps-centre-for-outing-survivors-name-in-its-posh-handbook/articleshow/133947719.cms"
-        }
-      ],
-      "date": "2026-09-09",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Protection of Women & Workplace Harassment Framework",
-      "summary": "The Delhi High Court severely criticized executive authorities for disclosing the name of a sexual harassment survivor in a government-published POSH (Prevention of Sexual Harassment) training handbook. The court emphasized that maintaining confidentiality is a non-negotiable statutory mandate to protect victim dignity and enable safe reporting.",
-      "whyItMatters": "Demonstrates gaps in institutional execution of POSH Act guidelines and right-to-privacy protections in governance."
-    },
-    {
-      "headline": "Defense Minister Visits Sri Lanka to Deepen Security and Maritime Ties under SAGAR Vision",
+      "headline": "India and Canada Progress Toward Comprehensive Economic Partnership Agreement",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/rajnath-singh-arrives-in-sri-lanka-for-three-day-visit/article71442452.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sri-lanka-a-close-friend-india-stands-by-it-rajnath-singh/articleshow/133945710.cms"
+          "url": "https://www.thehindu.com/news/national/india-canada-trade-deal-by-the-end-of-the-year-canadian-high-commissioner-cooter-says/article71452027.ece"
         }
       ],
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "India and its Neighborhood - Relations",
-      "summary": "India's Defense Minister initiated a three-day official visit to Sri Lanka to review bilateral defense infrastructure cooperation, maritime domain awareness, and joint capacity building in the Indian Ocean Region.",
-      "whyItMatters": "Highlights India's 'Neighbourhood First' policy and SAGAR (Security and Growth for All in the Region) initiative amidst Indian Ocean geopolitical competition."
+      "topic": "Bilateral Relations & Trade Treaties",
+      "summary": "Bilateral trade negotiations between India and Canada are nearing completion, with the Comprehensive Economic Partnership Agreement (CEPA) expected to be finalized prior to a scheduled bilateral visit. The pact focuses on supply chain resilience, critical minerals, and trade facilitation.",
+      "whyItMatters": "Demonstrates diplomatic normalization and economic convergence despite past political friction between the two nations."
+    },
+    {
+      "headline": "FSSAI to Mandate Strict Compliance for E-Commerce Food Platforms",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/checks-on-e-commerce-platforms-from-october-fssai/articleshow/134029959.cms"
+        }
+      ],
+      "date": "2026-09-11",
+      "gsPaper": "GS II",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Government Policies & Consumer Protection",
+      "summary": "Food regulator FSSAI announced that online quick-commerce and e-commerce platforms will undergo strict regulatory checks. The regulator clarified that platforms cannot evade responsibility by claiming to act merely as digital aggregators.",
+      "whyItMatters": "Relates to statutory enforcement, digital market regulation, and consumer safety in fast-expanding quick-commerce models."
     }
   ],
   "gs3": [
     {
-      "headline": "Study Highlights Monetary Policy Limitations: Flat Phillips Curve and High Inflation Expectations in India",
+      "headline": "Study Highlights Severe Winter Pollution Caused by Urban Open Waste Burning",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/does-inflation-targeting-work-in-india/article71435164.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pollution-from-winter-waste-burning-in-cities-three-times-higher-than-summer-study-finds/article71448312.ece"
         }
       ],
-      "date": "2026-09-07",
+      "date": "2026-09-10",
       "gsPaper": "GS III",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Indian Economy: Monetary Policy & Inflation",
-      "summary": "An empirical analysis of India's Inflation Targeting Framework reveals a flat Phillips curve alongside elevated household inflation expectations relative to RBI targets. The study indicates that aggressive monetary tightening may suppress real output and employment without proportionately dampening supply-side food and fuel shocks.",
-      "whyItMatters": "Provides analytical fodder for Mains questions assessing the efficacy, structural limitations, and target flexibility of RBI's Flexible Inflation Targeting (FIT) regime."
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Environmental Pollution & Degradation",
+      "summary": "A study by World Resources Institute India revealed that air pollution caused by open waste burning in urban centers during winter is three times higher than during summer months. Weak atmospheric dispersion, temperature inversions, and heating needs exacerbate the seasonal accumulation of fine particulate matter.",
+      "whyItMatters": "Provides specific empirical evidence for urban air quality management, municipal solid waste policy, and winter smog mitigation."
     },
     {
-      "headline": "Assam Eco-Sensitive Zone Notification Controversy Surrounding Kaziranga Wildlife Corridors",
+      "headline": "Synchronous Bamboo Flowering and Die-Off Poses Ecological and Wildlife Risks",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/why-is-kazirangas-eco-sensitive-zone-in-focus-explained/article71354843.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict-study-warns/article71450844.ece"
         }
       ],
-      "date": "2026-09-08",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Conservation, Environmental Impact Assessment & Wildlife Corridors",
-      "summary": "A major policy conflict has emerged over proposals to reduce the Eco-Sensitive Zone (ESZ) buffer around Kaziranga National Park to 1 km from the 10 km normative standard. Environmentalists have raised alarms over the omission of vital animal movement corridors, including Panbari, from official gazette maps, threatening the ecological integrity of the elephant and rhino habitat.",
-      "whyItMatters": "Directly links to GS III topics on linear infrastructure impacts, land-use conflicts around protected areas, and corridor conservation."
-    },
-    {
-      "headline": "India Joins US-Led International Coalition to Accelerate Next-Generation 6G Telecom Standards",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-part-of-us-led-group-of-nations-to-develop-6g/articleshow/133950386.cms"
-        }
-      ],
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Awareness in Science and Technology: Telecommunications",
-      "summary": "India has formally joined a multilateral partnership led by advanced economies to co-develop international standards, open architecture, and resilient supply chains for 6G wireless communication technology. The collaboration focuses on securing next-gen communication infrastructure and spectrum harmonizing.",
-      "whyItMatters": "Relevant for critical emerging technologies, digital public infrastructure, and strategic international technology alliances under GS III S&T."
+      "topic": "Ecology & Wildlife Management",
+      "summary": "Research from the Kerala Forest Research Institute warns that periodic mass bamboo flowering followed by die-offs causes widespread ecological disruptions. The loss of canopy cover encourages invasive weed proliferation, increases forest fire fuel loads, and forces large mammals like elephants to enter agricultural areas.",
+      "whyItMatters": "Relevant to forest ecosystem management, human-wildlife conflict triggers, and ecological disturbance cycles in Western Ghats ecosystems."
     },
     {
-      "headline": "Agnikul Cosmos Unveils Dedicated Infrastructure for Reusable Rocket Stage Validation",
+      "headline": "Government Reaffirms Commitment to Protect Farmers' Rights in Draft Seeds Bill",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/indian-startup-agnikul-cosmos-unveils-testing-manufacturing-hubs-in-chennai-to-validate-reusable-rocket-stages/articleshow/133922997.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/seeds-bill-not-to-harm-farmers-rights-chouhan/article71452978.ece"
         }
       ],
-      "date": "2026-09-08",
+      "date": "2026-09-11",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Space Technology & Commercialization",
-      "summary": "Private space tech startup Agnikul Cosmos inaugurated integrated testing and additive manufacturing facilities in Chennai to support reusable launch vehicle development. This infrastructure aims to lower payload delivery costs and accelerate commercial launch schedules under India's liberalized space policy.",
-      "whyItMatters": "Highlights private sector participation in deep tech, commercial space missions, and advanced manufacturing in India."
+      "topic": "Agriculture & Seed Policy",
+      "summary": "The Union Agriculture Ministry stated that the proposed Seeds Bill will protect farmers' traditional rights to save, use, exchange, and sell farm-saved seeds. The government emphasized consulting agricultural stakeholders before finalising statutory regulations.",
+      "whyItMatters": "Connects to IPR in agriculture, Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, and agricultural inputs governance."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Kharg Island is an Iran-controlled strategic island in the Persian Gulf housing major crude oil export terminals.",
+      "fact": "Mokha (Mocha) Port",
       "category": "Places",
-      "detail": "Gained news attention following direct strikes on surrounding oil tankers during regional escalations."
+      "detail": "A historic Red Sea port city in Yemen located roughly 80 km north of the strategic Bab el-Mandeb Strait."
     },
     {
-      "fact": "Lalleshwari (Lal Ded) was a 14th-century female Kashmiri mystic poet who originated the 'Lal Vakh' poetic style.",
-      "category": "Personalities",
-      "detail": "Associated with the Shaivite school of philosophy and the Bhakti movement in Northern India."
+      "fact": "Agrivoltaics",
+      "category": "Terminology",
+      "detail": "The simultaneous use of the same area of land for both solar photovoltaic power generation and conventional agriculture."
     },
     {
-      "fact": "Panbari Animal Corridor is a vital ecological passage connecting Kaziranga National Park to Karbi Anglong Hills.",
+      "fact": "Sal Borer (Hoplocerambyx spinicornis) & 'Mundmala' Technique",
+      "category": "Species",
+      "detail": "Sal Borer is a beetle pest that infests Shorea robusta (Sal) trees. The 'Mundmala' technique in Madhya Pradesh involves collecting insect heads to monitor and control infestation."
+    },
+    {
+      "fact": "Front-of-Pack Labelling (FOPL)",
+      "category": "Terminology",
+      "detail": "A food labeling scheme that provides simplified nutrition information on the front of food packages to help consumers make healthier choices."
+    },
+    {
+      "fact": "Bab el-Mandeb Strait",
       "category": "Places",
-      "detail": "Currently under controversy regarding its inclusion in official Eco-Sensitive Zone maps."
-    },
-    {
-      "fact": "CosmoCube is a planned satellite concept designed to detect 21-cm radio emissions from neutral hydrogen formed during the Cosmic Dawn.",
-      "category": "Terminology",
-      "detail": "Aims to isolate extremely faint radio signals obscured by solar and galactic noise background."
-    },
-    {
-      "fact": "LPG booking interval for rural consumers has been reduced from 45 days to 25 days by the Ministry of Petroleum and Natural Gas.",
-      "category": "Schemes",
-      "detail": "Parity established between rural and urban Pradhan Mantri Ujjwala Yojana / LPG domestic beneficiaries."
-    },
-    {
-      "fact": "Flue Gas Desulphurisation (FGD) systems are pollution control technologies that remove SO2 from thermal power station exhaust emissions.",
-      "category": "Terminology",
-      "detail": "Subject of a Supreme Court hearing regarding implementation deadlines for power plants."
+      "detail": "A crucial maritime choke point connecting the Red Sea to the Gulf of Aden and the Arabian Sea."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the dedicated non-lapsable funds created out of cess collections in India, consider the following statements:\n1. Proceeds from cesses form part of the divisible pool of taxes shared with State Governments under Article 270.\n2. Cesses collected by the Union must be transferred to designated reserve funds established in the Public Account of India.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Bab el-Mandeb Strait, consider the following statements:\n1. It connects the Red Sea to the Gulf of Aden.\n2. It separates the Arabian Peninsula from the Horn of Africa.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cesses collected by the Central Government do not form part of the divisible pool of taxes distributed among states under Article 270. They are earmarked for specific expenditures and must be transferred to designated reserve funds in the Public Account of India."
-    },
-    {
-      "question": "Which of the following statements regarding the Eastern and Western Dedicated Freight Corridors (DFCs) is correct?",
-      "options": [
-        "The Western DFC connects Ludhiana in Punjab to Dankuni in West Bengal.",
-        "The Eastern DFC terminates at Jawaharlal Nehru Port Trust (JNPT) near Mumbai.",
-        "DFCs are designed exclusively for freight trains, operating with higher axle loads and speeds.",
-        "DFCs are fully funded and owned by the International Monetary Fund."
       ],
       "correctIndex": 2,
-      "explanation": "DFCs are dedicated rail corridors built exclusively to carry heavy freight traffic with 25 to 32.5-tonne axle loads at speeds up to 100 km/h. EDFC runs from Ludhiana to Dankuni/Sonnagar, while WDFC connects Dadri to JNPT."
+      "explanation": "Bab el-Mandeb is a strategic strait situated between Yemen on the Arabian Peninsula and Djibouti and Eritrea in the Horn of Africa, connecting the Red Sea to the Gulf of Aden."
     },
     {
-      "question": "With reference to 21-cm radio astronomy, what does the 21-cm line primarily allow astronomers to map?",
+      "question": "What is 'Agrivoltaics', recently seen in news discussions regarding agricultural solarization?",
       "options": [
-        "Atmospheric ozone depletion on Earth",
-        "Distribution of neutral atomic hydrogen across cosmic time",
-        "Gamma-ray bursts from deep space black holes",
-        "Solar flare radiation intensities"
+        "A technology to convert crop waste directly into high-voltage electricity",
+        "The co-location of solar power production and agricultural farming on the same piece of land",
+        "Solar-powered underground drip irrigation systems",
+        "Genetic modification of crops to enhance photosynthetic light absorption"
       ],
       "correctIndex": 1,
-      "explanation": "The 21-cm spectral line is emitted by neutral atomic hydrogen. Detecting this signal allows cosmologists to probe the Cosmic Dawn and Epoch of Reionization when the first stars began forming."
+      "explanation": "Agrivoltaics refers to the dual-use of land for both solar energy generation and crop cultivation on the same land footprint."
     },
     {
-      "question": "With reference to Eco-Sensitive Zones (ESZs) in India, consider the following statements:\n1. ESZs are notified by the Ministry of Environment, Forest and Climate Change under the Wildlife Protection Act, 1972.\n2. The main objective of declaring ESZs is to create shock absorbers around protected areas by regulating human activities.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Forest Rights Act (FRA), 2006, consider the following statements:\n1. The Gram Sabha is the statutory authority to initiate the process for determining the nature and extent of Individual and Community Forest Rights.\n2. The Act applies only to Scheduled Tribes and does not cover other traditional forest dwellers.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect: ESZs are notified under Section 3(2)(v) of the Environment (Protection) Act, 1986, not the Wildlife Protection Act. Statement 2 is correct."
+      "correctIndex": 0,
+      "explanation": "Statement 1 is correct: Gram Sabha is the primary body to initiate rights determination. Statement 2 is incorrect: The Act extends rights to both Scheduled Tribes and Other Traditional Forest Dwellers (OTFD) residing in forests for at least three generations (75 years)."
     },
     {
-      "question": "Which saint-poetess of medieval India composed mystic verses known as 'Vakhs' in the Kashmiri language?",
+      "question": "The pest Hoplocerambyx spinicornis, commonly known as the Sal Borer, primarily affects which type of forest species in India?",
       "options": [
-        "Akka Mahadevi",
-        "Lalleshwari (Lal Ded)",
-        "Mirabai",
-        "Bahinabai"
+        "Tectona grandis (Teak)",
+        "Shorea robusta (Sal)",
+        "Santalum album (Sandalwood)",
+        "Cedrus deodara (Deodar)"
       ],
       "correctIndex": 1,
-      "explanation": "Lalleshwari (Lal Ded) was a 14th-century Shaivite mystic poetess from Kashmir who composed short four-line devotional poems called 'Vakhs'."
+      "explanation": "The Sal Borer beetle is a notorious forest pest that causes severe damage to Shorea robusta (Sal) trees across central and eastern Indian forests."
     }
   ],
   "schemes": [
     {
-      "name": "Pradhan Mantri Ujjwala Yojana (PMUY) / Domestic LPG Distribution Framework",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "beneficiaries": "BPL households and rural domestic consumers",
-      "objective": "Provide clean cooking fuel to rural households to eliminate indoor air pollution and health hazards associated with burning biomass.",
+      "name": "PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
+      "ministry": "Ministry of New and Renewable Energy (MNRE)",
+      "beneficiaries": "Individual farmers, groups of farmers, cooperatives, panchayats, and Water User Associations",
+      "objective": "To ensure energy security for farmers, solarize agricultural water pumps, and enable farmers to generate solar power on fallow or agricultural land to sell to the grid.",
       "keyFeatures": [
-        "Refill booking interval for rural consumers shortened from 45 to 25 days to match urban standards.",
-        "Targeted digital refill tracking and direct benefit transfer (DBT) of subsidies."
+        "Component A: Setting up decentralized ground-mounted grid-connected solar power plants.",
+        "Component B: Installation of stand-alone solar agricultural pumps.",
+        "Component C: Solarization of existing grid-connected agricultural pumps.",
+        "Proposed PM-KUSUM 2.0 introduces dedicated framework for agrivoltaics."
       ],
-      "funding": "Centrally sponsored budget allocations and oil marketing company support.",
-      "upscRelevance": "GS II Welfare Schemes & GS III Energy Access/Gender Health."
+      "funding": "Centrally sponsored scheme with shared funding between Union government, state governments, and farmer/bank contribution",
+      "upscRelevance": "Important for GS III (Agricultural subsidies, Renewable Energy, Irrigation mechanisms)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Public Finance & Fiscal Accounting Integrity",
+      "topic": "Disaster Management Expenditure in India",
       "points": [
-        "PAC Findings on Cess Management: Over ₹9,200 crore of collected cess proceeds were not credited to earmarked non-lapsable funds, leading to opaque fiscal accounting.",
-        "Policy Impact: Using dedicated cess revenue to artificially pad the Consolidated Fund of India weakens parliamentary budget oversight and breaches statutory mandates."
+        "Over ₹2.5 lakh crore spent on disaster management, mitigation, and risk reduction capacity building over eleven years (2014–2025).",
+        "Shift in Indian disaster management approach from reactive relief-centric measures to proactive prevention, mitigation, and early warning systems."
       ]
     },
     {
-      "topic": "Infrastructure & Logistics Reform",
+      "topic": "Urban Environmental Governance & Air Quality",
       "points": [
-        "Completion of Dedicated Freight Corridors (2,843 km): Frees up over 70% of existing trunk rail lines by segregating freight movements.",
-        "Efficiency Gains: Expected to reduce national logistics costs from ~13-14% of GDP toward global benchmarks of 8-9%."
-      ]
-    },
-    {
-      "topic": "Education & Standard of Human Capital",
-      "points": [
-        "Supreme Court Observation on RTE and Quality Education: Absorbing untrained/unqualified teaching staff in schools directly violates children's fundamental right to quality education under Article 21A."
+        "WRI study indicates winter municipal waste burning produces 3x higher local pollution concentrations compared to summer due to atmospheric inversion and lower boundary layer heights."
       ]
     }
   ],
   "whatToRemember": [
-    "PAC highlighted ₹9,222 crore worth of uncredited cess funds, demanding strict accounting compliance for earmarked public funds.",
-    "India completed its 2,843 km Dedicated Freight Corridor (DFC) network, significantly enhancing national freight efficiency.",
-    "First Corps Commander-level talks were held between India and China specifically addressing the Eastern LAC sector.",
-    "Supreme Court issued a firm November 30 deadline for defining the Aravalli range and regulating regional mining.",
-    "Rising West Asian conflict involving US and Iranian assets pushed global crude oil prices toward $100/barrel.",
-    "Supreme Court barred States from diluting mandatory teacher qualification standards under the Right to Education Act."
+    "India is hosting the 2026 BRICS Summit in New Delhi focusing on global South economic coordination and energy corridor security.",
+    "US DHS proposed doing away with the 60-day post-job loss grace period for H-1B visa holders.",
+    "Houthi takeover of Yemen's Mokha port places renewed pressure on the Bab el-Mandeb Strait.",
+    "Supreme Court is examining FSSAI's front-of-pack food label standards for high sugar, salt, and fat content.",
+    "PM-KUSUM 2.0 will include an explicit push for agrivoltaics to combine solar energy with crop farming.",
+    "Central forest governance debate revolves around mandatory Gram Sabha consent under the Forest Rights Act, 2006."
   ]
 }
