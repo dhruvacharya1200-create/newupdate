@@ -1,271 +1,259 @@
 {
-  "date": "2026-09-11",
-  "updatedAt": "2026-09-11T03:42:56.032Z",
+  "date": "2026-09-12",
+  "updatedAt": "2026-09-12T03:42:00.101Z",
   "frontPage": [
     {
-      "headline": "India Hosts 2026 BRICS Summit in New Delhi Amid Global Trade and Energy Friction",
+      "headline": "BRICS Summit 2026 Focuses on Local Currency Settlement, Supply Chain Resilience, and Trade Reforms",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-11-2026/article71454538.ece"
+          "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece"
         },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/brics-summit-whats-on-agenda-as-world-leaders-gather-in-delhi-amid-global-tensions/articleshow/134041840.cms"
-        }
-      ],
-      "date": "2026-09-11",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Relations & Groupings",
-      "summary": "World leaders, including Russian President Vladimir Putin and Iranian leadership, gather in New Delhi for the 2026 BRICS Summit. Deliberations center on global economic stability, energy security, and regional conflicts impacting international trade corridors.",
-      "whyItMatters": "Examines India's strategic autonomy and diplomatic balancing between Western nations and Global South partners under the BRICS framework."
-    },
-    {
-      "headline": "United States Proposes Rule to End 60-Day Grace Period for H-1B Visa Holders",
-      "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-proposes-new-rule-to-scrap-60-day-grace-period-for-h-1b-workers-after-job-loss/article71454521.ece"
+          "url": "https://www.thehindu.com/business/Economy/pm-modi-highlights-trade-barriers-and-sea-route-disruptions-at-brics-business-forum/article71456696.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/us/last-day-of-work-is-last-day-in-us-immigration-expert-suggests-6-steps-if-60-day-grace-period-for-h-1b-ends/articleshow/134029526.cms"
+          "url": "https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms"
         }
       ],
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Diaspora & Global Immigration Policies",
-      "summary": "A newly proposed rule by the US immigration authorities seeks to eliminate the 60-day post-termination grace period for H-1B visa holders. If enacted, foreign professionals facing job losses would be required to exit the country immediately unless they hold alternative authorization.",
-      "whyItMatters": "Directly impacts thousands of skilled Indian tech professionals working in the US, highlighting vulnerabilities in high-skilled diaspora migration policies."
+      "topic": "Bilateral, Regional and Global Groupings",
+      "summary": "India hosts the 18th BRICS Summit in New Delhi, bringing together leaders to deliberate on pressing global issues. Discussions at the summit and the accompanying Business Forum focused on strengthening trade in local currencies, linking digital payment systems, reducing non-tariff barriers, and addressing maritime supply chain vulnerabilities.",
+      "whyItMatters": "BRICS represents 40% of the world's population and a significant share of global GDP. The summit highlights India's balancing act between the Global South and Western alliances, its stance on de-dollarisation, and its vision for reformed multilateralism."
     },
     {
-      "headline": "Houthi Forces Seize Port City of Mokha Near Strategic Bab el-Mandeb Strait",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-backed-houthi-rebels-take-over-a-strategic-port-city-in-yemen-posing-a-new-threat-to-shipping/article71452799.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-seize-yemens-strategic-red-sea-port-city-of-mokha-from-saudi-backed-forces/articleshow/134025249.cms"
-        }
-      ],
-      "date": "2026-09-11",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "West Asia Conflict & Maritime Security",
-      "summary": "Yemen-based Houthi fighters have taken control of Mokha, a port city situated nearly 80 kilometers from the vital Bab el-Mandeb Strait. The takeover introduces renewed risks to global maritime commercial routes passing through the Red Sea.",
-      "whyItMatters": "Geopolitically crucial for global energy supply chains and international maritime security, directly affecting trade transit through the Suez Canal."
-    },
-    {
-      "headline": "Supreme Court Questions FSSAI Over Standards for Front-of-Pack Food Labels",
+      "headline": "Supreme Court Demands Specificity from FSSAI on Front-of-Pack Nutrition Warning Labels",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/news/national/front-of-pack-labels-on-packaged-food-supreme-court-says-it-is-concerned-about-health-of-people/article71450760.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms"
         }
       ],
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Public Health & Governance Regulations",
-      "summary": "The Supreme Court has asked the Food Safety and Standards Authority of India (FSSAI) to justify its threshold definitions for high sugar, salt, and fat in processed foods. The court highlighted public health as a matter of vital national interest during discussions on mandatory front-of-pack warning labels.",
-      "whyItMatters": "Connects to non-communicable disease burden in India, food governance, regulatory transparency, and consumer rights under Right to Health."
+      "topic": "Public Health and Regulatory Bodies",
+      "summary": "The Supreme Court of India questioned the Food Safety and Standards Authority of India (FSSAI) regarding the delay and specifications of clear Front-of-Pack Labelling (FOPL) for packaged foods. The Court underscored that public health is a matter of national interest and directed FSSAI to provide clear guidelines regarding thresholds for high sugar, salt, and fat contents.",
+      "whyItMatters": "Connects to GS II issues of public health regulation, executive accountability, and consumer rights. Clear nutritional labeling is critical to addressing India's growing burden of non-communicable diseases (NCDs) such as diabetes and hypertension."
     },
     {
-      "headline": "Upcoming Launch of PM-KUSUM 2.0 to Integrate Dedicated Agrivoltaics Component",
+      "headline": "India’s Foreign Exchange Reserves Touch Record High, Prompting RBI Bond Sales to Manage Liquidity",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/pm-kusum-20-announcement-likely-soon-agrivoltaics-to-get-dedicated-component/article71448484.ece"
+          "url": "https://www.thehindu.com/business/indias-forex-reserves-jump-by-a-record-44903-billion/article71457685.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-moves-to-suck-out-excess-liquidity/articleshow/134093991.cms"
         }
       ],
-      "date": "2026-09-09",
+      "date": "2026-09-12",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Agriculture & Renewable Energy Integration",
-      "summary": "The Union government is finalizing the next phase of the PM-KUSUM scheme, featuring a dedicated framework for agrivoltaics—combining agriculture with solar power generation on the same land. The move aims to boost farmer incomes while expanding distributed solar capacity.",
-      "whyItMatters": "Important for India's clean energy targets, decentralised solar energy, and sustainable agricultural practices."
+      "topic": "Indian Economy and Monetary Policy",
+      "summary": "India's foreign exchange reserves surged significantly to hit a historical peak of $786 billion, driven by robust foreign portfolio inflows and foreign direct investments. In response to the resulting domestic liquidity surge, the Reserve Bank of India announced open market operation (OMO) bond sales to absorb excess liquidity and manage inflation dynamics.",
+      "whyItMatters": "Crucial for GS III Economy syllabus covering external sector resilience, exchange rate management, and monetary policy tools like Open Market Operations used by the RBI."
     },
     {
-      "headline": "Debate Mounts Over Gram Sabha Consent and Forest Rights Act Implementation",
+      "headline": "Strategic Escalation in Red Sea: Houthi Offensive Near Bab al-Mandeb Threatens Global Maritime Shipping",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tribal-affairs-secretary-says-community-rights-have-potential-to-strengthen-gram-sabha-led-forest-governance/article71453008.ece"
+          "url": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/saudi-arabia-shuts-down-major-oil-pipeline-citing-attacks-amid-fighting-in-yemen/article71457890.ece"
         }
       ],
-      "date": "2026-09-10",
-      "gsPaper": "GS II & GS III",
+      "date": "2026-09-12",
+      "gsPaper": "GS II & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Tribal Rights, Forest Conservation & Decentralization",
-      "summary": "Discussions surrounding the Forest Rights Act (FRA), 2006, have intensified over whether consent from Gram Sabhas should remain mandatory for diverting forest lands for infrastructure projects. While tribal rights groups urge the preservation of community consent powers, administrators emphasize balancing local governance with development requirements.",
-      "whyItMatters": "Relevance spans Fifth Schedule area administration, Gram Sabha empowerment, environmental clearance mechanisms, and indigenous rights."
-    }
-  ],
-  "gs1": [
+      "topic": "Geopolitics, Energy Security and Maritime Trade Routes",
+      "summary": "Yemeni Houthi forces have seized strategic positions near the Bab al-Mandeb Strait, leading to increased disruption of Red Sea maritime trade routes and attacks on Saudi oil infrastructure. The conflict has heightened global energy security concerns and pushed up transit costs for Asia-Europe trade.",
+      "whyItMatters": "Bab al-Mandeb is a key global maritime chokepoint. Disruptions directly impact India's trade costs, energy import bills, and supply chain timelines, making it vital for IR and Security papers."
+    },
     {
-      "headline": "Evolution and Decentralized Character of Feminist Movements in India",
+      "headline": "High Court Validates 'Talaq-e-Hassan' Under Personal Law Framework in Key Muslim Marriage Ruling",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/society/gloria-steinem-indian-feminism-70s-to-now-women-protest-movements/article71442119.ece"
+          "url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"
         }
       ],
-      "date": "2026-09-11",
-      "gsPaper": "GS I",
-      "relevance": "Mains",
+      "date": "2026-09-12",
+      "gsPaper": "GS II",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Role of Women and Women's Organizations",
-      "summary": "Indian feminist discourse over the past five decades has developed as a decentralized, collective effort across diverse socio-economic sectors rather than relying on single iconic figureheads. This collective decentralization has allowed gender movements in India to continuously adapt to localized grassroot challenges.",
-      "whyItMatters": "Useful analytical context for GS I questions regarding social movements, women's empowerment, and Indian social structure."
+      "topic": "Judiciary, Personal Laws and Gender Justice",
+      "summary": "The Gauhati High Court affirmed that 'Talaq-e-Hassan'—where divorce is pronounced over three successive months with scope for reconciliation—is a legally valid form of divorce under Islamic personal law, distinct from instant triple talaq (Talaq-e-Biddat). The court directed registration under applicable state marriage registration acts.",
+      "whyItMatters": "Extremely relevant for constitutional debates surrounding legal frameworks governing personal laws, women's rights, and judicial interpretations of religious practices versus instant forms of divorce."
+    },
+    {
+      "headline": "Road Transport Ministry Targets Barrier-Free National Highway Tolling by March 2027",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/barrier-free-toll-booths-on-national-highways-by-march-2027-nitin-gadkari/article71459064.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/no-stop-toll-plazas-by-march-2027-nitin-gadkari-sets-deadline-for-barrier-free-system/articleshow/134060164.cms"
+        }
+      ],
+      "date": "2026-09-12",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Infrastructure: Roads and Transport",
+      "summary": "Union Road Transport Minister Nitin Gadkari announced plans to transition national highways to a barrier-free tolling system by March 2027 using Automatic Number Plate Recognition (ANPR) integrated with FASTag. The system aims to eliminate congestion at toll plazas, reduce fuel wastage, and yield annual logistics savings.",
+      "whyItMatters": "Pertains to physical and digital infrastructure development in India, logistics efficiency, and adoption of smart mobility technology."
     }
   ],
+  "gs1": [],
   "gs2": [
     {
-      "headline": "India and Canada Progress Toward Comprehensive Economic Partnership Agreement",
+      "headline": "India-Canada Bilateral Diplomatic Reset Progresses as Comprehensive Economic Partnership Talks Advance",
       "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece"
+        },
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/news/national/india-canada-trade-deal-by-the-end-of-the-year-canadian-high-commissioner-cooter-says/article71452027.ece"
         }
       ],
-      "date": "2026-09-10",
+      "date": "2026-09-12",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Bilateral Relations & Trade Treaties",
-      "summary": "Bilateral trade negotiations between India and Canada are nearing completion, with the Comprehensive Economic Partnership Agreement (CEPA) expected to be finalized prior to a scheduled bilateral visit. The pact focuses on supply chain resilience, critical minerals, and trade facilitation.",
-      "whyItMatters": "Demonstrates diplomatic normalization and economic convergence despite past political friction between the two nations."
+      "topic": "Bilateral Relations",
+      "summary": "Diplomatic ties between India and Canada are moving past recent tensions, with both nations holding security dialogues and expediting negotiations for a Early Progress Trade Agreement leading to a Comprehensive Economic Partnership Agreement (CEPA). Joint security measures targeting transnational organized crime have aided diplomatic stabilization.",
+      "whyItMatters": "Demonstrates foreign policy recalibration, security cooperation, and trade relations between middle-power democracies."
     },
     {
-      "headline": "FSSAI to Mandate Strict Compliance for E-Commerce Food Platforms",
+      "headline": "NHRC Emphasizes Right to Adequate Urban Infrastructure to Mitigate Rain-Induced Disruptions",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/checks-on-e-commerce-platforms-from-october-fssai/articleshow/134029959.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/haryana/gurugrams-civic-infrastructure-must-match-scale-of-city-says-human-rights-panel/article71455966.ece"
         }
       ],
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "gsPaper": "GS II",
-      "relevance": "Prelims",
+      "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Government Policies & Consumer Protection",
-      "summary": "Food regulator FSSAI announced that online quick-commerce and e-commerce platforms will undergo strict regulatory checks. The regulator clarified that platforms cannot evade responsibility by claiming to act merely as digital aggregators.",
-      "whyItMatters": "Relates to statutory enforcement, digital market regulation, and consumer safety in fast-expanding quick-commerce models."
+      "topic": "Statutory Bodies and Governance",
+      "summary": "The National Human Rights Commission (NHRC) observed that severe civic disruption caused by urban flooding cannot be accepted as an inevitable feature of urban life. The panel highlighted that failure of basic urban drainage and infrastructure impinges on citizens' fundamental rights to free movement and quality of life.",
+      "whyItMatters": "Links human rights principles to urban governance, municipal administration accountability, and climate-resilient city planning."
     }
   ],
   "gs3": [
     {
-      "headline": "Study Highlights Severe Winter Pollution Caused by Urban Open Waste Burning",
+      "headline": "Western Dedicated Freight Corridor Achieves Full Operationalization, Boosting Logistics Efficiency",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/pollution-from-winter-waste-burning-in-cities-three-times-higher-than-summer-study-finds/article71448312.ece"
+          "url": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
         }
       ],
-      "date": "2026-09-10",
+      "date": "2026-09-12",
       "gsPaper": "GS III",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Environmental Pollution & Degradation",
-      "summary": "A study by World Resources Institute India revealed that air pollution caused by open waste burning in urban centers during winter is three times higher than during summer months. Weak atmospheric dispersion, temperature inversions, and heating needs exacerbate the seasonal accumulation of fine particulate matter.",
-      "whyItMatters": "Provides specific empirical evidence for urban air quality management, municipal solid waste policy, and winter smog mitigation."
+      "importance": "High",
+      "topic": "Infrastructure: Railways and Logistics",
+      "summary": "The 2,843-km dedicated freight corridor network has reached full operational status with the completion of key sections of the Western DFC. The project enables higher freight speeds, heavier axle loads, and seamless multi-modal connectivity between northern industrial hubs and western ports.",
+      "whyItMatters": "Reduces National Logistics Cost from ~13% of GDP towards global benchmarks (~8%), aligning with National Logistics Policy goals."
     },
     {
-      "headline": "Synchronous Bamboo Flowering and Die-Off Poses Ecological and Wildlife Risks",
+      "headline": "Synchronous Bamboo Flowering Triggers Ecological Risks and Human-Wildlife Conflict, Finds Study",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict-study-warns/article71450844.ece"
         }
       ],
-      "date": "2026-09-10",
+      "date": "2026-09-12",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Ecology & Wildlife Management",
-      "summary": "Research from the Kerala Forest Research Institute warns that periodic mass bamboo flowering followed by die-offs causes widespread ecological disruptions. The loss of canopy cover encourages invasive weed proliferation, increases forest fire fuel loads, and forces large mammals like elephants to enter agricultural areas.",
-      "whyItMatters": "Relevant to forest ecosystem management, human-wildlife conflict triggers, and ecological disturbance cycles in Western Ghats ecosystems."
+      "topic": "Environment & Biodiversity",
+      "summary": "A study by the Kerala Forest Research Institute highlights that periodic gregarious flowering and subsequent mass die-offs of bamboo create canopy gaps, increase forest fire risks, and cause rodent population surges (gregarious flowering syndrome). This ecological disruption frequently drives megaherbivores like elephants into agricultural lands.",
+      "whyItMatters": "Important for environmental ecology, forest management strategies, and understanding natural triggers of human-wildlife conflict."
     },
     {
-      "headline": "Government Reaffirms Commitment to Protect Farmers' Rights in Draft Seeds Bill",
+      "headline": "Low Postdoctoral Fellowships and R&D Investment Underline Human Capital Challenges in Indian Science",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/seeds-bill-not-to-harm-farmers-rights-chouhan/article71452978.ece"
+          "url": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece"
         }
       ],
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "gsPaper": "GS III",
-      "relevance": "Both",
+      "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Agriculture & Seed Policy",
-      "summary": "The Union Agriculture Ministry stated that the proposed Seeds Bill will protect farmers' traditional rights to save, use, exchange, and sell farm-saved seeds. The government emphasized consulting agricultural stakeholders before finalising statutory regulations.",
-      "whyItMatters": "Connects to IPR in agriculture, Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, and agricultural inputs governance."
+      "topic": "Science and Technology - R&D Ecosystem",
+      "summary": "Recent data indicates India maintains only 262 full-time equivalent researchers per million population, with institutional funding supporting around 2,500 postdoctoral positions annually. Experts call for scaling up national R&D expenditure (currently ~0.64% of GDP) to prevent brain drain and foster deep-tech ecosystems.",
+      "whyItMatters": "Vital for mains questions on Science & Tech policies, Anusandhan National Research Foundation (ANRF), and building indigenous innovation capabilities."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Mokha (Mocha) Port",
-      "category": "Places",
-      "detail": "A historic Red Sea port city in Yemen located roughly 80 km north of the strategic Bab el-Mandeb Strait."
-    },
-    {
-      "fact": "Agrivoltaics",
+      "fact": "Thirukkural translated into Russian was presented as a diplomatic gift during the India-Russia bilateral meeting at the BRICS Summit.",
       "category": "Terminology",
-      "detail": "The simultaneous use of the same area of land for both solar photovoltaic power generation and conventional agriculture."
+      "detail": "Written by ancient Tamil poet-philosopher Thiruvalluvar, Thirukkural is a classic text on ethics, political wisdom, and economic management divided into three books: Aram (Virtue), Porul (Wealth), and Inbam (Love)."
     },
     {
-      "fact": "Sal Borer (Hoplocerambyx spinicornis) & 'Mundmala' Technique",
+      "fact": "Malabari Goat (also known as Tellicherry goat) genetic study links its lineage to ancient Indian Ocean maritime trade routes.",
       "category": "Species",
-      "detail": "Sal Borer is a beetle pest that infests Shorea robusta (Sal) trees. The 'Mundmala' technique in Madhya Pradesh involves collecting insect heads to monitor and control infestation."
+      "detail": "Indigenous to northern Kerala, the Malabari goat is a dual-purpose (meat and milk) breed known for high prolificacy. Mitochondrial genome sequencing showed genetic links with Middle Eastern goat breeds introduced via historical spice routes."
     },
     {
-      "fact": "Front-of-Pack Labelling (FOPL)",
+      "fact": "FCNR(B) Account Currency Risk Dynamics",
       "category": "Terminology",
-      "detail": "A food labeling scheme that provides simplified nutrition information on the front of food packages to help consumers make healthier choices."
+      "detail": "Foreign Currency Non-Resident (Bank) deposits are maintained in foreign currencies by NRIs. Under RBI swap facilities, principal currency risk is cushioned, but interest rate exposures are managed directly by commercial banks."
     },
     {
-      "fact": "Bab el-Mandeb Strait",
+      "fact": "Bab al-Mandeb Strait",
       "category": "Places",
-      "detail": "A crucial maritime choke point connecting the Red Sea to the Gulf of Aden and the Arabian Sea."
+      "detail": "A strategic maritime strait connecting the Red Sea to the Gulf of Aden and Arabian Sea, separating the Arabian Peninsula (Yemen) from the Horn of Africa (Djibouti and Eritrea)."
+    },
+    {
+      "fact": "National Medical Commission (NMC) added over 13,000 undergraduate MBBS seats for the upcoming academic session.",
+      "category": "Organizations",
+      "detail": "NMC is the statutory regulatory body governing medical education and medical professionals in India, replacing the former Medical Council of India under the NMC Act, 2019."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the Bab el-Mandeb Strait, consider the following statements:\n1. It connects the Red Sea to the Gulf of Aden.\n2. It separates the Arabian Peninsula from the Horn of Africa.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Bab al-Mandeb Strait, consider the following statements:\n1. It connects the Red Sea directly to the Gulf of Oman.\n2. It lies between Yemen on the Arabian Peninsula and Djibouti and Eritrea in the Horn of Africa.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 2,
-      "explanation": "Bab el-Mandeb is a strategic strait situated between Yemen on the Arabian Peninsula and Djibouti and Eritrea in the Horn of Africa, connecting the Red Sea to the Gulf of Aden."
-    },
-    {
-      "question": "What is 'Agrivoltaics', recently seen in news discussions regarding agricultural solarization?",
-      "options": [
-        "A technology to convert crop waste directly into high-voltage electricity",
-        "The co-location of solar power production and agricultural farming on the same piece of land",
-        "Solar-powered underground drip irrigation systems",
-        "Genetic modification of crops to enhance photosynthetic light absorption"
-      ],
       "correctIndex": 1,
-      "explanation": "Agrivoltaics refers to the dual-use of land for both solar energy generation and crop cultivation on the same land footprint."
+      "explanation": "Statement 1 is incorrect because Bab al-Mandeb connects the Red Sea to the Gulf of Aden (not the Gulf of Oman). Statement 2 is correct as it separates the Arabian Peninsula from the Horn of Africa."
     },
     {
-      "question": "With reference to the Forest Rights Act (FRA), 2006, consider the following statements:\n1. The Gram Sabha is the statutory authority to initiate the process for determining the nature and extent of Individual and Community Forest Rights.\n2. The Act applies only to Scheduled Tribes and does not cover other traditional forest dwellers.\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements regarding the 'Talaq-e-Hassan' form of divorce:\n1. It involves three pronouncements of divorce made during three successive periods of purity (Tuhr).\n2. The divorce becomes irrevocable immediately upon the first pronouncement.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -273,57 +261,78 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 0,
-      "explanation": "Statement 1 is correct: Gram Sabha is the primary body to initiate rights determination. Statement 2 is incorrect: The Act extends rights to both Scheduled Tribes and Other Traditional Forest Dwellers (OTFD) residing in forests for at least three generations (75 years)."
+      "explanation": "Statement 1 is correct. Statement 2 is incorrect because Talaq-e-Hassan allows period for reconciliation after the first and second pronouncements; it becomes irrevocable only after the third pronouncement."
     },
     {
-      "question": "The pest Hoplocerambyx spinicornis, commonly known as the Sal Borer, primarily affects which type of forest species in India?",
+      "question": "Which of the following best describes the ecological phenomenon known as 'Gregarious Flowering' in bamboo species?",
       "options": [
-        "Tectona grandis (Teak)",
-        "Shorea robusta (Sal)",
-        "Santalum album (Sandalwood)",
-        "Cedrus deodara (Deodar)"
+        "Flowering that occurs continuously throughout the life cycle of individual bamboo culms.",
+        "Simultaneous flowering of an entire bamboo species across a region followed by mass die-off.",
+        "Flowering restricted exclusively to artificial plantations during drought years.",
+        "A condition where bamboo plants produce fruit without seed germination."
       ],
       "correctIndex": 1,
-      "explanation": "The Sal Borer beetle is a notorious forest pest that causes severe damage to Shorea robusta (Sal) trees across central and eastern Indian forests."
+      "explanation": "Gregarious flowering is the synchronous flowering of a monocarpic bamboo species over wide geographical areas at long intervals (e.g., 40-60 years), after which the entire population dies."
+    },
+    {
+      "question": "In the context of monetary policy operations in India, what is the primary objective of Open Market Operation (OMO) bond sales by the RBI?",
+      "options": [
+        "To inject primary liquidity into the banking system during liquidity deficits.",
+        "To absorb excess durable liquidity from the market to align interest rates with targets.",
+        "To directly recapitalize public sector commercial banks.",
+        "To manage government budget deficits directly without issuing treasury bills."
+      ],
+      "correctIndex": 1,
+      "explanation": "Sale of government securities under Open Market Operations (OMO) absorbs excess money/liquidity from the banking system, helping maintain monetary stability."
+    },
+    {
+      "question": "The Thirukkural, an ancient text of Tamil literature, is traditionally divided into three parts. Which among the following is NOT one of those three parts?",
+      "options": [
+        "Aram (Virtue)",
+        "Porul (Wealth)",
+        "Inbam (Love)",
+        "Moksha (Salvation)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thirukkural consists of 1,330 couplets divided into three sections: Aram (Virtue), Porul (Governance/Wealth), and Inbam/Kama (Love). 'Moksha' is not a separate section in the text."
     }
   ],
   "schemes": [
     {
-      "name": "PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
-      "ministry": "Ministry of New and Renewable Energy (MNRE)",
-      "beneficiaries": "Individual farmers, groups of farmers, cooperatives, panchayats, and Water User Associations",
-      "objective": "To ensure energy security for farmers, solarize agricultural water pumps, and enable farmers to generate solar power on fallow or agricultural land to sell to the grid.",
+      "name": "FASTag Digital Tolling System",
+      "ministry": "Ministry of Road Transport and Highways (MoRTH)",
+      "beneficiaries": "Highway commuters and logistics operators nationwide",
+      "objective": "To enable seamless, electronic toll collection at national highway toll plazas using Radio Frequency Identification (RFID) and Automatic Number Plate Recognition (ANPR).",
       "keyFeatures": [
-        "Component A: Setting up decentralized ground-mounted grid-connected solar power plants.",
-        "Component B: Installation of stand-alone solar agricultural pumps.",
-        "Component C: Solarization of existing grid-connected agricultural pumps.",
-        "Proposed PM-KUSUM 2.0 introduces dedicated framework for agrivoltaics."
+        "Linked directly to prepaid bank accounts or vehicle registration details.",
+        "Interoperable nationwide across national and state highways.",
+        "Transitioning towards barrier-free, multi-lane free-flow tolling by 2027."
       ],
-      "funding": "Centrally sponsored scheme with shared funding between Union government, state governments, and farmer/bank contribution",
-      "upscRelevance": "Important for GS III (Agricultural subsidies, Renewable Energy, Irrigation mechanisms)."
+      "funding": "Implemented through National Highways Authority of India (NHAI) and National Payments Corporation of India (NPCI).",
+      "upscRelevance": "GS III - Infrastructure and Digital Public Infrastructure (DPI) applications."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Disaster Management Expenditure in India",
+      "topic": "R&D Expenditure and Innovation Capacity",
       "points": [
-        "Over ₹2.5 lakh crore spent on disaster management, mitigation, and risk reduction capacity building over eleven years (2014–2025).",
-        "Shift in Indian disaster management approach from reactive relief-centric measures to proactive prevention, mitigation, and early warning systems."
+        "Data Point: India spends approximately $13 per capita annually on scientific research compared to $250 by China and over $2,100 by the USA.",
+        "Researcher Density: India has 262 full-time-equivalent researchers per million population, highlighting a critical human capital gap in advanced research and development."
       ]
     },
     {
-      "topic": "Urban Environmental Governance & Air Quality",
+      "topic": "Judicial Intervention on Public Health",
       "points": [
-        "WRI study indicates winter municipal waste burning produces 3x higher local pollution concentrations compared to summer due to atmospheric inversion and lower boundary layer heights."
+        "Supreme Court Observation: Food safety and clear front-of-pack nutritional labeling are matters of paramount national interest, falling under the duty of the state to protect public health under Article 47."
       ]
     }
   ],
   "whatToRemember": [
-    "India is hosting the 2026 BRICS Summit in New Delhi focusing on global South economic coordination and energy corridor security.",
-    "US DHS proposed doing away with the 60-day post-job loss grace period for H-1B visa holders.",
-    "Houthi takeover of Yemen's Mokha port places renewed pressure on the Bab el-Mandeb Strait.",
-    "Supreme Court is examining FSSAI's front-of-pack food label standards for high sugar, salt, and fat content.",
-    "PM-KUSUM 2.0 will include an explicit push for agrivoltaics to combine solar energy with crop farming.",
-    "Central forest governance debate revolves around mandatory Gram Sabha consent under the Forest Rights Act, 2006."
+    "BRICS 2026 Summit in New Delhi emphasizes trade settlement in local currencies and cross-border payment integration.",
+    "India's forex reserves hit a historic peak of $786 billion, prompting RBI OMO bond sales to handle domestic liquidity.",
+    "Western Dedicated Freight Corridor (2,843 km total network) reaches full operational status, improving logistics competitiveness.",
+    "Gauhati High Court validates Talaq-e-Hassan as a lawful procedure for dissolution of marriage under personal law.",
+    "Supreme Court directs FSSAI to provide clear, mandatory specifications for high sugar, salt, and fat warning labels on packaged foods.",
+    "Houthi control near the Bab al-Mandeb Strait threatens Red Sea trade routes and global energy supply stability."
   ]
 }
