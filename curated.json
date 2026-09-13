@@ -1,170 +1,49 @@
 {
-  "date": "2026-09-12",
-  "updatedAt": "2026-09-12T03:42:00.101Z",
+  "date": "2026-09-13",
+  "updatedAt": "2026-09-13T03:41:56.835Z",
   "frontPage": [
     {
-      "headline": "BRICS Summit 2026 Focuses on Local Currency Settlement, Supply Chain Resilience, and Trade Reforms",
+      "headline": "18th BRICS Summit Concludes in New Delhi: Key Outcomes on Trade, Governance, and Security",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/brics-summit-india-world-leaders-in-new-delhi-key-agenda-live-updates-september-12-2026/article71459005.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/pm-modi-highlights-trade-barriers-and-sea-route-disruptions-at-brics-business-forum/article71456696.ece"
+          "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/40-of-global-gdp-is-here-pm-modi/articleshow/134092501.cms"
+          "url": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms"
         }
       ],
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Bilateral, Regional and Global Groupings",
-      "summary": "India hosts the 18th BRICS Summit in New Delhi, bringing together leaders to deliberate on pressing global issues. Discussions at the summit and the accompanying Business Forum focused on strengthening trade in local currencies, linking digital payment systems, reducing non-tariff barriers, and addressing maritime supply chain vulnerabilities.",
-      "whyItMatters": "BRICS represents 40% of the world's population and a significant share of global GDP. The summit highlights India's balancing act between the Global South and Western alliances, its stance on de-dollarisation, and its vision for reformed multilateralism."
+      "topic": "International Groupings & Agreements",
+      "summary": "The 18th BRICS Summit in New Delhi resulted in the adoption of the New Delhi Declaration, emphasizing United Nations Security Council (UNSC) reforms, enhanced Global South representation, and joint counter-terrorism efforts. Member nations pushed for local currency trade settlement mechanisms while opposing unilateral trade barriers and protectionist carbon tariffs.",
+      "whyItMatters": "Crucial for GS-II International Relations syllabus covering multilateral forums, reform of global institutions, and India's leadership role in representing the Global South."
     },
     {
-      "headline": "Supreme Court Demands Specificity from FSSAI on Front-of-Pack Nutrition Warning Labels",
+      "headline": "India-China Bilateral Dialogue Emphasizes Border Peace as Precondition for Normalization",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/front-of-pack-labels-on-packaged-food-supreme-court-says-it-is-concerned-about-health-of-people/article71450760.ece"
+          "url": "https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms"
+          "url": "https://timesofindia.indiatimes.com/india/thaw-in-ties-deserves-to-be-cherished-says-xi-border-peace-is-essential-pm-modi/articleshow/134171824.cms"
         }
       ],
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Public Health and Regulatory Bodies",
-      "summary": "The Supreme Court of India questioned the Food Safety and Standards Authority of India (FSSAI) regarding the delay and specifications of clear Front-of-Pack Labelling (FOPL) for packaged foods. The Court underscored that public health is a matter of national interest and directed FSSAI to provide clear guidelines regarding thresholds for high sugar, salt, and fat contents.",
-      "whyItMatters": "Connects to GS II issues of public health regulation, executive accountability, and consumer rights. Clear nutritional labeling is critical to addressing India's growing burden of non-communicable diseases (NCDs) such as diabetes and hypertension."
+      "topic": "India and its Neighborhood",
+      "summary": "Prime Minister Narendra Modi and Chinese President Xi Jinping acknowledged ongoing progress in bilateral relations during their meeting on the sidelines of the BRICS Summit. India reiterated that maintaining peace and tranquillity along the Line of Actual Control (LAC) remains essential for sustainable diplomatic and economic ties.",
+      "whyItMatters": "Directly impacts GS-II India's bilateral relations and neighborhood policy, highlighting the balance between economic engagements and border security management."
     },
     {
-      "headline": "India’s Foreign Exchange Reserves Touch Record High, Prompting RBI Bond Sales to Manage Liquidity",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/indias-forex-reserves-jump-by-a-record-44903-billion/article71457685.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-moves-to-suck-out-excess-liquidity/articleshow/134093991.cms"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy and Monetary Policy",
-      "summary": "India's foreign exchange reserves surged significantly to hit a historical peak of $786 billion, driven by robust foreign portfolio inflows and foreign direct investments. In response to the resulting domestic liquidity surge, the Reserve Bank of India announced open market operation (OMO) bond sales to absorb excess liquidity and manage inflation dynamics.",
-      "whyItMatters": "Crucial for GS III Economy syllabus covering external sector resilience, exchange rate management, and monetary policy tools like Open Market Operations used by the RBI."
-    },
-    {
-      "headline": "Strategic Escalation in Red Sea: Houthi Offensive Near Bab al-Mandeb Threatens Global Maritime Shipping",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane/article71455868.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/saudi-arabia-shuts-down-major-oil-pipeline-citing-attacks-amid-fighting-in-yemen/article71457890.ece"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Geopolitics, Energy Security and Maritime Trade Routes",
-      "summary": "Yemeni Houthi forces have seized strategic positions near the Bab al-Mandeb Strait, leading to increased disruption of Red Sea maritime trade routes and attacks on Saudi oil infrastructure. The conflict has heightened global energy security concerns and pushed up transit costs for Asia-Europe trade.",
-      "whyItMatters": "Bab al-Mandeb is a key global maritime chokepoint. Disruptions directly impact India's trade costs, energy import bills, and supply chain timelines, making it vital for IR and Security papers."
-    },
-    {
-      "headline": "High Court Validates 'Talaq-e-Hassan' Under Personal Law Framework in Key Muslim Marriage Ruling",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Judiciary, Personal Laws and Gender Justice",
-      "summary": "The Gauhati High Court affirmed that 'Talaq-e-Hassan'—where divorce is pronounced over three successive months with scope for reconciliation—is a legally valid form of divorce under Islamic personal law, distinct from instant triple talaq (Talaq-e-Biddat). The court directed registration under applicable state marriage registration acts.",
-      "whyItMatters": "Extremely relevant for constitutional debates surrounding legal frameworks governing personal laws, women's rights, and judicial interpretations of religious practices versus instant forms of divorce."
-    },
-    {
-      "headline": "Road Transport Ministry Targets Barrier-Free National Highway Tolling by March 2027",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/barrier-free-toll-booths-on-national-highways-by-march-2027-nitin-gadkari/article71459064.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/no-stop-toll-plazas-by-march-2027-nitin-gadkari-sets-deadline-for-barrier-free-system/articleshow/134060164.cms"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Infrastructure: Roads and Transport",
-      "summary": "Union Road Transport Minister Nitin Gadkari announced plans to transition national highways to a barrier-free tolling system by March 2027 using Automatic Number Plate Recognition (ANPR) integrated with FASTag. The system aims to eliminate congestion at toll plazas, reduce fuel wastage, and yield annual logistics savings.",
-      "whyItMatters": "Pertains to physical and digital infrastructure development in India, logistics efficiency, and adoption of smart mobility technology."
-    }
-  ],
-  "gs1": [],
-  "gs2": [
-    {
-      "headline": "India-Canada Bilateral Diplomatic Reset Progresses as Comprehensive Economic Partnership Talks Advance",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-and-canada-are-well-beyond-reset-now-says-canadian-high-commissioner-to-india/article71456180.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-canada-trade-deal-by-the-end-of-the-year-canadian-high-commissioner-cooter-says/article71452027.ece"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Bilateral Relations",
-      "summary": "Diplomatic ties between India and Canada are moving past recent tensions, with both nations holding security dialogues and expediting negotiations for a Early Progress Trade Agreement leading to a Comprehensive Economic Partnership Agreement (CEPA). Joint security measures targeting transnational organized crime have aided diplomatic stabilization.",
-      "whyItMatters": "Demonstrates foreign policy recalibration, security cooperation, and trade relations between middle-power democracies."
-    },
-    {
-      "headline": "NHRC Emphasizes Right to Adequate Urban Infrastructure to Mitigate Rain-Induced Disruptions",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/haryana/gurugrams-civic-infrastructure-must-match-scale-of-city-says-human-rights-panel/article71455966.ece"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Statutory Bodies and Governance",
-      "summary": "The National Human Rights Commission (NHRC) observed that severe civic disruption caused by urban flooding cannot be accepted as an inevitable feature of urban life. The panel highlighted that failure of basic urban drainage and infrastructure impinges on citizens' fundamental rights to free movement and quality of life.",
-      "whyItMatters": "Links human rights principles to urban governance, municipal administration accountability, and climate-resilient city planning."
-    }
-  ],
-  "gs3": [
-    {
-      "headline": "Western Dedicated Freight Corridor Achieves Full Operationalization, Boosting Logistics Efficiency",
+      "headline": "Western Dedicated Freight Corridor (DFC) Operationalization Boosts National Logistics Network",
       "sources": [
         {
           "name": "The Hindu",
@@ -175,164 +54,273 @@
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Infrastructure: Railways and Logistics",
-      "summary": "The 2,843-km dedicated freight corridor network has reached full operational status with the completion of key sections of the Western DFC. The project enables higher freight speeds, heavier axle loads, and seamless multi-modal connectivity between northern industrial hubs and western ports.",
-      "whyItMatters": "Reduces National Logistics Cost from ~13% of GDP towards global benchmarks (~8%), aligning with National Logistics Policy goals."
+      "topic": "Infrastructure: Railways & Logistics",
+      "summary": "The full operationalization of the Western Dedicated Freight Corridor marks a major milestone in completing India's 2,843-km dedicated freight network. The corridor aims to drastically cut transit time, lower logistics costs as a percentage of GDP, and decongest the conventional railway network.",
+      "whyItMatters": "Relevant for GS-III Infrastructure and Economy, specifically in reducing supply chain costs and achieving targets set under the National Logistics Policy."
     },
     {
-      "headline": "Synchronous Bamboo Flowering Triggers Ecological Risks and Human-Wildlife Conflict, Finds Study",
+      "headline": "BRICS Nations Reject Unilateral Green Trade Barriers Including EU's Carbon Border Tax",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+        }
+      ],
+      "date": "2026-09-13",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Global Trade Regimes & Climate Finance",
+      "summary": "BRICS member countries collectively voiced opposition to unilateral protectionist trade measures introduced under the pretext of environmental policies, explicitly citing mechanisms like the EU's Carbon Border Adjustment Mechanism (CBAM). The bloc argued that such taxes violate WTO principles and disproportionately penalize developing economies.",
+      "whyItMatters": "Intersects GS-II International Trade and GS-III Environment & Climate Change negotiations, focusing on common but differentiated responsibilities (CBDR) and non-tariff barriers."
+    },
+    {
+      "headline": "Study Links 70% of North India's Winter Air Pollution Variability to Western Disturbances",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict-study-warns/article71450844.ece"
+          "url": "https://www.thehindu.com/news/national/70-of-yearly-change-in-winter-pollution-in-north-india-explained-by-western-disturbances-study/article71455674.ece"
         }
       ],
       "date": "2026-09-12",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Climatology & Environmental Pollution",
+      "summary": "A new atmospheric study reveals that up to 70% of the year-to-year variation in winter air pollution levels across northern India is dictated by the frequency and intensity of Western Disturbances. Years with more frequent western disturbances witness better pollutant dispersion due to associated rainfall and wind patterns.",
+      "whyItMatters": "Connects GS-I Geography (meteorological phenomena like Western Disturbances) with GS-III Pollution and Environmental Degradation."
+    },
+    {
+      "headline": "Supreme Court Directs FSSAI on Front-of-Pack Warning Labels and School Nutritional Literacy",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/sc-seeks-clear-timeline-for-fssais-food-warning-label-rollout-calls-for-nutritional-literacy-in-schools/article71455653.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
+        }
+      ],
+      "date": "2026-09-12",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Issues Relating to Health & Social Sector Governance",
+      "summary": "The Supreme Court has asked the Food Safety and Standards Authority of India (FSSAI) for a clear timeline to implement mandatory Front-of-Pack Labeling (FOPL) for processed foods high in sugar, salt, and fats. The apex court also advised integrating nutritional literacy into school curricula to shield vulnerable children from unhealthy dietary choices.",
+      "whyItMatters": "Important for GS-II Public Health, Regulatory Frameworks, and Judicial Interventions in Social Welfare."
+    }
+  ],
+  "gs1": [
+    {
+      "headline": "Mitochondrial Study Links Kerala's Malabari Goat Genetics to Historical Indian Ocean Spice Route",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/ancient-spice-route-may-have-shaped-keralams-malabari-goats-genetic-legacy-study-shows/article71455391.ece"
+        }
+      ],
+      "date": "2026-09-12",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Ancient & Medieval History / Trade Routes",
+      "summary": "Researchers analyzing the complete mitochondrial genome of the indigenous Malabari goat found genetic markers indicating historical gene flow along the maritime Spice Route of the Indian Ocean, providing biological corroboration for ancient trade links between the Malabar coast and West Asia.",
+      "whyItMatters": "Provides multi-disciplinary evidence (genomics aiding history) regarding India's ancient maritime trade networks across the Indian Ocean."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Government Employees Resigning to Fight Elections Cannot Demand Reinstatement, Rules Rajasthan High Court",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
+        }
+      ],
+      "date": "2026-09-13",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Role of Civil Services in a Democracy & Neutrality",
+      "summary": "The Rajasthan High Court affirmed that a civil servant who resigns from service to contest elections on a political party ticket cannot later seek reinstatement into public service if defeated. The court reiterated that active political participation compromises the core constitutional requirement of civil service political neutrality.",
+      "whyItMatters": "Highly relevant for GS-II (Civil Services) and GS-IV (Ethics in Governance), reinforcing conduct rules and political non-partisanship among public servants."
+    },
+    {
+      "headline": "BRICS Summit Focuses on Local Currency Settlement Systems Over Common Currency",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/brics-treads-carefully-on-de-dollarisation-finance-track-talks-payments-not-a-common-currency/article71459353.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/india-rules-out-brics-currency-proposal-backs-local-currency-trade-settlements/articleshow/134138086.cms"
+        }
+      ],
+      "date": "2026-09-12",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Monetary Systems & Bilateral Trade",
+      "summary": "Clarifying its stand during the BRICS discussions on financial track integration, India ruled out creating a unified BRICS supranational currency. Instead, member states agreed to focus on interlinking national fast-payment systems and promoting cross-border trade settlements using local currencies to lower transaction costs.",
+      "whyItMatters": "Crucial for understanding India's calibrated foreign policy on de-dollarisation and maintaining balance between BRICS commitments and global financial architectures."
+    }
+  ],
+  "gs3": [
+    {
+      "headline": "RBI Rejects Tata Sons' De-registration Bid, Mandates Compliance with Upper-Layer NBFC Listing Norms",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+        }
+      ],
+      "date": "2026-09-13",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Environment & Biodiversity",
-      "summary": "A study by the Kerala Forest Research Institute highlights that periodic gregarious flowering and subsequent mass die-offs of bamboo create canopy gaps, increase forest fire risks, and cause rodent population surges (gregarious flowering syndrome). This ecological disruption frequently drives megaherbivores like elephants into agricultural lands.",
-      "whyItMatters": "Important for environmental ecology, forest management strategies, and understanding natural triggers of human-wildlife conflict."
+      "topic": "Indian Economy & Financial Regulation",
+      "summary": "The Reserve Bank of India (RBI) turned down a request by Tata Sons to surrender its Core Investment Company (CIC) registration. As an Upper-Layer NBFC (NBFC-UL) under the RBI's scale-based regulatory framework, Tata Sons remains legally bound to list its shares publicly.",
+      "whyItMatters": "Demonstrates the RBI's strict adherence to scale-based regulation for systemically important non-banking financial entities to ensure corporate governance and financial stability."
     },
     {
-      "headline": "Low Postdoctoral Fellowships and R&D Investment Underline Human Capital Challenges in Indian Science",
+      "headline": "DRDO to Establish New Advanced Missile Testing Range in West Bengal",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/education/the-ecosystem-divide-why-indian-bright-minds-thrive-abroad-but-stall-at-home/article71450553.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
         }
       ],
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "gsPaper": "GS III",
-      "relevance": "Mains",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Science and Technology - R&D Ecosystem",
-      "summary": "Recent data indicates India maintains only 262 full-time equivalent researchers per million population, with institutional funding supporting around 2,500 postdoctoral positions annually. Experts call for scaling up national R&D expenditure (currently ~0.64% of GDP) to prevent brain drain and foster deep-tech ecosystems.",
-      "whyItMatters": "Vital for mains questions on Science & Tech policies, Anusandhan National Research Foundation (ANRF), and building indigenous innovation capabilities."
+      "topic": "Indigenization of Technology & Defence Infrastructure",
+      "summary": "The Defence Research and Development Organisation (DRDO) is setting up a secondary missile and weapon testing facility along the coastline of West Bengal to supplement the existing Integrated Test Range (ITR) at Chandipur and Abdul Kalam Island in Odisha.",
+      "whyItMatters": "Enhances India's strategic defence testing capability and reduces operational load on existing east-coast testing sites."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Thirukkural translated into Russian was presented as a diplomatic gift during the India-Russia bilateral meeting at the BRICS Summit.",
-      "category": "Terminology",
-      "detail": "Written by ancient Tamil poet-philosopher Thiruvalluvar, Thirukkural is a classic text on ethics, political wisdom, and economic management divided into three books: Aram (Virtue), Porul (Wealth), and Inbam (Love)."
-    },
-    {
-      "fact": "Malabari Goat (also known as Tellicherry goat) genetic study links its lineage to ancient Indian Ocean maritime trade routes.",
+      "fact": "Gegeneophis chandgadi",
       "category": "Species",
-      "detail": "Indigenous to northern Kerala, the Malabari goat is a dual-purpose (meat and milk) breed known for high prolificacy. Mitochondrial genome sequencing showed genetic links with Middle Eastern goat breeds introduced via historical spice routes."
+      "detail": "A new species of legless amphibian (Caecilian) discovered in the Chandgad region of the northern Western Ghats, Maharashtra."
     },
     {
-      "fact": "FCNR(B) Account Currency Risk Dynamics",
+      "fact": "Core Investment Company (CIC)",
       "category": "Terminology",
-      "detail": "Foreign Currency Non-Resident (Bank) deposits are maintained in foreign currencies by NRIs. Under RBI swap facilities, principal currency risk is cushioned, but interest rate exposures are managed directly by commercial banks."
+      "detail": "A specialized non-banking financial company (NBFC) holding at least 90% of its net assets in equity, debentures, or debt of group companies."
     },
     {
-      "fact": "Bab al-Mandeb Strait",
+      "fact": "Western Dedicated Freight Corridor (WDFC)",
       "category": "Places",
-      "detail": "A strategic maritime strait connecting the Red Sea to the Gulf of Aden and Arabian Sea, separating the Arabian Peninsula (Yemen) from the Horn of Africa (Djibouti and Eritrea)."
+      "detail": "A 1,504-km long broad-gauge freight corridor connecting Dadri in Uttar Pradesh to Jawaharlal Nehru Port Trust (JNPT) near Mumbai."
     },
     {
-      "fact": "National Medical Commission (NMC) added over 13,000 undergraduate MBBS seats for the upcoming academic session.",
-      "category": "Organizations",
-      "detail": "NMC is the statutory regulatory body governing medical education and medical professionals in India, replacing the former Medical Council of India under the NMC Act, 2019."
+      "fact": "Carbon Border Adjustment Mechanism (CBAM)",
+      "category": "Terminology",
+      "detail": "An EU tariff policy imposing carbon prices on imports of carbon-intensive goods (e.g., steel, cement, aluminum) entering the EU market."
+    },
+    {
+      "fact": "Front-of-Pack Labeling (FOPL)",
+      "category": "Terminology",
+      "detail": "A simplified nutritional labeling system printed on food packages to warn consumers about high levels of sugar, salt, and saturated fats."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the Bab al-Mandeb Strait, consider the following statements:\n1. It connects the Red Sea directly to the Gulf of Oman.\n2. It lies between Yemen on the Arabian Peninsula and Djibouti and Eritrea in the Horn of Africa.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Core Investment Companies (CICs) in India, consider the following statements:\n1. A CIC is an NBFC carrying on the business of acquisition of shares and securities.\n2. It holds not less than 90% of its total assets in the form of investment in equity shares, preference shares, debt or loans in group companies.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect because Bab al-Mandeb connects the Red Sea to the Gulf of Aden (not the Gulf of Oman). Statement 2 is correct as it separates the Arabian Peninsula from the Horn of Africa."
+      "correctIndex": 2,
+      "explanation": "Both statements are correct according to Reserve Bank of India regulations governing Core Investment Companies."
     },
     {
-      "question": "Consider the following statements regarding the 'Talaq-e-Hassan' form of divorce:\n1. It involves three pronouncements of divorce made during three successive periods of purity (Tuhr).\n2. The divorce becomes irrevocable immediately upon the first pronouncement.\nWhich of the statements given above is/are correct?",
+      "question": "Recently discovered 'Gegeneophis chandgadi' belongs to which of the following animal groups?",
       "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct. Statement 2 is incorrect because Talaq-e-Hassan allows period for reconciliation after the first and second pronouncements; it becomes irrevocable only after the third pronouncement."
-    },
-    {
-      "question": "Which of the following best describes the ecological phenomenon known as 'Gregarious Flowering' in bamboo species?",
-      "options": [
-        "Flowering that occurs continuously throughout the life cycle of individual bamboo culms.",
-        "Simultaneous flowering of an entire bamboo species across a region followed by mass die-off.",
-        "Flowering restricted exclusively to artificial plantations during drought years.",
-        "A condition where bamboo plants produce fruit without seed germination."
+        "Reptiles",
+        "Amphibians",
+        "Freshwater fish",
+        "Insects"
       ],
       "correctIndex": 1,
-      "explanation": "Gregarious flowering is the synchronous flowering of a monocarpic bamboo species over wide geographical areas at long intervals (e.g., 40-60 years), after which the entire population dies."
+      "explanation": "Gegeneophis chandgadi is a newly discovered species of legless amphibian (caecilian) found in the Western Ghats."
     },
     {
-      "question": "In the context of monetary policy operations in India, what is the primary objective of Open Market Operation (OMO) bond sales by the RBI?",
+      "question": "Which of the following atmospheric phenomena accounts for a major share of the inter-annual variability of winter air pollution in Northern India?",
       "options": [
-        "To inject primary liquidity into the banking system during liquidity deficits.",
-        "To absorb excess durable liquidity from the market to align interest rates with targets.",
-        "To directly recapitalize public sector commercial banks.",
-        "To manage government budget deficits directly without issuing treasury bills."
+        "Tropical Cyclones",
+        "Western Disturbances",
+        "South-West Monsoon Retrogression",
+        "Polar Vortex Spills"
       ],
       "correctIndex": 1,
-      "explanation": "Sale of government securities under Open Market Operations (OMO) absorbs excess money/liquidity from the banking system, helping maintain monetary stability."
+      "explanation": "Recent scientific research shows that approximately 70% of the year-to-year variation in winter air pollution across North India is driven by the frequency of Western Disturbances."
     },
     {
-      "question": "The Thirukkural, an ancient text of Tamil literature, is traditionally divided into three parts. Which among the following is NOT one of those three parts?",
+      "question": "The term 'Carbon Border Adjustment Mechanism' (CBAM), frequently seen in news, is associated with which international entity?",
       "options": [
-        "Aram (Virtue)",
-        "Porul (Wealth)",
-        "Inbam (Love)",
-        "Moksha (Salvation)"
+        "World Bank",
+        "European Union",
+        "G20",
+        "UNFCCC"
       ],
-      "correctIndex": 3,
-      "explanation": "Thirukkural consists of 1,330 couplets divided into three sections: Aram (Virtue), Porul (Governance/Wealth), and Inbam/Kama (Love). 'Moksha' is not a separate section in the text."
+      "correctIndex": 1,
+      "explanation": "CBAM is a measure introduced by the European Union to place a fair price on the carbon emitted during the production of carbon-intensive goods imported into the EU."
+    },
+    {
+      "question": "Which of the following ports serves as the western terminus of the Western Dedicated Freight Corridor (WDFC)?",
+      "options": [
+        "Kandla Port",
+        "Mudra Port",
+        "Jawaharlal Nehru Port (JNPT)",
+        "Visakhapatnam Port"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Western Dedicated Freight Corridor connects Dadri in Uttar Pradesh to Jawaharlal Nehru Port Trust (JNPT) near Mumbai."
     }
   ],
   "schemes": [
     {
-      "name": "FASTag Digital Tolling System",
-      "ministry": "Ministry of Road Transport and Highways (MoRTH)",
-      "beneficiaries": "Highway commuters and logistics operators nationwide",
-      "objective": "To enable seamless, electronic toll collection at national highway toll plazas using Radio Frequency Identification (RFID) and Automatic Number Plate Recognition (ANPR).",
+      "name": "Dedicated Freight Corridor Project",
+      "ministry": "Ministry of Railways",
+      "beneficiaries": "Industrial corridors, exporters, freight operators, and logistics service providers",
+      "objective": "Construct dedicated high-speed heavy-haul rail tracks across major economic arteries to separate freight from passenger trains, lowering logistics costs.",
       "keyFeatures": [
-        "Linked directly to prepaid bank accounts or vehicle registration details.",
-        "Interoperable nationwide across national and state highways.",
-        "Transitioning towards barrier-free, multi-lane free-flow tolling by 2027."
+        "Covers Western DFC (Dadri to JNPT) and Eastern DFC (Ludhiana to Dankuni)",
+        "Automated train control and higher axle load capability",
+        "Direct integration with major sea ports along coastal routes"
       ],
-      "funding": "Implemented through National Highways Authority of India (NHAI) and National Payments Corporation of India (NPCI).",
-      "upscRelevance": "GS III - Infrastructure and Digital Public Infrastructure (DPI) applications."
+      "funding": "Funded jointly by Ministry of Railways, World Bank, and JICA (Japan International Cooperation Agency)",
+      "upscRelevance": "Crucial infrastructure project under GS-III related to economic growth, logistics speed, and reducing carbon intensity of transportation."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "R&D Expenditure and Innovation Capacity",
+      "topic": "Civil Service Neutrality & Administrative Ethics",
       "points": [
-        "Data Point: India spends approximately $13 per capita annually on scientific research compared to $250 by China and over $2,100 by the USA.",
-        "Researcher Density: India has 262 full-time-equivalent researchers per million population, highlighting a critical human capital gap in advanced research and development."
+        "Rajasthan High Court judgment upholding that government employees resigning to enter electoral politics forfeit the right to reinstatement, maintaining political non-partisanship as a non-negotiable principle of civil service."
       ]
     },
     {
-      "topic": "Judicial Intervention on Public Health",
+      "topic": "Global South & Multilateral Governance",
       "points": [
-        "Supreme Court Observation: Food safety and clear front-of-pack nutritional labeling are matters of paramount national interest, falling under the duty of the state to protect public health under Article 47."
+        "New Delhi BRICS Declaration emphasizing that developing nations must shape international trade and security rules rather than remaining passive recipients."
       ]
     }
   ],
   "whatToRemember": [
-    "BRICS 2026 Summit in New Delhi emphasizes trade settlement in local currencies and cross-border payment integration.",
-    "India's forex reserves hit a historic peak of $786 billion, prompting RBI OMO bond sales to handle domestic liquidity.",
-    "Western Dedicated Freight Corridor (2,843 km total network) reaches full operational status, improving logistics competitiveness.",
-    "Gauhati High Court validates Talaq-e-Hassan as a lawful procedure for dissolution of marriage under personal law.",
-    "Supreme Court directs FSSAI to provide clear, mandatory specifications for high sugar, salt, and fat warning labels on packaged foods.",
-    "Houthi control near the Bab al-Mandeb Strait threatens Red Sea trade routes and global energy supply stability."
+    "The 18th BRICS Summit in New Delhi resulted in the New Delhi Declaration, prioritizing local currency trade settlement systems over a single BRICS currency.",
+    "BRICS nations officially opposed unilateral carbon trade tariffs like the EU's Carbon Border Adjustment Mechanism (CBAM).",
+    "Western Dedicated Freight Corridor (WDFC) is now fully operational, completing a 2,843-km rail freight network across India.",
+    "Rajasthan HC ruled that civil servants quitting service to contest elections cannot seek reinstatement if defeated, upholding public service neutrality.",
+    "Scientific studies link 70% of North Indian winter pollution variability to the frequency of Western Disturbances.",
+    "Supreme Court asked FSSAI for a clear roadmap on mandatory Front-of-Pack Warning Labels (FOPL) to protect children from ultra-processed foods."
   ]
 }
