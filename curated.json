@@ -1,326 +1,316 @@
 {
-  "date": "2026-09-13",
-  "updatedAt": "2026-09-13T03:41:56.835Z",
+  "date": "2026-09-14",
+  "updatedAt": "2026-09-14T03:44:26.144Z",
   "frontPage": [
     {
-      "headline": "18th BRICS Summit Concludes in New Delhi: Key Outcomes on Trade, Governance, and Security",
+      "headline": "18th BRICS Summit Concludes in New Delhi with Adoption of New Delhi Declaration",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/brics-summit-2026-india-live-updates-narendra-modi-world-leaders-new-delhi-declaration-key-agenda-september-13-2026/article71462451.ece"
+          "url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/modi-global-south-must-shape-not-just-follow-rules/articleshow/134158493.cms"
+          "url": "https://timesofindia.indiatimes.com/india/as-india-leads-world-listens-rajnath-singh-hails-18th-brics-joint-declaration/articleshow/134231527.cms"
         }
       ],
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "International Groupings & Agreements",
-      "summary": "The 18th BRICS Summit in New Delhi resulted in the adoption of the New Delhi Declaration, emphasizing United Nations Security Council (UNSC) reforms, enhanced Global South representation, and joint counter-terrorism efforts. Member nations pushed for local currency trade settlement mechanisms while opposing unilateral trade barriers and protectionist carbon tariffs.",
-      "whyItMatters": "Crucial for GS-II International Relations syllabus covering multilateral forums, reform of global institutions, and India's leadership role in representing the Global South."
+      "topic": "Important International Institutions & Groupings",
+      "summary": "The 18th BRICS Summit hosted in New Delhi concluded with the unanimous adoption of the New Delhi Declaration. Member nations focused on reforms in global governance, expanding trade settlements in local currencies, establishing independent trade insurance platforms, and avoiding the weaponisation of technology and critical minerals.",
+      "whyItMatters": "Demonstrates India's balancing role in global diplomacy, bridging Global South priorities with major global powers while advancing multilateral institutional reforms."
     },
     {
-      "headline": "India-China Bilateral Dialogue Emphasizes Border Peace as Precondition for Normalization",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/xi-modi-welcome-steady-progress-in-india-china-ties/article71460892.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/thaw-in-ties-deserves-to-be-cherished-says-xi-border-peace-is-essential-pm-modi/articleshow/134171824.cms"
-        }
-      ],
-      "date": "2026-09-13",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "India and its Neighborhood",
-      "summary": "Prime Minister Narendra Modi and Chinese President Xi Jinping acknowledged ongoing progress in bilateral relations during their meeting on the sidelines of the BRICS Summit. India reiterated that maintaining peace and tranquillity along the Line of Actual Control (LAC) remains essential for sustainable diplomatic and economic ties.",
-      "whyItMatters": "Directly impacts GS-II India's bilateral relations and neighborhood policy, highlighting the balance between economic engagements and border security management."
-    },
-    {
-      "headline": "Western Dedicated Freight Corridor (DFC) Operationalization Boosts National Logistics Network",
+      "headline": "India Completes 2,843-km Dedicated Freight Corridor Network",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/india-completes-its-2843-km-dedicated-freight-corridor-network-why-its-a-game-changer-for-railways/articleshow/134202894.cms"
         }
       ],
-      "date": "2026-09-12",
+      "date": "2026-09-14",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
       "topic": "Infrastructure: Railways & Logistics",
-      "summary": "The full operationalization of the Western Dedicated Freight Corridor marks a major milestone in completing India's 2,843-km dedicated freight network. The corridor aims to drastically cut transit time, lower logistics costs as a percentage of GDP, and decongest the conventional railway network.",
-      "whyItMatters": "Relevant for GS-III Infrastructure and Economy, specifically in reducing supply chain costs and achieving targets set under the National Logistics Policy."
+      "summary": "With the commissioning of final operational stretches, India has fully completed its 2,843-km Dedicated Freight Corridor (DFC) network, spanning both the Eastern and Western DFCs. The milestone aims to drastically reduce freight transit times, boost railway freight share, and cut logistics costs in line with National Logistics Policy goals.",
+      "whyItMatters": "High-priority infrastructure topic under GS III, essential for analyzing supply chain efficiency, industrial corridors, and eco-friendly freight transport."
     },
     {
-      "headline": "BRICS Nations Reject Unilateral Green Trade Barriers Including EU's Carbon Border Tax",
+      "headline": "Protests Mount in Western Ghats over Centre's 7th Draft Notification on Ecologically Sensitive Areas",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece"
+        }
+      ],
+      "date": "2026-09-14",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation & Western Ghats Protection",
+      "summary": "Local communities in the high-range districts of Kerala have renewed protests against the Union Ministry of Environment, Forest and Climate Change's seventh draft notification declaring Ecologically Sensitive Areas (ESAs) in the Western Ghats. High-range residents cite concerns over restrictions on agriculture, construction, and livelihoods.",
+      "whyItMatters": "Connects directly to the Kasturirangan and Gadgil Committee reports on Western Ghats ecology versus developmental and community rights."
+    },
+    {
+      "headline": "Union Home Minister Signals Uniform Civil Code Implementation Plan Across States",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+          "url": "https://timesofindia.indiatimes.com/india/bjp-led-govts-in-21-states-to-bring-ucc-before-2029-shah/articleshow/134229519.cms"
         }
       ],
-      "date": "2026-09-13",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Global Trade Regimes & Climate Finance",
-      "summary": "BRICS member countries collectively voiced opposition to unilateral protectionist trade measures introduced under the pretext of environmental policies, explicitly citing mechanisms like the EU's Carbon Border Adjustment Mechanism (CBAM). The bloc argued that such taxes violate WTO principles and disproportionately penalize developing economies.",
-      "whyItMatters": "Intersects GS-II International Trade and GS-III Environment & Climate Change negotiations, focusing on common but differentiated responsibilities (CBDR) and non-tariff barriers."
-    },
-    {
-      "headline": "Study Links 70% of North India's Winter Air Pollution Variability to Western Disturbances",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/70-of-yearly-change-in-winter-pollution-in-north-india-explained-by-western-disturbances-study/article71455674.ece"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS I & III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Climatology & Environmental Pollution",
-      "summary": "A new atmospheric study reveals that up to 70% of the year-to-year variation in winter air pollution levels across northern India is dictated by the frequency and intensity of Western Disturbances. Years with more frequent western disturbances witness better pollutant dispersion due to associated rainfall and wind patterns.",
-      "whyItMatters": "Connects GS-I Geography (meteorological phenomena like Western Disturbances) with GS-III Pollution and Environmental Degradation."
-    },
-    {
-      "headline": "Supreme Court Directs FSSAI on Front-of-Pack Warning Labels and School Nutritional Literacy",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/sc-seeks-clear-timeline-for-fssais-food-warning-label-rollout-calls-for-nutritional-literacy-in-schools/article71455653.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Issues Relating to Health & Social Sector Governance",
-      "summary": "The Supreme Court has asked the Food Safety and Standards Authority of India (FSSAI) for a clear timeline to implement mandatory Front-of-Pack Labeling (FOPL) for processed foods high in sugar, salt, and fats. The apex court also advised integrating nutritional literacy into school curricula to shield vulnerable children from unhealthy dietary choices.",
-      "whyItMatters": "Important for GS-II Public Health, Regulatory Frameworks, and Judicial Interventions in Social Welfare."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "Mitochondrial Study Links Kerala's Malabari Goat Genetics to Historical Indian Ocean Spice Route",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/ancient-spice-route-may-have-shaped-keralams-malabari-goats-genetic-legacy-study-shows/article71455391.ece"
-        }
-      ],
-      "date": "2026-09-12",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Ancient & Medieval History / Trade Routes",
-      "summary": "Researchers analyzing the complete mitochondrial genome of the indigenous Malabari goat found genetic markers indicating historical gene flow along the maritime Spice Route of the Indian Ocean, providing biological corroboration for ancient trade links between the Malabar coast and West Asia.",
-      "whyItMatters": "Provides multi-disciplinary evidence (genomics aiding history) regarding India's ancient maritime trade networks across the Indian Ocean."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Government Employees Resigning to Fight Elections Cannot Demand Reinstatement, Rules Rajasthan High Court",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
-        }
-      ],
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "gsPaper": "GS II",
       "relevance": "Mains",
       "importance": "High",
-      "topic": "Role of Civil Services in a Democracy & Neutrality",
-      "summary": "The Rajasthan High Court affirmed that a civil servant who resigns from service to contest elections on a political party ticket cannot later seek reinstatement into public service if defeated. The court reiterated that active political participation compromises the core constitutional requirement of civil service political neutrality.",
-      "whyItMatters": "Highly relevant for GS-II (Civil Services) and GS-IV (Ethics in Governance), reinforcing conduct rules and political non-partisanship among public servants."
+      "topic": "Directive Principles of State Policy & Constitutional Law",
+      "summary": "Union Home Minister Amit Shah announced plans to introduce Uniform Civil Code (UCC) legislation across 21 states prior to 2029. The initiative builds on Uttarakhand's legislative model to standardize personal laws governing marriage, divorce, inheritance, and adoption across religious communities.",
+      "whyItMatters": "Directly linked to Article 44 of the Directive Principles of State Policy, personal law reforms, gender equality, and federal legislative competence."
     },
     {
-      "headline": "BRICS Summit Focuses on Local Currency Settlement Systems Over Common Currency",
+      "headline": "India and Vietnam to Accelerate Maritime Security Ties and Defence Technology Sharing",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/india-vietnam-agree-to-accelerate-defence-technology-sharing-boost-maritime-ties/articleshow/134220860.cms"
+        }
+      ],
+      "date": "2026-09-14",
+      "gsPaper": "GS II",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Bilateral Relations & Indo-Pacific Security",
+      "summary": "India and Vietnam agreed to deepen their strategic partnership by accelerating defence tech transfers, joint naval exercises, and maritime domain awareness across the Indo-Pacific region. The move underlines India's Act East Policy and focus on freedom of navigation in regional waters.",
+      "whyItMatters": "Key element of India's Act East strategy and maritime diplomacy in Southeast Asia."
+    }
+  ],
+  "gs1": [],
+  "gs2": [
+    {
+      "headline": "Bangladesh Expresses Intent to Reset Bilateral Relations with India via Direct Discussions",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/brics-treads-carefully-on-de-dollarisation-finance-track-talks-payments-not-a-common-currency/article71459353.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/india-rules-out-brics-currency-proposal-backs-local-currency-trade-settlements/articleshow/134138086.cms"
+          "url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece"
         }
       ],
-      "date": "2026-09-12",
+      "date": "2026-09-14",
       "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "High",
-      "topic": "International Monetary Systems & Bilateral Trade",
-      "summary": "Clarifying its stand during the BRICS discussions on financial track integration, India ruled out creating a unified BRICS supranational currency. Instead, member states agreed to focus on interlinking national fast-payment systems and promoting cross-border trade settlements using local currencies to lower transaction costs.",
-      "whyItMatters": "Crucial for understanding India's calibrated foreign policy on de-dollarisation and maintaining balance between BRICS commitments and global financial architectures."
+      "importance": "Medium",
+      "topic": "India and its Neighborhood - Relations",
+      "summary": "Bangladesh's State Minister for Foreign Affairs emphasized the country's interest in moving toward a balanced, pragmatic bilateral relationship with India through direct engagements. The minister noted the need to move beyond historical friction to focus on trade, transit, and regional stability.",
+      "whyItMatters": "Critical for understanding shifting political dynamics in South Asia and India's 'Neighborhood First' policy."
+    },
+    {
+      "headline": "Ministry of Home Affairs Consults Ladakh Stakeholders on UT Governance and Representative Structure",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/for-governance-draft-mha-asks-ladakh-bodies-to-answer-7-queries/articleshow/13427505.cms"
+        }
+      ],
+      "date": "2026-09-14",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Governance, UT Administration & Sixth Schedule Demands",
+      "summary": "The Union Ministry of Home Affairs has submitted a questionnaire to Ladakh governance groups regarding proposed representative mechanisms, direct election mandates, and administrative safeguards for the Union Territory.",
+      "whyItMatters": "Relates to Sixth Schedule demands, constitutional safeguards for indigenous tribal populations, and UT administrative structures."
     }
   ],
   "gs3": [
     {
-      "headline": "RBI Rejects Tata Sons' De-registration Bid, Mandates Compliance with Upper-Layer NBFC Listing Norms",
+      "headline": "Pygmy Hog Population Shows Recovery Following Conservation and Captive Breeding Efforts",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/assam/assam-cm-highlights-big-comeback-of-small-hog/article71462548.ece"
         }
       ],
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "gsPaper": "GS III",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Indian Economy & Financial Regulation",
-      "summary": "The Reserve Bank of India (RBI) turned down a request by Tata Sons to surrender its Core Investment Company (CIC) registration. As an Upper-Layer NBFC (NBFC-UL) under the RBI's scale-based regulatory framework, Tata Sons remains legally bound to list its shares publicly.",
-      "whyItMatters": "Demonstrates the RBI's strict adherence to scale-based regulation for systemically important non-banking financial entities to ensure corporate governance and financial stability."
+      "importance": "High",
+      "topic": "Biodiversity Conservation & Endangered Species",
+      "summary": "Assam's conservation programs have reported a successful recovery of the Pygmy Hog (Porcula salvania), the world's smallest and rarest wild pig species. Once thought extinct, wild numbers have increased from just 6 individuals in 1996 to nearly 200 in monitored grasslands today following structured captive breeding and reintroduction.",
+      "whyItMatters": "A prime example of species recovery programs in tall grassland ecosystems (such as Manas National Park) relevant for Prelims and Mains environment questions."
     },
     {
-      "headline": "DRDO to Establish New Advanced Missile Testing Range in West Bengal",
+      "headline": "India-France Space Enterprises Sign Strategic Industry Agreements",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
+          "url": "https://timesofindia.indiatimes.com/india/india-france-boost-space-cooperation-with-3-key-agreements-between-their-companies/articleshow/134221099.cms"
         }
       ],
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "gsPaper": "GS III",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Indigenization of Technology & Defence Infrastructure",
-      "summary": "The Defence Research and Development Organisation (DRDO) is setting up a secondary missile and weapon testing facility along the coastline of West Bengal to supplement the existing Integrated Test Range (ITR) at Chandipur and Abdul Kalam Island in Odisha.",
-      "whyItMatters": "Enhances India's strategic defence testing capability and reduces operational load on existing east-coast testing sites."
+      "topic": "Space Technology & International Bilateral Tech Cooperation",
+      "summary": "Indian and French commercial space firms signed three key agreements to boost satellite component manufacturing, launch services cooperation, and joint earth observation data sharing, building on the strategic space partnership between ISRO and CNES.",
+      "whyItMatters": "Highlights growing private sector involvement in India's space ecosystem following IN-SPACe reforms."
+    },
+    {
+      "headline": "RBI Issues Guidelines Restricting Account Freezing to Disputed Amounts in Cyber Fraud Investigations",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-only-disputed-amt-can-be-frozen-under-new-norms/articleshow/134229725.cms"
+        }
+      ],
+      "date": "2026-09-14",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Banking Regulations & Cyber Crime Management",
+      "summary": "The Reserve Bank of India clarified regulatory norms directing commercial banks to freeze only the specific quantum of money tied to disputed or fraudulent transactions during cybercrime investigations, rather than blocking an account holder's entire bank balance.",
+      "whyItMatters": "Protects consumer rights and financial stability while enhancing procedural clarity for law enforcement handling financial fraud."
+    },
+    {
+      "headline": "Indian Semiconductor Ecosystem Reaches $1.4 Billion in Private Investment",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-semiconductor-sector-attracts-1-4-billion-in-funding-across-281-companies/articleshow/134197886.cms"
+        }
+      ],
+      "date": "2026-09-14",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Indigenisation of Technology & Industrial Growth",
+      "summary": "Equity funding into India's semiconductor design, fabless startup, and assembly ecosystem has crossed $1.4 billion across 281 companies, with nearly half of the investments coming in recent years supported by the India Semiconductor Mission (ISM).",
+      "whyItMatters": "Reflects progress under the Semiconductor Mission, essential for domestic manufacturing, supply chain resilience, and tech sovereignty."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Gegeneophis chandgadi",
+      "fact": "Pygmy Hog (Porcula salvania)",
       "category": "Species",
-      "detail": "A new species of legless amphibian (Caecilian) discovered in the Chandgad region of the northern Western Ghats, Maharashtra."
+      "detail": "World's smallest wild pig species, endemic to sub-Himalayan alluvial grasslands (e.g., Manas, Assam). Classified as Endangered on IUCN Red List."
     },
     {
-      "fact": "Core Investment Company (CIC)",
-      "category": "Terminology",
-      "detail": "A specialized non-banking financial company (NBFC) holding at least 90% of its net assets in equity, debentures, or debt of group companies."
-    },
-    {
-      "fact": "Western Dedicated Freight Corridor (WDFC)",
+      "fact": "Tso Kar Glacial Lake",
       "category": "Places",
-      "detail": "A 1,504-km long broad-gauge freight corridor connecting Dadri in Uttar Pradesh to Jawaharlal Nehru Port Trust (JNPT) near Mumbai."
+      "detail": "A high-altitude salt lake complex located in the Rupshu Plateau of Ladakh, recognized as a Ramsar Site (Wetland of International Importance)."
     },
     {
-      "fact": "Carbon Border Adjustment Mechanism (CBAM)",
+      "fact": "Environmental DNA (eDNA) via Spider Webs",
       "category": "Terminology",
-      "detail": "An EU tariff policy imposing carbon prices on imports of carbon-intensive goods (e.g., steel, cement, aluminum) entering the EU market."
+      "detail": "Recent scientific studies demonstrate that spider webs passively act as natural air samplers, trapping environmental DNA of nearby terrestrial vertebrates for biodiversity monitoring."
     },
     {
-      "fact": "Front-of-Pack Labeling (FOPL)",
-      "category": "Terminology",
-      "detail": "A simplified nutritional labeling system printed on food packages to warn consumers about high levels of sugar, salt, and saturated fats."
+      "fact": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL)",
+      "category": "Organizations",
+      "detail": "A Special Purpose Vehicle (SPV) under the Ministry of Railways created to construct, maintain, and operate the Western and Eastern Dedicated Freight Corridors."
+    },
+    {
+      "fact": "Przewalski's Horse",
+      "category": "Species",
+      "detail": "Considered the last true wild horse species in the world, successfully reintroduced to native habitats in Central Asia and northern China after being extinct in the wild."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to Core Investment Companies (CICs) in India, consider the following statements:\n1. A CIC is an NBFC carrying on the business of acquisition of shares and securities.\n2. It holds not less than 90% of its total assets in the form of investment in equity shares, preference shares, debt or loans in group companies.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Pygmy Hog (Porcula salvania), consider the following statements:\n1. It is the world's smallest wild pig species.\n2. It is endemic to the tropical rainforests of the Western Ghats.\n3. Reintroduction programs have successfully established populations in Manas National Park.\nWhich of the statements given above is/are correct?",
       "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
+        "1 and 2 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Statement 1 is correct. Statement 2 is incorrect because the Pygmy Hog is endemic to sub-Himalayan alluvial grasslands (such as in Assam), not Western Ghats rainforests. Statement 3 is correct as reintroduction programs centered around Manas National Park."
+    },
+    {
+      "question": "The Tso Kar Wetland Complex, recently in news for glacial water stream channelization, is located in which State/UT?",
+      "options": [
+        "Sikkim",
+        "Arunachal Pradesh",
+        "Ladakh",
+        "Himachal Pradesh"
       ],
       "correctIndex": 2,
-      "explanation": "Both statements are correct according to Reserve Bank of India regulations governing Core Investment Companies."
+      "explanation": "Tso Kar is a high-altitude Ramsar site situated in the Changthang region of Ladakh."
     },
     {
-      "question": "Recently discovered 'Gegeneophis chandgadi' belongs to which of the following animal groups?",
+      "question": "Consider the following operational corridors in Indian Railways:\n1. Eastern Dedicated Freight Corridor (EDFC)\n2. Western Dedicated Freight Corridor (WDFC)\nWhich of the following points serves as the junction linking both corridors?",
       "options": [
-        "Reptiles",
-        "Amphibians",
-        "Freshwater fish",
-        "Insects"
+        "Dadri",
+        "Vadodara",
+        "Ludhiana",
+        "Dankuni"
       ],
-      "correctIndex": 1,
-      "explanation": "Gegeneophis chandgadi is a newly discovered species of legless amphibian (caecilian) found in the Western Ghats."
+      "correctIndex": 0,
+      "explanation": "The Eastern DFC (Ludhiana to Dankuni) and Western DFC (Jawaharlal Nehru Port to Dadri) meet at Dadri in Uttar Pradesh."
     },
     {
-      "question": "Which of the following atmospheric phenomena accounts for a major share of the inter-annual variability of winter air pollution in Northern India?",
+      "question": "Under Article 44 of the Constitution of India, the State shall endeavor to secure for citizens a Uniform Civil Code throughout the territory of India. This provision is contained under:",
       "options": [
-        "Tropical Cyclones",
-        "Western Disturbances",
-        "South-West Monsoon Retrogression",
-        "Polar Vortex Spills"
-      ],
-      "correctIndex": 1,
-      "explanation": "Recent scientific research shows that approximately 70% of the year-to-year variation in winter air pollution across North India is driven by the frequency of Western Disturbances."
-    },
-    {
-      "question": "The term 'Carbon Border Adjustment Mechanism' (CBAM), frequently seen in news, is associated with which international entity?",
-      "options": [
-        "World Bank",
-        "European Union",
-        "G20",
-        "UNFCCC"
-      ],
-      "correctIndex": 1,
-      "explanation": "CBAM is a measure introduced by the European Union to place a fair price on the carbon emitted during the production of carbon-intensive goods imported into the EU."
-    },
-    {
-      "question": "Which of the following ports serves as the western terminus of the Western Dedicated Freight Corridor (WDFC)?",
-      "options": [
-        "Kandla Port",
-        "Mudra Port",
-        "Jawaharlal Nehru Port (JNPT)",
-        "Visakhapatnam Port"
+        "Fundamental Rights",
+        "Preamble",
+        "Directive Principles of State Policy",
+        "Fundamental Duties"
       ],
       "correctIndex": 2,
-      "explanation": "The Western Dedicated Freight Corridor connects Dadri in Uttar Pradesh to Jawaharlal Nehru Port Trust (JNPT) near Mumbai."
+      "explanation": "Article 44 forms part of Part IV (Directive Principles of State Policy) of the Indian Constitution."
+    },
+    {
+      "question": "What is the primary objective of using environmental DNA (eDNA) sampling techniques in ecological studies?",
+      "options": [
+        "To modify genetic sequences of endangered species",
+        "To detect presence of biological organisms from cellular shed in environmental media like water, air, or spider webs",
+        "To clone extinct fauna using preserved skeletal samples",
+        "To track satellite telemetry signals of wild herds"
+      ],
+      "correctIndex": 1,
+      "explanation": "eDNA sampling isolates trace genetic material left behind by organisms in soil, water, air, or natural traps (like spider webs) to non-invasively identify biodiversity."
     }
   ],
   "schemes": [
     {
-      "name": "Dedicated Freight Corridor Project",
-      "ministry": "Ministry of Railways",
-      "beneficiaries": "Industrial corridors, exporters, freight operators, and logistics service providers",
-      "objective": "Construct dedicated high-speed heavy-haul rail tracks across major economic arteries to separate freight from passenger trains, lowering logistics costs.",
+      "name": "India Semiconductor Mission (ISM)",
+      "ministry": "Ministry of Electronics and Information Technology (MeitY)",
+      "beneficiaries": "Semiconductor design companies, fabrication plants, packaging units, and research institutions",
+      "objective": "Build a vibrant, self-reliant semiconductor and display design and manufacturing ecosystem in India.",
       "keyFeatures": [
-        "Covers Western DFC (Dadri to JNPT) and Eastern DFC (Ludhiana to Dankuni)",
-        "Automated train control and higher axle load capability",
-        "Direct integration with major sea ports along coastal routes"
+        "Financial support up to 50% of project cost for setting up Semiconductor Fabs and Display Fabs.",
+        "Design Linked Incentive (DLI) scheme offering financial incentives and infrastructure support for domestic chip design."
       ],
-      "funding": "Funded jointly by Ministry of Railways, World Bank, and JICA (Japan International Cooperation Agency)",
-      "upscRelevance": "Crucial infrastructure project under GS-III related to economic growth, logistics speed, and reducing carbon intensity of transportation."
+      "funding": "Rs 76,000 crore outlay under the National Semiconductor Policy",
+      "upscRelevance": "Highly relevant for GS III (Indigenisation of Technology, Electronics Manufacturing, Supply Chain Resilience)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Civil Service Neutrality & Administrative Ethics",
+      "topic": "Logistics & Railway Infrastructure Efficiency",
       "points": [
-        "Rajasthan High Court judgment upholding that government employees resigning to enter electoral politics forfeit the right to reinstatement, maintaining political non-partisanship as a non-negotiable principle of civil service."
+        "Operationalisation of 2,843 km Dedicated Freight Corridors (DFCs) increases average freight train speeds from ~25 km/h to over 60 km/h, reducing logistics costs towards the target of 8% of GDP.",
+        "DFCs decouple heavy freight traffic from passenger routes, increasing line capacity across trunk routes of Indian Railways."
       ]
     },
     {
-      "topic": "Global South & Multilateral Governance",
+      "topic": "Global Governance Reforms & Multilateral Diplomacy",
       "points": [
-        "New Delhi BRICS Declaration emphasizing that developing nations must shape international trade and security rules rather than remaining passive recipients."
+        "The New Delhi Declaration at the 18th BRICS Summit highlights growing consensus among Global South nations for non-dollar trade settlement mechanisms and reformed quota shares in multilateral financial institutions like the IMF."
       ]
     }
   ],
   "whatToRemember": [
-    "The 18th BRICS Summit in New Delhi resulted in the New Delhi Declaration, prioritizing local currency trade settlement systems over a single BRICS currency.",
-    "BRICS nations officially opposed unilateral carbon trade tariffs like the EU's Carbon Border Adjustment Mechanism (CBAM).",
-    "Western Dedicated Freight Corridor (WDFC) is now fully operational, completing a 2,843-km rail freight network across India.",
-    "Rajasthan HC ruled that civil servants quitting service to contest elections cannot seek reinstatement if defeated, upholding public service neutrality.",
-    "Scientific studies link 70% of North Indian winter pollution variability to the frequency of Western Disturbances.",
-    "Supreme Court asked FSSAI for a clear roadmap on mandatory Front-of-Pack Warning Labels (FOPL) to protect children from ultra-processed foods."
+    "Completion of India's 2,843-km Dedicated Freight Corridor network marks a milestone in logistics cost reduction.",
+    "The 18th BRICS Summit in New Delhi adopted the New Delhi Declaration, emphasizing local currency trade and global institution reforms.",
+    "Assam's captive breeding program revived the endangered Pygmy Hog from 6 in 1996 to nearly 200 today.",
+    "MHA has initiated structural queries on UT governance and representation for Ladakh.",
+    "RBI updated account freezing guidelines to restrict blocks only to disputed funds in cyber fraud cases."
   ]
 }
