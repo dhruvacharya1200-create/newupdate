@@ -1,316 +1,283 @@
 {
-  "date": "2026-09-14",
-  "updatedAt": "2026-09-14T03:44:26.144Z",
+  "date": "2026-09-15",
+  "updatedAt": "2026-09-15T03:44:18.376Z",
   "frontPage": [
     {
-      "headline": "18th BRICS Summit Concludes in New Delhi with Adoption of New Delhi Declaration",
+      "headline": "Government Waives Bank Charges on UPI and RuPay Transactions Up to ₹2,000",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/videos/why-the-brics-summit-was-a-major-diplomatic-win-for-india/article71465371.ece"
+          "url": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/as-india-leads-world-listens-rajnath-singh-hails-18th-brics-joint-declaration/articleshow/134231527.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/upi-payments-up-to-rs-2000-to-remain-free-of-charges-govt/articleshow/134250244.cms"
         }
       ],
-      "date": "2026-09-14",
-      "gsPaper": "GS II",
+      "date": "2026-09-15",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Important International Institutions & Groupings",
-      "summary": "The 18th BRICS Summit hosted in New Delhi concluded with the unanimous adoption of the New Delhi Declaration. Member nations focused on reforms in global governance, expanding trade settlements in local currencies, establishing independent trade insurance platforms, and avoiding the weaponisation of technology and critical minerals.",
-      "whyItMatters": "Demonstrates India's balancing role in global diplomacy, bridging Global South priorities with major global powers while advancing multilateral institutional reforms."
+      "topic": "Digital Public Infrastructure & Banking",
+      "summary": "The Union government has issued notifications under the Payment and Settlement Systems Act, 2007, reaffirming that no merchant discount rate (MDR) or transaction charges will be levied on digital payments up to ₹2,000 made via UPI or RuPay-powered debit cards. The measure aims to boost digital payment adoption among small merchants and informal sector participants.",
+      "whyItMatters": "Relevant for GS-III topics on Financial Inclusion, Digital Infrastructure, and E-commerce. Demonstrates state interventions to sustain digital ecosystem momentum and formalize micro-transactions."
     },
     {
-      "headline": "India Completes 2,843-km Dedicated Freight Corridor Network",
+      "headline": "Chief Justice of India Emphasizes Judicial Accountability and Public Scrutiny",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
+          "url": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece"
+        }
+      ],
+      "date": "2026-09-15",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Judiciary & Governance",
+      "summary": "The Chief Justice of India observed that the judiciary cannot secure public confidence by insulating itself from external evaluation or criticism, highlighting that courts must stay open to public questioning and constructive feedback. The statements underline the balance between judicial independence and public accountability.",
+      "whyItMatters": "Connects to GS-II (Structure, Organisation and Functioning of the Judiciary) and GS-IV (Ethics and Accountability in Governance). Useful for questions on judicial transparency, judicial ethics, and institution-building."
+    },
+    {
+      "headline": "India Approves Expedited Power Supply of 654 MW to Flood-Affected Nepal",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/india-completes-its-2843-km-dedicated-freight-corridor-network-why-its-a-game-changer-for-railways/articleshow/134202894.cms"
+          "url": "https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms"
         }
       ],
-      "date": "2026-09-14",
-      "gsPaper": "GS III",
+      "date": "2026-09-15",
+      "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Infrastructure: Railways & Logistics",
-      "summary": "With the commissioning of final operational stretches, India has fully completed its 2,843-km Dedicated Freight Corridor (DFC) network, spanning both the Eastern and Western DFCs. The milestone aims to drastically reduce freight transit times, boost railway freight share, and cut logistics costs in line with National Logistics Policy goals.",
-      "whyItMatters": "High-priority infrastructure topic under GS III, essential for analyzing supply chain efficiency, industrial corridors, and eco-friendly freight transport."
+      "topic": "India and its Neighborhood",
+      "summary": "India's Ministry of Power approved the daily supply of up to 654 MW of electricity to Nepal through the end of the year to help the neighboring country navigate power shortages triggered by severe flooding. The move builds on cross-border energy trade agreements under India's Neighborhood First Policy.",
+      "whyItMatters": "Directly impacts GS-II syllabus on International Relations, Neighborhood First Policy, and regional energy connectivity via BBIN-like regional cooperation frameworks."
     },
     {
-      "headline": "Protests Mount in Western Ghats over Centre's 7th Draft Notification on Ecologically Sensitive Areas",
+      "headline": "Study Warns of Ecological Crises Caused by Mass Bamboo Flowering and Die-Off",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict,study-warns/article71450844.ece"
         }
       ],
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Environmental Conservation & Western Ghats Protection",
-      "summary": "Local communities in the high-range districts of Kerala have renewed protests against the Union Ministry of Environment, Forest and Climate Change's seventh draft notification declaring Ecologically Sensitive Areas (ESAs) in the Western Ghats. High-range residents cite concerns over restrictions on agriculture, construction, and livelihoods.",
-      "whyItMatters": "Connects directly to the Kasturirangan and Gadgil Committee reports on Western Ghats ecology versus developmental and community rights."
+      "topic": "Ecology & Wildlife Management",
+      "summary": "A study by the Kerala Forest Research Institute (KFRI) warns that gregarious (synchronous) bamboo flowering and subsequent die-off can trigger severe ecological imbalances. The phenomenon leads to forest fires due to dry biomass, invasive weed proliferation, surges in rodent populations, and heightened human-elephant conflict.",
+      "whyItMatters": "Important for GS-III Biodiversity & Environment. Highlights biological phenomena like mautam/gregarious flowering and their cascading impacts on human-wildlife conflict and forest ecology."
     },
     {
-      "headline": "Union Home Minister Signals Uniform Civil Code Implementation Plan Across States",
+      "headline": "Retail Inflation Rises to 4.82% while WPI Climbs to 9.92% in August",
       "sources": [
         {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece"
+        },
+        {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/bjp-led-govts-in-21-states-to-bring-ucc-before-2029-shah/articleshow/134229519.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-retail-inflation-rises-to-4-82-wholesale-inflation-climbs-to-9-92/articleshow/134241039.cms"
         }
       ],
-      "date": "2026-09-14",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
+      "date": "2026-09-15",
+      "gsPaper": "GS III",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Directive Principles of State Policy & Constitutional Law",
-      "summary": "Union Home Minister Amit Shah announced plans to introduce Uniform Civil Code (UCC) legislation across 21 states prior to 2029. The initiative builds on Uttarakhand's legislative model to standardize personal laws governing marriage, divorce, inheritance, and adoption across religious communities.",
-      "whyItMatters": "Directly linked to Article 44 of the Directive Principles of State Policy, personal law reforms, gender equality, and federal legislative competence."
+      "topic": "Indian Economy & Inflation Dynamics",
+      "summary": "Official economic statistics for August reflect an upward pressure on prices, with retail inflation (CPI) rising to 4.82% and wholesale price inflation (WPI) nearing double digits at 9.92%. Higher food prices and volatile global energy costs contributed significantly to the spike.",
+      "whyItMatters": "Core macroeconomics topic for GS-III (Inflation management, Monetary Policy Committee targets, WPI vs CPI divergence, and supply-side management)."
     },
     {
-      "headline": "India and Vietnam to Accelerate Maritime Security Ties and Defence Technology Sharing",
+      "headline": "US Legislative Amendment Seeks Sanctions on Russian Crude 'Shadow Fleet' and Energy Partners",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-vietnam-agree-to-accelerate-defence-technology-sharing-boost-maritime-ties/articleshow/134220860.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece"
         }
       ],
-      "date": "2026-09-14",
-      "gsPaper": "GS II",
-      "relevance": "Prelims",
+      "date": "2026-09-15",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Bilateral Relations & Indo-Pacific Security",
-      "summary": "India and Vietnam agreed to deepen their strategic partnership by accelerating defence tech transfers, joint naval exercises, and maritime domain awareness across the Indo-Pacific region. The move underlines India's Act East Policy and focus on freedom of navigation in regional waters.",
-      "whyItMatters": "Key element of India's Act East strategy and maritime diplomacy in Southeast Asia."
+      "topic": "Global Geopolitics & Energy Security",
+      "summary": "An amendment proposed to the US Senate's Russia sanctions legislation targets maritime shadow fleets assisting Moscow in evading oil price caps. The proposal specifically addresses secondary sanctions that could affect third countries, including India, maintaining trade ties with Russia's energy sector.",
+      "whyItMatters": "Relevant for GS-II (Bilateral & Multilateral Relations) and GS-III (Energy Security). Illustrates challenges facing India's Strategic Autonomy amidst unilateral Western sanctions."
     }
   ],
   "gs1": [],
   "gs2": [
     {
-      "headline": "Bangladesh Expresses Intent to Reset Bilateral Relations with India via Direct Discussions",
+      "headline": "BRICS Summit Emphasizes Resilience in Critical Mineral Supply Chains",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/bangladesh-wants-to-reset-ties-with-india/article71464479.ece"
-        }
-      ],
-      "date": "2026-09-14",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "India and its Neighborhood - Relations",
-      "summary": "Bangladesh's State Minister for Foreign Affairs emphasized the country's interest in moving toward a balanced, pragmatic bilateral relationship with India through direct engagements. The minister noted the need to move beyond historical friction to focus on trade, transit, and regional stability.",
-      "whyItMatters": "Critical for understanding shifting political dynamics in South Asia and India's 'Neighborhood First' policy."
-    },
-    {
-      "headline": "Ministry of Home Affairs Consults Ladakh Stakeholders on UT Governance and Representative Structure",
-      "sources": [
+          "url": "https://www.thehindu.com/opinion/editorial/building-consensus-on-the-18th-brics-summit-the-new-delhi-declaration/article71463787.ece"
+        },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/for-governance-draft-mha-asks-ladakh-bodies-to-answer-7-queries/articleshow/13427505.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/brics-leaders-call-for-reliable-supply-chains-for-critical-minerals/articleshow/134240573.cms"
         }
       ],
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Governance, UT Administration & Sixth Schedule Demands",
-      "summary": "The Union Ministry of Home Affairs has submitted a questionnaire to Ladakh governance groups regarding proposed representative mechanisms, direct election mandates, and administrative safeguards for the Union Territory.",
-      "whyItMatters": "Relates to Sixth Schedule demands, constitutional safeguards for indigenous tribal populations, and UT administrative structures."
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Global Groupings & Agreements",
+      "summary": "The 18th BRICS Summit highlighted the necessity of building transparent, diversified, and sustainable supply chains for critical minerals essential to green energy transition. Member states advocated for balanced global governance reforms away from unilateral economic measures.",
+      "whyItMatters": "Directly maps to GS-II syllabus regarding international forums, multilateralism, and resource security strategies among Global South nations."
     }
   ],
   "gs3": [
     {
-      "headline": "Pygmy Hog Population Shows Recovery Following Conservation and Captive Breeding Efforts",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/assam-cm-highlights-big-comeback-of-small-hog/article71462548.ece"
-        }
-      ],
-      "date": "2026-09-14",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Biodiversity Conservation & Endangered Species",
-      "summary": "Assam's conservation programs have reported a successful recovery of the Pygmy Hog (Porcula salvania), the world's smallest and rarest wild pig species. Once thought extinct, wild numbers have increased from just 6 individuals in 1996 to nearly 200 in monitored grasslands today following structured captive breeding and reintroduction.",
-      "whyItMatters": "A prime example of species recovery programs in tall grassland ecosystems (such as Manas National Park) relevant for Prelims and Mains environment questions."
-    },
-    {
-      "headline": "India-France Space Enterprises Sign Strategic Industry Agreements",
+      "headline": "India's Foreign Exchange Reserves Touch Record High of $785.71 Billion",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-france-boost-space-cooperation-with-3-key-agreements-between-their-companies/articleshow/134221099.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/in-2014-indias-forex-reserves-were-just-over-300-billion-12-years-later-amid-us-iran-war-they-hit-a-lifetime-high-of-785-71-billion-after-a-record-44-9-billion-weekly-jump/articleshow/134235535.cms"
         }
       ],
-      "date": "2026-09-14",
+      "date": "2026-09-15",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "External Sector & Central Banking",
+      "summary": "India's foreign exchange reserves rose by $44.9 billion in a single week to hit a record peak of $785.71 billion. The surge provides a robust cushion against external shocks, geopolitical uncertainty in West Asia, and currency fluctuations.",
+      "whyItMatters": "Crucial for GS-III External Sector dynamics, Balance of Payments stability, and RBI's exchange rate management toolkit."
+    },
+    {
+      "headline": "Ministry of Road Transport Outlines Plan for 100% Barrier-Free Tolling by March 2027",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-fastag-lifted-toll-income-by-rs-7000-crore-to-over-rs-82000-crore-full-barrier-free-rollout-by-march-2027-could-bring-government-up-to-rs-25000-crore-a-year/articleshow/134236080.cms"
+        }
+      ],
+      "date": "2026-09-15",
       "gsPaper": "GS III",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Space Technology & International Bilateral Tech Cooperation",
-      "summary": "Indian and French commercial space firms signed three key agreements to boost satellite component manufacturing, launch services cooperation, and joint earth observation data sharing, building on the strategic space partnership between ISRO and CNES.",
-      "whyItMatters": "Highlights growing private sector involvement in India's space ecosystem following IN-SPACe reforms."
-    },
-    {
-      "headline": "RBI Issues Guidelines Restricting Account Freezing to Disputed Amounts in Cyber Fraud Investigations",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-only-disputed-amt-can-be-frozen-under-new-norms/articleshow/134229725.cms"
-        }
-      ],
-      "date": "2026-09-14",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Banking Regulations & Cyber Crime Management",
-      "summary": "The Reserve Bank of India clarified regulatory norms directing commercial banks to freeze only the specific quantum of money tied to disputed or fraudulent transactions during cybercrime investigations, rather than blocking an account holder's entire bank balance.",
-      "whyItMatters": "Protects consumer rights and financial stability while enhancing procedural clarity for law enforcement handling financial fraud."
-    },
-    {
-      "headline": "Indian Semiconductor Ecosystem Reaches $1.4 Billion in Private Investment",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-semiconductor-sector-attracts-1-4-billion-in-funding-across-281-companies/articleshow/134197886.cms"
-        }
-      ],
-      "date": "2026-09-14",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Indigenisation of Technology & Industrial Growth",
-      "summary": "Equity funding into India's semiconductor design, fabless startup, and assembly ecosystem has crossed $1.4 billion across 281 companies, with nearly half of the investments coming in recent years supported by the India Semiconductor Mission (ISM).",
-      "whyItMatters": "Reflects progress under the Semiconductor Mission, essential for domestic manufacturing, supply chain resilience, and tech sovereignty."
+      "topic": "Infrastructure & Logistics",
+      "summary": "The Ministry of Road Transport and Highways announced plans to make national highway toll plazas completely barrier-free by March 2027 using Automatic Number Plate Recognition (ANPR) and GPS-based toll collection, replacing physical boom barriers.",
+      "whyItMatters": "Connects to GS-III Infrastructure (Roads & Transport Efficiency) and technology integration for reducing travel delays and logistics costs."
     }
   ],
-  "gs4": [],
+  "gs4": [
+    {
+      "headline": "CJI Highlights Need for Public Transparency to Maintain Judicial Trust",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece"
+        }
+      ],
+      "date": "2026-09-15",
+      "gsPaper": "GS IV",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Ethics and Accountability in Public Governance",
+      "summary": "The Chief Justice of India noted that institutional legitimacy is derived from openness to scrutiny rather than immunity from critique. Public trust must be earned through transparency, willingness to respond to feedback, and structural integrity.",
+      "whyItMatters": "Serves as an institutional ethics example for GS-IV topics: Transparency, Accountability, Institutional Integrity, and Ethics in Public Administration."
+    }
+  ],
   "prelimsRadar": [
     {
-      "fact": "Pygmy Hog (Porcula salvania)",
+      "fact": "Pygmy Hog (Porcula salvania) population in Assam has recovered from 6 in 1996 to nearly 200 through captive breeding.",
       "category": "Species",
-      "detail": "World's smallest wild pig species, endemic to sub-Himalayan alluvial grasslands (e.g., Manas, Assam). Classified as Endangered on IUCN Red List."
+      "detail": "The Pygmy Hog is the world's smallest wild pig and an indicator species for tall alluvial grassland ecosystems. It is listed as Critically Endangered on the IUCN Red List."
     },
     {
-      "fact": "Tso Kar Glacial Lake",
-      "category": "Places",
-      "detail": "A high-altitude salt lake complex located in the Rupshu Plateau of Ladakh, recognized as a Ramsar Site (Wetland of International Importance)."
-    },
-    {
-      "fact": "Environmental DNA (eDNA) via Spider Webs",
+      "fact": "Gregarious Bamboo Flowering (Mautam) triggers rodent surges and ecological disruption.",
       "category": "Terminology",
-      "detail": "Recent scientific studies demonstrate that spider webs passively act as natural air samplers, trapping environmental DNA of nearby terrestrial vertebrates for biodiversity monitoring."
+      "detail": "Gregarious flowering refers to synchronous blooming of bamboo species across large geographical tracts, followed by mass die-off, leading to rodent population booms and forest fire hazards."
     },
     {
-      "fact": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL)",
-      "category": "Organizations",
-      "detail": "A Special Purpose Vehicle (SPV) under the Ministry of Railways created to construct, maintain, and operate the Western and Eastern Dedicated Freight Corridors."
+      "fact": "Section 10A / Payment and Settlement Systems Act, 2007 governs MDR exemptions in India.",
+      "category": "Schemes",
+      "detail": "It mandates that no bank or system provider shall levy charges on payment transactions made through prescribed electronic modes such as RuPay and UPI."
     },
     {
-      "fact": "Przewalski's Horse",
-      "category": "Species",
-      "detail": "Considered the last true wild horse species in the world, successfully reintroduced to native habitats in Central Asia and northern China after being extinct in the wild."
+      "fact": "Rishikesh-Karnprayag Rail Line Project achieves major escape tunnel breakthrough in Uttarakhand.",
+      "category": "Places",
+      "detail": "Executed by Rail Vikas Nigam Limited (RVNL), this rail line aims to provide all-weather rail connectivity to the Char Dham pilgrimage sites."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the Pygmy Hog (Porcula salvania), consider the following statements:\n1. It is the world's smallest wild pig species.\n2. It is endemic to the tropical rainforests of the Western Ghats.\n3. Reintroduction programs have successfully established populations in Manas National Park.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the Pygmy Hog (Porcula salvania), consider the following statements:\n1. It is the smallest and rarest wild suid in the world.\n2. It is endemic to the tall grasslands of the Terai and Himalayan foothills.\n3. It is currently categorized as 'Least Concern' on the IUCN Red List.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 and 2 only",
-        "1 and 3 only",
         "2 and 3 only",
+        "1 only",
         "1, 2 and 3"
       ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is correct. Statement 2 is incorrect because the Pygmy Hog is endemic to sub-Himalayan alluvial grasslands (such as in Assam), not Western Ghats rainforests. Statement 3 is correct as reintroduction programs centered around Manas National Park."
+      "correctIndex": 0,
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Pygmy Hog is classified as 'Critically Endangered' under the IUCN Red List."
     },
     {
-      "question": "The Tso Kar Wetland Complex, recently in news for glacial water stream channelization, is located in which State/UT?",
+      "question": "Which of the following legal/regulatory provisions prohibits charging Merchant Discount Rate (MDR) on UPI transactions in India?",
       "options": [
-        "Sikkim",
-        "Arunachal Pradesh",
-        "Ladakh",
-        "Himachal Pradesh"
-      ],
-      "correctIndex": 2,
-      "explanation": "Tso Kar is a high-altitude Ramsar site situated in the Changthang region of Ladakh."
-    },
-    {
-      "question": "Consider the following operational corridors in Indian Railways:\n1. Eastern Dedicated Freight Corridor (EDFC)\n2. Western Dedicated Freight Corridor (WDFC)\nWhich of the following points serves as the junction linking both corridors?",
-      "options": [
-        "Dadri",
-        "Vadodara",
-        "Ludhiana",
-        "Dankuni"
+        "Provisions under the Payment and Settlement Systems Act, 2007",
+        "Section 35 A of the Banking Regulation Act, 1949",
+        "The Reserve Bank of India Act, 1934 (Schedule II)",
+        "The Information Technology Act, 2000"
       ],
       "correctIndex": 0,
-      "explanation": "The Eastern DFC (Ludhiana to Dankuni) and Western DFC (Jawaharlal Nehru Port to Dadri) meet at Dadri in Uttar Pradesh."
+      "explanation": "The government notified provisions under the Payment and Settlement Systems Act, 2007 (along with amendments in tax laws) to prohibit banks and service providers from levying MDR or charges on UPI and RuPay debit card transactions."
     },
     {
-      "question": "Under Article 44 of the Constitution of India, the State shall endeavor to secure for citizens a Uniform Civil Code throughout the territory of India. This provision is contained under:",
+      "question": "The phenomenon of 'gregarious flowering' in bamboo ecosystems is often associated with which of the following ecological impacts?\n1. Increased risk of forest wildfires due to dry biomass accumulate\n2. Sudden surge in rodent populations leading to crop damage\n3. Proliferation of invasive plant species in dead bamboo gaps\nSelect the correct answer using the code given below:",
       "options": [
-        "Fundamental Rights",
-        "Preamble",
-        "Directive Principles of State Policy",
-        "Fundamental Duties"
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
       ],
-      "correctIndex": 2,
-      "explanation": "Article 44 forms part of Part IV (Directive Principles of State Policy) of the Indian Constitution."
-    },
-    {
-      "question": "What is the primary objective of using environmental DNA (eDNA) sampling techniques in ecological studies?",
-      "options": [
-        "To modify genetic sequences of endangered species",
-        "To detect presence of biological organisms from cellular shed in environmental media like water, air, or spider webs",
-        "To clone extinct fauna using preserved skeletal samples",
-        "To track satellite telemetry signals of wild herds"
-      ],
-      "correctIndex": 1,
-      "explanation": "eDNA sampling isolates trace genetic material left behind by organisms in soil, water, air, or natural traps (like spider webs) to non-invasively identify biodiversity."
+      "correctIndex": 3,
+      "explanation": "Mass flowering and die-off of bamboo lead to accumulation of dry combustible material (wildfires), sudden seed availability triggering rodent outbreaks, and canopy openings allowing invasive weeds to colonize."
     }
   ],
   "schemes": [
     {
-      "name": "India Semiconductor Mission (ISM)",
-      "ministry": "Ministry of Electronics and Information Technology (MeitY)",
-      "beneficiaries": "Semiconductor design companies, fabrication plants, packaging units, and research institutions",
-      "objective": "Build a vibrant, self-reliant semiconductor and display design and manufacturing ecosystem in India.",
+      "name": "Zero MDR Policy for UPI & RuPay",
+      "ministry": "Ministry of Finance",
+      "beneficiaries": "Small merchants, consumers, and digital ecosystem participants",
+      "objective": "Promote a cashless economy by waiving transaction fees on low-value digital transactions up to ₹2,000.",
       "keyFeatures": [
-        "Financial support up to 50% of project cost for setting up Semiconductor Fabs and Display Fabs.",
-        "Design Linked Incentive (DLI) scheme offering financial incentives and infrastructure support for domestic chip design."
+        "Mandates zero Merchant Discount Rate (MDR) for transactions via UPI and RuPay debit cards.",
+        "Implemented under provisions of the Payment and Settlement Systems Act, 2007."
       ],
-      "funding": "Rs 76,000 crore outlay under the National Semiconductor Policy",
-      "upscRelevance": "Highly relevant for GS III (Indigenisation of Technology, Electronics Manufacturing, Supply Chain Resilience)."
+      "funding": "Supported via government budgetary allocations to compensate acquiring banks for operational costs.",
+      "upscRelevance": "GS III - Indian Economy, Financial Inclusion, and Digital Public Infrastructure (DPI)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Logistics & Railway Infrastructure Efficiency",
+      "topic": "Judicial Governance & Accountability",
       "points": [
-        "Operationalisation of 2,843 km Dedicated Freight Corridors (DFCs) increases average freight train speeds from ~25 km/h to over 60 km/h, reducing logistics costs towards the target of 8% of GDP.",
-        "DFCs decouple heavy freight traffic from passenger routes, increasing line capacity across trunk routes of Indian Railways."
+        "CJI observation: Institutional trust cannot be maintained by shielding courts from public scrutiny; accountability enhances credibility rather than diminishing judicial independence.",
+        "Case study for GS IV: Openness to constructive criticism as a prerequisite for sustaining public faith in public institutions."
       ]
     },
     {
-      "topic": "Global Governance Reforms & Multilateral Diplomacy",
+      "topic": "Ecological Security & Invasive Management",
       "points": [
-        "The New Delhi Declaration at the 18th BRICS Summit highlights growing consensus among Global South nations for non-dollar trade settlement mechanisms and reformed quota shares in multilateral financial institutions like the IMF."
+        "Kerala Forest Research Institute (KFRI) study: Synchronous biological events like mass bamboo die-offs act as ecological tipping points, requiring pre-emptive forest management plans for fire and rodent control."
       ]
     }
   ],
   "whatToRemember": [
-    "Completion of India's 2,843-km Dedicated Freight Corridor network marks a milestone in logistics cost reduction.",
-    "The 18th BRICS Summit in New Delhi adopted the New Delhi Declaration, emphasizing local currency trade and global institution reforms.",
-    "Assam's captive breeding program revived the endangered Pygmy Hog from 6 in 1996 to nearly 200 today.",
-    "MHA has initiated structural queries on UT governance and representation for Ladakh.",
-    "RBI updated account freezing guidelines to restrict blocks only to disputed funds in cyber fraud cases."
+    "No MDR or bank charges apply to UPI and RuPay debit card transactions up to ₹2,000.",
+    "CJI highlights that judicial independence must coexist with public scrutiny to preserve institutional trust.",
+    "India extends 654 MW daily power export support to flood-hit Nepal under cross-border energy sharing.",
+    "Pygmy Hog conservation in Assam shows successful recovery from 6 individuals to nearly 200.",
+    "WPI inflation surged to 9.92% while CPI inflation reached 4.82% in August 2026.",
+    "India's forex reserves hit an all-time high of $785.71 billion."
   ]
 }
