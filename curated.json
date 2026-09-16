@@ -1,283 +1,374 @@
 {
-  "date": "2026-09-15",
-  "updatedAt": "2026-09-15T03:44:18.376Z",
+  "date": "2026-09-16",
+  "updatedAt": "2026-09-16T03:42:49.531Z",
   "frontPage": [
     {
-      "headline": "Government Waives Bank Charges on UPI and RuPay Transactions Up to ₹2,000",
+      "headline": "India's merchandise exports grow 26% in August, narrowing trade deficit to $9.41 billion",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece"
+          "url": "https://www.thehindu.com/business/Economy/indias-26-goods-exports-surge-lowers-august-2026-trade-deficit/article71468184.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/upi-payments-up-to-rs-2000-to-remain-free-of-charges-govt/articleshow/134250244.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/at-26-exports-grow-fastest-in-over-4-yrs/articleshow/134276050.cms"
         }
       ],
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Digital Public Infrastructure & Banking",
-      "summary": "The Union government has issued notifications under the Payment and Settlement Systems Act, 2007, reaffirming that no merchant discount rate (MDR) or transaction charges will be levied on digital payments up to ₹2,000 made via UPI or RuPay-powered debit cards. The measure aims to boost digital payment adoption among small merchants and informal sector participants.",
-      "whyItMatters": "Relevant for GS-III topics on Financial Inclusion, Digital Infrastructure, and E-commerce. Demonstrates state interventions to sustain digital ecosystem momentum and formalize micro-transactions."
+      "topic": "Indian Economy and Foreign Trade",
+      "summary": "India's merchandise exports expanded by over 26% year-on-year in August 2026, marking the fastest export growth rate in four years and significantly outstripping import growth. This expansion led to a narrowing of the overall monthly trade deficit to $9.41 billion, driven by strong demand in key markets like the US and China.",
+      "whyItMatters": "Tracks macroeconomic stability, current account balance, and external sector performance under GS-III Economy, providing crucial baseline statistics for Prelims and Mains."
     },
     {
-      "headline": "Chief Justice of India Emphasizes Judicial Accountability and Public Scrutiny",
+      "headline": "Meta agrees to report Child Sexual Abuse Material directly to Indian cybercrime portal",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece"
-        }
-      ],
-      "date": "2026-09-15",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Judiciary & Governance",
-      "summary": "The Chief Justice of India observed that the judiciary cannot secure public confidence by insulating itself from external evaluation or criticism, highlighting that courts must stay open to public questioning and constructive feedback. The statements underline the balance between judicial independence and public accountability.",
-      "whyItMatters": "Connects to GS-II (Structure, Organisation and Functioning of the Judiciary) and GS-IV (Ethics and Accountability in Governance). Useful for questions on judicial transparency, judicial ethics, and institution-building."
-    },
-    {
-      "headline": "India Approves Expedited Power Supply of 654 MW to Flood-Affected Nepal",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece"
+          "url": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-to-export-654mw-of-power-to-nepal-daily-till-dec-31/articleshow/134247739.cms"
+          "url": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms"
         }
       ],
-      "date": "2026-09-15",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "India and its Neighborhood",
-      "summary": "India's Ministry of Power approved the daily supply of up to 654 MW of electricity to Nepal through the end of the year to help the neighboring country navigate power shortages triggered by severe flooding. The move builds on cross-border energy trade agreements under India's Neighborhood First Policy.",
-      "whyItMatters": "Directly impacts GS-II syllabus on International Relations, Neighborhood First Policy, and regional energy connectivity via BBIN-like regional cooperation frameworks."
-    },
-    {
-      "headline": "Study Warns of Ecological Crises Caused by Mass Bamboo Flowering and Die-Off",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict,study-warns/article71450844.ece"
-        }
-      ],
-      "date": "2026-09-15",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Ecology & Wildlife Management",
-      "summary": "A study by the Kerala Forest Research Institute (KFRI) warns that gregarious (synchronous) bamboo flowering and subsequent die-off can trigger severe ecological imbalances. The phenomenon leads to forest fires due to dry biomass, invasive weed proliferation, surges in rodent populations, and heightened human-elephant conflict.",
-      "whyItMatters": "Important for GS-III Biodiversity & Environment. Highlights biological phenomena like mautam/gregarious flowering and their cascading impacts on human-wildlife conflict and forest ecology."
-    },
-    {
-      "headline": "Retail Inflation Rises to 4.82% while WPI Climbs to 9.92% in August",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-retail-inflation-rises-to-4-82-wholesale-inflation-climbs-to-9-92/articleshow/134241039.cms"
-        }
-      ],
-      "date": "2026-09-15",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & Inflation Dynamics",
-      "summary": "Official economic statistics for August reflect an upward pressure on prices, with retail inflation (CPI) rising to 4.82% and wholesale price inflation (WPI) nearing double digits at 9.92%. Higher food prices and volatile global energy costs contributed significantly to the spike.",
-      "whyItMatters": "Core macroeconomics topic for GS-III (Inflation management, Monetary Policy Committee targets, WPI vs CPI divergence, and supply-side management)."
-    },
-    {
-      "headline": "US Legislative Amendment Seeks Sanctions on Russian Crude 'Shadow Fleet' and Energy Partners",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece"
-        }
-      ],
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "gsPaper": "GS II & III",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Global Geopolitics & Energy Security",
-      "summary": "An amendment proposed to the US Senate's Russia sanctions legislation targets maritime shadow fleets assisting Moscow in evading oil price caps. The proposal specifically addresses secondary sanctions that could affect third countries, including India, maintaining trade ties with Russia's energy sector.",
-      "whyItMatters": "Relevant for GS-II (Bilateral & Multilateral Relations) and GS-III (Energy Security). Illustrates challenges facing India's Strategic Autonomy amidst unilateral Western sanctions."
-    }
-  ],
-  "gs1": [],
-  "gs2": [
+      "importance": "High",
+      "topic": "Cybersecurity & Social Justice",
+      "summary": "Meta announced it will route child sexual abuse material (CSAM) reports directly to the Indian National Cyber Crime Reporting Portal rather than routing them via the US-based National Center for Missing & Exploited Children (NCMEC). The move aims to eliminate reporting delays and facilitate prompt law enforcement action across Indian jurisdictions.",
+      "whyItMatters": "Highlights institutional mechanisms for child protection online and cybercrime enforcement, relevant for GS-II (Social Justice) and GS-III (Internal Security/Cybersecurity)."
+    },
     {
-      "headline": "BRICS Summit Emphasizes Resilience in Critical Mineral Supply Chains",
+      "headline": "Escalating West Asian conflicts disrupt Red Sea and Strait of Hormuz shipping lanes",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/building-consensus-on-the-18th-brics-summit-the-new-delhi-declaration/article71463787.ece"
+          "url": "https://www.thehindu.com/news/national/india-deeply-concerned-about-blockades-in-hormuz-and-bab-el-mandeb-says-govt/article71468322.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/brics-leaders-call-for-reliable-supply-chains-for-critical-minerals/articleshow/134240573.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/russian-oil-squeeze-china-competition-saudi-pipeline-shut-why-india-faces-a-crude-triple-whammy/articleshow/134259323.cms"
         }
       ],
-      "date": "2026-09-15",
+      "date": "2026-09-16",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations & Energy Security",
+      "summary": "Escalating maritime safety incidents in the Strait of Hormuz and Bab-el-Mandeb, including attacks on commercial oil tankers operating in dark mode, have raised global energy security concerns. India expressed deep concern over potential blockades along critical chokepoints that handle a vital portion of global crude supplies.",
+      "whyItMatters": "Connects directly to global strategic chokepoints, Indian energy dependence (importing ~90% of crude oil), and regional stability in West Asia."
+    },
+    {
+      "headline": "India expects completion of trade negotiations with Canada and EU by year-end",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/expect-eu-to-sign-fta-and-india-canada-negotiations-to-be-completed-by-year-end-govt-says/article71468436.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/canada-trade-pact-may-be-ready-by-year-end/articleshow/134276014.cms"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Bilateral Trade & Bilateral Agreements",
+      "summary": "The Union government announced that negotiations for proposed Free Trade Agreements (FTAs) with Canada and the European Union are progressing rapidly and targeted for conclusion by the end of 2026. The India-Canada trade pact aims to scale bilateral trade to $50 billion by 2030.",
+      "whyItMatters": "Essential for understanding India's trade policy strategy, market access diversification, and economic diplomacy in GS-II International Relations."
+    },
+    {
+      "headline": "Himalayan river system approaching 'peak water' tipping point by mid-century",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalaya-approaching-tipping-point-report-says/article71467426.ece"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Glaciology & Climate Tipping Points",
+      "summary": "A new scientific assessment warns that the Himalayan glacier systems are nearing a critical ecological tipping point. The region is expected to reach 'peak water'—the threshold where annual glacier melt runoff peaks before entering a irreversible long-term decline—by mid-century, jeopardizing downstream water security.",
+      "whyItMatters": "Focuses on climate change impacts on physical geography, Himalayan ecology, and water security across South Asia."
+    }
+  ],
+  "gs1": [
+    {
+      "headline": "Himalayan glaciers approach ecological tipping point and 'peak water' threshold",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalaya-approaching-tipping-point-report-says/article71467426.ece"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS I",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Geographical Features and Vulnerable Zones",
+      "summary": "Scientific research indicates Himalayan glacier basins face an imminent transition toward 'peak water', after which river flows generated by glacial melt will permanently decline. This shift will alter river hydrology, agricultural cycles, and seasonal water supply across major South Asian basins.",
+      "whyItMatters": "Directly links to GS-I syllabus on geographical features, their changes, and critical ecological vulnerability."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Support builds among key ruling coalition allies for Uniform Civil Code implementation",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/key-allies-tdp-shiv-sena-back-amit-shahs-statement-on-ucc-in-all-nda-ruled-states/article71470158.ece"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Article 44 & Directive Principles of State Policy",
+      "summary": "Key political partners in the National Democratic Alliance, including TDP and Shiv Sena, expressed support for implementing a Uniform Civil Code across coalition-ruled states. The political consensus reinforces debates surrounding personal law reforms and Directive Principles.",
+      "whyItMatters": "Relevant to Indian Constitutional provisions under Article 44 (DPSP), gender justice, and personal law harmonization."
+    },
+    {
+      "headline": "Balakrishnan Commission unlikely to recommend Scheduled Caste status for converts",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/kgb-panel-unlikely-to-propose-inclusion-of-converts-in-sc-list/articleshow/134275377.cms"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Social Justice & Constitutional Safeguards",
+      "summary": "The Justice K.G. Balakrishnan Commission, tasked with examining whether Scheduled Caste status should be accorded to historical converts to Christianity and Islam, is expected to recommend maintaining the status quo, citing existing statutory criteria and socio-historical parameters.",
+      "whyItMatters": "Relates to Constitutional Orders on Scheduled Castes, reservation criteria, and social inclusion under GS-II."
+    },
+    {
+      "headline": "Army Chief visits Russia to discuss military supplies and spare parts availability",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/army-chief-dhiraj-seth-heads-to-russia-amid-push-to-deepen-defence-ties/article71468886.ece"
+        }
+      ],
+      "date": "2026-09-16",
       "gsPaper": "GS II",
       "relevance": "Mains",
-      "importance": "High",
-      "topic": "Global Groupings & Agreements",
-      "summary": "The 18th BRICS Summit highlighted the necessity of building transparent, diversified, and sustainable supply chains for critical minerals essential to green energy transition. Member states advocated for balanced global governance reforms away from unilateral economic measures.",
-      "whyItMatters": "Directly maps to GS-II syllabus regarding international forums, multilateralism, and resource security strategies among Global South nations."
+      "importance": "Medium",
+      "topic": "Bilateral Relations & Defence Cooperation",
+      "summary": "Indian Army Chief General Dhiraj Seth visited Russia to hold strategic talks on deepening bilateral defence cooperation. Key agenda items included ensuring steady maintenance, spare parts supply, and lifecycle support for Russian-origin military hardware in Indian service.",
+      "whyItMatters": "Examines India-Russia strategic ties, military operational readiness, and supply chain dependencies in defence."
     }
   ],
   "gs3": [
     {
-      "headline": "India's Foreign Exchange Reserves Touch Record High of $785.71 Billion",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/in-2014-indias-forex-reserves-were-just-over-300-billion-12-years-later-amid-us-iran-war-they-hit-a-lifetime-high-of-785-71-billion-after-a-record-44-9-billion-weekly-jump/articleshow/134235535.cms"
-        }
-      ],
-      "date": "2026-09-15",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "External Sector & Central Banking",
-      "summary": "India's foreign exchange reserves rose by $44.9 billion in a single week to hit a record peak of $785.71 billion. The surge provides a robust cushion against external shocks, geopolitical uncertainty in West Asia, and currency fluctuations.",
-      "whyItMatters": "Crucial for GS-III External Sector dynamics, Balance of Payments stability, and RBI's exchange rate management toolkit."
-    },
-    {
-      "headline": "Ministry of Road Transport Outlines Plan for 100% Barrier-Free Tolling by March 2027",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-says-fastag-lifted-toll-income-by-rs-7000-crore-to-over-rs-82000-crore-full-barrier-free-rollout-by-march-2027-could-bring-government-up-to-rs-25000-crore-a-year/articleshow/134236080.cms"
-        }
-      ],
-      "date": "2026-09-15",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Infrastructure & Logistics",
-      "summary": "The Ministry of Road Transport and Highways announced plans to make national highway toll plazas completely barrier-free by March 2027 using Automatic Number Plate Recognition (ANPR) and GPS-based toll collection, replacing physical boom barriers.",
-      "whyItMatters": "Connects to GS-III Infrastructure (Roads & Transport Efficiency) and technology integration for reducing travel delays and logistics costs."
-    }
-  ],
-  "gs4": [
-    {
-      "headline": "CJI Highlights Need for Public Transparency to Maintain Judicial Trust",
+      "headline": "Retail inflation reaches 20-month high of 4.8% driven by surging food prices",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cji-says-judiciary-can-not-earn-public-trust-by-shielding-itself-from-scrutiny/article71466330.ece"
+          "url": "https://www.thehindu.com/business/Economy/august-retail-inflation-raises-chances-of-rbi-rate-hike-in-october-say-economists/article71468683.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece"
         }
       ],
-      "date": "2026-09-15",
-      "gsPaper": "GS IV",
-      "relevance": "Mains",
+      "date": "2026-09-16",
+      "gsPaper": "GS III",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Ethics and Accountability in Public Governance",
-      "summary": "The Chief Justice of India noted that institutional legitimacy is derived from openness to scrutiny rather than immunity from critique. Public trust must be earned through transparency, willingness to respond to feedback, and structural integrity.",
-      "whyItMatters": "Serves as an institutional ethics example for GS-IV topics: Transparency, Accountability, Institutional Integrity, and Ethics in Public Administration."
+      "topic": "Inflation Dynamics & Monetary Policy",
+      "summary": "India's Consumer Price Index (CPI) inflation rose to 4.8% in August 2026, marking a 20-month peak due to persistent pressure from food components. Simultaneously, Wholesale Price Index (WPI) inflation surged to 9.92%, increasing expectations of monetary tightening by the RBI.",
+      "whyItMatters": "Directly impacts macroeconomic stability, interest rate trajectories, and monetary policy targeting frameworks under GS-III."
+    },
+    {
+      "headline": "BRICS AI framework emerges as alternative paradigm for ethical artificial intelligence",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/ai-cooperation-on-artificial-intelligence-at-a-crossroads/article71468418.ece"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Artificial Intelligence & Global Technology Governance",
+      "summary": "Discussions on global AI governance highlight the BRICS framework as an inclusive alternative to Western-centric regulatory paradigms. The initiative stresses equitable access to technology, digital sovereignty, and global cooperation in mitigating dual-use risks associated with frontier AI models.",
+      "whyItMatters": "Useful for Mains answers on emerging technologies, AI governance, and Global South perspectives in technology policy."
+    },
+    {
+      "headline": "Bamboo synchronous mass flowering study warns of ecological crisis and human-wildlife conflict",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/bamboo-mass-flowering-and-die-off-can-trigger-ecological-crisis-and-wildlife-conflict-study-warns/article71450844.ece"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Ecology & Wildlife Management",
+      "summary": "A study by the Kerala Forest Research Institute warns that gregarious flowering and subsequent die-off of bamboo species create ecological disruption. The phenomenon fuels forest fire risks, encourages invasive weed colonization, triggers rodent population booms, and heightens human-elephant conflict.",
+      "whyItMatters": "Provides ecological insight into forest ecosystem dynamics, periodic biological phenomena, and human-wildlife conflict mechanisms."
+    },
+    {
+      "headline": "Sanjukta Parashar appointed as first woman commander of CRPF's CoBRA unit",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/sanjukta-parashar-first-woman-to-head-crpfs-cobra-commando-unit/articleshow/134275679.cms"
+        }
+      ],
+      "date": "2026-09-16",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Internal Security & Security Forces",
+      "summary": "IPS officer Sanjukta Parashar has been appointed to lead the Commando Battalion for Resolute Action (CoBRA), the specialized anti-Maoist guerrilla combat force of the CRPF, marking the first time a woman officer heads the elite unit.",
+      "whyItMatters": "Relevant for security force organizational structures and gender integration in specialized internal security roles."
     }
   ],
+  "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Pygmy Hog (Porcula salvania) population in Assam has recovered from 6 in 1996 to nearly 200 through captive breeding.",
+      "fact": "CoBRA (Commando Battalion for Resolute Action)",
+      "category": "Organizations",
+      "detail": "Specialized guerrilla warfare force under the Central Reserve Police Force (CRPF), established in 2008 primarily to counter Left-Wing Extremism (LWE)."
+    },
+    {
+      "fact": "Duttaphrynus phawngpui and Ingerana aizawl",
       "category": "Species",
-      "detail": "The Pygmy Hog is the world's smallest wild pig and an indicator species for tall alluvial grassland ecosystems. It is listed as Critically Endangered on the IUCN Red List."
+      "detail": "Two new-to-science frog species discovered in Mizoram, named after Phawngpui (Mizoram's highest peak) and capital Aizawl."
     },
     {
-      "fact": "Gregarious Bamboo Flowering (Mautam) triggers rodent surges and ecological disruption.",
+      "fact": "Chaulmoogra Oil & Alice Augusta Ball",
       "category": "Terminology",
-      "detail": "Gregarious flowering refers to synchronous blooming of bamboo species across large geographical tracts, followed by mass die-off, leading to rodent population booms and forest fire hazards."
+      "detail": "Alice Ball developed the Ball Method to make chaulmoogra oil water-soluble and injectable, producing the first effective treatment for Hansen's disease (leprosy)."
     },
     {
-      "fact": "Section 10A / Payment and Settlement Systems Act, 2007 governs MDR exemptions in India.",
-      "category": "Schemes",
-      "detail": "It mandates that no bank or system provider shall levy charges on payment transactions made through prescribed electronic modes such as RuPay and UPI."
+      "fact": "Plastic Nurdles",
+      "category": "Terminology",
+      "detail": "Lentil-sized raw microplastic pellets used as manufacturing feedstock; severe environmental pollutants when spilled during maritime accidents."
     },
     {
-      "fact": "Rishikesh-Karnprayag Rail Line Project achieves major escape tunnel breakthrough in Uttarakhand.",
-      "category": "Places",
-      "detail": "Executed by Rail Vikas Nigam Limited (RVNL), this rail line aims to provide all-weather rail connectivity to the Char Dham pilgrimage sites."
+      "fact": "Plant Microbial Fuel Cells (PMFCs)",
+      "category": "Terminology",
+      "detail": "Bio-energy system harnessing living plant rhizodeposits and soil bacteria to generate electricity while simultaneously reducing agricultural methane emissions."
+    },
+    {
+      "fact": "Yudh Abhyas 2026",
+      "category": "Organizations",
+      "detail": "Annual joint bilateral military exercise conducted between the Indian Army and the United States Army, hosted across Uttarakhand and Rajasthan."
+    },
+    {
+      "fact": "Central Consumer Protection Authority (CCPA)",
+      "category": "Organizations",
+      "detail": "Statutory body established under the Consumer Protection Act, 2019 to regulate matters relating to violation of consumer rights, unfair trade practices, and misleading advertisements."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the Pygmy Hog (Porcula salvania), consider the following statements:\n1. It is the smallest and rarest wild suid in the world.\n2. It is endemic to the tall grasslands of the Terai and Himalayan foothills.\n3. It is currently categorized as 'Least Concern' on the IUCN Red List.\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following best describes the ecological term 'Peak Water' in glacier dynamics?",
       "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 only",
-        "1, 2 and 3"
+        "A. The exact moment when water demand exceeds annual supply in urban areas",
+        "B. The point in time when annual river runoff from melting glaciers reaches its maximum before permanently declining",
+        "C. The maximum storage volume capacity achieved by major river dams during monsoons",
+        "D. The maximum depth of sub-glacial lakes recorded in high mountain ranges"
       ],
-      "correctIndex": 0,
-      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the Pygmy Hog is classified as 'Critically Endangered' under the IUCN Red List."
+      "correctIndex": 1,
+      "explanation": "Peak water refers to the point when annual glacial runoff reaches its maximum volume due to melt, after which runoff continuously decreases as glacier volume shrinks."
     },
     {
-      "question": "Which of the following legal/regulatory provisions prohibits charging Merchant Discount Rate (MDR) on UPI transactions in India?",
+      "question": "Consider the following statements regarding the Commando Battalion for Resolute Action (CoBRA):\n1. It is a specialized unit operating under the National Security Guard (NSG).\n2. It was primarily raised for combat against Left-Wing Extremism in India.\nWhich of the statements given above is/are correct?",
       "options": [
-        "Provisions under the Payment and Settlement Systems Act, 2007",
-        "Section 35 A of the Banking Regulation Act, 1949",
-        "The Reserve Bank of India Act, 1934 (Schedule II)",
-        "The Information Technology Act, 2000"
+        "A. 1 only",
+        "B. 2 only",
+        "C. Both 1 and 2",
+        "D. Neither 1 nor 2"
       ],
-      "correctIndex": 0,
-      "explanation": "The government notified provisions under the Payment and Settlement Systems Act, 2007 (along with amendments in tax laws) to prohibit banks and service providers from levying MDR or charges on UPI and RuPay debit card transactions."
+      "correctIndex": 1,
+      "explanation": "CoBRA is a specialized unit raised under the Central Reserve Police Force (CRPF), not the NSG, specifically trained in anti-Naxal and guerrilla warfare operations."
     },
     {
-      "question": "The phenomenon of 'gregarious flowering' in bamboo ecosystems is often associated with which of the following ecological impacts?\n1. Increased risk of forest wildfires due to dry biomass accumulate\n2. Sudden surge in rodent populations leading to crop damage\n3. Proliferation of invasive plant species in dead bamboo gaps\nSelect the correct answer using the code given below:",
+      "question": "The term 'Nurdles', recently seen in news regarding marine pollution, refers to:",
       "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 and 3 only",
-        "1, 2 and 3"
+        "A. Toxic runoff chemicals released from pesticide manufacturing plants",
+        "B. Pre-production microplastic resin pellets used in plastic manufacturing",
+        "C. Invasive macro-algae smothering coral reef ecosystems",
+        "D. Organic waste produced during industrial sugar refining"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nurdles are microplastic resin pellets used as raw material to manufacture plastic products. Spills into oceans cause persistent marine pollution."
+    },
+    {
+      "question": "Gregarious flowering in bamboo species is known to cause which of the following ecological impacts?\n1. Surge in rodent population\n2. Increased risk of forest fires\n3. Heightened human-elephant conflict\nSelect the correct answer using the code given below:",
+      "options": [
+        "A. 1 and 2 only",
+        "B. 2 and 3 only",
+        "C. 1 and 3 only",
+        "D. 1, 2 and 3"
       ],
       "correctIndex": 3,
-      "explanation": "Mass flowering and die-off of bamboo lead to accumulation of dry combustible material (wildfires), sudden seed availability triggering rodent outbreaks, and canopy openings allowing invasive weeds to colonize."
+      "explanation": "Bamboo mass flowering yields large seed outputs that feed rodent booms, while subsequent die-offs create dry fuel loads for forest fires and eliminate fodder, pushing elephants into agricultural areas."
+    },
+    {
+      "question": "With reference to the Central Consumer Protection Authority (CCPA), consider the following statements:\n1. It is a constitutional body set up under Article 323B.\n2. It possesses powers to issue product recalls and impose penalties for misleading advertisements.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "A. 1 only",
+        "B. 2 only",
+        "C. Both 1 and 2",
+        "D. Neither 1 nor 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Statement 1 is incorrect as CCPA is a statutory body established under the Consumer Protection Act, 2019, not a constitutional body. Statement 2 is correct."
     }
   ],
   "schemes": [
     {
-      "name": "Zero MDR Policy for UPI & RuPay",
-      "ministry": "Ministry of Finance",
-      "beneficiaries": "Small merchants, consumers, and digital ecosystem participants",
-      "objective": "Promote a cashless economy by waiving transaction fees on low-value digital transactions up to ₹2,000.",
+      "name": "PM Awas Yojana (PMAY)",
+      "ministry": "Ministry of Housing and Urban Affairs / Ministry of Rural Development",
+      "beneficiaries": "Rural and urban poor households lacking pucca housing",
+      "objective": "To provide 'Housing for All' by offering financial assistance to construct pucca houses with basic amenities.",
       "keyFeatures": [
-        "Mandates zero Merchant Discount Rate (MDR) for transactions via UPI and RuPay debit cards.",
-        "Implemented under provisions of the Payment and Settlement Systems Act, 2007."
+        "Direct Benefit Transfer (DBT) for house construction",
+        "Subsidized interest rates under Credit Linked Subsidy Scheme",
+        "Joint ownership with female head of household encouraged"
       ],
-      "funding": "Supported via government budgetary allocations to compensate acquiring banks for operational costs.",
-      "upscRelevance": "GS III - Indian Economy, Financial Inclusion, and Digital Public Infrastructure (DPI)."
+      "funding": "Centrally Sponsored Scheme with cost-sharing between Centre and States (60:40 in general states, 90:10 in Himalayan/NE states).",
+      "upscRelevance": "High relevance under GS-II Social Justice and welfare schemes for vulnerable sections."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Judicial Governance & Accountability",
+      "topic": "Gender Disparity in Healthcare & Organ Transplantation",
       "points": [
-        "CJI observation: Institutional trust cannot be maintained by shielding courts from public scrutiny; accountability enhances credibility rather than diminishing judicial independence.",
-        "Case study for GS IV: Openness to constructive criticism as a prerequisite for sustaining public faith in public institutions."
+        "Official national organ transplant data (2019–2023) reveals significant gender skew: 63.8% of living organ donors were women, whereas 69.8% of organ recipients were men.",
+        "Demonstrates deep-seated socio-cultural biases where women bear a disproportionate burden as organ donors while facing lower access to life-saving recipient procedures."
       ]
     },
     {
-      "topic": "Ecological Security & Invasive Management",
+      "topic": "Unincorporated Sector Data in Macroeconomic Revisions",
       "points": [
-        "Kerala Forest Research Institute (KFRI) study: Synchronous biological events like mass bamboo die-offs act as ecological tipping points, requiring pre-emptive forest management plans for fire and rodent control."
+        "Recent revisions in India's nominal GDP calculations highlight that improved physical and statistical coverage of the unincorporated services sector significantly reduces baseline measurement errors.",
+        "Accurate coverage of informal services enables better policy design for informal workers and micro-enterprises."
       ]
     }
   ],
   "whatToRemember": [
-    "No MDR or bank charges apply to UPI and RuPay debit card transactions up to ₹2,000.",
-    "CJI highlights that judicial independence must coexist with public scrutiny to preserve institutional trust.",
-    "India extends 654 MW daily power export support to flood-hit Nepal under cross-border energy sharing.",
-    "Pygmy Hog conservation in Assam shows successful recovery from 6 individuals to nearly 200.",
-    "WPI inflation surged to 9.92% while CPI inflation reached 4.82% in August 2026.",
-    "India's forex reserves hit an all-time high of $785.71 billion."
+    "India's merchandise exports surged 26% in August 2026, narrowing the monthly trade deficit to $9.41 billion.",
+    "Meta agreed to directly report CSAM content to India's National Cyber Crime Portal, reducing processing delays.",
+    "Himalayan glaciers face a 'peak water' tipping point by mid-century, after which meltwater river supply will decline permanently.",
+    "Retail inflation (CPI) reached a 20-month high of 4.8% in August due to elevated food prices.",
+    "Sanjukta Parashar became the first woman officer appointed to lead CRPF's elite anti-Maoist CoBRA unit.",
+    "Gregarious bamboo flowering triggers ecological disruptions including rodent population surges and increased human-elephant conflict."
   ]
 }
