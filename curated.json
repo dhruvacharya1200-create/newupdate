@@ -1,382 +1,301 @@
 {
-  "date": "2026-09-19",
-  "updatedAt": "2026-09-19T03:40:53.835Z",
+  "date": "2026-09-20",
+  "updatedAt": "2026-09-20T03:41:58.490Z",
   "frontPage": [
     {
-      "headline": "U.S. Enacts Legislation Permitting Up to 100% Tariffs on Importers of Russian Energy",
+      "headline": "United States Enacts New Sanctions Targeting Russian and Iranian Oil Exports with Potential Tariff Impact on Trade Partners",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/trump-signs-russia-sanctions-bill-into-law/article71482578.ece"
+          "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece"
         },
         {
           "name": "Times of India",
           "url": "https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms"
         }
       ],
-      "date": "2026-09-19",
+      "date": "2026-09-20",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Bilateral Relations & Energy Security",
+      "summary": "The United States has enacted the Lindsey O. Graham Sanctioning Russia and Iran Act, empowering the administration to impose steep tariffs of up to 100% on countries continuing to import energy from Russia. This secondary sanction mechanism poses significant economic and diplomatic challenges for major buyers of Russian crude, including India and China.",
+      "whyItMatters": "Connects directly to GS II (Effect of policies of developed nations on India's interests) and GS III (Energy security and macroeconomic stability). Aspirants must understand secondary sanctions, tariff threats, and strategic autonomy in energy sourcing."
+    },
+    {
+      "headline": "India Reaffirms Climate Commitments and Highlights Historical Carbon Inequality at National Green Tribunal Conference",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pm-modi-inaugurates-ngts-climate-conference-highlights-climate-inequality/article71483805.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms"
+        }
+      ],
+      "date": "2026-09-20",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation & Climate Change",
+      "summary": "At a climate conference organized by the National Green Tribunal, Prime Minister Narendra Modi rejected Western narratives blaming developing nations for global emissions, emphasizing that India's per capita carbon footprint remains well below the global average. He reaffirmed that India has fulfilled its Paris Agreement pledges ahead of schedule while highlighting structural barriers in accessing technology and nuclear energy.",
+      "whyItMatters": "Relevant for GS III (Climate Justice, Common But Differentiated Responsibilities) and Mains answer writing regarding global climate diplomacy, per capita equity, and renewable energy targets."
+    },
+    {
+      "headline": "India Highlights Maritime Safety and Adherence to 1991 Bilateral Agreement Following Incident in Arabian Sea",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece"
+        }
+      ],
+      "date": "2026-09-20",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Bilateral, Regional and Global Groupings and Agreements involving India",
-      "summary": "United States legislation targeted at Russia and Iran has been signed into law, authorizing the U.S. President to impose punitive tariffs of up to 100% on major purchasers of Russian oil and gas. The move directly impacts primary importers including India and China.",
-      "whyItMatters": "Crucial for GS II International Relations and Strategic Autonomy. Secondary sanctions by the U.S. challenge India's strategic autonomy in energy sourcing and affect macroeconomic stability and foreign trade relations."
+      "topic": "India & Its Neighborhood",
+      "summary": "India flagged an alleged violation of Article 10 of the 1991 Agreement on Advance Notice on Military Exercises, Swarm and Troop Movements following a maritime interaction between naval vessels in the North Arabian Sea. The dispute highlights longstanding maritime boundary ambiguities near Sir Creek and the Exclusive Economic Zone.",
+      "whyItMatters": "Crucial for GS II (India-Pakistan maritime disputes, Sir Creek boundary issue, and bilateral confidence-building measures) and Internal Security matters linked to coastal surveillance."
     },
     {
-      "headline": "Project Cheetah Completes Four Years as National Population Reaches 52",
+      "headline": "Project Cheetah Reaches 52 Cats as Four-Year Restoration Milestone Achieved in India",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/news/national/madhya-pradesh/as-project-cheetah-completes-4-years-big-cat-population-in-india-rises-to-52/article71479480.ece"
         }
       ],
-      "date": "2026-09-18",
+      "date": "2026-09-20",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Conservation, Environmental Pollution and Degradation",
-      "summary": "Four years after the initial reintroduction of cheetahs to India, the total population of the big cats in the country has increased to 52. Conservation efforts are now focusing on expanding suitable landscape corridors to establish a sustainable metapopulation.",
-      "whyItMatters": "Relevant for GS III Environment and Ecology. It tests the viability of intercontinental translocation of large carnivores, ecosystem restoration, and protected area management."
+      "topic": "Biodiversity Conservation",
+      "summary": "Four years after the launch of Project Cheetah, India's cheetah population has expanded to 52 individuals. Conservation authorities are now transitioning to the next phase focused on expanding suitable landscape corridors and building a viable long-term metapopulation across suitable sanctuaries.",
+      "whyItMatters": "Directly linked to GS III (Species reintroduction, ecological management, and biodiversity protection). Key for Prelims questions on habitat restoration and protected areas."
     },
     {
-      "headline": "Government Introduces 0.4% Merchant Discount Rate on High-Value UPI Transactions",
+      "headline": "Reserve Bank of India Clarifies Merchant Discount Rate Framework for Higher-Value Person-to-Merchant UPI Transactions",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
         },
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms"
         }
       ],
-      "date": "2026-09-18",
+      "date": "2026-09-20",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy and Issues Relating to Planning, Mobilization of Resources",
-      "summary": "A Merchant Discount Rate (MDR) of 0.4% is set to apply to person-to-merchant Unified Payments Interface (UPI) transactions exceeding ₹2,000, borne exclusively by merchants and capped at ₹300. Regulatory authorities state that the charge aims to support domestic digital payment infrastructure without disincentivizing consumers.",
-      "whyItMatters": "Connects to GS III Digital Public Infrastructure and Banking System. Examines the balance between financial inclusion, zero-cost digital payments, and commercial viability for payment system operators."
+      "topic": "Indian Economy & Digital Payment Infrastructure",
+      "summary": "The RBI and NPCI clarified that a 0.4% Merchant Discount Rate (MDR) on person-to-merchant UPI transactions above ₹2,000 will be borne solely by merchants, capped at ₹300 per transaction. Officials stated this small operational charge is unlikely to reverse digital payment adoption or spur a return to cash.",
+      "whyItMatters": "Essential for GS III (Digital Public Infrastructure, Fintech regulation, financial inclusion, and monetary transition)."
     },
     {
-      "headline": "Supreme Court Highlights Procedural Concerns Regarding Presumption of Guilt and Speedy Probes",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/presumption-of-guilt-doesnt-make-prosecution-case-gospel-truth-sc/articleshow/134345571.cms"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/extremely-speedy-action-by-probe-agency-can-create-doubt-sc/articleshow/134346134.cms"
-        }
-      ],
-      "date": "2026-09-19",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Structure, Organization and Functioning of the Judiciary",
-      "summary": "The Supreme Court observed that statutory provisions establishing a presumption of guilt do not render the prosecution's case absolute, requiring fair evidence evaluation. The court also cautioned that abnormally rushed investigations by law enforcement agencies can raise doubts about procedural fairness.",
-      "whyItMatters": "Directly impacts GS II Indian Constitution, Fundamental Rights (Article 21), Criminal Justice System, and principles of natural justice during investigative procedures."
-    },
-    {
-      "headline": "Union Government Proposes Regulatory Oversight Framework for Digital Gold",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/in-2025-sebi-warned-investors-about-digital-gold-now-your-digital-gold-may-soon-need-physical-gold-to-back-it-government-weighs-rbi-sebi-oversight-for-3-billion-industry/articleshow/134329294.cms"
-        }
-      ],
-      "date": "2026-09-18",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Financial Sector Reforms and Regulatory Bodies",
-      "summary": "The Ministry of Finance is considering a formal regulatory framework under SEBI and the RBI for the growing $3-billion digital gold market. The proposal aims to mandate 100% physical gold backing and classify digital gold products under the Securities Contracts (Regulation) Act.",
-      "whyItMatters": "Relevant for GS III Financial Regulation. It addresses consumer protection, systemic financial risk, and regularizing unregulated fintech investment instruments."
-    },
-    {
-      "headline": "India Slashes Oil Imports Under Foreign Pressure Despite Energy Security Stance",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/venezuela-iran-russia-india-has-historically-complied-with-trump-on-cutting-oil-imports/article71480382.ece"
-        }
-      ],
-      "date": "2026-09-18",
-      "gsPaper": "GS II & III",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "India's Foreign Policy & Energy Security",
-      "summary": "Historical analysis reveals that while India maintains its energy sourcing is guided strictly by national interest, it has historically curtailed crude imports from nations like Iran, Venezuela, and Russia during peak international sanction enforcement, resuming purchases once pressures ease.",
-      "whyItMatters": "Bridges GS II Foreign Policy and GS III Energy Security. Illustrates the operational friction between economic pragmatism, foreign trade dependencies, and sovereign diplomacy."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "Study Identifies Rapid Drying and Persistent Drought Hotspots in Southern and Eastern India",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms"
-        }
-      ],
-      "date": "2026-09-18",
-      "gsPaper": "GS I",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Important Geophysical Phenomena and Geographical Features",
-      "summary": "A scientific analysis indicates that Southern India is experiencing the fastest rate of aridity, with chronic drought hotspots consolidating along the eastern coast. Concurrently, Northwestern India is emerging as a persistent heat epicentre marked by intensifying heatwave frequencies.",
-      "whyItMatters": "Directly linked to GS I Physical Geography and Climate Change dynamics in the Indian subcontinent. Essential for understanding regional climate vulnerability and shifting hydrological regimes."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Home Ministry Cites Internal Security Grounds to Support FCRA Amendment Rules",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms"
-        }
-      ],
-      "date": "2026-09-19",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Development Processes and the Development Industry — The Role of NGOs",
-      "summary": "The Ministry of Home Affairs has defended recent regulatory modifications to the Foreign Contribution (Regulation) Act (FCRA), maintaining before judicial authorities that stringent monitoring is essential to prevent foreign funding from endangering national security.",
-      "whyItMatters": "Crucial for GS II Governance and Civil Society regulation, along with GS III Internal Security. Highlights the delicate balance between civil society funding and state security oversight."
-    },
-    {
-      "headline": "Supreme Court Scrutinizes Social and Economic Impact of State Alcohol Prohibition Laws",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/sc-questions-alcohol-prohibition-law-points-to-5-evils/articleshow/134346112.cms"
-        }
-      ],
-      "date": "2026-09-19",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Government Policies and Interventions for Development in Various Sectors",
-      "summary": "During judicial review, the Supreme Court raised questions regarding complete state prohibition policies, noting associated unintended consequences such as illicit liquor trade, loss of state revenue, corruption, and selectively enforced criminalization.",
-      "whyItMatters": "Connects to Article 47 (Directive Principles of State Policy) and policy implementation analysis under GS II Governance. Examines prohibition enforcement versus regulation."
-    },
-    {
-      "headline": "Nepal Finance Minister Meets Indian Leadership to Strengthen Bilateral Recovery and Economic Ties",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/nepal-finance-minister-meets-jaishankar-as-both-sides-plan-for-pm-balen-shah-visit/article71481374.ece"
-        }
-      ],
-      "date": "2026-09-19",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "India and its Neighborhood- Relations",
-      "summary": "Nepal's Finance Minister held talks with External Affairs Minister S. Jaishankar to discuss post-flood economic recovery initiatives and lay groundwork for upcoming bilateral high-level visits.",
-      "whyItMatters": "Relevant for GS II India-Nepal relations. Financial assistance and flood mitigation cooperation are core pillars of Neighborhood First policy."
-    }
-  ],
-  "gs3": [
-    {
-      "headline": "Garden Reach Shipbuilders Launches Indigenous Oceanographic Research Vessel 'Sagar Manthan'",
+      "headline": "GRSE Launches Indigenous Oceanographic Research Vessel 'Sagar Manthan' to Boost Deep-Sea Science",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
         }
       ],
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indigenization of Technology and Developing New Technology",
-      "summary": "Kolkata-based Garden Reach Shipbuilders & Engineers (GRSE) launched 'Sagar Manthan', an indigenous ocean research vessel constructed at a cost of ₹840 crore. The vessel will boost deep-sea exploration and scientific research capability upon commissioning.",
-      "whyItMatters": "Relates directly to GS III Deep Ocean Mission, blue economy, and self-reliance in defense/scientific research equipment."
-    },
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Indigenization of Technology & Oceanography",
+      "summary": "Garden Reach Shipbuilders & Engineers (GRSE) launched the ₹840-crore indigenous oceanographic research vessel 'Sagar Manthan'. Designed for deep-water marine research and geological mapping, the vessel is scheduled to enter active operational service by early 2028.",
+      "whyItMatters": "Directly related to GS III (Deep Ocean Mission, Blue Economy, and self-reliance in defense/scientific shipping technology)."
+    }
+  ],
+  "gs1": [
     {
-      "headline": "EPFO Wage Ceiling Revision Proposed to Broaden Social Security Coverage",
+      "headline": "Scientific Study Links Accelerating Drought and Aridity Hotspots Along Peninsular India's Eastern Coast",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/no-hard-ceilings-on-the-revision-to-epfo-wage-ceiling/article71480865.ece"
-        },
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms"
+        }
+      ],
+      "date": "2026-09-20",
+      "gsPaper": "GS I",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Important Geophysical Phenomena & Geography",
+      "summary": "A comprehensive hydro-climatic analysis shows Peninsular Southern India experiencing rapid drying trends, with persistent drought hotspots emerging along the eastern coast. Concurrently, Northwest India is emerging as a persistent heatwave epicentre, highlighting shifting spatial dynamics of climate extremes.",
+      "whyItMatters": "Highly relevant for GS I Physical Geography (Monsoon vulnerability, microclimatic shifts, and regional water stress in Peninsular India)."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Proposed EPFO Wage Ceiling Revision Aims to Broaden Formal Social Security Coverage",
+      "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/what-does-the-latest-revision-to-the-epfo-wage-ceiling-entail-explained/article71479414.ece"
         }
       ],
-      "date": "2026-09-19",
-      "gsPaper": "GS III",
+      "date": "2026-09-20",
+      "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Issues Relating to Development and Employment",
-      "summary": "Proposed revisions to the Employees' Provident Fund Organisation (EPFO) statutory wage ceiling aim to bring a broader section of organized workers under formal provident fund and pension frameworks, enhancing minimum retirement benefits.",
-      "whyItMatters": "Key topic for GS III Inclusive Growth, formalization of labor, and social protection safety nets in India."
+      "importance": "High",
+      "topic": "Social Justice & Governance",
+      "summary": "The central government's proposal to revise the statutory wage ceiling under the Employees' Provident Fund Organisation (EPFO) will bring millions of organized sector workers into the formal social security safety net. While trade unions demand higher minimum pension floors, employers have raised questions regarding compliance costs.",
+      "whyItMatters": "Connects directly to GS II (Social Security, Welfare schemes for vulnerable sections, and labor market governance)."
     },
     {
-      "headline": "First Indigenous Dengue Vaccine QDENGA Expected in Indian Market by 2027",
+      "headline": "Madras High Court Rules Against Granting Pensionary Benefits to Candidates Securing Employment via Fraudulent Caste Certificates",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/dr-reddys-takeda-pharma-ink-pact-to-distribute-indias-first-dengue-vaccine-qdenga/article71479880.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/dengue-vaccine-to-hit-market-by-first-half-of-2027/articleshow/134343715.cms"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/caste-hindu-candidate-claims-reservation-through-bogus-community-certificate-madras-high-court-refuses-to-order-release-of-terminal-benefits/article71484580.ece"
         }
       ],
-      "date": "2026-09-18",
-      "gsPaper": "GS III",
+      "date": "2026-09-20",
+      "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Science and Technology — Developments and Applications in Daily Life",
-      "summary": "Pharmaceutical partners have secured distribution licensing for QDENGA, aimed at becoming India's first commercially available dengue vaccine, with target deployment planned for early 2027 subject to final regulatory approvals.",
-      "whyItMatters": "Highly relevant for GS III Public Health and Biotechnology. Dengue represents a significant vector-borne disease burden across urban India."
-    },
+      "topic": "Judiciary & Affirmative Action",
+      "summary": "The Madras High Court declined to order the release of terminal and pensionary benefits to an employee who fraudulently claimed affirmative action reservation using a false community certificate. The court stressed that long service cannot legitimize initial fraud committed to usurp constitutional benefits meant for underprivileged groups.",
+      "whyItMatters": "Relevant for GS II (Mechanisms for protection of vulnerable sections, constitutional reservations, and administrative ethics)."
+    }
+  ],
+  "gs3": [
     {
-      "headline": "Operation Toofan Initiated to Disrupt Drug Financing via Digital Payment Networks",
+      "headline": "Ecologists Warn of Imminent 'Super' El Niño Event and Call for Comprehensive Disaster Preparedness",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/operation-toofan-to-trace-drug-money-through-upi-crypto-wallets/article71483502.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/ecologists-urge-scientists-and-policymakers-to-study-imminent-super-el-nino-to-prepare-for-the-future/article71485068.ece"
         }
       ],
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Money-Laundering and Its Prevention",
-      "summary": "Law enforcement agencies launched 'Operation Toofan' targeting illicit narcotics financing routed through UPI handles and cryptocurrency wallets, aiming to disrupt supply chains by neutralizing back-end financiers.",
-      "whyItMatters": "Relevant for GS III Internal Security and Money Laundering, demonstrating how digital channels are monitored to combat organized crime."
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Disaster Management & Agriculture",
+      "summary": "Scientists and climate ecologists have advised policymakers to prepare for potential systemic shocks caused by an impending strong El Niño cycle. The phenomenon threatens severe monsoonal disruptions, agricultural yield drop, and ecological stress across tropical natural reserves.",
+      "whyItMatters": "Crucial for GS III (Disaster risk reduction, El Niño impact on Indian agriculture, and climate adaptation frameworks)."
+    },
+    {
+      "headline": "Study Highlights India's Patent Laws Against Evergreening as Key to Affordable Generic Diabetes Care",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/study-attempts-to-find-out-how-india-made-expensive-diabetes-medicines-affordable/article71484378.ece"
+        }
+      ],
+      "date": "2026-09-20",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Intellectual Property Rights & Public Health",
+      "summary": "A global healthcare study credited Section 3(d) of the Indian Patents Act for preventing patent evergreening and facilitating rapid generic manufacturing of critical diabetes medications. This statutory safeguard has drastically cut treatment costs for non-communicable diseases nationwide.",
+      "whyItMatters": "Directly links to GS III (Intellectual Property Rights - IPR, generic pharmacy leadership, and public health policy)."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
       "fact": "Sagar Manthan",
-      "category": "Terminology",
-      "detail": "An indigenously built ₹840-crore ocean research vessel launched by Garden Reach Shipbuilders & Engineers (GRSE) to enhance deep-sea scientific exploration."
-    },
-    {
-      "fact": "Operation Toofan",
-      "category": "Schemes",
-      "detail": "A targeted law enforcement crackdown aimed at dismantling drug syndicates by tracing financial transactions across UPI and cryptocurrency platforms."
-    },
-    {
-      "fact": "QDENGA",
-      "category": "Terminology",
-      "detail": "A tetravalent live-attenuated dengue vaccine scheduled for public availability in India by early 2027."
-    },
-    {
-      "fact": "McGetchin Crater",
-      "category": "Places",
-      "detail": "A newly identified 730-foot-wide lunar crater formed recently due to a high-velocity celestial impact in mid-2024."
-    },
-    {
-      "fact": "Greensand Project",
       "category": "Organizations",
-      "detail": "The European Union's first full-scale commercial offshore carbon capture and storage (CCS) project, located in the Danish sector of the North Sea."
+      "detail": "An ₹840-crore indigenous oceanographic research vessel built by Garden Reach Shipbuilders & Engineers (GRSE) for deep-water marine and geological survey."
     },
     {
-      "fact": "Bab el-Mandeb Strait",
-      "category": "Places",
-      "detail": "A strategic maritime chokepoint connecting the Red Sea to the Gulf of Aden, critical for international oil and commercial shipping lines."
+      "fact": "Section 3(d) of the Patents Act, 1970",
+      "category": "Terminology",
+      "detail": "A statutory provision in Indian patent law that prevents 'patent evergreening' by barring patents on minor modifications of known substances without proven enhanced efficacy."
+    },
+    {
+      "fact": "1991 India-Pakistan Agreement on Advance Notice",
+      "category": "Organizations",
+      "detail": "Bilateral treaty requiring both nations to give prior notification before carrying out military maneuvers, swarm activities, or naval exercises near shared borders."
+    },
+    {
+      "fact": "Project Cheetah",
+      "category": "Schemes",
+      "detail": "India's landmark intercontinental wild carnivore translocation programme aimed at restoring open forest and grassland ecosystems."
+    },
+    {
+      "fact": "Merchant Discount Rate (MDR)",
+      "category": "Terminology",
+      "detail": "A processing fee charged to merchants for accepting digital payment transactions through debit cards, credit cards, or digital wallets."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the newly launched research vessel 'Sagar Manthan', consider the following statements:\n1. It was constructed by Garden Reach Shipbuilders & Engineers (GRSE).\n2. It is designed to assist in India's oceanographic research and deep-sea exploration initiatives.\nWhich of the statements given above is/are correct?",
+      "question": "Which section of the Indian Patents Act, 1970 explicitly prevents the practice of 'patent evergreening' by rejecting patent claims on known substances lacking enhanced efficacy?",
       "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
+        "Section 3(d)",
+        "Section 3(j)",
+        "Section 84",
+        "Section 107A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Section 3(d) prevents patent evergreening by requiring that new forms of known substances show significant enhancement of therapeutic efficacy to be patentable."
+    },
+    {
+      "question": "Consider the following statements regarding the 1991 India-Pakistan Agreement on Military Exercises:",
+      "options": [
+        "It only covers land troops deployments within 10 km of the Line of Control.",
+        "Article 10 requires prior notice regarding military/naval movements and maneuvers near borders.",
+        "It was signed under the aegis of the United Nations Security Council.",
+        "It abrogated the Simla Agreement of 1972."
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1991 Agreement specifies terms for advance notice on major military and naval maneuvers near maritime and land boundaries to avoid inadvertent escalation."
+    },
+    {
+      "question": "Under the recent merchant framework for Unified Payments Interface (UPI) transactions above ₹2,000, who pays the Merchant Discount Rate (MDR)?",
+      "options": [
+        "The sending consumer directly",
+        "The receiving consumer",
+        "The accepting merchant, capped at a maximum ceiling",
+        "The remitting bank exclusively"
       ],
       "correctIndex": 2,
-      "explanation": "Both statements are correct. GRSE launched the ₹840-crore indigenous ocean research vessel to support marine scientific exploration."
-    },
-    {
-      "question": "Which body of water is linked directly to the Arabian Sea via the strategic Bab el-Mandeb Strait?",
-      "options": [
-        "Persian Gulf",
-        "Red Sea",
-        "Black Sea",
-        "Mediterranean Sea"
-      ],
-      "correctIndex": 1,
-      "explanation": "The Bab el-Mandeb Strait connects the Red Sea to the Gulf of Aden and the broader Arabian Sea."
-    },
-    {
-      "question": "With reference to the Merchant Discount Rate (MDR) in digital transactions, consider the following statements:\n1. MDR is a fee borne directly by the customer on every UPI payment.\n2. It is a charge levied on merchants for processing digital transaction services.\nWhich of the statements given above is/are correct?",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect because MDR is payable by the merchant, not the end consumer. Statement 2 is correct."
-    },
-    {
-      "question": "Project Cheetah, launched in India, primarily aims at achieving which of the following ecological goals?",
-      "options": [
-        "In-situ breeding of Asiatic Lions in grassland sanctuaries",
-        "Re-establishing an apex predator in open forest and grassland ecosystems",
-        "Ex-situ conservation of snow leopards in high-altitude national parks",
-        "Creating captive breeding corridors for tigers in Western Ghats"
-      ],
-      "correctIndex": 1,
-      "explanation": "Project Cheetah aims to restore open forest and grassland ecosystems by reintroducing the top predator."
-    },
-    {
-      "question": "In the context of international trade regulations, what are 'Secondary Sanctions'?",
-      "options": [
-        "Tariffs imposed by domestic courts on local producers",
-        "Penalties imposed by a country on third-party entities trading with a sanctioned nation",
-        "Export subsidies granted to domestic agricultural firms",
-        "Anti-dumping duties levied under World Trade Organization provisions"
-      ],
-      "correctIndex": 1,
-      "explanation": "Secondary sanctions target foreign individuals or third-party countries that do business with a primary sanctioned target."
+      "explanation": "The 0.4% MDR on person-to-merchant UPI payments above ₹2,000 is borne by merchants and capped at ₹300 per transaction."
     }
   ],
   "schemes": [
     {
-      "name": "Project Cheetah",
+      "name": "Project Cheetah (Action Plan for Reintroduction of Cheetah in India)",
       "ministry": "Ministry of Environment, Forest and Climate Change",
-      "beneficiaries": "Grassland ecosystems, biodiversity, and eco-tourism communities",
-      "objective": "Reintroduce cheetahs to restore degraded grassland and savannah ecosystems in India.",
+      "beneficiaries": "Grassland ecosystems, biodiversity conservation, eco-tourism communities",
+      "objective": "Re-establish functional free-ranging cheetah populations to restore degraded open-forest and savannah ecosystems.",
       "keyFeatures": [
-        "Intercontinental translocation of wild big cats",
-        "Focus on creating interconnected metapopulations in central India"
+        "Intercontinental translocation of African cheetahs to Indian sanctuaries.",
+        "Establishment of landscape corridors and meta-population management.",
+        "Community outreach and prey-base restoration."
       ],
-      "funding": "Centrally sponsored under National Tiger Conservation Authority (NTCA) framework",
-      "upscRelevance": "High importance for GS III Environment, Wildlife Conservation, and Ecosystem Restoration."
+      "funding": "Centrally sponsored project under the National Tiger Conservation Authority (NTCA).",
+      "upscRelevance": "GS III Environment - Wildlife conservation and habitat restoration."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Judicial Process & Fundamental Rights",
+      "topic": "Climate Equity & Global Governance",
       "points": [
-        "Supreme Court stance on criminal justice: Statutory presumption of guilt does not relieve the prosecution from establishing basic facts beyond reasonable doubt.",
-        "Observation on police procedure: Undue haste in investigative timelines by probe agencies can undermine legal credibility and violate procedural fairness under Article 21."
+        "India's per capita greenhouse gas emissions remain significantly below the global average despite being the world's fifth-largest economy.",
+        "Developing nations require unconditional technological transfers and affordable climate finance rather than punitive tariffs on trade."
       ]
     },
     {
-      "topic": "Digital Economy & State Capacity",
+      "topic": "Affordable Public Health & Intellectual Property",
       "points": [
-        "Public Infrastructure Economics: Balancing consumer adoption of UPI through zero MDR against payment service providers' operational sustainability requires selective fee capping on large transaction sizes."
+        "Strict application of non-evergreening laws under Section 3(d) of India's Patent Act fosters low-cost generic drug competition, dramatically reducing lifelong treatment expenses for non-communicable diseases like diabetes."
       ]
     }
   ],
   "whatToRemember": [
-    "U.S. sanctions law permits up to 100% tariffs on countries purchasing Russian energy, posing strategic risks for India.",
-    "India's Project Cheetah population reached 52 individuals at the four-year mark.",
-    "GRSE launched 'Sagar Manthan', an indigenous ₹840-crore ocean research vessel.",
-    "A 0.4% MDR will apply to P2M UPI transactions exceeding ₹2,000, payable by merchants.",
-    "The Supreme Court ruled that statutory presumption of guilt does not grant absolute correctness to prosecution cases."
+    "US Lindsey O. Graham Act enables up to 100% tariffs on countries buying Russian crude, impacting Indian energy trade.",
+    "India cited Article 10 of the 1991 Bilateral Agreement with Pakistan regarding maritime notice in the Arabian Sea.",
+    "Project Cheetah total population reached 52 big cats four years after its inception.",
+    "0.4% UPI MDR applicable on merchant transactions above ₹2,000, paid by merchants with a ₹300 cap.",
+    "GRSE launched indigenous ocean research vessel 'Sagar Manthan' for deep-sea mapping.",
+    "Section 3(d) of the Patents Act remains India's main legal barrier against patent evergreening in pharmaceuticals."
   ]
 }
