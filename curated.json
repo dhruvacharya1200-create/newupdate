@@ -1,301 +1,262 @@
 {
-  "date": "2026-09-20",
-  "updatedAt": "2026-09-20T03:41:58.490Z",
+  "date": "2026-09-21",
+  "updatedAt": "2026-09-21T03:43:38.877Z",
   "frontPage": [
     {
-      "headline": "United States Enacts New Sanctions Targeting Russian and Iranian Oil Exports with Potential Tariff Impact on Trade Partners",
+      "headline": "India Expands Semiconductor Strategy Beyond Assembly to Design, Equipment, and Fabrication",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms"
+          "url": "https://www.thehindu.com/news/national/indias-semiconductor-push-targets-chips-for-cars-tvs-power-infra-vaishnaw/article71488287.ece"
         }
       ],
-      "date": "2026-09-20",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Bilateral Relations & Energy Security",
-      "summary": "The United States has enacted the Lindsey O. Graham Sanctioning Russia and Iran Act, empowering the administration to impose steep tariffs of up to 100% on countries continuing to import energy from Russia. This secondary sanction mechanism poses significant economic and diplomatic challenges for major buyers of Russian crude, including India and China.",
-      "whyItMatters": "Connects directly to GS II (Effect of policies of developed nations on India's interests) and GS III (Energy security and macroeconomic stability). Aspirants must understand secondary sanctions, tariff threats, and strategic autonomy in energy sourcing."
-    },
-    {
-      "headline": "India Reaffirms Climate Commitments and Highlights Historical Carbon Inequality at National Green Tribunal Conference",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/pm-modi-inaugurates-ngts-climate-conference-highlights-climate-inequality/article71483805.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms"
-        }
-      ],
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Environmental Conservation & Climate Change",
-      "summary": "At a climate conference organized by the National Green Tribunal, Prime Minister Narendra Modi rejected Western narratives blaming developing nations for global emissions, emphasizing that India's per capita carbon footprint remains well below the global average. He reaffirmed that India has fulfilled its Paris Agreement pledges ahead of schedule while highlighting structural barriers in accessing technology and nuclear energy.",
-      "whyItMatters": "Relevant for GS III (Climate Justice, Common But Differentiated Responsibilities) and Mains answer writing regarding global climate diplomacy, per capita equity, and renewable energy targets."
+      "topic": "Indigenization of Technology & Industrial Growth",
+      "summary": "Union Minister Ashwini Vaishnaw outlined India's expanding semiconductor strategy, which aims to move up the value chain from basic assembly and testing to chip design, fabrication, specialized materials, and manufacturing equipment. The push targets critical components for automotive, power infrastructure, and consumer electronics while emphasizing cybersecurity risks facing supply chains.",
+      "whyItMatters": "Semiconductor manufacturing is a vital geopolitical and economic imperative. Expanding into design and equipment reduces vulnerability to foreign supply chain shocks and enhances domestic technology sovereignty under the India Semiconductor Mission."
     },
     {
-      "headline": "India Highlights Maritime Safety and Adherence to 1991 Bilateral Agreement Following Incident in Arabian Sea",
+      "headline": "Supreme Court Directs Legislation to Protect Multi-Crore Court Deposits",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-wants-law-to-safeguard-multi-crore-court-deposits/article71488444.ece"
         }
       ],
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "India & Its Neighborhood",
-      "summary": "India flagged an alleged violation of Article 10 of the 1991 Agreement on Advance Notice on Military Exercises, Swarm and Troop Movements following a maritime interaction between naval vessels in the North Arabian Sea. The dispute highlights longstanding maritime boundary ambiguities near Sir Creek and the Exclusive Economic Zone.",
-      "whyItMatters": "Crucial for GS II (India-Pakistan maritime disputes, Sir Creek boundary issue, and bilateral confidence-building measures) and Internal Security matters linked to coastal surveillance."
+      "topic": "Judiciary & Governance Reforms",
+      "summary": "The Supreme Court highlighted the critical absence of uniform national rules governing multi-crore judicial deposits made during litigation. Calling for statutory safeguards, the court noted that arbitrary and ad-hoc handling of escrow sums leads to financial vulnerability and prolonged judicial pendency.",
+      "whyItMatters": "Unregulated management of litigant funds in court registries exposes financial assets to mismanagement and administrative delays. A formalized legal mechanism improves judicial accountability and financial oversight."
     },
     {
-      "headline": "Project Cheetah Reaches 52 Cats as Four-Year Restoration Milestone Achieved in India",
+      "headline": "BRICS Nations Reject EU Carbon Border Tax; PM Highlights Climate Equity",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/madhya-pradesh/as-project-cheetah-completes-4-years-big-cat-population-in-india-rises-to-52/article71479480.ece"
-        }
-      ],
-      "date": "2026-09-20",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Biodiversity Conservation",
-      "summary": "Four years after the launch of Project Cheetah, India's cheetah population has expanded to 52 individuals. Conservation authorities are now transitioning to the next phase focused on expanding suitable landscape corridors and building a viable long-term metapopulation across suitable sanctuaries.",
-      "whyItMatters": "Directly linked to GS III (Species reintroduction, ecological management, and biodiversity protection). Key for Prelims questions on habitat restoration and protected areas."
-    },
-    {
-      "headline": "Reserve Bank of India Clarifies Merchant Discount Rate Framework for Higher-Value Person-to-Merchant UPI Transactions",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/mdr-apprehension-unlikely-to-spur-higher-cash-usage-rbi-deputy-governor/article71482058.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms"
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-global-conference-on-environment-climate-dynamics/articleshow/134348630.cms"
         }
       ],
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy & Digital Payment Infrastructure",
-      "summary": "The RBI and NPCI clarified that a 0.4% Merchant Discount Rate (MDR) on person-to-merchant UPI transactions above ₹2,000 will be borne solely by merchants, capped at ₹300 per transaction. Officials stated this small operational charge is unlikely to reverse digital payment adoption or spur a return to cash.",
-      "whyItMatters": "Essential for GS III (Digital Public Infrastructure, Fintech regulation, financial inclusion, and monetary transition)."
+      "topic": "Environmental Conservation & International Trade",
+      "summary": "BRICS member countries issued a collective statement condemning unilateral trade barriers like the EU Carbon Border Adjustment Mechanism (CBAM), calling for increased climate adaptation finance for developing economies. Separately, India reaffirmed its compliance with Paris Agreement commitments while emphasizing historical emissions inequality.",
+      "whyItMatters": "Unilateral carbon tariffs threaten exports from developing nations. The joint resistance reflects Global South solidarity on Common But Differentiated Responsibilities (CBDR) in global climate negotiations."
     },
     {
-      "headline": "GRSE Launches Indigenous Oceanographic Research Vessel 'Sagar Manthan' to Boost Deep-Sea Science",
+      "headline": "Supreme Court Refuses Extension for Aravalli Panel, Fixes Deadline for Definition and Mining Regulations",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/kolkata-based-grse-launches-indigenous-ocean-research-vessel-sagar-manthan/article71446742.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece"
         }
       ],
       "date": "2026-09-20",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Indigenization of Technology & Oceanography",
-      "summary": "Garden Reach Shipbuilders & Engineers (GRSE) launched the ₹840-crore indigenous oceanographic research vessel 'Sagar Manthan'. Designed for deep-water marine research and geological mapping, the vessel is scheduled to enter active operational service by early 2028.",
-      "whyItMatters": "Directly related to GS III (Deep Ocean Mission, Blue Economy, and self-reliance in defense/scientific shipping technology)."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "Scientific Study Links Accelerating Drought and Aridity Hotspots Along Peninsular India's Eastern Coast",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms"
-        }
-      ],
-      "date": "2026-09-20",
-      "gsPaper": "GS I",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Important Geophysical Phenomena & Geography",
-      "summary": "A comprehensive hydro-climatic analysis shows Peninsular Southern India experiencing rapid drying trends, with persistent drought hotspots emerging along the eastern coast. Concurrently, Northwest India is emerging as a persistent heatwave epicentre, highlighting shifting spatial dynamics of climate extremes.",
-      "whyItMatters": "Highly relevant for GS I Physical Geography (Monsoon vulnerability, microclimatic shifts, and regional water stress in Peninsular India)."
+      "topic": "Environmental Conservation & Judicial Intervention",
+      "summary": "The Supreme Court declined to grant further time extension to a high-powered committee tasked with defining the ecologically sensitive Aravalli range and regulating mining activities. The panel must submit its final report by November 30 to curb systemic illegal mining across the mountain belt.",
+      "whyItMatters": "The Aravalli Range acts as a natural barrier against desertification in Northern India. Establishing a legal and uniform definition of 'Aravallis' is critical for environmental preservation and regulating destructive extraction."
+    },
+    {
+      "headline": "Odisha Political Contestation Grows Over MMDR Amendment and State Mineral Tax Rights",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/odisha/bjd-mounts-pressure-on-bjp-government-over-mmdr-amendment-act-seeking-special-session-of-assembly/article71488059.ece"
+        }
+      ],
+      "date": "2026-09-21",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Federalism & Centre-State Financial Relations",
+      "summary": "Demands for a special legislative assembly session emerged in Odisha challenging amendments to the Mines and Minerals (Development and Regulation) Act. Opponents contend that central modifications erode the constitutional competence of mineral-rich states to levy local taxes and cesses on mineral resources.",
+      "whyItMatters": "Fiscal federalism depends heavily on state taxation rights over natural resources. Tensions over MMDR amendments highlight ongoing friction between central mineral regulation and state revenue autonomy."
     }
   ],
+  "gs1": [],
   "gs2": [
     {
-      "headline": "Proposed EPFO Wage Ceiling Revision Aims to Broaden Formal Social Security Coverage",
+      "headline": "Supreme Court Mandates Legislative Framework for Litigant Funds Held in Court Registries",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/what-does-the-latest-revision-to-the-epfo-wage-ceiling-entail-explained/article71479414.ece"
+          "url": "https://www.thehindu.com/news/national/supreme-court-wants-law-to-safeguard-multi-crore-court-deposits/article71488444.ece"
         }
       ],
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Social Justice & Governance",
-      "summary": "The central government's proposal to revise the statutory wage ceiling under the Employees' Provident Fund Organisation (EPFO) will bring millions of organized sector workers into the formal social security safety net. While trade unions demand higher minimum pension floors, employers have raised questions regarding compliance costs.",
-      "whyItMatters": "Connects directly to GS II (Social Security, Welfare schemes for vulnerable sections, and labor market governance)."
-    },
-    {
-      "headline": "Madras High Court Rules Against Granting Pensionary Benefits to Candidates Securing Employment via Fraudulent Caste Certificates",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/caste-hindu-candidate-claims-reservation-through-bogus-community-certificate-madras-high-court-refuses-to-order-release-of-terminal-benefits/article71484580.ece"
-        }
-      ],
-      "date": "2026-09-20",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Judiciary & Affirmative Action",
-      "summary": "The Madras High Court declined to order the release of terminal and pensionary benefits to an employee who fraudulently claimed affirmative action reservation using a false community certificate. The court stressed that long service cannot legitimize initial fraud committed to usurp constitutional benefits meant for underprivileged groups.",
-      "whyItMatters": "Relevant for GS II (Mechanisms for protection of vulnerable sections, constitutional reservations, and administrative ethics)."
+      "topic": "Judiciary & Governance Reforms",
+      "summary": "The apex court called for a dedicated legislative framework to regulate court-ordered monetary deposits. Highlighting varying practices across state judiciaries, the court stressed that unmonitored escrow funds create administrative friction and security risks.",
+      "whyItMatters": "Standardization of judicial treasury protocols directly impacts administrative accountability and protects financial rights of litigants."
     }
   ],
   "gs3": [
     {
-      "headline": "Ecologists Warn of Imminent 'Super' El Niño Event and Call for Comprehensive Disaster Preparedness",
+      "headline": "Strategic Policy Gaps Identified in India's Rare Earth and Magnet Value Chains",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/ecologists-urge-scientists-and-policymakers-to-study-imminent-super-el-nino-to-prepare-for-the-future/article71485068.ece"
+          "url": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece"
         }
       ],
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Disaster Management & Agriculture",
-      "summary": "Scientists and climate ecologists have advised policymakers to prepare for potential systemic shocks caused by an impending strong El Niño cycle. The phenomenon threatens severe monsoonal disruptions, agricultural yield drop, and ecological stress across tropical natural reserves.",
-      "whyItMatters": "Crucial for GS III (Disaster risk reduction, El Niño impact on Indian agriculture, and climate adaptation frameworks)."
+      "topic": "Industrial Policy & Critical Minerals",
+      "summary": "An analysis of India's magnet mission highlights that relying solely on raw rare-earth mineral deposits is insufficient. To break external dependencies, policy must focus on intermediate refining, processing capabilities, and permanent magnet production needed for electric vehicles and defense applications.",
+      "whyItMatters": "Rare earth permanent magnets are critical components for green energy technologies and advanced defense systems; domestic midstream processing is key to supply chain resilience."
     },
     {
-      "headline": "Study Highlights India's Patent Laws Against Evergreening as Key to Affordable Generic Diabetes Care",
+      "headline": "BRICS Coalition Opposes Carbon Border Adjustments, Demands Climate Equity",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/study-attempts-to-find-out-how-india-made-expensive-diabetes-medicines-affordable/article71484378.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece"
         }
       ],
       "date": "2026-09-20",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Intellectual Property Rights & Public Health",
-      "summary": "A global healthcare study credited Section 3(d) of the Indian Patents Act for preventing patent evergreening and facilitating rapid generic manufacturing of critical diabetes medications. This statutory safeguard has drastically cut treatment costs for non-communicable diseases nationwide.",
-      "whyItMatters": "Directly links to GS III (Intellectual Property Rights - IPR, generic pharmacy leadership, and public health policy)."
+      "topic": "Environmental Economics & Climate Policy",
+      "summary": "BRICS nations formally denounced unilateral carbon tariffs, specifically pointing to unilateral instruments like the EU CBAM. They argued such measures violate multilateral principles and called for substantial expansion of international climate finance for developing nations.",
+      "whyItMatters": "Connects directly to trade-environment friction, global climate equity, and protectionist tendencies masked as green policies."
+    },
+    {
+      "headline": "Regulatory Focus Intensifies on Food Adulteration Risks and Pedigree Drug Warnings",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/society/food-adulteration-india-milk-safety/article71468235.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/despite-a-2025-advisory-against-cough-syrups-for-very-young-children-prescribing-continued-india-now-weighs-a-red-warning-on-bottles-saying-they-should-not-be-used-in-children-under-4/articleshow/134363477.cms"
+        }
+      ],
+      "date": "2026-09-20",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Public Health & Safety Regulations",
+      "summary": "Public health authorities are evaluating stricter warning labels on pediatric cough formulations to prevent usage in children under four years. Concurrently, experts are urging food safety regulators to adopt end-to-end, risk-based surveillance across agricultural and dairy supply chains.",
+      "whyItMatters": "Strengthening regulatory compliance in food and pharmaceuticals is critical to protecting public health and preserving the global credibility of Indian pharma exports."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Sagar Manthan",
-      "category": "Organizations",
-      "detail": "An ₹840-crore indigenous oceanographic research vessel built by Garden Reach Shipbuilders & Engineers (GRSE) for deep-water marine and geological survey."
+      "fact": "Aravalli Mountain Range",
+      "category": "Places",
+      "detail": "One of the oldest fold mountain systems in the world, running across Gujarat, Rajasthan, Haryana, and Delhi; critical for preventing desertification in North India."
     },
     {
-      "fact": "Section 3(d) of the Patents Act, 1970",
+      "fact": "Carbon Border Adjustment Mechanism (CBAM)",
       "category": "Terminology",
-      "detail": "A statutory provision in Indian patent law that prevents 'patent evergreening' by barring patents on minor modifications of known substances without proven enhanced efficacy."
+      "detail": "A tariff policy proposed by the European Union to impose carbon emissions costs on imports of carbon-intensive goods entering the EU market."
     },
     {
-      "fact": "1991 India-Pakistan Agreement on Advance Notice",
-      "category": "Organizations",
-      "detail": "Bilateral treaty requiring both nations to give prior notification before carrying out military maneuvers, swarm activities, or naval exercises near shared borders."
-    },
-    {
-      "fact": "Project Cheetah",
-      "category": "Schemes",
-      "detail": "India's landmark intercontinental wild carnivore translocation programme aimed at restoring open forest and grassland ecosystems."
-    },
-    {
-      "fact": "Merchant Discount Rate (MDR)",
+      "fact": "Xenotransplantation",
       "category": "Terminology",
-      "detail": "A processing fee charged to merchants for accepting digital payment transactions through debit cards, credit cards, or digital wallets."
+      "detail": "The process of grafting or transplanting organs, tissues, or cells from one biological species to another, recently demonstrated via genetically modified pig kidney transplants."
+    },
+    {
+      "fact": "Asima Chatterjee",
+      "category": "Personalities",
+      "detail": "Pioneering Indian organic chemist renowned for her landmark research on medicinal plants, naturally derived anti-malarial drugs, and vinca alkaloids."
+    },
+    {
+      "fact": "Spotted Lanternfly",
+      "category": "Species",
+      "detail": "An invasive plant-hopper insect native to parts of Asia, known for causing severe damage to agricultural crops including grapevines and timber."
     }
   ],
   "quiz": [
     {
-      "question": "Which section of the Indian Patents Act, 1970 explicitly prevents the practice of 'patent evergreening' by rejecting patent claims on known substances lacking enhanced efficacy?",
+      "question": "Regarding Carbon Border Adjustment Mechanisms (CBAM), consider the following statements:\n1. It is designed to impose an import duty on carbon-intensive goods arriving in the jurisdiction.\n2. BRICS member countries have advocated for CBAM to reduce global emissions.\nWhich of the statements given above is/are correct?",
       "options": [
-        "Section 3(d)",
-        "Section 3(j)",
-        "Section 84",
-        "Section 107A"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
       "correctIndex": 0,
-      "explanation": "Section 3(d) prevents patent evergreening by requiring that new forms of known substances show significant enhancement of therapeutic efficacy to be patentable."
+      "explanation": "Statement 1 is correct as CBAM levies carbon costs on imported industrial goods. Statement 2 is incorrect because BRICS nations strongly oppose unilateral carbon taxes like CBAM."
     },
     {
-      "question": "Consider the following statements regarding the 1991 India-Pakistan Agreement on Military Exercises:",
+      "question": "Which of the following mountain ranges serves as a vital ecological buffer preventing the eastward expansion of the Thar Desert into the Indo-Gangetic Plains?",
       "options": [
-        "It only covers land troops deployments within 10 km of the Line of Control.",
-        "Article 10 requires prior notice regarding military/naval movements and maneuvers near borders.",
-        "It was signed under the aegis of the United Nations Security Council.",
-        "It abrogated the Simla Agreement of 1972."
-      ],
-      "correctIndex": 1,
-      "explanation": "The 1991 Agreement specifies terms for advance notice on major military and naval maneuvers near maritime and land boundaries to avoid inadvertent escalation."
-    },
-    {
-      "question": "Under the recent merchant framework for Unified Payments Interface (UPI) transactions above ₹2,000, who pays the Merchant Discount Rate (MDR)?",
-      "options": [
-        "The sending consumer directly",
-        "The receiving consumer",
-        "The accepting merchant, capped at a maximum ceiling",
-        "The remitting bank exclusively"
+        "Vindhya Range",
+        "Satpura Range",
+        "Aravalli Range",
+        "Western Ghats"
       ],
       "correctIndex": 2,
-      "explanation": "The 0.4% MDR on person-to-merchant UPI payments above ₹2,000 is borne by merchants and capped at ₹300 per transaction."
+      "explanation": "The Aravalli Range acts as a natural ecological barrier protecting Northern India from sand expansion and desertification originating from the Thar Desert."
+    },
+    {
+      "question": "The term 'Xenotransplantation' refers to which of the following processes?",
+      "options": [
+        "Cloning of endangered plant species using tissue culture",
+        "Transplantation of living cells, tissues, or organs from animal species into humans",
+        "Synthesis of artificial human organ replacements using 3D bioprinting",
+        "Gene editing inside human embryonic stem cells"
+      ],
+      "correctIndex": 1,
+      "explanation": "Xenotransplantation specifically refers to cross-species medical procedures involving the transplantation of non-human animal organs or tissues into human recipients."
     }
   ],
   "schemes": [
     {
-      "name": "Project Cheetah (Action Plan for Reintroduction of Cheetah in India)",
-      "ministry": "Ministry of Environment, Forest and Climate Change",
-      "beneficiaries": "Grassland ecosystems, biodiversity conservation, eco-tourism communities",
-      "objective": "Re-establish functional free-ranging cheetah populations to restore degraded open-forest and savannah ecosystems.",
+      "name": "India Semiconductor Mission (ISM)",
+      "ministry": "Ministry of Electronics and Information Technology (MeitY)",
+      "beneficiaries": "Semiconductor manufacturing firms, chip designers, research institutions, and domestic electronics industries.",
+      "objective": "To build a vibrant domestic semiconductor and display manufacturing ecosystem to position India as a global electronics hub.",
       "keyFeatures": [
-        "Intercontinental translocation of African cheetahs to Indian sanctuaries.",
-        "Establishment of landscape corridors and meta-population management.",
-        "Community outreach and prey-base restoration."
+        "Provides financial support for setting up semiconductor fabs and display foundries.",
+        "Supports domestic chip design companies through the Design Linked Incentive (DLI) scheme.",
+        "Fosters capital equipment and material manufacturing capabilities."
       ],
-      "funding": "Centrally sponsored project under the National Tiger Conservation Authority (NTCA).",
-      "upscRelevance": "GS III Environment - Wildlife conservation and habitat restoration."
+      "funding": "Centrally funded scheme with a total outlay of ₹76,000 crore.",
+      "upscRelevance": "Directly relevant to GS III (Science & Technology, Industrial Policy) regarding critical technology infrastructure."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Climate Equity & Global Governance",
+      "topic": "Judicial Reforms & Fund Management",
       "points": [
-        "India's per capita greenhouse gas emissions remain significantly below the global average despite being the world's fifth-largest economy.",
-        "Developing nations require unconditional technological transfers and affordable climate finance rather than punitive tariffs on trade."
+        "Supreme Court Observation: Unregulated multi-crore judicial deposits cause financial opacity and contribute to procedural pendency; statutory rules are urgently required."
       ]
     },
     {
-      "topic": "Affordable Public Health & Intellectual Property",
+      "topic": "Climate Equity & Foreign Trade",
       "points": [
-        "Strict application of non-evergreening laws under Section 3(d) of India's Patent Act fosters low-cost generic drug competition, dramatically reducing lifelong treatment expenses for non-communicable diseases like diabetes."
+        "BRICS Joint Position: Unilateral carbon tariffs violate multilateral agreements; green transition financing must take priority over economic punitive measures against developing economies."
       ]
     }
   ],
   "whatToRemember": [
-    "US Lindsey O. Graham Act enables up to 100% tariffs on countries buying Russian crude, impacting Indian energy trade.",
-    "India cited Article 10 of the 1991 Bilateral Agreement with Pakistan regarding maritime notice in the Arabian Sea.",
-    "Project Cheetah total population reached 52 big cats four years after its inception.",
-    "0.4% UPI MDR applicable on merchant transactions above ₹2,000, paid by merchants with a ₹300 cap.",
-    "GRSE launched indigenous ocean research vessel 'Sagar Manthan' for deep-sea mapping.",
-    "Section 3(d) of the Patents Act remains India's main legal barrier against patent evergreening in pharmaceuticals."
+    "India is expanding its semiconductor push beyond assembly toward midstream design, fabrication, and manufacturing equipment.",
+    "The Supreme Court called for uniform statutory rules to safeguard and administer multi-crore court-ordered financial deposits.",
+    "BRICS nations condemned unilateral carbon taxes like the EU's CBAM, demanding equitable climate adaptation funding.",
+    "The SC set a firm November 30 deadline for the Aravalli committee report to establish uniform definitions and mining rules.",
+    "A medical milestone was achieved with a xenotransplant recipient living for nine months with a genetically modified pig kidney."
   ]
 }
