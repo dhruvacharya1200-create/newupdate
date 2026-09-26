@@ -1,262 +1,232 @@
 {
-  "date": "2026-09-21",
-  "updatedAt": "2026-09-21T03:43:38.877Z",
+  "date": "2026-09-26",
+  "updatedAt": "2026-09-26T03:41:53.083Z",
   "frontPage": [
     {
-      "headline": "India Expands Semiconductor Strategy Beyond Assembly to Design, Equipment, and Fabrication",
+      "headline": "India and Chile initiate talks for Comprehensive Free Trade Agreement with key focus on critical minerals",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/indias-semiconductor-push-targets-chips-for-cars-tvs-power-infra-vaishnaw/article71488287.ece"
+          "url": "https://www.thehindu.com/news/national/india-chile-to-start-talks-for-comprehensive-trade-pact-pm/article69400958.ece"
         }
       ],
-      "date": "2026-09-21",
-      "gsPaper": "GS III",
+      "date": "2026-09-26",
+      "gsPaper": "GS II & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indigenization of Technology & Industrial Growth",
-      "summary": "Union Minister Ashwini Vaishnaw outlined India's expanding semiconductor strategy, which aims to move up the value chain from basic assembly and testing to chip design, fabrication, specialized materials, and manufacturing equipment. The push targets critical components for automotive, power infrastructure, and consumer electronics while emphasizing cybersecurity risks facing supply chains.",
-      "whyItMatters": "Semiconductor manufacturing is a vital geopolitical and economic imperative. Expanding into design and equipment reduces vulnerability to foreign supply chain shocks and enhances domestic technology sovereignty under the India Semiconductor Mission."
+      "topic": "Bilateral Agreements & Critical Minerals",
+      "summary": "India and Chile have announced negotiations for a comprehensive economic partnership agreement (CEPA). Simultaneously, Chile's state copper producer CODELCO signed an agreement with Hindustan Copper Limited to secure mineral supply and reduce dependence on third markets.",
+      "whyItMatters": "Chile holds significant reserves of copper and lithium, making it critical for India's clean energy transition and industrial diversification."
     },
     {
-      "headline": "Supreme Court Directs Legislation to Protect Multi-Crore Court Deposits",
+      "headline": "Controversy deepens over Election Commission's Special Intensive Revision process",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-wants-law-to-safeguard-multi-crore-court-deposits/article71488444.ece"
-        }
-      ],
-      "date": "2026-09-21",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Judiciary & Governance Reforms",
-      "summary": "The Supreme Court highlighted the critical absence of uniform national rules governing multi-crore judicial deposits made during litigation. Calling for statutory safeguards, the court noted that arbitrary and ad-hoc handling of escrow sums leads to financial vulnerability and prolonged judicial pendency.",
-      "whyItMatters": "Unregulated management of litigant funds in court registries exposes financial assets to mismanagement and administrative delays. A formalized legal mechanism improves judicial accountability and financial oversight."
-    },
-    {
-      "headline": "BRICS Nations Reject EU Carbon Border Tax; PM Highlights Climate Equity",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece"
+          "url": "https://www.thehindu.com/opinion/editorial/presumed-ineligible-on-the-election-commission-of-indias-sir-process/article71491681.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-global-conference-on-environment-climate-dynamics/articleshow/134348630.cms"
+          "url": "https://timesofindia.indiatimes.com/india/combative-bjp-defends-sir-slams-oppn-for-political-storm/articleshow/134495072.cms"
         }
       ],
-      "date": "2026-09-21",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation & International Trade",
-      "summary": "BRICS member countries issued a collective statement condemning unilateral trade barriers like the EU Carbon Border Adjustment Mechanism (CBAM), calling for increased climate adaptation finance for developing economies. Separately, India reaffirmed its compliance with Paris Agreement commitments while emphasizing historical emissions inequality.",
-      "whyItMatters": "Unilateral carbon tariffs threaten exports from developing nations. The joint resistance reflects Global South solidarity on Common But Differentiated Responsibilities (CBDR) in global climate negotiations."
-    },
-    {
-      "headline": "Supreme Court Refuses Extension for Aravalli Panel, Fixes Deadline for Definition and Mining Regulations",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-extension-for-aravalli-panel-sets-november-30-deadline-for-final-report/article71438037.ece"
-        }
-      ],
-      "date": "2026-09-20",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation & Judicial Intervention",
-      "summary": "The Supreme Court declined to grant further time extension to a high-powered committee tasked with defining the ecologically sensitive Aravalli range and regulating mining activities. The panel must submit its final report by November 30 to curb systemic illegal mining across the mountain belt.",
-      "whyItMatters": "The Aravalli Range acts as a natural barrier against desertification in Northern India. Establishing a legal and uniform definition of 'Aravallis' is critical for environmental preservation and regulating destructive extraction."
-    },
-    {
-      "headline": "Odisha Political Contestation Grows Over MMDR Amendment and State Mineral Tax Rights",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/odisha/bjd-mounts-pressure-on-bjp-government-over-mmdr-amendment-act-seeking-special-session-of-assembly/article71488059.ece"
-        }
-      ],
-      "date": "2026-09-21",
+      "date": "2026-09-26",
       "gsPaper": "GS II",
       "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Federalism & Centre-State Financial Relations",
-      "summary": "Demands for a special legislative assembly session emerged in Odisha challenging amendments to the Mines and Minerals (Development and Regulation) Act. Opponents contend that central modifications erode the constitutional competence of mineral-rich states to levy local taxes and cesses on mineral resources.",
-      "whyItMatters": "Fiscal federalism depends heavily on state taxation rights over natural resources. Tensions over MMDR amendments highlight ongoing friction between central mineral regulation and state revenue autonomy."
+      "importance": "High",
+      "topic": "Electoral Reforms & Institutional Integrity",
+      "summary": "The Election Commission of India faces widespread scrutiny over its Special Intensive Revision (SIR) procedure due to high rates of deletion notices and concerns over procedural fairness.",
+      "whyItMatters": "Ensuring transparent voter registration procedures without arbitrary voter exclusion is central to maintaining free and fair democratic elections."
+    },
+    {
+      "headline": "India and Liberia partner to launch initiative addressing Red Sea maritime shipping threats",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/attacks-on-commercial-shipping-in-gulf-red-sea-simply-indefensible-jaishankar/article71509676.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/on-unga-margins-india-liberia-set-up-sailors-safety-body/articleshow/134492296.cms"
+        }
+      ],
+      "date": "2026-09-26",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations & Maritime Security",
+      "summary": "On the sidelines of the UN General Assembly, India and Liberia formed a 'Group of Friends' to condemn and counter persistent attacks on commercial vessels in the Gulf and Red Sea.",
+      "whyItMatters": "Freedom of navigation along critical sea lanes of communication is vital for India's energy security and global export trade."
+    },
+    {
+      "headline": "States seek modifications to Western Ghats Ecologically Sensitive Area notifications",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/western-ghats-esa-keralam-submits-recommendations-to-centre-seeks-limiting-area-to-8590-sq-km/article71507728.ece"
+        }
+      ],
+      "date": "2026-09-26",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Conservation & Environmental Impact Assessment",
+      "summary": "State governments in the Western Ghats region, including Kerala and Karnataka, have voiced strong reservations regarding the draft notifications for Ecologically Sensitive Areas (ESA) based on the Kasturirangan Report.",
+      "whyItMatters": "Highlights the ongoing political and economic tension between biodiversity conservation in fragile ecosystems and the developmental aspirations of local communities."
+    },
+    {
+      "headline": "India records $94.5 billion in annual FDI amid 12-year evaluation of Make in India",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/12-years-of-make-in-india-in-12-metrics-low-and-patchy-impact-on-growth-employment-global-share/article71505448.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/india-draws-record-94-5-billion-fdi-in-fy26-total-inflow-crosses-843-billion/articleshow/134479067.cms"
+        }
+      ],
+      "date": "2026-09-26",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Economy & Industrial Growth",
+      "summary": "India registered foreign direct investment inflows of $94.53 billion for FY 2025-26. However, structural evaluations of the 'Make in India' initiative indicate uneven success, concentrated heavily in high-tech sectors while employment growth remains modest.",
+      "whyItMatters": "Crucial for evaluating industrial policy performance, capital formation trends, and labor market manufacturing capacity."
     }
   ],
   "gs1": [],
   "gs2": [
     {
-      "headline": "Supreme Court Mandates Legislative Framework for Litigant Funds Held in Court Registries",
+      "headline": "Jammu and Kashmir Assembly debates resolutions regarding statehood and constitutional status",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-wants-law-to-safeguard-multi-crore-court-deposits/article71488444.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/omar-brings-jk-statehood-resolution-to-assembly-autonomy-mention-sparks-bjp-furore/articleshow/134491427.cms"
         }
       ],
-      "date": "2026-09-21",
+      "date": "2026-09-26",
       "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Judiciary & Governance Reforms",
-      "summary": "The apex court called for a dedicated legislative framework to regulate court-ordered monetary deposits. Highlighting varying practices across state judiciaries, the court stressed that unmonitored escrow funds create administrative friction and security risks.",
-      "whyItMatters": "Standardization of judicial treasury protocols directly impacts administrative accountability and protects financial rights of litigants."
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Federalism & Union Territories",
+      "summary": "The J&K Legislative Assembly witnessed intense debates following resolutions seeking full statehood restoration and constitutional safeguards for regional autonomy.",
+      "whyItMatters": "Connects directly to Union-State relations, federal reorganisation, and constitutional guarantees under Article 370's aftermath."
     }
   ],
   "gs3": [
     {
-      "headline": "Strategic Policy Gaps Identified in India's Rare Earth and Magnet Value Chains",
+      "headline": "E-commerce platforms penalized for selling restricted chemical herbicides online",
       "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece"
-        }
-      ],
-      "date": "2026-09-21",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Industrial Policy & Critical Minerals",
-      "summary": "An analysis of India's magnet mission highlights that relying solely on raw rare-earth mineral deposits is insufficient. To break external dependencies, policy must focus on intermediate refining, processing capabilities, and permanent magnet production needed for electric vehicles and defense applications.",
-      "whyItMatters": "Rare earth permanent magnets are critical components for green energy technologies and advanced defense systems; domestic midstream processing is key to supply chain resilience."
-    },
-    {
-      "headline": "BRICS Coalition Opposes Carbon Border Adjustments, Demands Climate Equity",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/brics-condemns-eu-carbon-tax/article71361332.ece"
-        }
-      ],
-      "date": "2026-09-20",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Economics & Climate Policy",
-      "summary": "BRICS nations formally denounced unilateral carbon tariffs, specifically pointing to unilateral instruments like the EU CBAM. They argued such measures violate multilateral principles and called for substantial expansion of international climate finance for developing nations.",
-      "whyItMatters": "Connects directly to trade-environment friction, global climate equity, and protectionist tendencies masked as green policies."
-    },
-    {
-      "headline": "Regulatory Focus Intensifies on Food Adulteration Risks and Pedigree Drug Warnings",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/society/food-adulteration-india-milk-safety/article71468235.ece"
-        },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/despite-a-2025-advisory-against-cough-syrups-for-very-young-children-prescribing-continued-india-now-weighs-a-red-warning-on-bottles-saying-they-should-not-be-used-in-children-under-4/articleshow/134363477.cms"
+          "url": "https://timesofindia.indiatimes.com/india/amazon-flipkart-jiomart-fined-for-illegal-herbicide-sale/articleshow/134492480.cms"
         }
       ],
-      "date": "2026-09-20",
+      "date": "2026-09-26",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Agricultural Regulation & E-commerce Compliance",
+      "summary": "Regulatory authorities imposed penalties on major e-commerce platforms for listed sales of restricted agricultural herbicides without requisite statutory permissions.",
+      "whyItMatters": "Demonstrates regulatory gaps in digital marketplace monitoring regarding environmental hazards and toxic agricultural inputs."
+    },
+    {
+      "headline": "Analysis highlights EV adoption disparities across Indian vehicle segments",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/data/how-much-of-indias-shift-to-alternative-fuels-is-electric-vehicles/article71496672.ece"
+        }
+      ],
+      "date": "2026-09-26",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Public Health & Safety Regulations",
-      "summary": "Public health authorities are evaluating stricter warning labels on pediatric cough formulations to prevent usage in children under four years. Concurrently, experts are urging food safety regulators to adopt end-to-end, risk-based surveillance across agricultural and dairy supply chains.",
-      "whyItMatters": "Strengthening regulatory compliance in food and pharmaceuticals is critical to protecting public health and preserving the global credibility of Indian pharma exports."
+      "topic": "Infrastructure & Electric Vehicles",
+      "summary": "Data reveals that India's shift toward electric mobility is largely driven by the two-wheeler and three-wheeler segments, whereas four-wheeler passenger vehicle transition remains comparatively slower.",
+      "whyItMatters": "Understanding segment-wise decarbonisation helps assess clean energy targets and urban transport planning."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Aravalli Mountain Range",
-      "category": "Places",
-      "detail": "One of the oldest fold mountain systems in the world, running across Gujarat, Rajasthan, Haryana, and Delhi; critical for preventing desertification in North India."
-    },
-    {
-      "fact": "Carbon Border Adjustment Mechanism (CBAM)",
-      "category": "Terminology",
-      "detail": "A tariff policy proposed by the European Union to impose carbon emissions costs on imports of carbon-intensive goods entering the EU market."
-    },
-    {
-      "fact": "Xenotransplantation",
-      "category": "Terminology",
-      "detail": "The process of grafting or transplanting organs, tissues, or cells from one biological species to another, recently demonstrated via genetically modified pig kidney transplants."
-    },
-    {
-      "fact": "Asima Chatterjee",
-      "category": "Personalities",
-      "detail": "Pioneering Indian organic chemist renowned for her landmark research on medicinal plants, naturally derived anti-malarial drugs, and vinca alkaloids."
-    },
-    {
-      "fact": "Spotted Lanternfly",
+      "fact": "Begonia neelamorum",
       "category": "Species",
-      "detail": "An invasive plant-hopper insect native to parts of Asia, known for causing severe damage to agricultural crops including grapevines and timber."
+      "detail": "A newly described plant species from Keyi Panyor district of Arunachal Pradesh, named in honour of the indigenous Nyishi community's Neelam clan."
+    },
+    {
+      "fact": "Blue Bonds",
+      "category": "Terminology",
+      "detail": "Financial instruments recognized by SEBI designed specifically to raise capital for ocean-based sustainable projects and coastal protection initiatives."
+    },
+    {
+      "fact": "CODELCO",
+      "category": "Organizations",
+      "detail": "Chilean state-owned enterprise and the world's largest copper producing corporation, which recently inked strategic agreements with India."
+    },
+    {
+      "fact": "Okapi",
+      "category": "Species",
+      "detail": "An endangered forest mammal native to the Democratic Republic of Congo, closely related to the giraffe, known for its distinct striped markings."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding Carbon Border Adjustment Mechanisms (CBAM), consider the following statements:\n1. It is designed to impose an import duty on carbon-intensive goods arriving in the jurisdiction.\n2. BRICS member countries have advocated for CBAM to reduce global emissions.\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements regarding 'Blue Bonds':\n1. They are debt instruments specifically issued to finance marine and ocean-based environmental projects.\n2. In India, SEBI has recognized blue bonds under the sustainable finance framework.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct as CBAM levies carbon costs on imported industrial goods. Statement 2 is incorrect because BRICS nations strongly oppose unilateral carbon taxes like CBAM."
-    },
-    {
-      "question": "Which of the following mountain ranges serves as a vital ecological buffer preventing the eastward expansion of the Thar Desert into the Indo-Gangetic Plains?",
-      "options": [
-        "Vindhya Range",
-        "Satpura Range",
-        "Aravalli Range",
-        "Western Ghats"
-      ],
       "correctIndex": 2,
-      "explanation": "The Aravalli Range acts as a natural ecological barrier protecting Northern India from sand expansion and desertification originating from the Thar Desert."
+      "explanation": "Blue bonds are specialized financial capital instruments created to support sustainable ocean economies, and SEBI includes them within India's sustainable finance definitions."
     },
     {
-      "question": "The term 'Xenotransplantation' refers to which of the following processes?",
+      "question": "The Kasturirangan Committee report, frequently seen in news, is associated with:",
       "options": [
-        "Cloning of endangered plant species using tissue culture",
-        "Transplantation of living cells, tissues, or organs from animal species into humans",
-        "Synthesis of artificial human organ replacements using 3D bioprinting",
-        "Gene editing inside human embryonic stem cells"
+        "Western Ghats ecology protection",
+        "Banking sector capital norms",
+        "Electoral roll management",
+        "Direct tax code restructuring"
       ],
-      "correctIndex": 1,
-      "explanation": "Xenotransplantation specifically refers to cross-species medical procedures involving the transplantation of non-human animal organs or tissues into human recipients."
+      "correctIndex": 0,
+      "explanation": "The K. Kasturirangan High-Level Working Group recommended declaring about 37% of the Western Ghats region as Ecologically Sensitive Areas (ESA)."
     }
   ],
   "schemes": [
     {
-      "name": "India Semiconductor Mission (ISM)",
-      "ministry": "Ministry of Electronics and Information Technology (MeitY)",
-      "beneficiaries": "Semiconductor manufacturing firms, chip designers, research institutions, and domestic electronics industries.",
-      "objective": "To build a vibrant domestic semiconductor and display manufacturing ecosystem to position India as a global electronics hub.",
+      "name": "Make in India",
+      "ministry": "Ministry of Commerce and Industry",
+      "beneficiaries": "Manufacturing industries, investors, and domestic workforce",
+      "objective": "To transform India into a global manufacturing hub, encourage foreign investments, and boost industrial employment.",
       "keyFeatures": [
-        "Provides financial support for setting up semiconductor fabs and display foundries.",
-        "Supports domestic chip design companies through the Design Linked Incentive (DLI) scheme.",
-        "Fosters capital equipment and material manufacturing capabilities."
+        "Focus on 27 targeted manufacturing and service sectors.",
+        "Complemented by Production Linked Incentive (PLI) schemes across key industries.",
+        "Simplification of regulatory processes and FDI liberalization."
       ],
-      "funding": "Centrally funded scheme with a total outlay of ₹76,000 crore.",
-      "upscRelevance": "Directly relevant to GS III (Science & Technology, Industrial Policy) regarding critical technology infrastructure."
+      "funding": "Not specified in source coverage",
+      "upscRelevance": "High relevance for GS III Economy (Industrial Policy and Employment Generation)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Judicial Reforms & Fund Management",
+      "topic": "Foreign Direct Investment & Economy",
       "points": [
-        "Supreme Court Observation: Unregulated multi-crore judicial deposits cause financial opacity and contribute to procedural pendency; statutory rules are urgently required."
-      ]
-    },
-    {
-      "topic": "Climate Equity & Foreign Trade",
-      "points": [
-        "BRICS Joint Position: Unilateral carbon tariffs violate multilateral agreements; green transition financing must take priority over economic punitive measures against developing economies."
+        "India registered record annual FDI inflows of $94.53 billion in FY 2025-26, bringing total cumulative inflows since 2014 above $843 billion.",
+        "Middle East geopolitical tensions highlighted energy import vulnerabilities, as over 90% of India's pre-conflict LPG imports originated from the Gulf region."
       ]
     }
   ],
   "whatToRemember": [
-    "India is expanding its semiconductor push beyond assembly toward midstream design, fabrication, and manufacturing equipment.",
-    "The Supreme Court called for uniform statutory rules to safeguard and administer multi-crore court-ordered financial deposits.",
-    "BRICS nations condemned unilateral carbon taxes like the EU's CBAM, demanding equitable climate adaptation funding.",
-    "The SC set a firm November 30 deadline for the Aravalli committee report to establish uniform definitions and mining rules.",
-    "A medical milestone was achieved with a xenotransplant recipient living for nine months with a genetically modified pig kidney."
+    "India and Chile agreed to initiate talks for a Comprehensive Economic Partnership Agreement (CEPA) focused on copper and critical mineral security.",
+    "India partnered with Liberia to set up a 'Group of Friends' to safeguard commercial shipping lanes in the Red Sea.",
+    "Kerala and Karnataka continue to oppose rigid implementations of the Kasturirangan ESA notifications in the Western Ghats.",
+    "India recorded $94.53 billion in FDI for FY26, though Make in India analysis reveals growth is uneven across sectors."
   ]
 }
