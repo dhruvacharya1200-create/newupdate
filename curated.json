@@ -1,183 +1,255 @@
 {
-  "date": "2026-09-26",
-  "updatedAt": "2026-09-26T03:41:53.083Z",
+  "date": "2026-09-27",
+  "updatedAt": "2026-09-27T03:43:15.184Z",
   "frontPage": [
     {
-      "headline": "India and Chile initiate talks for Comprehensive Free Trade Agreement with key focus on critical minerals",
+      "headline": "Election Commission Clarifies Electoral Roll Rules and Reaffirms Collegial Decision-Making",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-chile-to-start-talks-for-comprehensive-trade-pact-pm/article69400958.ece"
-        }
-      ],
-      "date": "2026-09-26",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Bilateral Agreements & Critical Minerals",
-      "summary": "India and Chile have announced negotiations for a comprehensive economic partnership agreement (CEPA). Simultaneously, Chile's state copper producer CODELCO signed an agreement with Hindustan Copper Limited to secure mineral supply and reduce dependence on third markets.",
-      "whyItMatters": "Chile holds significant reserves of copper and lithium, making it critical for India's clean energy transition and industrial diversification."
-    },
-    {
-      "headline": "Controversy deepens over Election Commission's Special Intensive Revision process",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/presumed-ineligible-on-the-election-commission-of-indias-sir-process/article71491681.ece"
+          "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/combative-bjp-defends-sir-slams-oppn-for-political-storm/articleshow/134495072.cms"
+          "url": "https://timesofindia.indiatimes.com/india/all-sir-rollout-decisions-unanimous-ec-says-meeting-agendas-for-all-meetings-to-be-circulated-in-advance/articleshow/134513112.cms"
         }
       ],
-      "date": "2026-09-26",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Electoral Reforms & Institutional Integrity",
-      "summary": "The Election Commission of India faces widespread scrutiny over its Special Intensive Revision (SIR) procedure due to high rates of deletion notices and concerns over procedural fairness.",
-      "whyItMatters": "Ensuring transparent voter registration procedures without arbitrary voter exclusion is central to maintaining free and fair democratic elections."
-    },
-    {
-      "headline": "India and Liberia partner to launch initiative addressing Red Sea maritime shipping threats",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/attacks-on-commercial-shipping-in-gulf-red-sea-simply-indefensible-jaishankar/article71509676.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/on-unga-margins-india-liberia-set-up-sailors-safety-body/articleshow/134492296.cms"
-        }
-      ],
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "International Relations & Maritime Security",
-      "summary": "On the sidelines of the UN General Assembly, India and Liberia formed a 'Group of Friends' to condemn and counter persistent attacks on commercial vessels in the Gulf and Red Sea.",
-      "whyItMatters": "Freedom of navigation along critical sea lanes of communication is vital for India's energy security and global export trade."
+      "topic": "Electoral Reforms & Constitutional Bodies",
+      "summary": "The Election Commission of India (ECI) announced easing of procedural requirements for new voter enrollments under Form 6 during the Special Intensive Revision (SIR) process. The ECI also highlighted that all administrative decisions are taken unanimously, emphasizing collegial functioning among commissioners.",
+      "whyItMatters": "Relevant for GS Paper II under 'Salient features of the Representation of People's Act' and the functioning of constitutional bodies like the ECI."
     },
     {
-      "headline": "States seek modifications to Western Ghats Ecologically Sensitive Area notifications",
+      "headline": "Supreme Court Rules Modifications to Transgender Law Cannot Strip Existing Rights",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece"
+          "url": "https://www.thehindu.com/news/national/change-in-transgender-law-cannot-take-away-rights-already-given-supreme-court-tells-centre/article71301650.ece"
+        }
+      ],
+      "date": "2026-09-27",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Social Justice & Fundamental Rights",
+      "summary": "The Supreme Court observed that any procedural or legislative changes to the Transgender Persons (Protection of Rights) Act cannot result in the withdrawal or revocation of rights and identity cards already conferred upon transgender individuals.",
+      "whyItMatters": "Connects to GS II topic 'Welfare schemes for vulnerable sections of the population by the Centre and States' and statutory protections for sexual minorities."
+    },
+    {
+      "headline": "At UNGA, India Asserts Right to Defend Against Cross-Border Terrorism and Urges Multilateral Reform",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/its-not-brics-or-un-brics-is-supportive-of-un-jaishankar/article71513762.ece"
         },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms"
+        }
+      ],
+      "date": "2026-09-27",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations & Multilateral Institutions",
+      "summary": "Addressing the 81st Session of the UN General Assembly, India's External Affairs Minister emphasized that India will exercise its right to defend against cross-border terrorism. He also clarified that plurilateral groupings like BRICS support the United Nations and aim to drive essential structural reforms within global institutions.",
+      "whyItMatters": "Directly impacts GS II syllabus on 'India and its neighborhood relations' and 'Important International institutions, their structure, and mandate'."
+    },
+    {
+      "headline": "Vedanta Seeks Revival of Niyamgiri Bauxite Project, Reopening Debate on Tribal Rights and Conservation",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece"
+        }
+      ],
+      "date": "2026-09-26",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Development vs Environment & PVTG Rights",
+      "summary": "Vedanta has pitched a ₹1 lakh crore investment proposal in Odisha, seeking to revive bauxite mining at Niyamgiri Hills. The project was halted in 2013 following Gram Sabha resolutions led by the Dongria Kondh Particularly Vulnerable Tribal Group (PVTG).",
+      "whyItMatters": "Encompasses GS I (tribal rights, PVTGs) and GS III (environmental impact assessment, sustainable development, and mineral resources)."
+    },
+    {
+      "headline": "Kerala Proposes Reduced Western Ghats Ecologically Sensitive Area Boundaries to Centre",
+      "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/news/national/kerala/western-ghats-esa-keralam-submits-recommendations-to-centre-seeks-limiting-area-to-8590-sq-km/article71507728.ece"
         }
       ],
-      "date": "2026-09-26",
+      "date": "2026-09-25",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Conservation & Environmental Impact Assessment",
-      "summary": "State governments in the Western Ghats region, including Kerala and Karnataka, have voiced strong reservations regarding the draft notifications for Ecologically Sensitive Areas (ESA) based on the Kasturirangan Report.",
-      "whyItMatters": "Highlights the ongoing political and economic tension between biodiversity conservation in fragile ecosystems and the developmental aspirations of local communities."
-    },
+      "topic": "Conservation, Environmental Impact Assessment",
+      "summary": "The Kerala government has submitted recommendations to the Centre seeking to limit its designated Ecologically Sensitive Area (ESA) in the Western Ghats to 8,590 sq km, reflecting ongoing debates among Western Ghats states regarding the implementation of the Kasturirangan Committee recommendations.",
+      "whyItMatters": "Key topic for GS III 'Conservation, environmental pollution and degradation', focusing on Western Ghats biodiversity and local livelihood balance."
+    }
+  ],
+  "gs1": [
     {
-      "headline": "India records $94.5 billion in annual FDI amid 12-year evaluation of Make in India",
+      "headline": "Tension and Rights of Particularly Vulnerable Tribal Groups Resurface Over Niyamgiri Mining Pitch",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/12-years-of-make-in-india-in-12-metrics-low-and-patchy-impact-on-growth-employment-global-share/article71505448.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/india-draws-record-94-5-billion-fdi-in-fy26-total-inflow-crosses-843-billion/articleshow/134479067.cms"
+          "url": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece"
         }
       ],
       "date": "2026-09-26",
-      "gsPaper": "GS III",
+      "gsPaper": "GS I",
       "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & Industrial Growth",
-      "summary": "India registered foreign direct investment inflows of $94.53 billion for FY 2025-26. However, structural evaluations of the 'Make in India' initiative indicate uneven success, concentrated heavily in high-tech sectors while employment growth remains modest.",
-      "whyItMatters": "Crucial for evaluating industrial policy performance, capital formation trends, and labor market manufacturing capacity."
+      "importance": "Medium",
+      "topic": "Social Empowerment & PVTGs",
+      "summary": "The fresh push to mine bauxite in Niyamgiri brings attention back to the Dongria Kondh tribe, a Particularly Vulnerable Tribal Group in Odisha whose sacred cultural ties to the Niyamgiri hills led to India's first environmental referendum in 2013 under the Forest Rights Act.",
+      "whyItMatters": "Important for GS I Indian Society (tribal issues, PVTGs) and Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act."
     }
   ],
-  "gs1": [],
   "gs2": [
     {
-      "headline": "Jammu and Kashmir Assembly debates resolutions regarding statehood and constitutional status",
+      "headline": "Election Commission Streamlines Voter Registration Processes and Emphasizes Inter-Commission Consensus",
       "sources": [
         {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece"
+        },
+        {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/omar-brings-jk-statehood-resolution-to-assembly-autonomy-mention-sparks-bjp-furore/articleshow/134491427.cms"
+          "url": "https://timesofindia.indiatimes.com/india/after-meeting-ec-says-officials-will-visit-homes-of-those-sent-notices/articleshow/134513237.cms"
+        }
+      ],
+      "date": "2026-09-27",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Electoral Reforms",
+      "summary": "The ECI clarified that physical hearings will be supplemented by door-to-door visits by electoral officials for citizens receiving notices during roll revisions. Additionally, mandatory declarations for new applicants using Form 6 have been relaxed where Special Intensive Revision is not currently ongoing.",
+      "whyItMatters": "Focuses on electoral integrity, citizen participation, and administrative mechanisms of election management bodies."
+    },
+    {
+      "headline": "United States and China Establish Bilateral Dialogue Framework on Super Intelligence Risks",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece"
         }
       ],
       "date": "2026-09-26",
       "gsPaper": "GS II",
       "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Federalism & Union Territories",
-      "summary": "The J&K Legislative Assembly witnessed intense debates following resolutions seeking full statehood restoration and constitutional safeguards for regional autonomy.",
-      "whyItMatters": "Connects directly to Union-State relations, federal reorganisation, and constitutional guarantees under Article 370's aftermath."
+      "topic": "Bilateral & Global Governance of Technology",
+      "summary": "During bilateral engagements, the United States and China agreed to form a 'U.S.-China Super Intelligence (SI) Dialogue' to manage risks, set communication protocols for AI-related incidents, and maintain guardrails around advanced artificial intelligence technologies.",
+      "whyItMatters": "Crucial for understanding major power dynamics and emerging frameworks for global technology governance in GS II."
     }
   ],
   "gs3": [
     {
-      "headline": "E-commerce platforms penalized for selling restricted chemical herbicides online",
+      "headline": "Agrivoltaic Systems Demonstrate Dual-Benefit of Solar Power Generation and Crop Cultivation",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/amazon-flipkart-jiomart-fined-for-illegal-herbicide-sale/articleshow/134492480.cms"
+          "url": "https://timesofindia.indiatimes.com/science/discovery/colorado-researchers-grew-the-worlds-most-expensive-spice-on-rooftop-solar-panels-harvested-twice-the-output-and-generated-60000-in-return-while-producing-electricity/articleshow/134477710.cms"
         }
       ],
-      "date": "2026-09-26",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Agricultural Regulation & E-commerce Compliance",
-      "summary": "Regulatory authorities imposed penalties on major e-commerce platforms for listed sales of restricted agricultural herbicides without requisite statutory permissions.",
-      "whyItMatters": "Demonstrates regulatory gaps in digital marketplace monitoring regarding environmental hazards and toxic agricultural inputs."
-    },
-    {
-      "headline": "Analysis highlights EV adoption disparities across Indian vehicle segments",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/data/how-much-of-indias-shift-to-alternative-fuels-is-electric-vehicles/article71496672.ece"
-        }
-      ],
-      "date": "2026-09-26",
+      "date": "2026-09-25",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Infrastructure & Electric Vehicles",
-      "summary": "Data reveals that India's shift toward electric mobility is largely driven by the two-wheeler and three-wheeler segments, whereas four-wheeler passenger vehicle transition remains comparatively slower.",
-      "whyItMatters": "Understanding segment-wise decarbonisation helps assess clean energy targets and urban transport planning."
+      "topic": "Agriculture & Renewable Energy",
+      "summary": "A research study highlighted the success of growing micro-shade sensitive crops like saffron beneath semi-shaded solar panels, demonstrating that agrivoltaics can optimize land use by generating clean energy while improving crop output.",
+      "whyItMatters": "Relevant for GS III topics on sustainable agriculture, land-use efficiency, and renewable energy integration."
+    },
+    {
+      "headline": "Health Experts Advocate Pre-Marital Genetic Screening for Sickle Cell Anaemia",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/match-sickle-cell-status-not-horoscopes-before-marriage-say-experts-in-odisha/article71513322.ece"
+        }
+      ],
+      "date": "2026-09-27",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Public Health & Biotechnology",
+      "summary": "Medical experts and public health advocates in Odisha are urging communities to prioritize pre-marital genetic screening for Sickle Cell Trait over traditional practices to reduce the incidence of Homozygous Sickle Cell Disease, aligning with national elimination targets.",
+      "whyItMatters": "Directly links to the National Sickle Cell Anaemia Elimination Mission and public health strategies against genetic disorders."
+    },
+    {
+      "headline": "States Seek Specific Exclusions as Western Ghats Ecologically Sensitive Area Notifications Face Delays",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece"
+        }
+      ],
+      "date": "2026-09-26",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Conservation & Environmental Impact Assessment",
+      "summary": "Continued resistance by Western Ghats states like Karnataka and Kerala against the full notification of Ecologically Sensitive Areas recommended by the Kasturirangan Committee underscores the challenge of balancing biodiversity conservation with local infrastructure and agricultural activities.",
+      "whyItMatters": "Useful for Mains answers on ecological governance, Western Ghats protection, and federal coordination on environment."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Begonia neelamorum",
+      "fact": "Central Asian Cobra (Naja oxiana)",
       "category": "Species",
-      "detail": "A newly described plant species from Keyi Panyor district of Arunachal Pradesh, named in honour of the indigenous Nyishi community's Neelam clan."
+      "detail": "First confirmed human fatalities caused by the Central Asian Cobra (Naja oxiana), a highly venomous elapid species, were recently documented in Himachal Pradesh's Chamba district."
     },
     {
-      "fact": "Blue Bonds",
-      "category": "Terminology",
-      "detail": "Financial instruments recognized by SEBI designed specifically to raise capital for ocean-based sustainable projects and coastal protection initiatives."
+      "fact": "Eurasian Whimbrel and Tibetan Sand-Plover",
+      "category": "Species",
+      "detail": "Ringed and tagged migratory shorebirds were resighted along the Kerala coast, providing key insights into the Central Asian Flyway migratory routes."
     },
     {
-      "fact": "CODELCO",
+      "fact": "Dongria Kondh",
       "category": "Organizations",
-      "detail": "Chilean state-owned enterprise and the world's largest copper producing corporation, which recently inked strategic agreements with India."
+      "detail": "A Particularly Vulnerable Tribal Group (PVTG) residing in the Niyamgiri hill range of Odisha, known for their historic 2013 Gram Sabha resolution protecting their sacred hills from bauxite mining."
     },
     {
-      "fact": "Okapi",
-      "category": "Species",
-      "detail": "An endangered forest mammal native to the Democratic Republic of Congo, closely related to the giraffe, known for its distinct striped markings."
+      "fact": "Kasturirangan Committee on Western Ghats",
+      "category": "Reports/Indices",
+      "detail": "Recommended designating 37% of the total Western Ghats region (around 59,940 sq km) as an Ecologically Sensitive Area (ESA)."
+    },
+    {
+      "fact": "Agrivoltaics",
+      "category": "Terminology",
+      "detail": "The simultaneous use of land for both solar photovoltaic power generation and agricultural crop production, improving water retention and land efficiency."
     }
   ],
   "quiz": [
     {
-      "question": "Consider the following statements regarding 'Blue Bonds':\n1. They are debt instruments specifically issued to finance marine and ocean-based environmental projects.\n2. In India, SEBI has recognized blue bonds under the sustainable finance framework.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding Particularly Vulnerable Tribal Groups (PVTGs) in India, consider the following statements:\n1. PVTGs reside in 18 States and one Union Territory.\n2. The Dongria Kondh community, residing in Odisha, is classified as a PVTG.\n3. Pre-agricultural level of technology is one of the criteria for determining PVTG status.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correctIndex": 3,
+      "explanation": "PVTGs are spread across 18 states and Union Territory of A&N Islands. Dongria Kondh is a PVTG in Odisha. Criteria include declining/stagnant population, low literacy, pre-agricultural technology, and subsistence level economy."
+    },
+    {
+      "question": "Which committee recommended designating 37% of the Western Ghats region as an Ecologically Sensitive Area (ESA)?",
+      "options": [
+        "Madhav Gadgil Panel",
+        "K. Kasturirangan High-Level Working Group",
+        "T.S.R. Subramanian Committee",
+        "B.N. Srikrishna Committee"
+      ],
+      "correctIndex": 1,
+      "explanation": "The K. Kasturirangan-led High-Level Working Group recommended declaring approximately 37% (59,940 sq km) of the Western Ghats as ecologically sensitive, modifying the earlier Gadgil Panel report."
+    },
+    {
+      "question": "With reference to Sickle Cell Anaemia, consider the following statements:\n1. It is an inherited blood disorder caused by a mutation in the hemoglobin gene.\n2. India has set a target to eliminate Sickle Cell Anaemia by the year 2047.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -185,48 +257,44 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 2,
-      "explanation": "Blue bonds are specialized financial capital instruments created to support sustainable ocean economies, and SEBI includes them within India's sustainable finance definitions."
-    },
-    {
-      "question": "The Kasturirangan Committee report, frequently seen in news, is associated with:",
-      "options": [
-        "Western Ghats ecology protection",
-        "Banking sector capital norms",
-        "Electoral roll management",
-        "Direct tax code restructuring"
-      ],
-      "correctIndex": 0,
-      "explanation": "The K. Kasturirangan High-Level Working Group recommended declaring about 37% of the Western Ghats region as Ecologically Sensitive Areas (ESA)."
+      "explanation": "Sickle Cell Anaemia is a genetic blood disorder affecting red blood cells. Under the National Sickle Cell Anaemia Elimination Mission, India aims to eliminate the disease by 2047."
     }
   ],
   "schemes": [
     {
-      "name": "Make in India",
-      "ministry": "Ministry of Commerce and Industry",
-      "beneficiaries": "Manufacturing industries, investors, and domestic workforce",
-      "objective": "To transform India into a global manufacturing hub, encourage foreign investments, and boost industrial employment.",
+      "name": "National Sickle Cell Anaemia Elimination Mission",
+      "ministry": "Ministry of Health and Family Welfare",
+      "beneficiaries": "Tribal and vulnerable populations across endemic states",
+      "objective": "To eliminate sickle cell disease as a public health problem in India by 2047 through universal screening, awareness, and targeted interventions.",
       "keyFeatures": [
-        "Focus on 27 targeted manufacturing and service sectors.",
-        "Complemented by Production Linked Incentive (PLI) schemes across key industries.",
-        "Simplification of regulatory processes and FDI liberalization."
+        "Screening of 7 crore people under 40 years of age in tribal areas.",
+        "Issuance of Sickle Cell Status Cards for pre-marital and pre-conception counseling."
       ],
-      "funding": "Not specified in source coverage",
-      "upscRelevance": "High relevance for GS III Economy (Industrial Policy and Employment Generation)."
+      "funding": "Centrally Sponsored Scheme executed through National Health Mission (NHM)",
+      "upscRelevance": "Important for GS II (Health policies) and GS III (Biotechnology and indigenous disease management)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Foreign Direct Investment & Economy",
+      "topic": "Environment & Tribal Rights",
       "points": [
-        "India registered record annual FDI inflows of $94.53 billion in FY 2025-26, bringing total cumulative inflows since 2014 above $843 billion.",
-        "Middle East geopolitical tensions highlighted energy import vulnerabilities, as over 90% of India's pre-conflict LPG imports originated from the Gulf region."
+        "2013 Niyamgiri Landmark Precedent: Gram Sabhas possess statutory power under the Forest Rights Act (2006) to reject industrial activities affecting their cultural and religious rights.",
+        "Ecologically Sensitive Areas (ESA) Governance: Unilateral rejection of conservation frameworks by states risks biodiversity fragmentation in biodiversity hotspots like the Western Ghats."
+      ]
+    },
+    {
+      "topic": "Electoral Integrity & Governance",
+      "points": [
+        "Judicial Warning on Election Commission Functioning: The Supreme Court emphasized collegiality within multi-member constitutional bodies to avoid concentrated decision-making."
       ]
     }
   ],
   "whatToRemember": [
-    "India and Chile agreed to initiate talks for a Comprehensive Economic Partnership Agreement (CEPA) focused on copper and critical mineral security.",
-    "India partnered with Liberia to set up a 'Group of Friends' to safeguard commercial shipping lanes in the Red Sea.",
-    "Kerala and Karnataka continue to oppose rigid implementations of the Kasturirangan ESA notifications in the Western Ghats.",
-    "India recorded $94.53 billion in FDI for FY26, though Make in India analysis reveals growth is uneven across sectors."
+    "ECI eased Form 6 voter enrolment norms where Special Intensive Revision is not currently active.",
+    "Supreme Court affirmed that amendments to the Transgender Persons Act cannot strip rights already conferred.",
+    "India reaffirmed at UNGA its right to defend against cross-border terrorism and backed UN structural reforms.",
+    "Vedanta pushed for Niyamgiri bauxite mining revival, reviving debates over Dongria Kondh tribal rights.",
+    "Kerala sought reduction of Western Ghats Ecologically Sensitive Area to 8,590 sq km.",
+    "First human deaths from Central Asian Cobra (*Naja oxiana*) reported in Himachal Pradesh."
   ]
 }
