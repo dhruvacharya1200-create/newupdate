@@ -1,300 +1,357 @@
 {
-  "date": "2026-09-27",
-  "updatedAt": "2026-09-27T03:43:15.184Z",
+  "date": "2026-10-03",
+  "updatedAt": "2026-10-03T03:55:02.111Z",
   "frontPage": [
     {
-      "headline": "Election Commission Clarifies Electoral Roll Rules and Reaffirms Collegial Decision-Making",
+      "headline": "India standardises official geographical names for 28 locations in Ladakh",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece"
+          "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/all-sir-rollout-decisions-unanimous-ec-says-meeting-agendas-for-all-meetings-to-be-circulated-in-advance/articleshow/134513112.cms"
+          "url": "https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms"
         }
       ],
-      "date": "2026-09-27",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Electoral Reforms & Constitutional Bodies",
-      "summary": "The Election Commission of India (ECI) announced easing of procedural requirements for new voter enrollments under Form 6 during the Special Intensive Revision (SIR) process. The ECI also highlighted that all administrative decisions are taken unanimously, emphasizing collegial functioning among commissioners.",
-      "whyItMatters": "Relevant for GS Paper II under 'Salient features of the Representation of People's Act' and the functioning of constitutional bodies like the ECI."
-    },
-    {
-      "headline": "Supreme Court Rules Modifications to Transgender Law Cannot Strip Existing Rights",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/change-in-transgender-law-cannot-take-away-rights-already-given-supreme-court-tells-centre/article71301650.ece"
-        }
-      ],
-      "date": "2026-09-27",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Social Justice & Fundamental Rights",
-      "summary": "The Supreme Court observed that any procedural or legislative changes to the Transgender Persons (Protection of Rights) Act cannot result in the withdrawal or revocation of rights and identity cards already conferred upon transgender individuals.",
-      "whyItMatters": "Connects to GS II topic 'Welfare schemes for vulnerable sections of the population by the Centre and States' and statutory protections for sexual minorities."
-    },
-    {
-      "headline": "At UNGA, India Asserts Right to Defend Against Cross-Border Terrorism and Urges Multilateral Reform",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/its-not-brics-or-un-brics-is-supportive-of-un-jaishankar/article71513762.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/indias-right-to-defend-itself-from-terrorism-will-be-exercised-eam/articleshow/134510292.cms"
-        }
-      ],
-      "date": "2026-09-27",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Relations & Multilateral Institutions",
-      "summary": "Addressing the 81st Session of the UN General Assembly, India's External Affairs Minister emphasized that India will exercise its right to defend against cross-border terrorism. He also clarified that plurilateral groupings like BRICS support the United Nations and aim to drive essential structural reforms within global institutions.",
-      "whyItMatters": "Directly impacts GS II syllabus on 'India and its neighborhood relations' and 'Important International institutions, their structure, and mandate'."
-    },
-    {
-      "headline": "Vedanta Seeks Revival of Niyamgiri Bauxite Project, Reopening Debate on Tribal Rights and Conservation",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece"
-        }
-      ],
-      "date": "2026-09-26",
+      "date": "2026-10-03",
       "gsPaper": "GS I & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Development vs Environment & PVTG Rights",
-      "summary": "Vedanta has pitched a ₹1 lakh crore investment proposal in Odisha, seeking to revive bauxite mining at Niyamgiri Hills. The project was halted in 2013 following Gram Sabha resolutions led by the Dongria Kondh Particularly Vulnerable Tribal Group (PVTG).",
-      "whyItMatters": "Encompasses GS I (tribal rights, PVTGs) and GS III (environmental impact assessment, sustainable development, and mineral resources)."
+      "topic": "Geographical Features & Security Challenges in Border Areas",
+      "summary": "India has officially standardised the names of 28 key geographical places across Ladakh, including peaks, glaciers, rivers, and passes such as Gogra and Hot Springs. This initiative reinforces territorial sovereignty and formalises official cartographic representation in strategic border regions.",
+      "whyItMatters": "This move is critical for sovereign geographical documentation and national security along the Line of Actual Control (LAC), countering foreign name-changing tactics and aiding precise spatial mapping."
     },
     {
-      "headline": "Kerala Proposes Reduced Western Ghats Ecologically Sensitive Area Boundaries to Centre",
+      "headline": "Government notifies unified rules for tribunal appointments under National Tribunals Commission framework",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/western-ghats-esa-keralam-submits-recommendations-to-centre-seeks-limiting-area-to-8590-sq-km/article71507728.ece"
+          "url": "https://www.thehindu.com/news/national/rules-framed-to-standardise-appointment-of-heads-members-of-various-tribunals/article71538109.ece"
         }
       ],
-      "date": "2026-09-25",
+      "date": "2026-10-03",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Statutory, Regulatory and Quasi-Judicial Bodies",
+      "summary": "The Union Law Ministry has framed standardized rules for the selection, tenure, and service conditions of chairpersons and members across 16 tribunals and appellate bodies. The regulatory framework enables the newly constituted National Tribunals Commission to streamline judicial appointments and reduce vacancy backlogs.",
+      "whyItMatters": "Tribunal governance has seen repeated Supreme Court interventions regarding independence and vacancies; standardized rules enhance efficiency, transparency, and separation of powers."
+    },
+    {
+      "headline": "CSIR-CCMB develops India-specific clinical severity score for Sickle Cell Anemia",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/csir-ccmb-develops-india-specific-tool-to-predict-sickle-cell-severity/article71536615.ece"
+        }
+      ],
+      "date": "2026-10-02",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Conservation, Environmental Impact Assessment",
-      "summary": "The Kerala government has submitted recommendations to the Centre seeking to limit its designated Ecologically Sensitive Area (ESA) in the Western Ghats to 8,590 sq km, reflecting ongoing debates among Western Ghats states regarding the implementation of the Kasturirangan Committee recommendations.",
-      "whyItMatters": "Key topic for GS III 'Conservation, environmental pollution and degradation', focusing on Western Ghats biodiversity and local livelihood balance."
+      "topic": "Science & Technology - Biotechnology & Health",
+      "summary": "Researchers at CSIR-Centre for Cellular and Molecular Biology (CCMB) have formulated a tailored prognostic tool designed to predict disease severity in Indian Sickle Cell Anemia patients. Western scoring systems frequently fail to account for genetic modifiers prevalent in the Indian population, such as Asian-Indian haplotypes.",
+      "whyItMatters": "Supports the National Sickle Cell Anemia Elimination Mission 2047 by offering precise risk stratification and targeted interventions for vulnerable tribal populations."
+    },
+    {
+      "headline": "Tiger reintroduction drive begins in West Bengal's Buxa Tiger Reserve with Bihar translocation",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/west-bengal/tigress-released-in-bengals-buxa-tiger-reserve-plans-afoot-for-three-more-by-end-of-year/article71536359.ece"
+        }
+      ],
+      "date": "2026-10-02",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Conservation, Environmental Pollution and Degradation",
+      "summary": "A three-year-old tigress translocated from Bihar's Valmiki Tiger Reserve has been released into West Bengal's Buxa Tiger Reserve to re-establish a viable breeding population. Buxa had suffered severe habitat degradation and prey base depletion over past decades, leading to the local extirpation of big cats.",
+      "whyItMatters": "Highlighting wildlife corridor connectivity and species recovery programs, this project serves as a case study for ecosystem restoration under Project Tiger."
+    },
+    {
+      "headline": "Election Commission orders targeted enrolment drive following scrutiny of Special Intensive Revision",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/deleted-and-left-in-limbo/article71538194.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/13464432.cms"
+        }
+      ],
+      "date": "2026-10-03",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Elections & Representation of People Act",
+      "summary": "Responding to concerns regarding large-scale voter deletions during the Special Intensive Revision (SIR) exercise across states like Bihar and West Bengal, the Election Commission has directed Booth Level Officers to conduct door-to-door verification to re-enrol eligible voters. Over lakhs of voters were reported omitted during initial list sanitisation.",
+      "whyItMatters": "Protects universal adult suffrage and highlights administrative challenges in balancing electoral roll purity with franchise preservation."
+    },
+    {
+      "headline": "Petroleum Ministry launches National PNG Drive 3.0 to boost city gas distribution network utilization",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece"
+        }
+      ],
+      "date": "2026-10-02",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Infrastructure: Energy & Gas Grid",
+      "summary": "The Petroleum and Natural Gas Regulatory Board (PNGRB) has kicked off 'National PNG Drive 3.0' running through FY27. The initiative targets adding 50 lakh new piped natural gas (PNG) connections, converting 40 lakh unbilled households into active users, and improving urban energy grid utilization.",
+      "whyItMatters": "Directly supports India's policy goal of raising natural gas's share in the primary energy mix from ~6.7% to 15% by 2030."
     }
   ],
   "gs1": [
     {
-      "headline": "Tension and Rights of Particularly Vulnerable Tribal Groups Resurface Over Niyamgiri Mining Pitch",
+      "headline": "Standardised geographical nomenclature published for critical peaks and waterbodies in Ladakh",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece"
+          "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece"
         }
       ],
-      "date": "2026-09-26",
+      "date": "2026-10-03",
       "gsPaper": "GS I",
-      "relevance": "Both",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Social Empowerment & PVTGs",
-      "summary": "The fresh push to mine bauxite in Niyamgiri brings attention back to the Dongria Kondh tribe, a Particularly Vulnerable Tribal Group in Odisha whose sacred cultural ties to the Niyamgiri hills led to India's first environmental referendum in 2013 under the Forest Rights Act.",
-      "whyItMatters": "Important for GS I Indian Society (tribal issues, PVTGs) and Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act."
+      "topic": "Physical Geography of India",
+      "summary": "The national mapping authority has formalised local and official designations for 28 physical features in Ladakh, covering 11 peaks, 5 mountain ranges, 2 glaciers, 2 mountain passes, a river, and a lake.",
+      "whyItMatters": "Essential for geographic nomenclature questions in Prelims and understanding spatial features of the trans-Himalayan region."
     }
   ],
   "gs2": [
     {
-      "headline": "Election Commission Streamlines Voter Registration Processes and Emphasizes Inter-Commission Consensus",
+      "headline": "Supreme Court clarifies anti-slaughter laws cannot be invoked for mere cattle transit violations",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/election-commission-new-special-intensive-revision-rules/article71512646.ece"
-        },
-        {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/after-meeting-ec-says-officials-will-visit-homes-of-those-sent-notices/articleshow/134513237.cms"
+          "url": "https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms"
         }
       ],
-      "date": "2026-09-27",
+      "date": "2026-10-03",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Electoral Reforms",
-      "summary": "The ECI clarified that physical hearings will be supplemented by door-to-door visits by electoral officials for citizens receiving notices during roll revisions. Additionally, mandatory declarations for new applicants using Form 6 have been relaxed where Special Intensive Revision is not currently ongoing.",
-      "whyItMatters": "Focuses on electoral integrity, citizen participation, and administrative mechanisms of election management bodies."
+      "topic": "Judicial Precedents & Fundamental Rights",
+      "summary": "The Supreme Court ruled that state anti-cow slaughter statutes cannot be automatically invoked in cases involving procedural transport infractions without explicit proof of intent to slaughter. The apex court noted that invoking stringent criminal clauses for transit paperwork errors leads to unnecessary harassment and overreach.",
+      "whyItMatters": "Clarifies statutory interpretation, protects legitimate inter-state livestock trade, and sets a legal boundary against arbitrary prosecution under animal protection laws."
     },
     {
-      "headline": "United States and China Establish Bilateral Dialogue Framework on Super Intelligence Risks",
+      "headline": "India-US trade agreement talks navigate tariff threats over forced labor and capacity issues",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-china-to-set-up-communication-channel-for-ai-incidents/article71511753.ece"
+          "url": "https://www.thehindu.com/business/Economy/commerce-minister-goyal-defends-india-against-us-forced-labour-and-excess-capacity-investigations/article71536326.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-not-imminent-pm-modi-trump-may-hold-another-call-soon-us-trade-representative/articleshow/134630697.cms"
         }
       ],
-      "date": "2026-09-26",
+      "date": "2026-10-02",
       "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Bilateral & Global Governance of Technology",
-      "summary": "During bilateral engagements, the United States and China agreed to form a 'U.S.-China Super Intelligence (SI) Dialogue' to manage risks, set communication protocols for AI-related incidents, and maintain guardrails around advanced artificial intelligence technologies.",
-      "whyItMatters": "Crucial for understanding major power dynamics and emerging frameworks for global technology governance in GS II."
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Bilateral Relations & International Trade",
+      "summary": "Union Commerce Minister Piyush Goyal met US Trade Representative Jamieson Greer amid US tariff investigations targeting Indian goods over alleged forced labor and market excess capacity. While US officials signaled that a bilateral trade agreement is not immediately imminent, both nations continue dialogue to address market access and non-tariff barriers.",
+      "whyItMatters": "Examines global trade disputes, non-tariff protectionist barriers, and India's economic diplomacy with its largest export partner."
     }
   ],
   "gs3": [
     {
-      "headline": "Agrivoltaic Systems Demonstrate Dual-Benefit of Solar Power Generation and Crop Cultivation",
+      "headline": "Nepal plans engineering intervention to drain four hazardous glacial lakes threatened by GLOFs",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/nepal-plans-to-drain-four-glacial-lakes-after-deadly-floods/article71538382.ece"
+        }
+      ],
+      "date": "2026-10-02",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Disaster Management & Climate Change",
+      "summary": "Nepal’s government has initiated a six-year engineering project to construct controlled outlet channels across four critical glacial lakes to prevent catastrophic Glacial Lake Outburst Floods (GLOFs). Accelerated Himalayan glacier retreat has heightened risk levels for downstream river basins extending into India.",
+      "whyItMatters": "Relevant for transboundary disaster risk reduction in the fragile Himalayan ecosystem, aligning with the Sendai Framework for Disaster Risk Reduction."
+    },
+    {
+      "headline": "G7 nations announce 100-million-barrel emergency oil release to calm global energy markets",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/international-business/g7s-100-million-barrel-diesel-fix-what-happens-after-the-emergency-release/articleshow/134651312.cms"
+        }
+      ],
+      "date": "2026-10-03",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Global Energy Security & Macroeconomics",
+      "summary": "G7 member countries have agreed to release 100 million barrels of crude and refined petroleum products from strategic reserves over four months to address global supply bottlenecks and diesel deficits linked to West Asian conflict escalation.",
+      "whyItMatters": "Demonstrates international policy coordination during geopolitical supply shocks and directly impacts imported inflation and current account deficits in energy-importing economies like India."
+    },
+    {
+      "headline": "IRDAI proposes revised expense structures to curb insurance mis-selling",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/discovery/colorado-researchers-grew-the-worlds-most-expensive-spice-on-rooftop-solar-panels-harvested-twice-the-output-and-generated-60000-in-return-while-producing-electricity/articleshow/134477710.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-plan-to-help-check-mis-selling-raise-returns/articleshow/134650814.cms"
         }
       ],
-      "date": "2026-09-25",
+      "date": "2026-10-03",
       "gsPaper": "GS III",
-      "relevance": "Both",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Agriculture & Renewable Energy",
-      "summary": "A research study highlighted the success of growing micro-shade sensitive crops like saffron beneath semi-shaded solar panels, demonstrating that agrivoltaics can optimize land use by generating clean energy while improving crop output.",
-      "whyItMatters": "Relevant for GS III topics on sustainable agriculture, land-use efficiency, and renewable energy integration."
-    },
-    {
-      "headline": "Health Experts Advocate Pre-Marital Genetic Screening for Sickle Cell Anaemia",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/match-sickle-cell-status-not-horoscopes-before-marriage-say-experts-in-odisha/article71513322.ece"
-        }
-      ],
-      "date": "2026-09-27",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Public Health & Biotechnology",
-      "summary": "Medical experts and public health advocates in Odisha are urging communities to prioritize pre-marital genetic screening for Sickle Cell Trait over traditional practices to reduce the incidence of Homozygous Sickle Cell Disease, aligning with national elimination targets.",
-      "whyItMatters": "Directly links to the National Sickle Cell Anaemia Elimination Mission and public health strategies against genetic disorders."
-    },
-    {
-      "headline": "States Seek Specific Exclusions as Western Ghats Ecologically Sensitive Area Notifications Face Delays",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/narrowed-posture-on-karnataka-and-the-kasturirangan-report/article71508916.ece"
-        }
-      ],
-      "date": "2026-09-26",
-      "gsPaper": "GS III",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Conservation & Environmental Impact Assessment",
-      "summary": "Continued resistance by Western Ghats states like Karnataka and Kerala against the full notification of Ecologically Sensitive Areas recommended by the Kasturirangan Committee underscores the challenge of balancing biodiversity conservation with local infrastructure and agricultural activities.",
-      "whyItMatters": "Useful for Mains answers on ecological governance, Western Ghats protection, and federal coordination on environment."
+      "topic": "Indian Economy - Financial Sector Reforms",
+      "summary": "The Insurance Regulatory and Development Authority of India (IRDAI) has proposed new regulations modifying commission caps and distribution expenses for life and non-life insurers. The regulatory overhaul intends to enhance policyholder returns and reduce upfront distributor commissions.",
+      "whyItMatters": "Highlights regulatory governance in consumer protection and financial market maturity in the insurance sector."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Central Asian Cobra (Naja oxiana)",
-      "category": "Species",
-      "detail": "First confirmed human fatalities caused by the Central Asian Cobra (Naja oxiana), a highly venomous elapid species, were recently documented in Himachal Pradesh's Chamba district."
+      "fact": "Buxa Tiger Reserve is located in northern West Bengal, bordering Bhutan and Assam, and forms part of the Rajabhatkhawa ecological corridor.",
+      "category": "Places",
+      "detail": "Reintroduction efforts are underway using translocated tigers from Bihar's Valmiki Tiger Reserve."
     },
     {
-      "fact": "Eurasian Whimbrel and Tibetan Sand-Plover",
-      "category": "Species",
-      "detail": "Ringed and tagged migratory shorebirds were resighted along the Kerala coast, providing key insights into the Central Asian Flyway migratory routes."
-    },
-    {
-      "fact": "Dongria Kondh",
-      "category": "Organizations",
-      "detail": "A Particularly Vulnerable Tribal Group (PVTG) residing in the Niyamgiri hill range of Odisha, known for their historic 2013 Gram Sabha resolution protecting their sacred hills from bauxite mining."
-    },
-    {
-      "fact": "Kasturirangan Committee on Western Ghats",
-      "category": "Reports/Indices",
-      "detail": "Recommended designating 37% of the total Western Ghats region (around 59,940 sq km) as an Ecologically Sensitive Area (ESA)."
-    },
-    {
-      "fact": "Agrivoltaics",
+      "fact": "Sickle Cell Anemia is a genetically inherited autosomal recessive blood disorder characterized by abnormal hemoglobin S molecules.",
       "category": "Terminology",
-      "detail": "The simultaneous use of land for both solar photovoltaic power generation and agricultural crop production, improving water retention and land efficiency."
+      "detail": "CSIR-CCMB developed a specialized Indian clinical severity prediction system based on local gene variants."
+    },
+    {
+      "fact": "Petroleum and Natural Gas Regulatory Board (PNGRB) is a statutory body established under the PNGRB Act, 2006.",
+      "category": "Organizations",
+      "detail": "It oversees downstream natural gas transmission, distribution, and city gas networks through drives like PNG Drive 3.0."
+    },
+    {
+      "fact": "Anji Khad Bridge is India's first cable-stayed railway bridge, situated in Jammu & Kashmir.",
+      "category": "Places",
+      "detail": "Connects Katra and Reasi as part of the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project."
+    },
+    {
+      "fact": "Glacial Lake Outburst Flood (GLOF) occurs when a moraine or ice dam retaining a glacial lake suddenly fails.",
+      "category": "Terminology",
+      "detail": "Nepal announced structural siphoning and gating projects on four high-risk glacial lakes to mitigate GLOF hazards."
+    },
+    {
+      "fact": "Valmiki Tiger Reserve is situated in the West Champaran district of Bihar along the India-Nepal border.",
+      "category": "Places",
+      "detail": "Serves as a source population for big cat translocation to restore degraded reserves like West Bengal's Buxa."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding Particularly Vulnerable Tribal Groups (PVTGs) in India, consider the following statements:\n1. PVTGs reside in 18 States and one Union Territory.\n2. The Dongria Kondh community, residing in Odisha, is classified as a PVTG.\n3. Pre-agricultural level of technology is one of the criteria for determining PVTG status.\nWhich of the statements given above are correct?",
+      "question": "With reference to the Petroleum and Natural Gas Regulatory Board (PNGRB), consider the following statements:\n1. It is a constitutional body established under Article 265 of the Constitution of India.\n2. It regulates the refining, processing, storage, transportation, distribution, and sale of petroleum products and natural gas.\n3. It sets consumer tariffs for upstream crude oil exploration contracts.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correctIndex": 1,
+      "explanation": "PNGRB is a statutory body created under the PNGRB Act, 2006 (not constitutional). It regulates downstream activities like gas transmission and city distribution, but does not regulate upstream exploration or set crude production tariffs."
+    },
+    {
+      "question": "Which of the following geographical features are correctly matched with their location/State/UT?\n1. Buxa Tiger Reserve — West Bengal\n2. Anji Khad Bridge — Himachal Pradesh\n3. Valmiki Tiger Reserve — Bihar\nSelect the correct answer using the code given below:",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anji Khad Bridge is in Jammu & Kashmir (Udhampur-Srinagar-Baramulla line), not Himachal Pradesh. Buxa is in West Bengal and Valmiki is in Bihar."
+    },
+    {
+      "question": "Consider the following statements regarding Sickle Cell Anemia:\n1. It is caused by a point mutation in the gene encoding the beta-globin chain of hemoglobin.\n2. India has launched a mission to eliminate Sickle Cell Anemia by the year 2047.\n3. Individuals carrying a single copy of the mutated gene (sickle cell trait) exhibit severe symptoms identical to homozygous individuals.\nWhich of the statements given above are correct?",
       "options": [
         "1 and 2 only",
         "2 and 3 only",
         "1 and 3 only",
         "1, 2 and 3"
       ],
-      "correctIndex": 3,
-      "explanation": "PVTGs are spread across 18 states and Union Territory of A&N Islands. Dongria Kondh is a PVTG in Odisha. Criteria include declining/stagnant population, low literacy, pre-agricultural technology, and subsistence level economy."
+      "correctIndex": 0,
+      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because heterozygous trait carriers are generally asymptomatic or mild, unlike homozygous sickle cell disease patients."
     },
     {
-      "question": "Which committee recommended designating 37% of the Western Ghats region as an Ecologically Sensitive Area (ESA)?",
+      "question": "What is the primary operational objective of controlled draining or 'siphoning' implemented in glacial lake risk management?",
       "options": [
-        "Madhav Gadgil Panel",
-        "K. Kasturirangan High-Level Working Group",
-        "T.S.R. Subramanian Committee",
-        "B.N. Srikrishna Committee"
+        "To generate micro-hydroelectric power in high-altitude zones",
+        "To reduce water volume and hydrostatic pressure on natural moraine dams to prevent GLOFs",
+        "To artificially expand glacial surface area for downstream summer irrigation",
+        "To reverse thermal degradation of permafrost layers around the lake perimeter"
       ],
       "correctIndex": 1,
-      "explanation": "The K. Kasturirangan-led High-Level Working Group recommended declaring approximately 37% (59,940 sq km) of the Western Ghats as ecologically sensitive, modifying the earlier Gadgil Panel report."
+      "explanation": "Siphoning and gated discharge channels lower the lake water level, relieving hydrostatic pressure on fragile natural moraines and preventing sudden breaching (GLOFs)."
     },
     {
-      "question": "With reference to Sickle Cell Anaemia, consider the following statements:\n1. It is an inherited blood disorder caused by a mutation in the hemoglobin gene.\n2. India has set a target to eliminate Sickle Cell Anaemia by the year 2047.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the National Tribunals Commission (NTC) in India, consider the following statements:\n1. Its creation aims to provide an independent central authority to oversee tribunal administrative and operational functions.\n2. It replaces the supervisory authority of High Courts provided under Article 227 for all administrative disputes.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 2,
-      "explanation": "Sickle Cell Anaemia is a genetic blood disorder affecting red blood cells. Under the National Sickle Cell Anaemia Elimination Mission, India aims to eliminate the disease by 2047."
+      "correctIndex": 0,
+      "explanation": "The NTC is envisaged to streamline appointments, administrative infrastructure, and service rules across tribunals. It does not abolish High Court constitutional power of judicial superintendence under Article 226/227 as affirmed in L. Chandra Kumar (1997)."
     }
   ],
   "schemes": [
     {
-      "name": "National Sickle Cell Anaemia Elimination Mission",
-      "ministry": "Ministry of Health and Family Welfare",
-      "beneficiaries": "Tribal and vulnerable populations across endemic states",
-      "objective": "To eliminate sickle cell disease as a public health problem in India by 2047 through universal screening, awareness, and targeted interventions.",
+      "name": "National PNG Drive 3.0",
+      "ministry": "Ministry of Petroleum and Natural Gas (administered via PNGRB)",
+      "beneficiaries": "Urban and peri-urban domestic households, commercial establishments, and city gas distribution networks",
+      "objective": "Accelerate consumer adoption of Piped Natural Gas (PNG), activate unbilled residential connections, and expand clean cooking fuel infrastructure across India.",
       "keyFeatures": [
-        "Screening of 7 crore people under 40 years of age in tribal areas.",
-        "Issuance of Sickle Cell Status Cards for pre-marital and pre-conception counseling."
+        "Target to add 50 lakh new PNG connections by FY27.",
+        "Conversion target of 40 lakh unbilled connections into active billing customers.",
+        "Focus on maximum capacity utilization of laid City Gas Distribution (CGD) networks."
       ],
-      "funding": "Centrally Sponsored Scheme executed through National Health Mission (NHM)",
-      "upscRelevance": "Important for GS II (Health policies) and GS III (Biotechnology and indigenous disease management)."
+      "funding": "Implemented through City Gas Distribution (CGD) authorized entities and market operators.",
+      "upscRelevance": "Linked to GS-III Energy Security, infrastructure expansion, and transition towards a gas-based clean energy economy."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Environment & Tribal Rights",
+      "topic": "Electoral Integrity & Governance",
       "points": [
-        "2013 Niyamgiri Landmark Precedent: Gram Sabhas possess statutory power under the Forest Rights Act (2006) to reject industrial activities affecting their cultural and religious rights.",
-        "Ecologically Sensitive Areas (ESA) Governance: Unilateral rejection of conservation frameworks by states risks biodiversity fragmentation in biodiversity hotspots like the Western Ghats."
+        "Mass deletion of voters without robust multi-channel verification risks undermining universal adult suffrage guaranteed under Article 326.",
+        "Targeted door-to-door verification drives by Booth Level Officers (BLOs) serve as a critical administrative safeguard for voter list accuracy."
       ]
     },
     {
-      "topic": "Electoral Integrity & Governance",
+      "topic": "Judicial Reforms & Tribunals",
       "points": [
-        "Judicial Warning on Election Commission Functioning: The Supreme Court emphasized collegiality within multi-member constitutional bodies to avoid concentrated decision-making."
+        "Uniform service condition rules framed under the National Tribunals Commission help eliminate executive interference in quasi-judicial appointments.",
+        "Standardized tenure and appointment frameworks address chronic tribunal vacancies that cause delays in specialised commercial and environmental litigation."
+      ]
+    },
+    {
+      "topic": "Disaster Management & Climate Adaptation",
+      "points": [
+        "Engineering interventions like lowering glacial lake water levels showcase proactive hazard mitigation over post-disaster response in the Himalayas.",
+        "Transboundary climate risk management requires real-time data sharing between upper-riparian (Nepal) and lower-riparian (India) basin states."
       ]
     }
   ],
   "whatToRemember": [
-    "ECI eased Form 6 voter enrolment norms where Special Intensive Revision is not currently active.",
-    "Supreme Court affirmed that amendments to the Transgender Persons Act cannot strip rights already conferred.",
-    "India reaffirmed at UNGA its right to defend against cross-border terrorism and backed UN structural reforms.",
-    "Vedanta pushed for Niyamgiri bauxite mining revival, reviving debates over Dongria Kondh tribal rights.",
-    "Kerala sought reduction of Western Ghats Ecologically Sensitive Area to 8,590 sq km.",
-    "First human deaths from Central Asian Cobra (*Naja oxiana*) reported in Himachal Pradesh."
+    "India has formally standardized official names for 28 geographic locations in Ladakh, solidifying cartographic clarity.",
+    "Union Law Ministry framed standardized rules enabling the National Tribunals Commission to streamline appointments across 16 tribunals.",
+    "CSIR-CCMB created an India-specific clinical severity score to improve precision treatment for Sickle Cell Anemia.",
+    "Buxa Tiger Reserve in West Bengal received a translocated tigress from Bihar's Valmiki Reserve to re-establish its tiger population.",
+    "Nepal planned a 6-year engineering project to drain four high-risk glacial lakes to prevent downstream Glacial Lake Outburst Floods (GLOFs).",
+    "PNGRB launched National PNG Drive 3.0 aiming for 50 lakh new piped gas connections by FY27.",
+    "G7 countries agreed to release 100 million barrels of emergency oil supplies to stabilize energy markets amid global supply stresses."
   ]
 }
