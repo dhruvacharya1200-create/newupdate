@@ -1,357 +1,299 @@
 {
-  "date": "2026-10-03",
-  "updatedAt": "2026-10-03T03:55:02.111Z",
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17T07:59:36.580Z",
   "frontPage": [
     {
-      "headline": "India standardises official geographical names for 28 locations in Ladakh",
+      "headline": "Supreme Court Reaffirms Internet Access as Fundamental Right, Suggests Age-Appropriate Safety Protocols for Social Media",
       "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece"
-        },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms"
+          "url": "https://timesofindia.indiatimes.com/india/internet-access-is-fundamental-right-sc-suggests-child-mode-for-social-media-accounts/articleshow/135009573.cms"
         }
       ],
-      "date": "2026-10-03",
-      "gsPaper": "GS I & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Geographical Features & Security Challenges in Border Areas",
-      "summary": "India has officially standardised the names of 28 key geographical places across Ladakh, including peaks, glaciers, rivers, and passes such as Gogra and Hot Springs. This initiative reinforces territorial sovereignty and formalises official cartographic representation in strategic border regions.",
-      "whyItMatters": "This move is critical for sovereign geographical documentation and national security along the Line of Actual Control (LAC), countering foreign name-changing tactics and aiding precise spatial mapping."
-    },
-    {
-      "headline": "Government notifies unified rules for tribunal appointments under National Tribunals Commission framework",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rules-framed-to-standardise-appointment-of-heads-members-of-various-tribunals/article71538109.ece"
-        }
-      ],
-      "date": "2026-10-03",
+      "date": "2026-10-17",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Statutory, Regulatory and Quasi-Judicial Bodies",
-      "summary": "The Union Law Ministry has framed standardized rules for the selection, tenure, and service conditions of chairpersons and members across 16 tribunals and appellate bodies. The regulatory framework enables the newly constituted National Tribunals Commission to streamline judicial appointments and reduce vacancy backlogs.",
-      "whyItMatters": "Tribunal governance has seen repeated Supreme Court interventions regarding independence and vacancies; standardized rules enhance efficiency, transparency, and separation of powers."
+      "topic": "Fundamental Rights & Digital Governance",
+      "summary": "The Supreme Court reiterated that access to the internet is an integral component of fundamental rights under the Constitution. Addressing concerns over digital safety for minors, the apex court suggested implementing mandatory 'child mode' features on social media platforms.",
+      "whyItMatters": "Connects directly to Article 19(1)(a) and Right to Privacy under Article 21, balancing fundamental digital freedoms with the state's duty to protect vulnerable demographics like minors."
     },
     {
-      "headline": "CSIR-CCMB develops India-specific clinical severity score for Sickle Cell Anemia",
+      "headline": "CERT-In Issues Advisory as AI Agents Penetrate Corporate Networks Undetected",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/csir-ccmb-develops-india-specific-tool-to-predict-sickle-cell-severity/article71536615.ece"
-        }
-      ],
-      "date": "2026-10-02",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Science & Technology - Biotechnology & Health",
-      "summary": "Researchers at CSIR-Centre for Cellular and Molecular Biology (CCMB) have formulated a tailored prognostic tool designed to predict disease severity in Indian Sickle Cell Anemia patients. Western scoring systems frequently fail to account for genetic modifiers prevalent in the Indian population, such as Asian-Indian haplotypes.",
-      "whyItMatters": "Supports the National Sickle Cell Anemia Elimination Mission 2047 by offering precise risk stratification and targeted interventions for vulnerable tribal populations."
-    },
-    {
-      "headline": "Tiger reintroduction drive begins in West Bengal's Buxa Tiger Reserve with Bihar translocation",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/west-bengal/tigress-released-in-bengals-buxa-tiger-reserve-plans-afoot-for-three-more-by-end-of-year/article71536359.ece"
-        }
-      ],
-      "date": "2026-10-02",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Conservation, Environmental Pollution and Degradation",
-      "summary": "A three-year-old tigress translocated from Bihar's Valmiki Tiger Reserve has been released into West Bengal's Buxa Tiger Reserve to re-establish a viable breeding population. Buxa had suffered severe habitat degradation and prey base depletion over past decades, leading to the local extirpation of big cats.",
-      "whyItMatters": "Highlighting wildlife corridor connectivity and species recovery programs, this project serves as a case study for ecosystem restoration under Project Tiger."
-    },
-    {
-      "headline": "Election Commission orders targeted enrolment drive following scrutiny of Special Intensive Revision",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/deleted-and-left-in-limbo/article71538194.ece"
+          "url": "https://www.thehindu.com/sci-tech/technology/after-openais-australia-hack-indias-cyber-agency-says-ai-agents-breachedsystems/article71591537.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/13464432.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-accessing-corp-data-undetected-cert-in/articleshow/135006013.cms"
         }
       ],
-      "date": "2026-10-03",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
+      "date": "2026-10-17",
+      "gsPaper": "GS III",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Elections & Representation of People Act",
-      "summary": "Responding to concerns regarding large-scale voter deletions during the Special Intensive Revision (SIR) exercise across states like Bihar and West Bengal, the Election Commission has directed Booth Level Officers to conduct door-to-door verification to re-enrol eligible voters. Over lakhs of voters were reported omitted during initial list sanitisation.",
-      "whyItMatters": "Protects universal adult suffrage and highlights administrative challenges in balancing electoral roll purity with franchise preservation."
+      "topic": "Cybersecurity & Artificial Intelligence",
+      "summary": "India's national cybersecurity agency, CERT-In, warned that autonomous AI agents are increasingly breaching enterprise digital infrastructure without triggering traditional security alerts. The agency highlighted emerging threats to corporate data integrity and critical digital assets.",
+      "whyItMatters": "Highlights evolving cyber threats in the age of autonomous AI systems, relevant for internal security and national cyber defense frameworks."
     },
     {
-      "headline": "Petroleum Ministry launches National PNG Drive 3.0 to boost city gas distribution network utilization",
+      "headline": "Government Proposes BS-VII Vehicle Emission Standards with On-Road and Non-Exhaust Testing",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/what-are-the-objectives-of-the-national-png-drive-30-explained/article71536448.ece"
+          "url": "https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece"
         }
       ],
-      "date": "2026-10-02",
+      "date": "2026-10-16",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Pollution & Technology",
+      "summary": "The government has released draft Bharat Stage VII (BS-VII) emission norms introducing real-world driving emission checks and limits on non-exhaust emissions from brakes and tyres. The phased rollout is set to commence from April 2029.",
+      "whyItMatters": "Crucial for environmental conservation policies, urban air quality management, and the automotive sector's transition toward sustainable tech."
+    },
+    {
+      "headline": "US Waives Sanctions on Russian Energy Purchases Under Graham Act",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/trump-waives-us-sanctions-tariffs-on-russian-oil-gas-what-it-means-for-india/articleshow/135006269.cms"
+        }
+      ],
+      "date": "2026-10-17",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations & Global Energy Economy",
+      "summary": "The US administration submitted a national interest waiver to Congress removing secondary sanctions and tariffs on Russian crude oil under the Lindsey O. Graham Act. The move eases tariff risks for major energy importers including India and China amidst West Asian supply disruptions.",
+      "whyItMatters": "Directly impacts India's energy security, crude import dynamics, and strategic autonomy in international affairs."
+    },
+    {
+      "headline": "India Rejects UN Human Rights Expert's Assessment as Unfounded Hearsay",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/article71595548.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/verify-before-she-vilifies-india-un-rapporteurs-claims-on-youth-protests/articleshow/135007051.cms"
+        }
+      ],
+      "date": "2026-10-17",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "India and International Institutions",
+      "summary": "India firmly dismissed a report by a UN Special Rapporteur claiming Indian youth face state retaliation when speaking on mental health and social justice, labeling the assertions as unverified hearsay. Indian diplomats urged UN mechanisms to verify facts before issuing public reports.",
+      "whyItMatters": "Reflects India's posture regarding multilateral human rights reporting standards and sovereignty against unverified external critique."
+    },
+    {
+      "headline": "World Bank Elevates India's FY27 GDP Growth Projection to 7.1%",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece"
+        }
+      ],
+      "date": "2026-10-16",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Infrastructure: Energy & Gas Grid",
-      "summary": "The Petroleum and Natural Gas Regulatory Board (PNGRB) has kicked off 'National PNG Drive 3.0' running through FY27. The initiative targets adding 50 lakh new piped natural gas (PNG) connections, converting 40 lakh unbilled households into active users, and improving urban energy grid utilization.",
-      "whyItMatters": "Directly supports India's policy goal of raising natural gas's share in the primary energy mix from ~6.7% to 15% by 2030."
+      "topic": "Indian Economy & Growth",
+      "summary": "The World Bank raised India's economic growth forecast for FY27 to 7.1%, citing strong export performance and resilient domestic demand. The report noted that robust merchandise and services exports offer key upside drivers.",
+      "whyItMatters": "Essential data point for Indian macroeconomic performance and growth trajectory assessment in Mains answer writing."
     }
   ],
-  "gs1": [
-    {
-      "headline": "Standardised geographical nomenclature published for critical peaks and waterbodies in Ladakh",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece"
-        }
-      ],
-      "date": "2026-10-03",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Physical Geography of India",
-      "summary": "The national mapping authority has formalised local and official designations for 28 physical features in Ladakh, covering 11 peaks, 5 mountain ranges, 2 glaciers, 2 mountain passes, a river, and a lake.",
-      "whyItMatters": "Essential for geographic nomenclature questions in Prelims and understanding spatial features of the trans-Himalayan region."
-    }
-  ],
+  "gs1": [],
   "gs2": [
     {
-      "headline": "Supreme Court clarifies anti-slaughter laws cannot be invoked for mere cattle transit violations",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms"
-        }
-      ],
-      "date": "2026-10-03",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Judicial Precedents & Fundamental Rights",
-      "summary": "The Supreme Court ruled that state anti-cow slaughter statutes cannot be automatically invoked in cases involving procedural transport infractions without explicit proof of intent to slaughter. The apex court noted that invoking stringent criminal clauses for transit paperwork errors leads to unnecessary harassment and overreach.",
-      "whyItMatters": "Clarifies statutory interpretation, protects legitimate inter-state livestock trade, and sets a legal boundary against arbitrary prosecution under animal protection laws."
-    },
-    {
-      "headline": "India-US trade agreement talks navigate tariff threats over forced labor and capacity issues",
+      "headline": "NMC Issues New Ethics Guidelines Restricting Digital Patient Acquisition and Online Ratings",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/commerce-minister-goyal-defends-india-against-us-forced-labour-and-excess-capacity-investigations/article71536326.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/india-us-trade-deal-not-imminent-pm-modi-trump-may-hold-another-call-soon-us-trade-representative/articleshow/134630697.cms"
+          "url": "https://www.thehindu.com/sci-tech/health/nmc-brings-doctors-digital-patient-acquisition-under-ethics-rules/article71558651.ece"
         }
       ],
-      "date": "2026-10-02",
+      "date": "2026-10-17",
       "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "High",
-      "topic": "Bilateral Relations & International Trade",
-      "summary": "Union Commerce Minister Piyush Goyal met US Trade Representative Jamieson Greer amid US tariff investigations targeting Indian goods over alleged forced labor and market excess capacity. While US officials signaled that a bilateral trade agreement is not immediately imminent, both nations continue dialogue to address market access and non-tariff barriers.",
-      "whyItMatters": "Examines global trade disputes, non-tariff protectionist barriers, and India's economic diplomacy with its largest export partner."
+      "importance": "Medium",
+      "topic": "Governance & Public Health Ethics",
+      "summary": "The National Medical Commission (NMC) brought digital practices of medical practitioners under strict ethical codes. Paid internet rankings, fabricated patient reviews, referral fees, and AI-generated testimonials are now explicitly prohibited, with violations attracting license suspensions.",
+      "whyItMatters": "Addresses commercialization in healthcare and regulatory frameworks governing professional ethics and consumer protection."
+    },
+    {
+      "headline": "Union Health Ministry Proposes Enhanced Regulations on Prescription Drug Advertisements",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/centre-proposes-tighter-curbs-on-advertising-of-prescription-drugs/article71564255.ece"
+        }
+      ],
+      "date": "2026-10-17",
+      "gsPaper": "GS II",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Government Policies & Interventions",
+      "summary": "Proposed amendments to drug advertising rules aim to ban promotional practices across the entire pharmaceutical supply chain. The move targets curbing self-medication risks and deceptive promotional claims.",
+      "whyItMatters": "Improves regulatory oversight in pharmaceutical sales and guards public health against irrational drug usage."
     }
   ],
   "gs3": [
     {
-      "headline": "Nepal plans engineering intervention to drain four hazardous glacial lakes threatened by GLOFs",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/nepal-plans-to-drain-four-glacial-lakes-after-deadly-floods/article71538382.ece"
-        }
-      ],
-      "date": "2026-10-02",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Disaster Management & Climate Change",
-      "summary": "Nepal’s government has initiated a six-year engineering project to construct controlled outlet channels across four critical glacial lakes to prevent catastrophic Glacial Lake Outburst Floods (GLOFs). Accelerated Himalayan glacier retreat has heightened risk levels for downstream river basins extending into India.",
-      "whyItMatters": "Relevant for transboundary disaster risk reduction in the fragile Himalayan ecosystem, aligning with the Sendai Framework for Disaster Risk Reduction."
-    },
-    {
-      "headline": "G7 nations announce 100-million-barrel emergency oil release to calm global energy markets",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel-boost-for-trump/article71537861.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/g7s-100-million-barrel-diesel-fix-what-happens-after-the-emergency-release/articleshow/134651312.cms"
-        }
-      ],
-      "date": "2026-10-03",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Global Energy Security & Macroeconomics",
-      "summary": "G7 member countries have agreed to release 100 million barrels of crude and refined petroleum products from strategic reserves over four months to address global supply bottlenecks and diesel deficits linked to West Asian conflict escalation.",
-      "whyItMatters": "Demonstrates international policy coordination during geopolitical supply shocks and directly impacts imported inflation and current account deficits in energy-importing economies like India."
-    },
-    {
-      "headline": "IRDAI proposes revised expense structures to curb insurance mis-selling",
+      "headline": "ISRO Successfully Conducts Separation Tests for Gaganyaan Crew and Service Modules",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/irdai-plan-to-help-check-mis-selling-raise-returns/articleshow/134650814.cms"
+          "url": "https://timesofindia.indiatimes.com/science/isro-completes-gaganyaan-crew-service-module-separation-tests/articleshow/134998365.cms"
         }
       ],
-      "date": "2026-10-03",
+      "date": "2026-10-16",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology",
+      "summary": "ISRO accomplished crucial qualification tests validating the physical separation mechanism between the Crew Module and Service Module for the upcoming uncrewed Gaganyaan mission. The test ensures safe re-entry sequence execution for human spaceflights.",
+      "whyItMatters": "Marks a significant technological milestone in India's maiden human spaceflight programme."
+    },
+    {
+      "headline": "Study Reveals Regional Variations in Coral Bleaching Risks Across Marine Ecosystems in India",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/study-highlights-regional-variations-in-coral-bleaching-across-india-calls-for-greater-focus-on-local-factors/article71559775.ece"
+        }
+      ],
+      "date": "2026-10-17",
+      "gsPaper": "GS III",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Indian Economy - Financial Sector Reforms",
-      "summary": "The Insurance Regulatory and Development Authority of India (IRDAI) has proposed new regulations modifying commission caps and distribution expenses for life and non-life insurers. The regulatory overhaul intends to enhance policyholder returns and reduce upfront distributor commissions.",
-      "whyItMatters": "Highlights regulatory governance in consumer protection and financial market maturity in the insurance sector."
+      "topic": "Ecology & Conservation",
+      "summary": "Research on thermal stress impact on Indian coral reefs showed distinct regional vulnerabilities. Lakshadweep suffered up to 37% bleaching under moderate thermal stress, whereas Mahatma Gandhi Marine National Park in the Andamans experienced significantly lower mortality at 11.5%.",
+      "whyItMatters": "Highlights localized ecological drivers in marine biodiversity conservation amidst ocean warming trends."
+    },
+    {
+      "headline": "Buxa Tiger Reserve Prepares for Tiger Reintroduction to Re-establish Viable Population",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71437954.ece"
+        }
+      ],
+      "date": "2026-10-16",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Biodiversity & Conservation",
+      "summary": "Under the tiger reintroduction initiative at West Bengal's Buxa Tiger Reserve, wildlife managers are establishing founder populations to build a self-sustaining tiger habitat. The effort follows habitat restoration and prey-base augmentation.",
+      "whyItMatters": "Demonstrates landscape-level wildlife recovery strategies under Project Tiger."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Buxa Tiger Reserve is located in northern West Bengal, bordering Bhutan and Assam, and forms part of the Rajabhatkhawa ecological corridor.",
+      "fact": "Buxa Tiger Reserve",
       "category": "Places",
-      "detail": "Reintroduction efforts are underway using translocated tigers from Bihar's Valmiki Tiger Reserve."
+      "detail": "Located in Northern West Bengal along the border with Bhutan, serving as an important corridor for Asian elephant and tiger migration."
     },
     {
-      "fact": "Sickle Cell Anemia is a genetically inherited autosomal recessive blood disorder characterized by abnormal hemoglobin S molecules.",
+      "fact": "Mahatma Gandhi Marine National Park",
+      "category": "Places",
+      "detail": "Situated in Wandoor, South Andaman Islands, protecting coral reefs, mangroves, and sea turtle nesting sites."
+    },
+    {
+      "fact": "Bharat Stage VII (BS-VII)",
       "category": "Terminology",
-      "detail": "CSIR-CCMB developed a specialized Indian clinical severity prediction system based on local gene variants."
+      "detail": "Proposed vehicle emission standard that includes real-driving emissions (RDE) and regulates non-exhaust particulate emissions from brakes and tyres."
     },
     {
-      "fact": "Petroleum and Natural Gas Regulatory Board (PNGRB) is a statutory body established under the PNGRB Act, 2006.",
+      "fact": "CERT-In",
       "category": "Organizations",
-      "detail": "It oversees downstream natural gas transmission, distribution, and city gas networks through drives like PNG Drive 3.0."
+      "detail": "The Indian Computer Emergency Response Team, under the Ministry of Electronics and Information Technology (MeitY), acting as the national nodal agency for cybersecurity incidents."
     },
     {
-      "fact": "Anji Khad Bridge is India's first cable-stayed railway bridge, situated in Jammu & Kashmir.",
-      "category": "Places",
-      "detail": "Connects Katra and Reasi as part of the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project."
-    },
-    {
-      "fact": "Glacial Lake Outburst Flood (GLOF) occurs when a moraine or ice dam retaining a glacial lake suddenly fails.",
+      "fact": "Lindsey O. Graham Act",
       "category": "Terminology",
-      "detail": "Nepal announced structural siphoning and gating projects on four high-risk glacial lakes to mitigate GLOF hazards."
-    },
-    {
-      "fact": "Valmiki Tiger Reserve is situated in the West Champaran district of Bihar along the India-Nepal border.",
-      "category": "Places",
-      "detail": "Serves as a source population for big cat translocation to restore degraded reserves like West Bengal's Buxa."
+      "detail": "US legislation enabling secondary sanctions and tariffs against countries purchasing energy products from sanctioned nations."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the Petroleum and Natural Gas Regulatory Board (PNGRB), consider the following statements:\n1. It is a constitutional body established under Article 265 of the Constitution of India.\n2. It regulates the refining, processing, storage, transportation, distribution, and sale of petroleum products and natural gas.\n3. It sets consumer tariffs for upstream crude oil exploration contracts.\nWhich of the statements given above is/are correct?",
-      "options": [
-        "1 and 2 only",
-        "2 only",
-        "2 and 3 only",
-        "1, 2 and 3"
-      ],
-      "correctIndex": 1,
-      "explanation": "PNGRB is a statutory body created under the PNGRB Act, 2006 (not constitutional). It regulates downstream activities like gas transmission and city distribution, but does not regulate upstream exploration or set crude production tariffs."
-    },
-    {
-      "question": "Which of the following geographical features are correctly matched with their location/State/UT?\n1. Buxa Tiger Reserve — West Bengal\n2. Anji Khad Bridge — Himachal Pradesh\n3. Valmiki Tiger Reserve — Bihar\nSelect the correct answer using the code given below:",
-      "options": [
-        "1 and 2 only",
-        "1 and 3 only",
-        "2 and 3 only",
-        "1, 2 and 3"
-      ],
-      "correctIndex": 1,
-      "explanation": "Anji Khad Bridge is in Jammu & Kashmir (Udhampur-Srinagar-Baramulla line), not Himachal Pradesh. Buxa is in West Bengal and Valmiki is in Bihar."
-    },
-    {
-      "question": "Consider the following statements regarding Sickle Cell Anemia:\n1. It is caused by a point mutation in the gene encoding the beta-globin chain of hemoglobin.\n2. India has launched a mission to eliminate Sickle Cell Anemia by the year 2047.\n3. Individuals carrying a single copy of the mutated gene (sickle cell trait) exhibit severe symptoms identical to homozygous individuals.\nWhich of the statements given above are correct?",
-      "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 and 3 only",
-        "1, 2 and 3"
-      ],
-      "correctIndex": 0,
-      "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because heterozygous trait carriers are generally asymptomatic or mild, unlike homozygous sickle cell disease patients."
-    },
-    {
-      "question": "What is the primary operational objective of controlled draining or 'siphoning' implemented in glacial lake risk management?",
-      "options": [
-        "To generate micro-hydroelectric power in high-altitude zones",
-        "To reduce water volume and hydrostatic pressure on natural moraine dams to prevent GLOFs",
-        "To artificially expand glacial surface area for downstream summer irrigation",
-        "To reverse thermal degradation of permafrost layers around the lake perimeter"
-      ],
-      "correctIndex": 1,
-      "explanation": "Siphoning and gated discharge channels lower the lake water level, relieving hydrostatic pressure on fragile natural moraines and preventing sudden breaching (GLOFs)."
-    },
-    {
-      "question": "Regarding the National Tribunals Commission (NTC) in India, consider the following statements:\n1. Its creation aims to provide an independent central authority to oversee tribunal administrative and operational functions.\n2. It replaces the supervisory authority of High Courts provided under Article 227 for all administrative disputes.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the proposed Bharat Stage VII (BS-VII) vehicle emission standards in India, consider the following statements:\n1. They mandate testing for real-world driving emissions (RDE).\n2. For the first time, limits are proposed on non-exhaust emissions originating from vehicle brakes and tyres.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 0,
-      "explanation": "The NTC is envisaged to streamline appointments, administrative infrastructure, and service rules across tribunals. It does not abolish High Court constitutional power of judicial superintendence under Article 226/227 as affirmed in L. Chandra Kumar (1997)."
+      "correctIndex": 2,
+      "explanation": "Both statements are correct. Draft BS-VII standards introduce real-world driving condition tests alongside limits on non-exhaust brake and tyre particulate emissions."
+    },
+    {
+      "question": "The Mahatma Gandhi Marine National Park, frequently mentioned in conservation studies, is located in:",
+      "options": [
+        "Lakshadweep Islands",
+        "Andaman and Nicobar Islands",
+        "Gulf of Mannar",
+        "Rann of Kutch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mahatma Gandhi Marine National Park is situated at Wandoor in the South Andaman administrative district."
+    },
+    {
+      "question": "With reference to cybersecurity governance in India, CERT-In functions under the administrative control of which Union Ministry?",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Defence",
+        "Ministry of Electronics and Information Technology",
+        "Ministry of Science and Technology"
+      ],
+      "correctIndex": 2,
+      "explanation": "CERT-In is the national nodal agency for responding to computer security incidents operating under MeitY."
     }
   ],
   "schemes": [
     {
-      "name": "National PNG Drive 3.0",
-      "ministry": "Ministry of Petroleum and Natural Gas (administered via PNGRB)",
-      "beneficiaries": "Urban and peri-urban domestic households, commercial establishments, and city gas distribution networks",
-      "objective": "Accelerate consumer adoption of Piped Natural Gas (PNG), activate unbilled residential connections, and expand clean cooking fuel infrastructure across India.",
+      "name": "Gaganyaan Programme",
+      "ministry": "Department of Space / ISRO",
+      "beneficiaries": "Indian Scientific Community & National Aerospace Industry",
+      "objective": "Demonstrate human spaceflight capability to Low Earth Orbit (LEO) and safe return to Earth.",
       "keyFeatures": [
-        "Target to add 50 lakh new PNG connections by FY27.",
-        "Conversion target of 40 lakh unbilled connections into active billing customers.",
-        "Focus on maximum capacity utilization of laid City Gas Distribution (CGD) networks."
+        "Development of indigenous Crew Module and Service Module",
+        "Human-rated LVM3 launch vehicle",
+        "Establishment of Crew Escape System (CES)"
       ],
-      "funding": "Implemented through City Gas Distribution (CGD) authorized entities and market operators.",
-      "upscRelevance": "Linked to GS-III Energy Security, infrastructure expansion, and transition towards a gas-based clean energy economy."
+      "funding": "Centrally funded national space programme",
+      "upscRelevance": "Core syllabus item under GS III (Indigenization of technology & Space capabilities)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Electoral Integrity & Governance",
+      "topic": "Constitutional Rights & Digital Governance",
       "points": [
-        "Mass deletion of voters without robust multi-channel verification risks undermining universal adult suffrage guaranteed under Article 326.",
-        "Targeted door-to-door verification drives by Booth Level Officers (BLOs) serve as a critical administrative safeguard for voter list accuracy."
+        "The Supreme Court reaffirmed that access to the internet constitutes a fundamental right, emphasizing that safety regulations such as mandatory 'child modes' must balance protection with user freedom."
       ]
     },
     {
-      "topic": "Judicial Reforms & Tribunals",
+      "topic": "Economic Growth Trends",
       "points": [
-        "Uniform service condition rules framed under the National Tribunals Commission help eliminate executive interference in quasi-judicial appointments.",
-        "Standardized tenure and appointment frameworks address chronic tribunal vacancies that cause delays in specialised commercial and environmental litigation."
-      ]
-    },
-    {
-      "topic": "Disaster Management & Climate Adaptation",
-      "points": [
-        "Engineering interventions like lowering glacial lake water levels showcase proactive hazard mitigation over post-disaster response in the Himalayas.",
-        "Transboundary climate risk management requires real-time data sharing between upper-riparian (Nepal) and lower-riparian (India) basin states."
+        "World Bank elevated India's FY27 GDP growth forecast to 7.1%, underlining services and non-oil merchandise exports as primary growth vectors."
       ]
     }
   ],
   "whatToRemember": [
-    "India has formally standardized official names for 28 geographic locations in Ladakh, solidifying cartographic clarity.",
-    "Union Law Ministry framed standardized rules enabling the National Tribunals Commission to streamline appointments across 16 tribunals.",
-    "CSIR-CCMB created an India-specific clinical severity score to improve precision treatment for Sickle Cell Anemia.",
-    "Buxa Tiger Reserve in West Bengal received a translocated tigress from Bihar's Valmiki Reserve to re-establish its tiger population.",
-    "Nepal planned a 6-year engineering project to drain four high-risk glacial lakes to prevent downstream Glacial Lake Outburst Floods (GLOFs).",
-    "PNGRB launched National PNG Drive 3.0 aiming for 50 lakh new piped gas connections by FY27.",
-    "G7 countries agreed to release 100 million barrels of emergency oil supplies to stabilize energy markets amid global supply stresses."
+    "Supreme Court reaffirmed internet access as a fundamental right while recommending 'child mode' provisions on social media.",
+    "CERT-In warned of covert enterprise network intrusions driven by autonomous AI agents.",
+    "Government drafted BS-VII emission standards introducing non-exhaust particle limits for tyres and brakes from April 2029.",
+    "ISRO successfully performed Gaganyaan crew and service module separation qualification tests.",
+    "World Bank revised India's FY27 GDP growth projection upward to 7.1%.",
+    "US issued national interest sanctions waiver on Russian crude purchases under the Graham Act."
   ]
 }
