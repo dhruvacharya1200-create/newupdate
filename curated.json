@@ -1,232 +1,242 @@
 {
-  "date": "2026-10-17",
-  "updatedAt": "2026-10-17T07:59:36.580Z",
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-22T08:51:53.005Z",
   "frontPage": [
     {
-      "headline": "Supreme Court Reaffirms Internet Access as Fundamental Right, Suggests Age-Appropriate Safety Protocols for Social Media",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/internet-access-is-fundamental-right-sc-suggests-child-mode-for-social-media-accounts/articleshow/135009573.cms"
-        }
-      ],
-      "date": "2026-10-17",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Fundamental Rights & Digital Governance",
-      "summary": "The Supreme Court reiterated that access to the internet is an integral component of fundamental rights under the Constitution. Addressing concerns over digital safety for minors, the apex court suggested implementing mandatory 'child mode' features on social media platforms.",
-      "whyItMatters": "Connects directly to Article 19(1)(a) and Right to Privacy under Article 21, balancing fundamental digital freedoms with the state's duty to protect vulnerable demographics like minors."
-    },
-    {
-      "headline": "CERT-In Issues Advisory as AI Agents Penetrate Corporate Networks Undetected",
+      "headline": "Critical Cryptographic Key Leak at eMudhra Exposes Government Digital Infrastructure to Cybersecurity Risks",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/after-openais-australia-hack-indias-cyber-agency-says-ai-agents-breachedsystems/article71591537.ece"
+          "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/ai-agents-accessing-corp-data-undetected-cert-in/articleshow/135006013.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/security-flaw-emudhra-shares-take-a-hit-fall-20/articleshow/135100962.cms"
         }
       ],
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Cybersecurity & Artificial Intelligence",
-      "summary": "India's national cybersecurity agency, CERT-In, warned that autonomous AI agents are increasingly breaching enterprise digital infrastructure without triggering traditional security alerts. The agency highlighted emerging threats to corporate data integrity and critical digital assets.",
-      "whyItMatters": "Highlights evolving cyber threats in the age of autonomous AI systems, relevant for internal security and national cyber defense frameworks."
+      "topic": "Cybersecurity",
+      "summary": "A security breach at certifying authority eMudhra resulted in the exposure of eight private digital signature keys used across critical public platforms, including UIDAI and the Income Tax portal. The flaw originated during an improper key-generation ceremony, raising concerns over potential Man-in-the-Middle (MitM) attacks.",
+      "whyItMatters": "Highlights vulnerabilities in public key infrastructure (PKI) and supply-chain digital security, directly touching upon the critical infrastructure protection aspect of internal security."
     },
     {
-      "headline": "Government Proposes BS-VII Vehicle Emission Standards with On-Road and Non-Exhaust Testing",
+      "headline": "Escalation in Strait of Hormuz Triggers Crude Oil Spike Above $110 and Heightens India's Energy Security Concerns",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece"
-        }
-      ],
-      "date": "2026-10-16",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Pollution & Technology",
-      "summary": "The government has released draft Bharat Stage VII (BS-VII) emission norms introducing real-world driving emission checks and limits on non-exhaust emissions from brakes and tyres. The phased rollout is set to commence from April 2029.",
-      "whyItMatters": "Crucial for environmental conservation policies, urban air quality management, and the automotive sector's transition toward sustainable tech."
-    },
-    {
-      "headline": "US Waives Sanctions on Russian Energy Purchases Under Graham Act",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+          "url": "https://www.thehindu.com/news/international/iran-says-7-oil-tankers-catch-fire-or-damaged-overnight-in-strait-of-hormuz/article71610464.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/trump-waives-us-sanctions-tariffs-on-russian-oil-gas-what-it-means-for-india/articleshow/135006269.cms"
+          "url": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-tops-110-as-fresh-attacks-in-saudi-raise-concerns-over-oil-supplies/articleshow/135103962.cms"
         }
       ],
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "gsPaper": "GS II & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "International Relations & Global Energy Economy",
-      "summary": "The US administration submitted a national interest waiver to Congress removing secondary sanctions and tariffs on Russian crude oil under the Lindsey O. Graham Act. The move eases tariff risks for major energy importers including India and China amidst West Asian supply disruptions.",
-      "whyItMatters": "Directly impacts India's energy security, crude import dynamics, and strategic autonomy in international affairs."
+      "topic": "Energy Security",
+      "summary": "Attacks on commercial oil tankers in the Strait of Hormuz caused Brent crude prices to climb past $110 per barrel, sparking supply disruption fears. Indian state refiners like IOC are preparing contingency adjustments to long-term Middle Eastern crude procurement contracts in response to elevated geopolitical risk.",
+      "whyItMatters": "The Strait of Hormuz is a vital maritime choke point for global oil transport; disruptions directly impact India's current account deficit, imported inflation, and overall energy security strategy."
     },
     {
-      "headline": "India Rejects UN Human Rights Expert's Assessment as Unfounded Hearsay",
+      "headline": "India and Poland Reaffirm Strategic Economic Ties Ahead of India-EU Free Trade Agreement",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-rejects-report-by-un-human-rights-expert-that-says-indian-youth-face-retaliation-terms-claims-as-hearsay/article71595548.ece"
+          "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-meets-poland-pm-donald-tusk/article71610641.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/verify-before-she-vilifies-india-un-rapporteurs-claims-on-youth-protests/articleshow/135007051.cms"
+          "url": "https://timesofindia.indiatimes.com/india/beacon-of-hope-polish-pm-donald-tusk-hails-ties-with-india-calls-pm-modi-a-friend/articleshow/135112511.cms"
         }
       ],
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "India and International Institutions",
-      "summary": "India firmly dismissed a report by a UN Special Rapporteur claiming Indian youth face state retaliation when speaking on mental health and social justice, labeling the assertions as unverified hearsay. Indian diplomats urged UN mechanisms to verify facts before issuing public reports.",
-      "whyItMatters": "Reflects India's posture regarding multilateral human rights reporting standards and sovereignty against unverified external critique."
+      "topic": "Bilateral Relations",
+      "summary": "Polish Prime Minister Donald Tusk conducted an official visit to India to enhance bilateral cooperation across trade, defence, and technology sectors. Both nations emphasized that the upcoming India-European Union Free Trade Agreement (FTA) will serve as a key catalyst for expanding Central European trade linkages.",
+      "whyItMatters": "Central Europe is becoming increasingly crucial for India's trade diversification efforts within the EU framework, providing access to manufacturing and technology corridors."
     },
     {
-      "headline": "World Bank Elevates India's FY27 GDP Growth Projection to 7.1%",
+      "headline": "WMO Warns of Unprecedented El Niño Intensity, Threatening Global Weather Patterns",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/world-bank-ups-indias-gdp-growth-projection-to-71-for-fy27/article71552011.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/wmo-warns-the-current-el-nino-could-be-unprecedented-in-strength/article71609858.ece"
         }
       ],
-      "date": "2026-10-16",
+      "date": "2026-10-22",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Geomorphology & Climate Change",
+      "summary": "The World Meteorological Organization (WMO) cautioned that the ongoing El Niño event could record sea surface temperature anomalies up to 3.8°C above average in the tropical Pacific Ocean. Such intense warming threatens to alter global precipitation cycles, exacerbating droughts and extreme rainfall events worldwide.",
+      "whyItMatters": "El Niño dynamics directly affect the Indian Southwest Monsoon, agricultural productivity, food inflation, and disaster preparedness across South Asia."
+    },
+    {
+      "headline": "UNEP Emissions Gap Report Calls for Immediate Decisive Cuts to Limit Global Warming to 1.5°C",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/drastic-emission-cuts-can-help-return-to-15c-warming-by-2100-unep/article71607543.ece"
+        }
+      ],
+      "date": "2026-10-21",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation",
+      "summary": "A new UNEP report highlights that global greenhouse gas emissions must be reduced by 18% by 2030 and 45% by 2035 compared to 2025 levels to bring global warming back down to 1.5°C by 2100. The assessment warns that current national commitments remain insufficient to avoid severe climate tipping points.",
+      "whyItMatters": "Crucial input for climate negotiations at COP conferences and national climate targets under India's Nationally Determined Contributions (NDCs)."
+    },
+    {
+      "headline": "Government Plans Dedicated Agrivoltaics Component Under PM-KUSUM Phase II",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Industry/agrivoltaics-on-10-of-suitable-land-can-meet-2050-power-demand-pralhad-joshi/article71608458.ece"
+        }
+      ],
+      "date": "2026-10-21",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Indian Economy & Growth",
-      "summary": "The World Bank raised India's economic growth forecast for FY27 to 7.1%, citing strong export performance and resilient domestic demand. The report noted that robust merchandise and services exports offer key upside drivers.",
-      "whyItMatters": "Essential data point for Indian macroeconomic performance and growth trajectory assessment in Mains answer writing."
+      "topic": "Renewable Energy & Agriculture",
+      "summary": "Union Minister for New and Renewable Energy announced that installing solar panels on just 10% of suitable agricultural land could generate enough clean electricity to meet India's projected 2050 power demand. The Ministry is structuring a dedicated agrivoltaic framework within Phase II of the PM-KUSUM scheme.",
+      "whyItMatters": "Agrivoltaics combines dual-use land technology, boosting farm income while accelerating clean energy transitions without compromising food security."
     }
   ],
-  "gs1": [],
-  "gs2": [
+  "gs1": [
     {
-      "headline": "NMC Issues New Ethics Guidelines Restricting Digital Patient Acquisition and Online Ratings",
+      "headline": "Prehistoric Rock Formations Identified Within Mrugavani National Park",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/nmc-brings-doctors-digital-patient-acquisition-under-ethics-rules/article71558651.ece"
+          "url": "https://www.thehindu.com/news/national/telangana/prehistoric-rock-formations-found-at-mrugavani-national-park/article71607874.ece"
         }
       ],
-      "date": "2026-10-17",
+      "date": "2026-10-22",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Ancient History & Archaeology",
+      "summary": "Archaeologists and naturalists discovered ancient rock formations bearing geological and prehistoric significance within Mrugavani National Park, Telangana. The site offers valuable insight into regional paleo-environmental history and early human habitat settings.",
+      "whyItMatters": "Understanding prehistoric rock structures enriches knowledge of early human settlements in the Deccan plateau."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Role and Statutory Powers of Special Executive Magistrates Under BNSS 2023 Highlighted",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/what-are-the-powers-and-functions-of-special-executive-magistrates-explained/article71610056.ece"
+        }
+      ],
+      "date": "2026-10-22",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Governance & Public Health Ethics",
-      "summary": "The National Medical Commission (NMC) brought digital practices of medical practitioners under strict ethical codes. Paid internet rankings, fabricated patient reviews, referral fees, and AI-generated testimonials are now explicitly prohibited, with violations attracting license suspensions.",
-      "whyItMatters": "Addresses commercialization in healthcare and regulatory frameworks governing professional ethics and consumer protection."
+      "topic": "Executive & Judiciary",
+      "summary": "Recent preventive detentions have brought attention to the statutory role of Special Executive Magistrates (SEMs) appointed under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. State governments delegate executive magistracy powers to SEMs for maintaining public order, distinct from judicial magistracy functions.",
+      "whyItMatters": "Illustrates the doctrine of separation of powers and preventive law enforcement powers under India's updated criminal procedural laws."
     },
     {
-      "headline": "Union Health Ministry Proposes Enhanced Regulations on Prescription Drug Advertisements",
+      "headline": "FSSAI Moves to Enforce Stricter Standards on Added Sugars and Product Claims",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/centre-proposes-tighter-curbs-on-advertising-of-prescription-drugs/article71564255.ece"
+          "url": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/fssai-notices-to-nestle-india-zydus-wellness-over-misleading-claims-in-products/article71608592.ece"
         }
       ],
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "gsPaper": "GS II",
-      "relevance": "Prelims",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Government Policies & Interventions",
-      "summary": "Proposed amendments to drug advertising rules aim to ban promotional practices across the entire pharmaceutical supply chain. The move targets curbing self-medication risks and deceptive promotional claims.",
-      "whyItMatters": "Improves regulatory oversight in pharmaceutical sales and guards public health against irrational drug usage."
+      "topic": "Government Policies & Health",
+      "summary": "The Food Safety and Standards Authority of India (FSSAI) issued regulatory notices against major food manufacturers for unverified health claims and published draft guidelines restricting added sugars in infant food products. The regulatory action aims to address rising lifestyle diseases starting from early childhood nutrition.",
+      "whyItMatters": "Crucial for public health policy, regulatory compliance, consumer rights, and addressing non-communicable diseases (NCDs)."
     }
   ],
   "gs3": [
     {
-      "headline": "ISRO Successfully Conducts Separation Tests for Gaganyaan Crew and Service Modules",
+      "headline": "Annual Butterfly Migration Commences Towards the Western Ghats with Northeast Monsoon",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/butterfly-migration-blue-tigers-head-towards-western-ghats-with-the-onset-of-north-east-monsoon/article71606604.ece"
+        }
+      ],
+      "date": "2026-10-22",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Ecology & Biodiversity",
+      "summary": "Millions of Blue Tiger and Dark Blue Tiger butterflies have started their annual seasonal migration from the Eastern Ghats and plains toward the damp evergreen forests of the Western Ghats, triggered by the arrival of the Northeast Monsoon.",
+      "whyItMatters": "Insect migration patterns serve as vital bio-indicators for ecosystem health, monsoon dynamics, and habitat connectivity."
+    },
+    {
+      "headline": "Reserve Bank of India Monetary Policy Committee Tightens Stance Amid Spreading Inflationary Pressures",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/isro-completes-gaganyaan-crew-service-module-separation-tests/articleshow/134998365.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rate-hike-rbi-more-hawkish-than-external-members-at-meet/articleshow/135100963.cms"
         }
       ],
-      "date": "2026-10-16",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Space Technology",
-      "summary": "ISRO accomplished crucial qualification tests validating the physical separation mechanism between the Crew Module and Service Module for the upcoming uncrewed Gaganyaan mission. The test ensures safe re-entry sequence execution for human spaceflights.",
-      "whyItMatters": "Marks a significant technological milestone in India's maiden human spaceflight programme."
-    },
-    {
-      "headline": "Study Reveals Regional Variations in Coral Bleaching Risks Across Marine Ecosystems in India",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/study-highlights-regional-variations-in-coral-bleaching-across-india-calls-for-greater-focus-on-local-factors/article71559775.ece"
-        }
-      ],
-      "date": "2026-10-17",
+      "date": "2026-10-22",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Ecology & Conservation",
-      "summary": "Research on thermal stress impact on Indian coral reefs showed distinct regional vulnerabilities. Lakshadweep suffered up to 37% bleaching under moderate thermal stress, whereas Mahatma Gandhi Marine National Park in the Andamans experienced significantly lower mortality at 11.5%.",
-      "whyItMatters": "Highlights localized ecological drivers in marine biodiversity conservation amidst ocean warming trends."
-    },
-    {
-      "headline": "Buxa Tiger Reserve Prepares for Tiger Reintroduction to Re-establish Viable Population",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/reintroduction-of-tigers-in-buxa-what-it-means-for-conservation-explained/article71437954.ece"
-        }
-      ],
-      "date": "2026-10-16",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Biodiversity & Conservation",
-      "summary": "Under the tiger reintroduction initiative at West Bengal's Buxa Tiger Reserve, wildlife managers are establishing founder populations to build a self-sustaining tiger habitat. The effort follows habitat restoration and prey-base augmentation.",
-      "whyItMatters": "Demonstrates landscape-level wildlife recovery strategies under Project Tiger."
+      "topic": "Indian Economy & Monetary Policy",
+      "summary": "Minutes from the recent Monetary Policy Committee (MPC) meeting reveal a hawkish stance from internal RBI members, emphasizing that broad-based inflationary persistence warrants a shift toward calibrated tightening, ruling out rate reductions in the near term.",
+      "whyItMatters": "Understanding MPC dynamics, inflation targeting, and liquidity management is key for macroeconomics preparation."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Buxa Tiger Reserve",
+      "fact": "Mrugavani National Park",
       "category": "Places",
-      "detail": "Located in Northern West Bengal along the border with Bhutan, serving as an important corridor for Asian elephant and tiger migration."
+      "detail": "Located in Chilkur, Hyderabad (Telangana), this national park features dry deciduous tropical forest flora and recently revealed prehistoric rock formations."
     },
     {
-      "fact": "Mahatma Gandhi Marine National Park",
-      "category": "Places",
-      "detail": "Situated in Wandoor, South Andaman Islands, protecting coral reefs, mangroves, and sea turtle nesting sites."
+      "fact": "Blue Tiger (Tirumala limniace)",
+      "category": "Species",
+      "detail": "A milkweed butterfly species that undergoes large-scale annual seasonal migration across southern India driven by monsoon cycles."
     },
     {
-      "fact": "Bharat Stage VII (BS-VII)",
-      "category": "Terminology",
-      "detail": "Proposed vehicle emission standard that includes real-driving emissions (RDE) and regulates non-exhaust particulate emissions from brakes and tyres."
-    },
-    {
-      "fact": "CERT-In",
+      "fact": "eMudhra",
       "category": "Organizations",
-      "detail": "The Indian Computer Emergency Response Team, under the Ministry of Electronics and Information Technology (MeitY), acting as the national nodal agency for cybersecurity incidents."
+      "detail": "A licensed Certifying Authority (CA) in India authorized under the Information Technology Act to issue Digital Signature Certificates (DSC)."
     },
     {
-      "fact": "Lindsey O. Graham Act",
+      "fact": "Emissions Gap Report 2026",
+      "category": "Reports/Indices",
+      "detail": "Published annually by the United Nations Environment Programme (UNEP), assessing the gap between national climate pledges and emissions cuts needed to limit global warming."
+    },
+    {
+      "fact": "PM-KUSUM Scheme",
+      "category": "Schemes",
+      "detail": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan, under the Ministry of New and Renewable Energy, focused on solarizing agriculture pumps and feeder lines."
+    },
+    {
+      "fact": "Agrivoltaics",
       "category": "Terminology",
-      "detail": "US legislation enabling secondary sanctions and tariffs against countries purchasing energy products from sanctioned nations."
+      "detail": "The practice of co-locating agricultural crop production beneath elevated photovoltaic solar panels on the same land parcel."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the proposed Bharat Stage VII (BS-VII) vehicle emission standards in India, consider the following statements:\n1. They mandate testing for real-world driving emissions (RDE).\n2. For the first time, limits are proposed on non-exhaust emissions originating from vehicle brakes and tyres.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to 'Agrivoltaics', consider the following statements:\n1. It refers to the simultaneous generation of solar power and agricultural crop cultivation on the same land parcel.\n2. In India, a dedicated agrivoltaics component is planned to be incorporated under Phase II of PM-KUSUM.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -234,66 +244,76 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 2,
-      "explanation": "Both statements are correct. Draft BS-VII standards introduce real-world driving condition tests alongside limits on non-exhaust brake and tyre particulate emissions."
+      "explanation": "Both statements are correct. Agrivoltaics optimizes dual land usage, and the Ministry of New and Renewable Energy plans to introduce a dedicated agrivoltaics component in PM-KUSUM Phase II."
     },
     {
-      "question": "The Mahatma Gandhi Marine National Park, frequently mentioned in conservation studies, is located in:",
+      "question": "Which of the following international organizations brings out the annual 'Emissions Gap Report'?",
       "options": [
-        "Lakshadweep Islands",
-        "Andaman and Nicobar Islands",
-        "Gulf of Mannar",
-        "Rann of Kutch"
+        "World Meteorological Organization (WMO)",
+        "United Nations Environment Programme (UNEP)",
+        "Intergovernmental Panel on Climate Change (IPCC)",
+        "Global Environment Facility (GEF)"
       ],
       "correctIndex": 1,
-      "explanation": "Mahatma Gandhi Marine National Park is situated at Wandoor in the South Andaman administrative district."
+      "explanation": "The Emissions Gap Report is published annually by the United Nations Environment Programme (UNEP)."
     },
     {
-      "question": "With reference to cybersecurity governance in India, CERT-In functions under the administrative control of which Union Ministry?",
+      "question": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, who among the following appoints Special Executive Magistrates for specific local areas?",
       "options": [
-        "Ministry of Home Affairs",
-        "Ministry of Defence",
-        "Ministry of Electronics and Information Technology",
-        "Ministry of Science and Technology"
+        "High Court of the State",
+        "State Government",
+        "Governor of the State",
+        "District Judge"
       ],
-      "correctIndex": 2,
-      "explanation": "CERT-In is the national nodal agency for responding to computer security incidents operating under MeitY."
+      "correctIndex": 1,
+      "explanation": "State Governments hold the statutory power to appoint Special Executive Magistrates for designated areas or purposes to exercise executive magistrate functions."
+    },
+    {
+      "question": "The seasonal migration of 'Blue Tiger' butterflies in South India occurs primarily between which two geographical regions?",
+      "options": [
+        "Western Ghats to Thar Desert",
+        "Eastern Ghats/Plains towards the Western Ghats",
+        "Rann of Kutch to Sunderbans",
+        "Himalayan foothills to Central Highlands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Millions of Blue Tiger butterflies migrate from the Eastern Ghats and southern plains toward the Western Ghats prior to and during monsoon season transitions."
     }
   ],
   "schemes": [
     {
-      "name": "Gaganyaan Programme",
-      "ministry": "Department of Space / ISRO",
-      "beneficiaries": "Indian Scientific Community & National Aerospace Industry",
-      "objective": "Demonstrate human spaceflight capability to Low Earth Orbit (LEO) and safe return to Earth.",
+      "name": "PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
+      "ministry": "Ministry of New and Renewable Energy (MNRE)",
+      "beneficiaries": "Farmers, Cooperatives, Panchayats, Farmer Producer Organizations (FPOs)",
+      "objective": "To ensure energy security for farmers, enhance clean energy capacity, and provide solar-powered irrigation support.",
       "keyFeatures": [
-        "Development of indigenous Crew Module and Service Module",
-        "Human-rated LVM3 launch vehicle",
-        "Establishment of Crew Escape System (CES)"
+        "Component A: Setting up small solar power plants on barren or agricultural land.",
+        "Component B: Installation of standalone solar agriculture pumps.",
+        "Component C: Solarisation of existing grid-connected agriculture pumps and feeders."
       ],
-      "funding": "Centrally funded national space programme",
-      "upscRelevance": "Core syllabus item under GS III (Indigenization of technology & Space capabilities)."
+      "funding": "Centrally sponsored with joint contribution from Centre, State, and beneficiary farmer/bank loans.",
+      "upscRelevance": "GS III - Renewable energy integration, farmer income enhancement, and sustainable agriculture."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Constitutional Rights & Digital Governance",
+      "topic": "Renewable Energy & Land Efficiency",
       "points": [
-        "The Supreme Court reaffirmed that access to the internet constitutes a fundamental right, emphasizing that safety regulations such as mandatory 'child modes' must balance protection with user freedom."
+        "Utilizing just 10% of India's suitable agricultural land for agrivoltaics could potentially meet the country's projected national electricity demand for 2050 (Ministry of New and Renewable Energy)."
       ]
     },
     {
-      "topic": "Economic Growth Trends",
+      "topic": "Climate Change & Emissions Trajectory",
       "points": [
-        "World Bank elevated India's FY27 GDP growth forecast to 7.1%, underlining services and non-oil merchandise exports as primary growth vectors."
+        "According to UNEP's 2026 assessment, achieving the 1.5°C target by 2100 requires global emissions reductions of 18% by 2030, 45% by 2035, and 69% by 2040 relative to 2025 levels."
       ]
     }
   ],
   "whatToRemember": [
-    "Supreme Court reaffirmed internet access as a fundamental right while recommending 'child mode' provisions on social media.",
-    "CERT-In warned of covert enterprise network intrusions driven by autonomous AI agents.",
-    "Government drafted BS-VII emission standards introducing non-exhaust particle limits for tyres and brakes from April 2029.",
-    "ISRO successfully performed Gaganyaan crew and service module separation qualification tests.",
-    "World Bank revised India's FY27 GDP growth projection upward to 7.1%.",
-    "US issued national interest sanctions waiver on Russian crude purchases under the Graham Act."
+    "Digital security key leaks at certifying authorities like eMudhra demonstrate supply-chain vulnerabilities in core public digital services.",
+    "Shipping disruptions in the Strait of Hormuz directly spike global crude prices above $110, straining India's macro-economic balance.",
+    "WMO warns the current El Niño ocean temperature anomaly (+3.8°C) could reach unprecedented levels, impacting global weather.",
+    "UNEP highlights that global greenhouse gas emissions must drop by 45% by 2035 to restore global warming to 1.5°C by 2100.",
+    "Agrivoltaics is being integrated into PM-KUSUM Phase II to maximize dual land use for food and clean power."
   ]
 }
