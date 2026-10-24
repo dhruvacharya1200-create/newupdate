@@ -1,319 +1,309 @@
 {
-  "date": "2026-10-22",
-  "updatedAt": "2026-10-22T08:51:53.005Z",
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T08:20:58.240Z",
   "frontPage": [
     {
-      "headline": "Critical Cryptographic Key Leak at eMudhra Exposes Government Digital Infrastructure to Cybersecurity Risks",
+      "headline": "Periodic Labour Force Survey to be modified to cover gig workers and unpaid household labor",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/security-flaw-emudhra-shares-take-a-hit-fall-20/articleshow/135100962.cms"
+          "url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
         }
       ],
-      "date": "2026-10-22",
+      "date": "2026-10-24",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Cybersecurity",
-      "summary": "A security breach at certifying authority eMudhra resulted in the exposure of eight private digital signature keys used across critical public platforms, including UIDAI and the Income Tax portal. The flaw originated during an improper key-generation ceremony, raising concerns over potential Man-in-the-Middle (MitM) attacks.",
-      "whyItMatters": "Highlights vulnerabilities in public key infrastructure (PKI) and supply-chain digital security, directly touching upon the critical infrastructure protection aspect of internal security."
+      "topic": "Employment & Inclusive Growth",
+      "summary": "The Ministry of Statistics and Programme Implementation is preparing to update the Periodic Labour Force Survey (PLFS) framework to measure labour underutilisation, informal gig economy employment, and unpaid household work. The revised survey aims to capture structural shifts in India's labor market and provide better data for socio-economic policymaking.",
+      "whyItMatters": "Crucial for GS III Employment topics and GS II Welfare policies. Capturing gig work and unpaid care labor directly addresses data gaps in GDP estimation, female labor force participation rate (FLFPR), and social security planning."
     },
     {
-      "headline": "Escalation in Strait of Hormuz Triggers Crude Oil Spike Above $110 and Heightens India's Energy Security Concerns",
+      "headline": "RBI Bulletin highlights broad-based food inflation and domestic demand resilience amidst global volatility",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/iran-says-7-oil-tankers-catch-fire-or-damaged-overnight-in-strait-of-hormuz/article71610464.ece"
+          "url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/brent-crude-tops-110-as-fresh-attacks-in-saudi-raise-concerns-over-oil-supplies/articleshow/135103962.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/demand-at-home-supporting-growth-momentum-rbi/articleshow/135154655.cms"
         }
       ],
-      "date": "2026-10-22",
-      "gsPaper": "GS II & III",
+      "date": "2026-10-24",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Energy Security",
-      "summary": "Attacks on commercial oil tankers in the Strait of Hormuz caused Brent crude prices to climb past $110 per barrel, sparking supply disruption fears. Indian state refiners like IOC are preparing contingency adjustments to long-term Middle Eastern crude procurement contracts in response to elevated geopolitical risk.",
-      "whyItMatters": "The Strait of Hormuz is a vital maritime choke point for global oil transport; disruptions directly impact India's current account deficit, imported inflation, and overall energy security strategy."
+      "topic": "Monetary Policy & Inflation",
+      "summary": "The Reserve Bank of India’s latest bulletin highlights that consumer price index (CPI) inflation has edged up due to generalised food price increases, with rural areas experiencing higher price pressures than urban centers. However, strong domestic consumption demand continues to anchor India's overall economic growth momentum despite external trade headwinds.",
+      "whyItMatters": "Directly impacts GS III Inflation and Monetary Policy. Highlights the persistent threat of food price shocks on headline inflation and rural purchasing power."
     },
     {
-      "headline": "India and Poland Reaffirm Strategic Economic Ties Ahead of India-EU Free Trade Agreement",
+      "headline": "UN Loss and Damage Fund operationalised with $20 million climate relief payout to Nepal",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-meets-poland-pm-donald-tusk/article71610641.ece"
-        },
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece"
+        }
+      ],
+      "date": "2026-10-24",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation & Climate Change",
+      "summary": "The United Nations Loss and Damage Fund, established during COP27, has earmarked its first-ever country-specific payout of $20 million to Nepal to assist recovery from severe flood disasters. While historic, the payout covers only a tiny fraction of Nepal's estimated $5 billion loss, drawing attention to funding gaps in international climate financing.",
+      "whyItMatters": "Essential for GS III Climate Negotiations and International Environmental Governance. Demonstrates the operationalization phase of the UN Loss and Damage Fund and underscores equity challenges between developing and developed nations."
+    },
+    {
+      "headline": "Centre strictly prohibits the re-use and recycling of single-use medical disposables across hospitals",
+      "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/beacon-of-hope-polish-pm-donald-tusk-hails-ties-with-india-calls-pm-modi-a-friend/articleshow/135112511.cms"
+          "url": "https://timesofindia.indiatimes.com/india/centre-bans-reuse-of-single-use-medical-devices-across-hospitals-flags-recycling-of-disposables/articleshow/135154254.cms"
         }
       ],
-      "date": "2026-10-22",
+      "date": "2026-10-24",
       "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Bilateral Relations",
-      "summary": "Polish Prime Minister Donald Tusk conducted an official visit to India to enhance bilateral cooperation across trade, defence, and technology sectors. Both nations emphasized that the upcoming India-European Union Free Trade Agreement (FTA) will serve as a key catalyst for expanding Central European trade linkages.",
-      "whyItMatters": "Central Europe is becoming increasingly crucial for India's trade diversification efforts within the EU framework, providing access to manufacturing and technology corridors."
+      "importance": "High",
+      "topic": "Public Health & Governance",
+      "summary": "The Directorate General of Health Services (DGHS) under the Union Health Ministry has issued directions strictly prohibiting the re-use or recycling of single-use medical devices in all healthcare facilities. The directive addresses severe risks of cross-contamination, hospital-acquired infections, and illegal reprocessing of critical medical consumables.",
+      "whyItMatters": "Relevant for GS II Health Governance and GS III Bio-medical Waste Management. Highlights regulatory enforcement in patient safety and clinical standards."
     },
     {
-      "headline": "WMO Warns of Unprecedented El Niño Intensity, Threatening Global Weather Patterns",
+      "headline": "IMD study reveals 70-year climate shift with drier Northwest and wetter Southern India",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/wmo-warns-the-current-el-nino-could-be-unprecedented-in-strength/article71609858.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/northwest-india-turned-drier-south-wetter-over-70-years-finds-imd-study/articleshow/135154893.cms"
         }
       ],
-      "date": "2026-10-22",
+      "date": "2026-10-24",
       "gsPaper": "GS I & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Geomorphology & Climate Change",
-      "summary": "The World Meteorological Organization (WMO) cautioned that the ongoing El Niño event could record sea surface temperature anomalies up to 3.8°C above average in the tropical Pacific Ocean. Such intense warming threatens to alter global precipitation cycles, exacerbating droughts and extreme rainfall events worldwide.",
-      "whyItMatters": "El Niño dynamics directly affect the Indian Southwest Monsoon, agricultural productivity, food inflation, and disaster preparedness across South Asia."
+      "topic": "Indian Monsoon & Climate Change",
+      "summary": "A comprehensive 70-year precipitation analysis by the India Meteorological Department (IMD) shows that Northwest India has progressively turned drier with expanding semi-arid zones, whereas Southern Peninsular India has experienced increased rainfall. The long-term trend highlights changing atmospheric circulation patterns across the subcontinent.",
+      "whyItMatters": "Directly links GS I Physical Geography (Monsoon dynamics) and GS III Agriculture. Demands shifts in cropping patterns, irrigation planning, and regional climate adaptation strategies."
     },
     {
-      "headline": "UNEP Emissions Gap Report Calls for Immediate Decisive Cuts to Limit Global Warming to 1.5°C",
+      "headline": "Theoretical physicist Ashoke Sen awarded the prestigious Oskar Klein Medal for string theory contributions",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/drastic-emission-cuts-can-help-return-to-15c-warming-by-2100-unep/article71607543.ece"
+          "url": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece"
         }
       ],
-      "date": "2026-10-21",
+      "date": "2026-10-24",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation",
-      "summary": "A new UNEP report highlights that global greenhouse gas emissions must be reduced by 18% by 2030 and 45% by 2035 compared to 2025 levels to bring global warming back down to 1.5°C by 2100. The assessment warns that current national commitments remain insufficient to avoid severe climate tipping points.",
-      "whyItMatters": "Crucial input for climate negotiations at COP conferences and national climate targets under India's Nationally Determined Contributions (NDCs)."
-    },
-    {
-      "headline": "Government Plans Dedicated Agrivoltaics Component Under PM-KUSUM Phase II",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/agrivoltaics-on-10-of-suitable-land-can-meet-2050-power-demand-pralhad-joshi/article71608458.ece"
-        }
-      ],
-      "date": "2026-10-21",
-      "gsPaper": "GS III",
-      "relevance": "Both",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Renewable Energy & Agriculture",
-      "summary": "Union Minister for New and Renewable Energy announced that installing solar panels on just 10% of suitable agricultural land could generate enough clean electricity to meet India's projected 2050 power demand. The Ministry is structuring a dedicated agrivoltaic framework within Phase II of the PM-KUSUM scheme.",
-      "whyItMatters": "Agrivoltaics combines dual-use land technology, boosting farm income while accelerating clean energy transitions without compromising food security."
+      "topic": "Science & Technology",
+      "summary": "Renowned Indian theoretical physicist Ashoke Sen has become the first Indian scientist to be awarded the Oskar Klein Medal by Stockholm University. He was recognized for his groundbreaking work on S-duality, black hole entropy, and string field theory.",
+      "whyItMatters": "Important for Prelims scientific awards and recognition of Indian contributions to fundamental physics."
     }
   ],
   "gs1": [
     {
-      "headline": "Prehistoric Rock Formations Identified Within Mrugavani National Park",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/prehistoric-rock-formations-found-at-mrugavani-national-park/article71607874.ece"
-        }
-      ],
-      "date": "2026-10-22",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Ancient History & Archaeology",
-      "summary": "Archaeologists and naturalists discovered ancient rock formations bearing geological and prehistoric significance within Mrugavani National Park, Telangana. The site offers valuable insight into regional paleo-environmental history and early human habitat settings.",
-      "whyItMatters": "Understanding prehistoric rock structures enriches knowledge of early human settlements in the Deccan plateau."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Role and Statutory Powers of Special Executive Magistrates Under BNSS 2023 Highlighted",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/what-are-the-powers-and-functions-of-special-executive-magistrates-explained/article71610056.ece"
-        }
-      ],
-      "date": "2026-10-22",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Executive & Judiciary",
-      "summary": "Recent preventive detentions have brought attention to the statutory role of Special Executive Magistrates (SEMs) appointed under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023. State governments delegate executive magistracy powers to SEMs for maintaining public order, distinct from judicial magistracy functions.",
-      "whyItMatters": "Illustrates the doctrine of separation of powers and preventive law enforcement powers under India's updated criminal procedural laws."
-    },
-    {
-      "headline": "FSSAI Moves to Enforce Stricter Standards on Added Sugars and Product Claims",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/bitter-and-sweet-on-fssai-draft-restrictions-added-sugars-in-infant-foods/article71604624.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/fssai-notices-to-nestle-india-zydus-wellness-over-misleading-claims-in-products/article71608592.ece"
-        }
-      ],
-      "date": "2026-10-22",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Government Policies & Health",
-      "summary": "The Food Safety and Standards Authority of India (FSSAI) issued regulatory notices against major food manufacturers for unverified health claims and published draft guidelines restricting added sugars in infant food products. The regulatory action aims to address rising lifestyle diseases starting from early childhood nutrition.",
-      "whyItMatters": "Crucial for public health policy, regulatory compliance, consumer rights, and addressing non-communicable diseases (NCDs)."
-    }
-  ],
-  "gs3": [
-    {
-      "headline": "Annual Butterfly Migration Commences Towards the Western Ghats with Northeast Monsoon",
+      "headline": "Mass migration of Blue Tiger butterflies towards Western Ghats begins with North-East monsoon",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/sci-tech/energy-and-environment/butterfly-migration-blue-tigers-head-towards-western-ghats-with-the-onset-of-north-east-monsoon/article71606604.ece"
         }
       ],
-      "date": "2026-10-22",
-      "gsPaper": "GS III",
+      "date": "2026-10-24",
+      "gsPaper": "GS I",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Ecology & Biodiversity",
-      "summary": "Millions of Blue Tiger and Dark Blue Tiger butterflies have started their annual seasonal migration from the Eastern Ghats and plains toward the damp evergreen forests of the Western Ghats, triggered by the arrival of the Northeast Monsoon.",
-      "whyItMatters": "Insect migration patterns serve as vital bio-indicators for ecosystem health, monsoon dynamics, and habitat connectivity."
+      "topic": "Biogeography & Biodiversity",
+      "summary": "Millions of Blue Tiger and Dark Blue Tiger butterflies have started their annual migration from the Eastern Ghats and plains toward the Western Ghats following the onset of the North-East monsoon. This ecological event serves as a crucial indicator of seasonal weather transitions in Peninsular India.",
+      "whyItMatters": "Relevant for GS I Geography (monsoonal transitions) and GS III Biodiversity. Illustrates seasonal species movement across distinct ecological corridors in Southern India."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Parliamentary committee proposes reviewing MPLADS guidelines and funding allocation",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/enhancement-of-mps-development-fund-key-topic-selected-by-parliamentary-panel-for-study/article71619347.ece"
+        }
+      ],
+      "date": "2026-10-24",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Parliament & Local Governance",
+      "summary": "A Parliamentary Standing Committee has chosen to examine the operation of the Member of Parliament Local Area Development Scheme (MPLADS). The panel will review asset creation guidelines, fund utilization efficiency, and assess proposals for enhancing annual financial allocations to MPs.",
+      "whyItMatters": "Directly connected to GS II Parliament and Decentralisation. Raises questions regarding executive implementation by legislative representatives, separation of powers, and audit mechanisms."
     },
     {
-      "headline": "Reserve Bank of India Monetary Policy Committee Tightens Stance Amid Spreading Inflationary Pressures",
+      "headline": "Parliamentary panel recommends intercensal demographic surveys and revised census town criteria",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rate-hike-rbi-more-hawkish-than-external-members-at-meet/articleshow/135100963.cms"
+          "url": "https://timesofindia.indiatimes.com/india/parl-panel-bats-for-intercensal-surveys-gender-inclusive-census-town-norms/articleshow/135152492.cms"
         }
       ],
-      "date": "2026-10-22",
-      "gsPaper": "GS III",
-      "relevance": "Both",
+      "date": "2026-10-24",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Indian Economy & Monetary Policy",
-      "summary": "Minutes from the recent Monetary Policy Committee (MPC) meeting reveal a hawkish stance from internal RBI members, emphasizing that broad-based inflationary persistence warrants a shift toward calibrated tightening, ruling out rate reductions in the near term.",
-      "whyItMatters": "Understanding MPC dynamics, inflation targeting, and liquidity management is key for macroeconomics preparation."
+      "topic": "Governance & Demographics",
+      "summary": "A parliamentary committee has recommended conducting periodic intercensal sample surveys to bridge critical socio-economic data gaps between decennial censuses. It also urged revising definition norms for 'Census Towns' to make workforce gender criteria more inclusive.",
+      "whyItMatters": "Pertains to GS II Governance and policy formulation. Reliable demographic data is foundational for targeted welfare schemes and urban planning."
+    }
+  ],
+  "gs3": [
+    {
+      "headline": "Commerce Ministry initiates plans to identify AI-resilient employment sectors in India",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/commerce-ministry-identifying-ai-proof-professions-sectors-where-india-can-take-global-lead-goyal/article71619298.ece"
+        }
+      ],
+      "date": "2026-10-24",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Artificial Intelligence & Employment",
+      "summary": "The Ministry of Commerce and Industry is mapping Indian industries and professions that are resistant to automation from generative AI. The strategy aims to position India in high-value, AI-augmented services while safeguarding mass employment across traditional human-centric labor sectors.",
+      "whyItMatters": "Relevant to GS III Industrial Policy and Science & Technology. Addresses the economic disruptions caused by rapid AI adoption on IT services and service exports."
+    },
+    {
+      "headline": "Net Foreign Direct Investment into India turns positive for third consecutive month in September",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece"
+        }
+      ],
+      "date": "2026-10-24",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Indian Economy & Capital Flows",
+      "summary": "India registered a net Foreign Direct Investment (FDI) inflow of $3.3 billion in September 2026, staying positive for the third straight month. The recovery comes after period of capital repatriation and disinvestments that previously dragged down net capital accounts despite robust gross inflows.",
+      "whyItMatters": "Pertains to GS III External Sector dynamics and Balance of Payments."
+    },
+    {
+      "headline": "RBI Governor reiterates strict listing compliance for Upper-Layer Non-Banking Financial Companies",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-guv-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms"
+        }
+      ],
+      "date": "2026-10-24",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Banking & Financial Regulation",
+      "summary": "The Reserve Bank of India reiterated that Non-Banking Financial Companies classified under the 'Upper Layer' (NBFC-UL) scale-based regulatory framework must mandatorily list on public stock exchanges within three years of identification. The central bank emphasized that regulatory deadlines apply uniformly without special exemptions.",
+      "whyItMatters": "Crucial for GS III Financial Sector Regulation. Reflects RBI's tightening oversight over systemically important financial entities to mitigate shadow banking risks."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Mrugavani National Park",
-      "category": "Places",
-      "detail": "Located in Chilkur, Hyderabad (Telangana), this national park features dry deciduous tropical forest flora and recently revealed prehistoric rock formations."
-    },
-    {
-      "fact": "Blue Tiger (Tirumala limniace)",
-      "category": "Species",
-      "detail": "A milkweed butterfly species that undergoes large-scale annual seasonal migration across southern India driven by monsoon cycles."
-    },
-    {
-      "fact": "eMudhra",
+      "fact": "Oskar Klein Medal",
       "category": "Organizations",
-      "detail": "A licensed Certifying Authority (CA) in India authorized under the Information Technology Act to issue Digital Signature Certificates (DSC)."
+      "detail": "Awarded jointly by Stockholm University and the Royal Swedish Academy of Sciences for outstanding contributions to theoretical physics. Ashoke Sen is the first Indian recipient."
     },
     {
-      "fact": "Emissions Gap Report 2026",
-      "category": "Reports/Indices",
-      "detail": "Published annually by the United Nations Environment Programme (UNEP), assessing the gap between national climate pledges and emissions cuts needed to limit global warming."
+      "fact": "Blue Tiger Butterflies (Tirumala limniace)",
+      "category": "Species",
+      "detail": "Nymphalid butterflies that undergo annual seasonal migration across southern India between the Eastern and Western Ghats driven by monsoon winds."
     },
     {
-      "fact": "PM-KUSUM Scheme",
-      "category": "Schemes",
-      "detail": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan, under the Ministry of New and Renewable Energy, focused on solarizing agriculture pumps and feeder lines."
+      "fact": "UN Loss and Damage Fund",
+      "category": "Organizations",
+      "detail": "Established at COP27 in Sharm El-Sheikh to assist vulnerable developing nations in recovering from irreversible climate impacts. Administered temporarily by the World Bank."
     },
     {
-      "fact": "Agrivoltaics",
+      "fact": "Indo-Tibetan Border Police (ITBP)",
+      "category": "Organizations",
+      "detail": "One of India's Central Armed Police Forces (CAPF) raised in 1962, deployed primarily along the 3,488 km border with China along the Line of Actual Control (LAC)."
+    },
+    {
+      "fact": "Diamondiyne",
       "category": "Terminology",
-      "detail": "The practice of co-locating agricultural crop production beneath elevated photovoltaic solar panels on the same land parcel."
+      "detail": "A newly synthesized crystalline allotrope of carbon combining diamond-like sp3 hybridization with acetylenic sp bonds, offering unique mechanical and electronic properties."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to 'Agrivoltaics', consider the following statements:\n1. It refers to the simultaneous generation of solar power and agricultural crop cultivation on the same land parcel.\n2. In India, a dedicated agrivoltaics component is planned to be incorporated under Phase II of PM-KUSUM.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the UN Loss and Damage Fund, consider the following statements:\n1. It was formally established during the COP27 UN Climate Conference.\n2. The fund is designed specifically to support mitigation projects like solar power plants in high-income countries.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 2,
-      "explanation": "Both statements are correct. Agrivoltaics optimizes dual land usage, and the Ministry of New and Renewable Energy plans to introduce a dedicated agrivoltaics component in PM-KUSUM Phase II."
+      "correctIndex": 0,
+      "explanation": "Statement 1 is correct (established at COP27). Statement 2 is incorrect because the fund specifically provides financial assistance to vulnerable developing nations suffering from climate-induced loss and damage, rather than funding mitigation in high-income nations."
     },
     {
-      "question": "Which of the following international organizations brings out the annual 'Emissions Gap Report'?",
+      "question": "With reference to the Periodic Labour Force Survey (PLFS) in India, consider the following statements:\n1. It is conducted annually by the Reserve Bank of India.\n2. Proposed updates aim to track labour underutilisation, gig workers, and unpaid household work.\nWhich of the statements given above is/are correct?",
       "options": [
-        "World Meteorological Organization (WMO)",
-        "United Nations Environment Programme (UNEP)",
-        "Intergovernmental Panel on Climate Change (IPCC)",
-        "Global Environment Facility (GEF)"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
       "correctIndex": 1,
-      "explanation": "The Emissions Gap Report is published annually by the United Nations Environment Programme (UNEP)."
+      "explanation": "Statement 1 is incorrect as PLFS is conducted by the National Sample Survey Office (NSSO) under MoSPI, not the RBI. Statement 2 is correct as the government is updating the methodology to capture gig economy and unpaid care work."
     },
     {
-      "question": "Under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, who among the following appoints Special Executive Magistrates for specific local areas?",
+      "question": "The 'Upper Layer' (NBFC-UL) classification framework was introduced by the Reserve Bank of India to regulate:",
       "options": [
-        "High Court of the State",
-        "State Government",
-        "Governor of the State",
-        "District Judge"
+        "Small microfinance institutions with assets under ₹100 crore",
+        "Systemically important Non-Banking Financial Companies based on scale, activity, and risk perception",
+        "Only foreign institutional investors operating in IFSC Gift City",
+        "Regional Rural Banks operating across multiple state jurisdictions"
       ],
       "correctIndex": 1,
-      "explanation": "State Governments hold the statutory power to appoint Special Executive Magistrates for designated areas or purposes to exercise executive magistrate functions."
-    },
-    {
-      "question": "The seasonal migration of 'Blue Tiger' butterflies in South India occurs primarily between which two geographical regions?",
-      "options": [
-        "Western Ghats to Thar Desert",
-        "Eastern Ghats/Plains towards the Western Ghats",
-        "Rann of Kutch to Sunderbans",
-        "Himalayan foothills to Central Highlands"
-      ],
-      "correctIndex": 1,
-      "explanation": "Millions of Blue Tiger butterflies migrate from the Eastern Ghats and southern plains toward the Western Ghats prior to and during monsoon season transitions."
+      "explanation": "The RBI introduced a Scale-Based Regulation (SBR) framework for NBFCs with four layers (Base, Middle, Upper, Top). Upper Layer consists of systemically important NBFCs subjected to enhanced bank-like regulatory standards, including mandatory listing."
     }
   ],
   "schemes": [
     {
-      "name": "PM-KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
-      "ministry": "Ministry of New and Renewable Energy (MNRE)",
-      "beneficiaries": "Farmers, Cooperatives, Panchayats, Farmer Producer Organizations (FPOs)",
-      "objective": "To ensure energy security for farmers, enhance clean energy capacity, and provide solar-powered irrigation support.",
+      "name": "Members of Parliament Local Area Development Scheme (MPLADS)",
+      "ministry": "Ministry of Statistics and Programme Implementation",
+      "beneficiaries": "Local constituencies and communities nationwide",
+      "objective": "Enables MPs to recommend developmental works of a durable nature based on locally felt needs in their respective constituencies.",
       "keyFeatures": [
-        "Component A: Setting up small solar power plants on barren or agricultural land.",
-        "Component B: Installation of standalone solar agriculture pumps.",
-        "Component C: Solarisation of existing grid-connected agriculture pumps and feeders."
+        "Fully funded central sector scheme providing ₹5 crore annually per MP in two installments.",
+        "Focuses on creating durable community assets such as drinking water, education, public health, and roads.",
+        "Requires dedicated percentage allocation for areas inhabited by SC (15%) and ST (7.5%) populations."
       ],
-      "funding": "Centrally sponsored with joint contribution from Centre, State, and beneficiary farmer/bank loans.",
-      "upscRelevance": "GS III - Renewable energy integration, farmer income enhancement, and sustainable agriculture."
+      "funding": "100% Central Sector Scheme",
+      "upscRelevance": "GS II Scheme implementation, parliamentary oversight, and local asset creation."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Renewable Energy & Land Efficiency",
+      "topic": "Climate Change & Federal Adaptation",
       "points": [
-        "Utilizing just 10% of India's suitable agricultural land for agrivoltaics could potentially meet the country's projected national electricity demand for 2050 (Ministry of New and Renewable Energy)."
+        "70-year IMD trend analysis confirms Northwest India is drying while Southern Peninsular India receives increased precipitation, requiring regional agricultural shifts.",
+        "Nepal receiving $20 million from the UN Loss and Damage Fund highlights the operationalization of international climate equity mechanisms."
       ]
     },
     {
-      "topic": "Climate Change & Emissions Trajectory",
+      "topic": "Public Health Governance",
       "points": [
-        "According to UNEP's 2026 assessment, achieving the 1.5°C target by 2100 requires global emissions reductions of 18% by 2030, 45% by 2035, and 69% by 2040 relative to 2025 levels."
+        "Union Health Ministry (DGHS) mandatory ban on reusing single-use medical devices highlights institutional push against bio-medical contamination and hospital-acquired infections."
       ]
     }
   ],
   "whatToRemember": [
-    "Digital security key leaks at certifying authorities like eMudhra demonstrate supply-chain vulnerabilities in core public digital services.",
-    "Shipping disruptions in the Strait of Hormuz directly spike global crude prices above $110, straining India's macro-economic balance.",
-    "WMO warns the current El Niño ocean temperature anomaly (+3.8°C) could reach unprecedented levels, impacting global weather.",
-    "UNEP highlights that global greenhouse gas emissions must drop by 45% by 2035 to restore global warming to 1.5°C by 2100.",
-    "Agrivoltaics is being integrated into PM-KUSUM Phase II to maximize dual land use for food and clean power."
+    "MoSPI is modifying the Periodic Labour Force Survey (PLFS) to measure gig workers and unpaid household care work.",
+    "UN Loss and Damage Fund releases its first country payout of $20 million to flood-hit Nepal.",
+    "IMD 70-year study shows Northwest India turning drier while Southern India grows wetter.",
+    "Physicist Ashoke Sen becomes the first Indian recipient of the Oskar Klein Medal for string theory.",
+    "Union Health Ministry strictly bans the reuse and illegal recycling of single-use medical devices across hospitals.",
+    "RBI maintains mandatory public listing rule for Upper-Layer Non-Banking Financial Companies (NBFC-UL)."
   ]
 }
