@@ -1,241 +1,274 @@
 {
-  "date": "2026-10-24",
-  "updatedAt": "2026-10-24T08:20:58.240Z",
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T10:44:24.424Z",
   "frontPage": [
     {
-      "headline": "Periodic Labour Force Survey to be modified to cover gig workers and unpaid household labor",
+      "headline": "Severe Tropical Cyclone 'Murasu' Forms Over Bay of Bengal, Threatening Coastline",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
+          "url": "https://www.thehindu.com/news/national/cyclone-murasu-forms-over-bay-of-bengal-southern-odisha-on-high-alert/article71652505.ece"
         }
       ],
-      "date": "2026-10-24",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Employment & Inclusive Growth",
-      "summary": "The Ministry of Statistics and Programme Implementation is preparing to update the Periodic Labour Force Survey (PLFS) framework to measure labour underutilisation, informal gig economy employment, and unpaid household work. The revised survey aims to capture structural shifts in India's labor market and provide better data for socio-economic policymaking.",
-      "whyItMatters": "Crucial for GS III Employment topics and GS II Welfare policies. Capturing gig work and unpaid care labor directly addresses data gaps in GDP estimation, female labor force participation rate (FLFPR), and social security planning."
-    },
-    {
-      "headline": "RBI Bulletin highlights broad-based food inflation and domestic demand resilience amidst global volatility",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/data-suggests-broad-based-increase-in-food-prices-rbi-bulletin/article71616686.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/demand-at-home-supporting-growth-momentum-rbi/articleshow/135154655.cms"
-        }
-      ],
-      "date": "2026-10-24",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Monetary Policy & Inflation",
-      "summary": "The Reserve Bank of India’s latest bulletin highlights that consumer price index (CPI) inflation has edged up due to generalised food price increases, with rural areas experiencing higher price pressures than urban centers. However, strong domestic consumption demand continues to anchor India's overall economic growth momentum despite external trade headwinds.",
-      "whyItMatters": "Directly impacts GS III Inflation and Monetary Policy. Highlights the persistent threat of food price shocks on headline inflation and rural purchasing power."
-    },
-    {
-      "headline": "UN Loss and Damage Fund operationalised with $20 million climate relief payout to Nepal",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece"
-        }
-      ],
-      "date": "2026-10-24",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation & Climate Change",
-      "summary": "The United Nations Loss and Damage Fund, established during COP27, has earmarked its first-ever country-specific payout of $20 million to Nepal to assist recovery from severe flood disasters. While historic, the payout covers only a tiny fraction of Nepal's estimated $5 billion loss, drawing attention to funding gaps in international climate financing.",
-      "whyItMatters": "Essential for GS III Climate Negotiations and International Environmental Governance. Demonstrates the operationalization phase of the UN Loss and Damage Fund and underscores equity challenges between developing and developed nations."
-    },
-    {
-      "headline": "Centre strictly prohibits the re-use and recycling of single-use medical disposables across hospitals",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/centre-bans-reuse-of-single-use-medical-devices-across-hospitals-flags-recycling-of-disposables/articleshow/135154254.cms"
-        }
-      ],
-      "date": "2026-10-24",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Public Health & Governance",
-      "summary": "The Directorate General of Health Services (DGHS) under the Union Health Ministry has issued directions strictly prohibiting the re-use or recycling of single-use medical devices in all healthcare facilities. The directive addresses severe risks of cross-contamination, hospital-acquired infections, and illegal reprocessing of critical medical consumables.",
-      "whyItMatters": "Relevant for GS II Health Governance and GS III Bio-medical Waste Management. Highlights regulatory enforcement in patient safety and clinical standards."
-    },
-    {
-      "headline": "IMD study reveals 70-year climate shift with drier Northwest and wetter Southern India",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/northwest-india-turned-drier-south-wetter-over-70-years-finds-imd-study/articleshow/135154893.cms"
-        }
-      ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
       "gsPaper": "GS I & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Monsoon & Climate Change",
-      "summary": "A comprehensive 70-year precipitation analysis by the India Meteorological Department (IMD) shows that Northwest India has progressively turned drier with expanding semi-arid zones, whereas Southern Peninsular India has experienced increased rainfall. The long-term trend highlights changing atmospheric circulation patterns across the subcontinent.",
-      "whyItMatters": "Directly links GS I Physical Geography (Monsoon dynamics) and GS III Agriculture. Demands shifts in cropping patterns, irrigation planning, and regional climate adaptation strategies."
+      "topic": "Tropical Cyclones & Disaster Management",
+      "summary": "A new tropical storm named Cyclone 'Murasu' has intensified over the Bay of Bengal and is projected to make landfall along the eastern coast of India. State administrations in Odisha and Andhra Pradesh have issued high alerts and initiated early disaster response protocols.",
+      "whyItMatters": "Relevant for GS I (Physical Geography - Tropical Cyclones) and GS III (Disaster Management). It highlights India's operational preparedness under the National Disaster Management framework during the Northeast Monsoon season."
     },
     {
-      "headline": "Theoretical physicist Ashoke Sen awarded the prestigious Oskar Klein Medal for string theory contributions",
+      "headline": "Quad Ministerial Meet in Atlanta Focuses on Indo-Pacific Resilience, AI, and Critical Mineral Supply Chains",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/ashoke-sen-becomes-first-indian-physicist-to-receive-oskar-klein-medal/article71619342.ece"
+          "url": "https://www.thehindu.com/news/national/quad-delivering-results-for-people-in-indo-pacific-rubio/article71650303.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/quad-must-safeguard-freedom-of-choice-and-secure-supply-chains-says-jaishankar/articleshow/135416399.cms"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Bilateral & Regional Groupings",
+      "summary": "Foreign Ministers of the Quad alliance convened in Atlanta to discuss Indo-Pacific security, critical technology supply chains, and economic coercion. India highlighted the necessity of non-politicized energy flows, diversified supply chains, and safeguarding strategic freedom of choice.",
+      "whyItMatters": "Directly impacts GS II (Groupings involving India and affecting India's interests). Quad's expansion into technology governance, critical minerals, and economic security forms a major component of Indian foreign policy."
+    },
+    {
+      "headline": "Gross GST Revenue Surges 23% Year-on-Year to Exceed ₹2.31 Lakh Crore in October",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/gst-collections-rise-22-9-to-rs-2-31-lakh-crore-in-october/articleshow/135421008.cms"
+        }
+      ],
+      "date": "2026-11-01",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Economy & Fiscal Policy",
+      "summary": "India's gross Goods and Services Tax (GST) collections touched ₹2.31 lakh crore in October, marking a 22.9% year-on-year growth. Revenue from domestic transactions grew by 16%, while collections from import of goods jumped by over 42%.",
+      "whyItMatters": "Crucial for GS III (Indian Economy, Fiscal System, Tax Reforms). High GST collections signal strong domestic consumption, robust import activity, and improved formalization of the economy."
+    },
+    {
+      "headline": "ISRO Restores Standalone NavIC Capability with Successful Launch of NVS-03 Satellite",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+        }
+      ],
+      "date": "2026-11-01",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology",
+      "summary": "ISRO successfully placed the NVS-03 satellite into orbit via GSLV-F18, restoring the NavIC regional navigation constellation to an operational four-satellite standalone status. The satellite features an indigenous Rubidium atomic clock and multi-band navigation signals.",
+      "whyItMatters": "Essential for GS III (Indigenisation of Technology & Space). NavIC provides India with strategic autonomy in positioning and timing services, reducing dependence on foreign GNSS systems like GPS."
+    },
+    {
+      "headline": "Maharashtra Enacts Legislation Granting Independent Recognition to Women Farmers",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
+        }
+      ],
+      "date": "2026-11-01",
+      "gsPaper": "GS I & II",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Feminisation of Agriculture & Social Justice",
+      "summary": "Maharashtra has passed the Women Farmers' Empowerment Bill, legally recognising female agricultural workers as independent farmers regardless of land titling status. The law aims to bridge structural biases and ensure female access to agricultural credit, subsidies, and government schemes.",
+      "whyItMatters": "Highly relevant for GS I (Women Empowerment) and GS II (Social Justice/Welfare Schemes). Address the 'feminisation of agriculture' where women perform significant farm labor without institutional status or asset ownership."
+    },
+    {
+      "headline": "Government Adjusts Windfall Tax: Diesel Export Levy Raised, Petrol Levy Cut to Zero",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/centre-scraps-rs-2-5/litre-petrol-export-duty-hikes-diesel-levy-to-rs-11-5/articleshow/135397272.cms"
+        }
+      ],
+      "date": "2026-11-01",
       "gsPaper": "GS III",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Science & Technology",
-      "summary": "Renowned Indian theoretical physicist Ashoke Sen has become the first Indian scientist to be awarded the Oskar Klein Medal by Stockholm University. He was recognized for his groundbreaking work on S-duality, black hole entropy, and string field theory.",
-      "whyItMatters": "Important for Prelims scientific awards and recognition of Indian contributions to fundamental physics."
+      "topic": "Energy Sector & Fiscal Measures",
+      "summary": "The Union government revised fortnightly windfall taxes on petroleum products, raising export duties on diesel to ₹11.5 per litre and aviation turbine fuel to ₹11 per litre, while reducing the levy on petrol exports to zero following changes in international refining margins.",
+      "whyItMatters": "Pertains to GS III (Government Tax Policies and Fiscal Management). Demonstrates how flexible tax policy is used to manage domestic fuel security and capture abnormal refining margins."
     }
   ],
   "gs1": [
     {
-      "headline": "Mass migration of Blue Tiger butterflies towards Western Ghats begins with North-East monsoon",
+      "headline": "Maharashtra Law Recognises Women Farmers Independent of Land Titles",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/butterfly-migration-blue-tigers-head-towards-western-ghats-with-the-onset-of-north-east-monsoon/article71606604.ece"
+          "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
       "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Biogeography & Biodiversity",
-      "summary": "Millions of Blue Tiger and Dark Blue Tiger butterflies have started their annual migration from the Eastern Ghats and plains toward the Western Ghats following the onset of the North-East monsoon. This ecological event serves as a crucial indicator of seasonal weather transitions in Peninsular India.",
-      "whyItMatters": "Relevant for GS I Geography (monsoonal transitions) and GS III Biodiversity. Illustrates seasonal species movement across distinct ecological corridors in Southern India."
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Role of Women and Social Empowerment",
+      "summary": "Maharashtra’s new legislative framework decouples farmer status from land ownership records, legally acknowledging women's role in agriculture. The policy facilitates dedicated databases to track and extend institutional benefits directly to women workers.",
+      "whyItMatters": "Directly addresses structural inequalities in agrarian society and institutional invisibility of female labor."
     }
   ],
   "gs2": [
     {
-      "headline": "Parliamentary committee proposes reviewing MPLADS guidelines and funding allocation",
+      "headline": "Quad Foreign Ministers Mandate Action Plan for Supply Chain Resilience and AI Integration",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/enhancement-of-mps-development-fund-key-topic-selected-by-parliamentary-panel-for-study/article71619347.ece"
+          "url": "https://www.thehindu.com/news/national/quad-delivering-results-for-people-in-indo-pacific-rubio/article71650303.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/us/quad-must-safeguard-freedom-of-choice-and-secure-supply-chains-says-jaishankar/articleshow/135416399.cms"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
       "gsPaper": "GS II",
-      "relevance": "Mains",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Parliament & Local Governance",
-      "summary": "A Parliamentary Standing Committee has chosen to examine the operation of the Member of Parliament Local Area Development Scheme (MPLADS). The panel will review asset creation guidelines, fund utilization efficiency, and assess proposals for enhancing annual financial allocations to MPs.",
-      "whyItMatters": "Directly connected to GS II Parliament and Decentralisation. Raises questions regarding executive implementation by legislative representatives, separation of powers, and audit mechanisms."
+      "topic": "International Relations & Regional Groupings",
+      "summary": "At the Atlanta Quad meeting, member nations reaffirmed their commitment to maintaining a free and open Indo-Pacific, emphasizing secure supply chains for critical minerals and resisting economic coercion.",
+      "whyItMatters": "Key case study for India's multilateral engagements and Indo-Pacific strategy."
     },
     {
-      "headline": "Parliamentary panel recommends intercensal demographic surveys and revised census town criteria",
+      "headline": "Government Extends CGHS Healthcare Benefits to Dependent Divorced and Widowed Daughters",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/parl-panel-bats-for-intercensal-surveys-gender-inclusive-census-town-norms/articleshow/135152492.cms"
+          "url": "https://timesofindia.indiatimes.com/india/cghs-cover-for-dependent-widowed-divorced-daughters-after-parents-death/articleshow/135411758.cms"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
       "gsPaper": "GS II",
-      "relevance": "Mains",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Governance & Demographics",
-      "summary": "A parliamentary committee has recommended conducting periodic intercensal sample surveys to bridge critical socio-economic data gaps between decennial censuses. It also urged revising definition norms for 'Census Towns' to make workforce gender criteria more inclusive.",
-      "whyItMatters": "Pertains to GS II Governance and policy formulation. Reliable demographic data is foundational for targeted welfare schemes and urban planning."
+      "topic": "Governance & Welfare Measures",
+      "summary": "The Central Government Health Scheme (CGHS) guidelines have been updated to ensure that dependent widowed or divorced daughters remain eligible for medical coverage even after the demise of the primary beneficiary parent.",
+      "whyItMatters": "Highlights administrative mechanisms under central welfare schemes focused on social safety nets."
     }
   ],
   "gs3": [
     {
-      "headline": "Commerce Ministry initiates plans to identify AI-resilient employment sectors in India",
+      "headline": "India's GST Revenue Touches ₹2.31 Lakh Crore Driven by Strong Domestic and Import Growth",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/commerce-ministry-identifying-ai-proof-professions-sectors-where-india-can-take-global-lead-goyal/article71619298.ece"
+          "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
       "gsPaper": "GS III",
-      "relevance": "Mains",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Artificial Intelligence & Employment",
-      "summary": "The Ministry of Commerce and Industry is mapping Indian industries and professions that are resistant to automation from generative AI. The strategy aims to position India in high-value, AI-augmented services while safeguarding mass employment across traditional human-centric labor sectors.",
-      "whyItMatters": "Relevant to GS III Industrial Policy and Science & Technology. Addresses the economic disruptions caused by rapid AI adoption on IT services and service exports."
+      "topic": "Indian Economy & Mobilization of Resources",
+      "summary": "Monthly GST revenues recorded a robust 23% year-on-year increase, hitting ₹2.31 lakh crore. Strong domestic collections and a sharp rise in import duty revenues contributed to the expansion.",
+      "whyItMatters": "Serves as a primary indicator of economic activity and fiscal health."
     },
     {
-      "headline": "Net Foreign Direct Investment into India turns positive for third consecutive month in September",
+      "headline": "ISRO Operationalises NVS-03 Navigation Satellite with Indigenous Atomic Clock",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece"
+          "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Science & Technology - Space",
+      "summary": "The GSLV-F18 mission successfully launched NVS-03, part of India's NVS series designed to strengthen the NavIC constellation with L1 signals and advanced timing devices.",
+      "whyItMatters": "Crucial technological achievement enhancing national defense, civil aviation, and timing infrastructure."
+    },
+    {
+      "headline": "Experimental CRMA-1001 Gene Therapy Demonstrates Viral DNA Silencing for Hepatitis B",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
+        }
+      ],
+      "date": "2026-11-01",
       "gsPaper": "GS III",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Indian Economy & Capital Flows",
-      "summary": "India registered a net Foreign Direct Investment (FDI) inflow of $3.3 billion in September 2026, staying positive for the third straight month. The recovery comes after period of capital repatriation and disinvestments that previously dragged down net capital accounts despite robust gross inflows.",
-      "whyItMatters": "Pertains to GS III External Sector dynamics and Balance of Payments."
+      "topic": "Biotechnology & Health",
+      "summary": "Researchers have advanced CRMA-1001, a experimental gene therapy mechanism that mutes persistent viral DNA in Hepatitis B patients rather than just targeting circulating surface antigens, presenting potential for long-term clinical management.",
+      "whyItMatters": "Demonstrates breakthroughs in gene therapy techniques relevant for health and biotechnology topics."
     },
     {
-      "headline": "RBI Governor reiterates strict listing compliance for Upper-Layer Non-Banking Financial Companies",
+      "headline": "Indian Private Startup Advances Design for Tokamak Nuclear Fusion Reactor",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-guv-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
         }
       ],
-      "date": "2026-10-24",
+      "date": "2026-11-01",
       "gsPaper": "GS III",
-      "relevance": "Mains",
+      "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Banking & Financial Regulation",
-      "summary": "The Reserve Bank of India reiterated that Non-Banking Financial Companies classified under the 'Upper Layer' (NBFC-UL) scale-based regulatory framework must mandatorily list on public stock exchanges within three years of identification. The central bank emphasized that regulatory deadlines apply uniformly without special exemptions.",
-      "whyItMatters": "Crucial for GS III Financial Sector Regulation. Reflects RBI's tightening oversight over systemically important financial entities to mitigate shadow banking risks."
+      "topic": "Energy & Emerging Technologies",
+      "summary": "Bengaluru-based startup Pranos Fusion has initiated early engineering designs for India's first privately developed Tokamak nuclear fusion reactor, aiming for design finalisation by 2027.",
+      "whyItMatters": "Highlights private sector participation in deep-tech and advanced clean energy research."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Oskar Klein Medal",
-      "category": "Organizations",
-      "detail": "Awarded jointly by Stockholm University and the Royal Swedish Academy of Sciences for outstanding contributions to theoretical physics. Ashoke Sen is the first Indian recipient."
+      "fact": "Cyclone Murasu",
+      "category": "Places",
+      "detail": "A tropical cyclone formed over the Bay of Bengal during the 2026 Northeast monsoon season, heading towards the Andhra Pradesh and Odisha coastline."
     },
     {
-      "fact": "Blue Tiger Butterflies (Tirumala limniace)",
-      "category": "Species",
-      "detail": "Nymphalid butterflies that undergo annual seasonal migration across southern India between the Eastern and Western Ghats driven by monsoon winds."
-    },
-    {
-      "fact": "UN Loss and Damage Fund",
-      "category": "Organizations",
-      "detail": "Established at COP27 in Sharm El-Sheikh to assist vulnerable developing nations in recovering from irreversible climate impacts. Administered temporarily by the World Bank."
-    },
-    {
-      "fact": "Indo-Tibetan Border Police (ITBP)",
-      "category": "Organizations",
-      "detail": "One of India's Central Armed Police Forces (CAPF) raised in 1962, deployed primarily along the 3,488 km border with China along the Line of Actual Control (LAC)."
-    },
-    {
-      "fact": "Diamondiyne",
+      "fact": "NVS-03 Satellite",
       "category": "Terminology",
-      "detail": "A newly synthesized crystalline allotrope of carbon combining diamond-like sp3 hybridization with acetylenic sp bonds, offering unique mechanical and electronic properties."
+      "detail": "Next-Generation Navigation Satellite launched by ISRO using GSLV-F18, incorporating an indigenously developed Rubidium atomic clock and L1 band signals."
+    },
+    {
+      "fact": "CRMA-1001",
+      "category": "Terminology",
+      "detail": "An experimental gene therapy candidate that targets and silences viral DNA involved in chronic Hepatitis B infection."
+    },
+    {
+      "fact": "Attappady",
+      "category": "Places",
+      "detail": "An isolated tribal block in Palakkad district, Kerala, frequently in focus regarding tribal healthcare interventions and malnutrition challenges."
+    },
+    {
+      "fact": "Gerrothorax maritimus",
+      "category": "Species",
+      "detail": "A newly described 237-million-year-old fossil species discovered in China, providing evidence of an early armored amphibian adapted exclusively to marine environments."
+    },
+    {
+      "fact": "Calling Name Presentation (CNAP)",
+      "category": "Terminology",
+      "detail": "A telecom regulatory facility introduced in India that displays registered identity names of calling parties on handset screens."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the UN Loss and Damage Fund, consider the following statements:\n1. It was formally established during the COP27 UN Climate Conference.\n2. The fund is designed specifically to support mitigation projects like solar power plants in high-income countries.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the NavIC (Navigation with Indian Constellation) system, consider the following statements:\n1. The NVS-03 satellite incorporates an indigenously developed Rubidium atomic clock.\n2. NavIC satellites operate exclusively in Geostationary Earth Orbits (GEO).\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -243,10 +276,21 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 0,
-      "explanation": "Statement 1 is correct (established at COP27). Statement 2 is incorrect because the fund specifically provides financial assistance to vulnerable developing nations suffering from climate-induced loss and damage, rather than funding mitigation in high-income nations."
+      "explanation": "Statement 1 is correct: NVS-03 carries an indigenous Rubidium atomic clock. Statement 2 is incorrect: NavIC's constellation consists of satellites placed in both Geostationary (GEO) and Geosynchronous (GSO) orbits."
     },
     {
-      "question": "With reference to the Periodic Labour Force Survey (PLFS) in India, consider the following statements:\n1. It is conducted annually by the Reserve Bank of India.\n2. Proposed updates aim to track labour underutilisation, gig workers, and unpaid household work.\nWhich of the statements given above is/are correct?",
+      "question": "Which state recently passed the Women Farmers’ Empowerment Bill to legally grant independent recognition to women as farmers regardless of land ownership?",
+      "options": [
+        "Karnataka",
+        "Telangana",
+        "Maharashtra",
+        "Punjab"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maharashtra passed the landmark Women Farmers’ Empowerment Bill to grant independent recognition to female agricultural workers irrespective of land title holdings."
+    },
+    {
+      "question": "Consider the following statements regarding Goods and Services Tax (GST) collections in India:\n1. Domestic transactions account for the entire revenue generated under GST.\n2. Integrated GST (IGST) applies to cross-border import of goods and services.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -254,56 +298,54 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect as PLFS is conducted by the National Sample Survey Office (NSSO) under MoSPI, not the RBI. Statement 2 is correct as the government is updating the methodology to capture gig economy and unpaid care work."
+      "explanation": "Statement 1 is incorrect because GST revenue includes both domestic sales and revenues derived from imports. Statement 2 is correct because IGST is levied on interstate trade as well as imports."
     },
     {
-      "question": "The 'Upper Layer' (NBFC-UL) classification framework was introduced by the Reserve Bank of India to regulate:",
+      "question": "The term 'CRMA-1001', recently seen in the news, is associated with which of the following?",
       "options": [
-        "Small microfinance institutions with assets under ₹100 crore",
-        "Systemically important Non-Banking Financial Companies based on scale, activity, and risk perception",
-        "Only foreign institutional investors operating in IFSC Gift City",
-        "Regional Rural Banks operating across multiple state jurisdictions"
+        "Deep-space communication protocols",
+        "Gene therapy targeting Hepatitis B viral DNA",
+        "Quantum encryption algorithms",
+        "High-yield drought-tolerant crop varieties"
       ],
       "correctIndex": 1,
-      "explanation": "The RBI introduced a Scale-Based Regulation (SBR) framework for NBFCs with four layers (Base, Middle, Upper, Top). Upper Layer consists of systemically important NBFCs subjected to enhanced bank-like regulatory standards, including mandatory listing."
+      "explanation": "CRMA-1001 is an experimental gene therapy designed to mute viral DNA in chronic Hepatitis B infections."
     }
   ],
   "schemes": [
     {
-      "name": "Members of Parliament Local Area Development Scheme (MPLADS)",
-      "ministry": "Ministry of Statistics and Programme Implementation",
-      "beneficiaries": "Local constituencies and communities nationwide",
-      "objective": "Enables MPs to recommend developmental works of a durable nature based on locally felt needs in their respective constituencies.",
+      "name": "Central Government Health Scheme (CGHS)",
+      "ministry": "Ministry of Health and Family Welfare",
+      "beneficiaries": "Central Government employees, pensioners, and eligible dependents",
+      "objective": "To provide comprehensive medical care facilities to central government employees and pensioners.",
       "keyFeatures": [
-        "Fully funded central sector scheme providing ₹5 crore annually per MP in two installments.",
-        "Focuses on creating durable community assets such as drinking water, education, public health, and roads.",
-        "Requires dedicated percentage allocation for areas inhabited by SC (15%) and ST (7.5%) populations."
+        "Provides outpatient and inpatient treatment through empaneled hospitals and wellness centers.",
+        "Recently updated to extend lifetime healthcare coverage to dependent widowed and divorced daughters after parents' death."
       ],
-      "funding": "100% Central Sector Scheme",
-      "upscRelevance": "GS II Scheme implementation, parliamentary oversight, and local asset creation."
+      "funding": "Central Sector Scheme funded by Central Government contributions and user subscriptions.",
+      "upscRelevance": "Important for GS II (Social Security and Welfare Measures for vulnerable sections)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Climate Change & Federal Adaptation",
+      "topic": "Feminisation of Agriculture",
       "points": [
-        "70-year IMD trend analysis confirms Northwest India is drying while Southern Peninsular India receives increased precipitation, requiring regional agricultural shifts.",
-        "Nepal receiving $20 million from the UN Loss and Damage Fund highlights the operationalization of international climate equity mechanisms."
+        "Legislative Innovation: Maharashtra's Women Farmers' Empowerment Bill serves as a template for policy intervention by decoupling agrarian entitlement from land registry status.",
+        "Social Bias Data: Over 70% of rural women in India engage in agriculture, yet less than 15% hold operational land titles, restricting access to institutional credit."
       ]
     },
     {
-      "topic": "Public Health Governance",
+      "topic": "Indo-Pacific & Supply Chain Diplomacy",
       "points": [
-        "Union Health Ministry (DGHS) mandatory ban on reusing single-use medical devices highlights institutional push against bio-medical contamination and hospital-acquired infections."
+        "Quad Strategy: Recent Atlanta Ministerial Outcomes highlight shift from maritime security alone towards securing critical mineral supply chains, AI standards, and countering market distortion."
       ]
     }
   ],
   "whatToRemember": [
-    "MoSPI is modifying the Periodic Labour Force Survey (PLFS) to measure gig workers and unpaid household care work.",
-    "UN Loss and Damage Fund releases its first country payout of $20 million to flood-hit Nepal.",
-    "IMD 70-year study shows Northwest India turning drier while Southern India grows wetter.",
-    "Physicist Ashoke Sen becomes the first Indian recipient of the Oskar Klein Medal for string theory.",
-    "Union Health Ministry strictly bans the reuse and illegal recycling of single-use medical devices across hospitals.",
-    "RBI maintains mandatory public listing rule for Upper-Layer Non-Banking Financial Companies (NBFC-UL)."
+    "Gross GST collections touched ₹2.31 lakh crore in October 2026, marking a 23% year-on-year growth.",
+    "ISRO successfully launched the NVS-03 satellite aboard GSLV-F18 to restore NavIC standalone functionality.",
+    "Cyclone 'Murasu' formed over the Bay of Bengal, triggering alerts across Odisha and Andhra Pradesh.",
+    "Maharashtra passed the Women Farmers' Empowerment Bill, recognizing female agricultural workers independently of land titles.",
+    "Quad foreign ministers in Atlanta prioritized secure critical mineral supply chains and joint technology standards."
   ]
 }
