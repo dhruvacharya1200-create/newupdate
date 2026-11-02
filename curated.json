@@ -1,45 +1,9 @@
 {
-  "date": "2026-11-01",
-  "updatedAt": "2026-11-01T10:44:24.424Z",
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T11:35:42.917Z",
   "frontPage": [
     {
-      "headline": "Severe Tropical Cyclone 'Murasu' Forms Over Bay of Bengal, Threatening Coastline",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cyclone-murasu-forms-over-bay-of-bengal-southern-odisha-on-high-alert/article71652505.ece"
-        }
-      ],
-      "date": "2026-11-01",
-      "gsPaper": "GS I & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Tropical Cyclones & Disaster Management",
-      "summary": "A new tropical storm named Cyclone 'Murasu' has intensified over the Bay of Bengal and is projected to make landfall along the eastern coast of India. State administrations in Odisha and Andhra Pradesh have issued high alerts and initiated early disaster response protocols.",
-      "whyItMatters": "Relevant for GS I (Physical Geography - Tropical Cyclones) and GS III (Disaster Management). It highlights India's operational preparedness under the National Disaster Management framework during the Northeast Monsoon season."
-    },
-    {
-      "headline": "Quad Ministerial Meet in Atlanta Focuses on Indo-Pacific Resilience, AI, and Critical Mineral Supply Chains",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/quad-delivering-results-for-people-in-indo-pacific-rubio/article71650303.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/us/quad-must-safeguard-freedom-of-choice-and-secure-supply-chains-says-jaishankar/articleshow/135416399.cms"
-        }
-      ],
-      "date": "2026-11-01",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Bilateral & Regional Groupings",
-      "summary": "Foreign Ministers of the Quad alliance convened in Atlanta to discuss Indo-Pacific security, critical technology supply chains, and economic coercion. India highlighted the necessity of non-politicized energy flows, diversified supply chains, and safeguarding strategic freedom of choice.",
-      "whyItMatters": "Directly impacts GS II (Groupings involving India and affecting India's interests). Quad's expansion into technology governance, critical minerals, and economic security forms a major component of Indian foreign policy."
-    },
-    {
-      "headline": "Gross GST Revenue Surges 23% Year-on-Year to Exceed ₹2.31 Lakh Crore in October",
+      "headline": "October GST Collections Surge 23% to Reach ₹2.31 Lakh Crore Driven by Festive Demand",
       "sources": [
         {
           "name": "The Hindu",
@@ -47,228 +11,250 @@
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/gst-collections-rise-22-9-to-rs-2-31-lakh-crore-in-october/articleshow/135421008.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/gst-mop-up-rises-record-23-in-octoer-hits-rs-2-3-lakh-crore/articleshow/135436802.cms"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
       "topic": "Indian Economy & Fiscal Policy",
-      "summary": "India's gross Goods and Services Tax (GST) collections touched ₹2.31 lakh crore in October, marking a 22.9% year-on-year growth. Revenue from domestic transactions grew by 16%, while collections from import of goods jumped by over 42%.",
-      "whyItMatters": "Crucial for GS III (Indian Economy, Fiscal System, Tax Reforms). High GST collections signal strong domestic consumption, robust import activity, and improved formalization of the economy."
+      "summary": "India's Gross Goods and Services Tax (GST) revenue jumped 23% year-on-year in October 2026 to ₹2.31 lakh crore, marking the second-highest monthly mop-up recorded. Growth was propelled by strong domestic sales ahead of the festive season and a 42% spike in revenues from imported goods.",
+      "whyItMatters": "Demonstrates buoyancy in consumption and import trends, aiding fiscal consolidation targets while serving as a primary quantitative indicator for Indian macroeconomic health."
     },
     {
-      "headline": "ISRO Restores Standalone NavIC Capability with Successful Launch of NVS-03 Satellite",
+      "headline": "Severe Cyclone Murasu Threatens South Andhra Pradesh and Adjoining Coastal Belts",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+          "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Tropical Cyclones & Disaster Management",
+      "summary": "Cyclone 'Murasu' intensified into a Severe Cyclonic Storm over the Bay of Bengal, prompting red alerts and major disaster preparedness measures across coastal Andhra Pradesh and Telangana. The system comes within days of Cyclone Arnab hitting the eastern coast.",
+      "whyItMatters": "Provides a practical context for tropical cyclonogenesis in the Bay of Bengal during the post-monsoon season and evaluates state level disaster preparedness under NDMA framework."
+    },
+    {
+      "headline": "ISRO's Successful GSLV-F18 Mission Enhances Navigation Infrastructure via NavIC",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece"
+        }
+      ],
+      "date": "2026-11-02",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Space Technology",
-      "summary": "ISRO successfully placed the NVS-03 satellite into orbit via GSLV-F18, restoring the NavIC regional navigation constellation to an operational four-satellite standalone status. The satellite features an indigenous Rubidium atomic clock and multi-band navigation signals.",
-      "whyItMatters": "Essential for GS III (Indigenisation of Technology & Space). NavIC provides India with strategic autonomy in positioning and timing services, reducing dependence on foreign GNSS systems like GPS."
+      "topic": "Space Technology & Satellite Systems",
+      "summary": "The successful deployment of a satellite via the GSLV-F18 launch vehicle marks a crucial step in operationalising and augmenting India's indigenous navigation satellite system, NavIC. The mission underscores the necessity of continuous cryogenic engine reliability for heavy satellite payloads.",
+      "whyItMatters": "Crucial for strategic self-reliance in satellite positioning, defense, and civil navigation applications under GS-3 Space Technology."
     },
     {
-      "headline": "Maharashtra Enacts Legislation Granting Independent Recognition to Women Farmers",
+      "headline": "Maharashtra Enacts Legislation Recognizing Women as Independent Farmers",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS I & II",
       "relevance": "Mains",
       "importance": "High",
       "topic": "Feminisation of Agriculture & Social Justice",
-      "summary": "Maharashtra has passed the Women Farmers' Empowerment Bill, legally recognising female agricultural workers as independent farmers regardless of land titling status. The law aims to bridge structural biases and ensure female access to agricultural credit, subsidies, and government schemes.",
-      "whyItMatters": "Highly relevant for GS I (Women Empowerment) and GS II (Social Justice/Welfare Schemes). Address the 'feminisation of agriculture' where women perform significant farm labor without institutional status or asset ownership."
+      "summary": "Maharashtra passed the Women Farmers' Empowerment Bill, granting women formal status as farmers regardless of whether land title rights exist in their name. This step addresses institutional invisibility and establishes a framework for targeted delivery of agricultural credit and state subsidies.",
+      "whyItMatters": "Directly links to agrarian reforms, gender empowerment, and solving institutional bottlenecks in micro-credit and scheme benefits for female agricultural workers."
     },
     {
-      "headline": "Government Adjusts Windfall Tax: Diesel Export Levy Raised, Petrol Levy Cut to Zero",
+      "headline": "Breaching 1.5°C Global Warming Threshold Risks Irreversible Cryosphere Damage",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
-        },
-        {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/centre-scraps-rs-2-5/litre-petrol-export-duty-hikes-diesel-levy-to-rs-11-5/articleshow/135397272.cms"
+          "url": "https://timesofindia.indiatimes.com/home/environment/global-warming/1-5c-warming-breach-could-cause-irreversible-damage-to-glaciers-ice-sheets-report/articleshow/135448351.cms"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Energy Sector & Fiscal Measures",
-      "summary": "The Union government revised fortnightly windfall taxes on petroleum products, raising export duties on diesel to ₹11.5 per litre and aviation turbine fuel to ₹11 per litre, while reducing the levy on petrol exports to zero following changes in international refining margins.",
-      "whyItMatters": "Pertains to GS III (Government Tax Policies and Fiscal Management). Demonstrates how flexible tax policy is used to manage domestic fuel security and capture abnormal refining margins."
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Degradation & Climate Change",
+      "summary": "A scientific assessment by the International Cryosphere Climate Initiative (ICCI) warns that temporary overshoot beyond 1.5°C global temperatures will trigger permanent loss of polar ice sheets and mountain glaciers. The report highlights irreversible sea-level rise and alteration of global ocean circulation.",
+      "whyItMatters": "Key reference for climate change impact analysis, international climate negotiations, and cryosphere dynamics under environmental geography."
     }
   ],
   "gs1": [
     {
-      "headline": "Maharashtra Law Recognises Women Farmers Independent of Land Titles",
+      "headline": "Understanding El Niño Dynamics and Its Asymmetric Impact on Indian Monsoon",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
+          "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS I",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Role of Women and Social Empowerment",
-      "summary": "Maharashtra’s new legislative framework decouples farmer status from land ownership records, legally acknowledging women's role in agriculture. The policy facilitates dedicated databases to track and extend institutional benefits directly to women workers.",
-      "whyItMatters": "Directly addresses structural inequalities in agrarian society and institutional invisibility of female labor."
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Important Geophysical Phenomena (Monsoon Dynamics)",
+      "summary": "Historical analysis reveals that while five out of seven strong El Niño events since 1950 caused deficient monsoons in India, exceptional years like 1997 recorded normal rainfall. Local air-sea interactions and Indian Ocean Dipole (IOD) phases significantly modulate the overarching warming impact of Pacific waters.",
+      "whyItMatters": "Helps conceptualise physical climate drivers, teleconnections between ENSO and Indian Summer Monsoon Rainfall (ISMR), and weather forecasting limits."
     }
   ],
   "gs2": [
     {
-      "headline": "Quad Foreign Ministers Mandate Action Plan for Supply Chain Resilience and AI Integration",
+      "headline": "Increasing Online Content Blocking Under IT Act Rules Prompts Transparency Concerns",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/quad-delivering-results-for-people-in-indo-pacific-rubio/article71650303.ece"
+          "url": "https://www.thehindu.com/news/national/why-are-social-media-posts-being-blocked-in-india-amid-protests-explained/article71643710.ece"
+        }
+      ],
+      "date": "2026-11-02",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Fundamental Rights & Government Policies on Digital Media",
+      "summary": "Shorter compliance deadlines under IT Intermediary Guidelines and Section 69A orders from MeitY have led to frequent geo-blocking of social media posts during public protests. Legal experts argue that lack of transparent disclosure undermines procedural safeguards established in the Shreya Singhal judgment.",
+      "whyItMatters": "Relevant for questions on freedom of speech (Article 19), digital regulation, executive discretion, and judicial compliance under constitutional law."
+    },
+    {
+      "headline": "Supreme Court Directs Fast-Tracking Rules Under Bharatiya Vayuyan Adhiniyam to Regulate Airfares",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/dont-travel-by-air-says-supreme-court-refuses-urgent-listing-of-plea-alleging-700-hike-in-airfares/article71656239.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/us/quad-must-safeguard-freedom-of-choice-and-secure-supply-chains-says-jaishankar/articleshow/135416399.cms"
+          "url": "https://timesofindia.indiatimes.com/india/dont-travel-by-air-next-case-sc-judge-on-plea-alleging-700-airfare-hike/articleshow/135451797.cms"
         }
       ],
-      "date": "2026-11-01",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Relations & Regional Groupings",
-      "summary": "At the Atlanta Quad meeting, member nations reaffirmed their commitment to maintaining a free and open Indo-Pacific, emphasizing secure supply chains for critical minerals and resisting economic coercion.",
-      "whyItMatters": "Key case study for India's multilateral engagements and Indo-Pacific strategy."
-    },
-    {
-      "headline": "Government Extends CGHS Healthcare Benefits to Dependent Divorced and Widowed Daughters",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cghs-cover-for-dependent-widowed-divorced-daughters-after-parents-death/articleshow/135411758.cms"
-        }
-      ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS II",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Governance & Welfare Measures",
-      "summary": "The Central Government Health Scheme (CGHS) guidelines have been updated to ensure that dependent widowed or divorced daughters remain eligible for medical coverage even after the demise of the primary beneficiary parent.",
-      "whyItMatters": "Highlights administrative mechanisms under central welfare schemes focused on social safety nets."
+      "topic": "Regulatory Frameworks & Executive Legislation",
+      "summary": "The Supreme Court addressed concern over dynamic airfare surges, noting the Union Government's ongoing formulation of operational guidelines under the newly enacted Bharatiya Vayuyan Adhiniyam to protect passenger interest and maintain fare stability.",
+      "whyItMatters": "Highlights modern regulatory reform replacing outdated colonial aviation laws and civil aviation framework oversight."
     }
   ],
   "gs3": [
     {
-      "headline": "India's GST Revenue Touches ₹2.31 Lakh Crore Driven by Strong Domestic and Import Growth",
+      "headline": "India's Manufacturing PMI Eases to 54.7 in October Amid Moderate Output Growth",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
-        }
-      ],
-      "date": "2026-11-01",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & Mobilization of Resources",
-      "summary": "Monthly GST revenues recorded a robust 23% year-on-year increase, hitting ₹2.31 lakh crore. Strong domestic collections and a sharp rise in import duty revenues contributed to the expansion.",
-      "whyItMatters": "Serves as a primary indicator of economic activity and fiscal health."
-    },
-    {
-      "headline": "ISRO Operationalises NVS-03 Navigation Satellite with Indigenous Atomic Clock",
-      "sources": [
+          "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece"
+        },
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-manufacturing-pmi-eases-to-54-7-in-october-as-export-orders-hit-six-month-high/articleshow/135451608.cms"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Science & Technology - Space",
-      "summary": "The GSLV-F18 mission successfully launched NVS-03, part of India's NVS series designed to strengthen the NavIC constellation with L1 signals and advanced timing devices.",
-      "whyItMatters": "Crucial technological achievement enhancing national defense, civil aviation, and timing infrastructure."
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Industrial Growth & Macroeconomic Indicators",
+      "summary": "The HSBC India Manufacturing Purchasing Managers' Index (PMI) registered 54.7 in October, down slightly from previous months due to softer output growth, even as new export orders surged to a six-month high. Input cost pressures softened across key manufacturing hubs.",
+      "whyItMatters": "PMI is a vital high-frequency indicator used to track economic expansion, manufacturing health, and private sector output trends."
     },
     {
-      "headline": "Experimental CRMA-1001 Gene Therapy Demonstrates Viral DNA Silencing for Hepatitis B",
+      "headline": "Experimental Gene Therapy Mutes Viral DNA to Fight Chronic Hepatitis B",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Biotechnology & Health",
-      "summary": "Researchers have advanced CRMA-1001, a experimental gene therapy mechanism that mutes persistent viral DNA in Hepatitis B patients rather than just targeting circulating surface antigens, presenting potential for long-term clinical management.",
-      "whyItMatters": "Demonstrates breakthroughs in gene therapy techniques relevant for health and biotechnology topics."
+      "topic": "Biotechnology & Health Innovations",
+      "summary": "An innovative gene therapy platform (CRMA-1001) successfully silenced viral DNA instead of attacking the virus directly, offering a mechanism to suppress Hepatitis B permanently. Standard antiviral medications currently fail to eliminate covalently closed circular DNA (cccDNA), leading to viral rebound.",
+      "whyItMatters": "Demonstrates breakthroughs in gene-editing applications for communicable viral diseases and non-communicable complications like liver cirrhosis."
     },
     {
-      "headline": "Indian Private Startup Advances Design for Tokamak Nuclear Fusion Reactor",
+      "headline": "State Wildlife Boards Reconstituted Under Wildlife Protection Act Guidelines",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-reconstitutes-state-board-for-wildlife/article71656342.ece"
         }
       ],
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "gsPaper": "GS III",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Energy & Emerging Technologies",
-      "summary": "Bengaluru-based startup Pranos Fusion has initiated early engineering designs for India's first privately developed Tokamak nuclear fusion reactor, aiming for design finalisation by 2027.",
-      "whyItMatters": "Highlights private sector participation in deep-tech and advanced clean energy research."
+      "topic": "Environmental Governance & Conservation Bodies",
+      "summary": "State Governments have reconstituted their respective State Boards for Wildlife (SBWL) following the expiration of non-official members' terms. Chaired by the Chief Minister, the SBWL is a statutory body empowered under Section 6 of the Wildlife (Protection) Act, 1972.",
+      "whyItMatters": "Essential for Prelims governance questions regarding statutory bodies, environmental clearances, and wildlife conservation frameworks."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Cyclone Murasu",
+      "fact": "State Board for Wildlife (SBWL)",
+      "category": "Organizations",
+      "detail": "Statutory body constituted under Section 6 of the Wildlife (Protection) Act, 1972. It is chaired by the Chief Minister of the state, with the Forest Minister as Vice-Chairperson."
+    },
+    {
+      "fact": "NavIC (Navigation with Indian Constellation)",
+      "category": "Terminology",
+      "detail": "India's independent regional navigation satellite system providing accurate real-time positioning and timing services over India and a region extending 1,500 km around it."
+    },
+    {
+      "fact": "Gaia Space Mission",
+      "category": "Organizations",
+      "detail": "An astronomical observatory space mission launched by the European Space Agency (ESA) designed to create a precise 3D map of the Milky Way galaxy."
+    },
+    {
+      "fact": "Starquakes",
+      "category": "Terminology",
+      "detail": "Massive tsunami-like movements or non-radial oscillations on the surface of stars that alter their internal shape, recently detected in large numbers by ESA's Gaia telescope."
+    },
+    {
+      "fact": "Antikythera Mechanism",
       "category": "Places",
-      "detail": "A tropical cyclone formed over the Bay of Bengal during the 2026 Northeast monsoon season, heading towards the Andhra Pradesh and Odisha coastline."
+      "detail": "An ancient Greek hand-powered mechanical device discovered off Antikythera island, recognized as the earliest known analogue computer used to predict astronomical positions and eclipses."
     },
     {
-      "fact": "NVS-03 Satellite",
+      "fact": "Purchasing Managers' Index (PMI)",
       "category": "Terminology",
-      "detail": "Next-Generation Navigation Satellite launched by ISRO using GSLV-F18, incorporating an indigenously developed Rubidium atomic clock and L1 band signals."
-    },
-    {
-      "fact": "CRMA-1001",
-      "category": "Terminology",
-      "detail": "An experimental gene therapy candidate that targets and silences viral DNA involved in chronic Hepatitis B infection."
-    },
-    {
-      "fact": "Attappady",
-      "category": "Places",
-      "detail": "An isolated tribal block in Palakkad district, Kerala, frequently in focus regarding tribal healthcare interventions and malnutrition challenges."
-    },
-    {
-      "fact": "Gerrothorax maritimus",
-      "category": "Species",
-      "detail": "A newly described 237-million-year-old fossil species discovered in China, providing evidence of an early armored amphibian adapted exclusively to marine environments."
-    },
-    {
-      "fact": "Calling Name Presentation (CNAP)",
-      "category": "Terminology",
-      "detail": "A telecom regulatory facility introduced in India that displays registered identity names of calling parties on handset screens."
+      "detail": "An economic indicator derived from monthly surveys of private sector companies. A index reading above 50 indicates expansion in business activity, while below 50 indicates contraction."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the NavIC (Navigation with Indian Constellation) system, consider the following statements:\n1. The NVS-03 satellite incorporates an indigenously developed Rubidium atomic clock.\n2. NavIC satellites operate exclusively in Geostationary Earth Orbits (GEO).\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the State Board for Wildlife (SBWL) in India, consider the following statements:\n1. It is a statutory body constituted under the Environment (Protection) Act, 1986.\n2. The Chief Minister of the respective state acts as the ex-officio Chairperson of the board.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Statement 1 is incorrect because the SBWL is constituted under Section 6 of the Wildlife (Protection) Act, 1972. Statement 2 is correct as the Chief Minister serves as its ex-officio Chairperson."
+    },
+    {
+      "question": "Which of the following best describes the phenomenon of 'Starquakes' observed recently by space telescopes?",
+      "options": [
+        "Gravitational waves emitted during neutron star collisions",
+        "Non-radial acoustic oscillations on stellar surfaces that alter star shapes",
+        "Solar flares directed specifically towards earth orbit",
+        "Thermal contractions observed during black hole formation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Starquakes are tiny movements or non-radial oscillations on the surface of a star that change its overall shape, similar to seismic waves on Earth."
+    },
+    {
+      "question": "Regarding the Indian regional navigation satellite system 'NavIC', consider the following statements:\n1. It provides coverage to India and an area extending up to 1,500 km from its boundaries.\n2. It relies exclusively on low earth orbit (LEO) satellites for signals.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -276,76 +262,67 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 0,
-      "explanation": "Statement 1 is correct: NVS-03 carries an indigenous Rubidium atomic clock. Statement 2 is incorrect: NavIC's constellation consists of satellites placed in both Geostationary (GEO) and Geosynchronous (GSO) orbits."
+      "explanation": "Statement 1 is correct. Statement 2 is incorrect because NavIC utilizes a constellation of Geostationary (GEO) and Geosynchronous (GSO) satellites, not LEO satellites."
     },
     {
-      "question": "Which state recently passed the Women Farmers’ Empowerment Bill to legally grant independent recognition to women as farmers regardless of land ownership?",
+      "question": "The 'One Health' initiative, frequently seen in news, focuses primarily on which of the following?",
       "options": [
-        "Karnataka",
-        "Telangana",
-        "Maharashtra",
-        "Punjab"
+        "Providing universal free health insurance to urban poor",
+        "An integrated approach balancing the health of people, animals, and ecosystems",
+        "Single-window regulatory clearances for pharmaceutical exports",
+        "Standardising medical education curricula across South Asian countries"
+      ],
+      "correctIndex": 1,
+      "explanation": "One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals, and ecosystems."
+    },
+    {
+      "question": "Which among the following indices indicates economic expansion in manufacturing when its value rises above 50?",
+      "options": [
+        "Consumer Price Index (CPI)",
+        "Index of Industrial Production (IIP)",
+        "Purchasing Managers' Index (PMI)",
+        "Wholesale Price Index (WPI)"
       ],
       "correctIndex": 2,
-      "explanation": "Maharashtra passed the landmark Women Farmers’ Empowerment Bill to grant independent recognition to female agricultural workers irrespective of land title holdings."
-    },
-    {
-      "question": "Consider the following statements regarding Goods and Services Tax (GST) collections in India:\n1. Domestic transactions account for the entire revenue generated under GST.\n2. Integrated GST (IGST) applies to cross-border import of goods and services.\nWhich of the statements given above is/are correct?",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect because GST revenue includes both domestic sales and revenues derived from imports. Statement 2 is correct because IGST is levied on interstate trade as well as imports."
-    },
-    {
-      "question": "The term 'CRMA-1001', recently seen in the news, is associated with which of the following?",
-      "options": [
-        "Deep-space communication protocols",
-        "Gene therapy targeting Hepatitis B viral DNA",
-        "Quantum encryption algorithms",
-        "High-yield drought-tolerant crop varieties"
-      ],
-      "correctIndex": 1,
-      "explanation": "CRMA-1001 is an experimental gene therapy designed to mute viral DNA in chronic Hepatitis B infections."
+      "explanation": "A Purchasing Managers' Index (PMI) value above 50 represents expansion when compared to the previous month."
     }
   ],
   "schemes": [
     {
-      "name": "Central Government Health Scheme (CGHS)",
-      "ministry": "Ministry of Health and Family Welfare",
-      "beneficiaries": "Central Government employees, pensioners, and eligible dependents",
-      "objective": "To provide comprehensive medical care facilities to central government employees and pensioners.",
+      "name": "One Health Framework",
+      "ministry": "Ministry of Health and Family Welfare (in collaboration with MoEFCC and Ministry of Fisheries, Animal Husbandry and Dairying)",
+      "beneficiaries": "General Public, Livestock Farmers, and Public Health Ecosystem",
+      "objective": "To prevent, detect, and respond to zoonotic disease outbreaks by integrating human, animal, and environmental health surveillance.",
       "keyFeatures": [
-        "Provides outpatient and inpatient treatment through empaneled hospitals and wellness centers.",
-        "Recently updated to extend lifetime healthcare coverage to dependent widowed and divorced daughters after parents' death."
+        "Cross-sectoral intelligence sharing between veterinary and medical professionals.",
+        "Joint field investigations of zoonotic outbreaks and anti-microbial resistance (AMR) tracking."
       ],
-      "funding": "Central Sector Scheme funded by Central Government contributions and user subscriptions.",
-      "upscRelevance": "Important for GS II (Social Security and Welfare Measures for vulnerable sections)."
+      "funding": "Not specified in source coverage",
+      "upscRelevance": "High relevance for GS-2 Public Health governance and GS-3 Environment/Biosecurity."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Feminisation of Agriculture",
+      "topic": "Fiscal Federalism and Indirect Taxation",
       "points": [
-        "Legislative Innovation: Maharashtra's Women Farmers' Empowerment Bill serves as a template for policy intervention by decoupling agrarian entitlement from land registry status.",
-        "Social Bias Data: Over 70% of rural women in India engage in agriculture, yet less than 15% hold operational land titles, restricting access to institutional credit."
+        "Gross GST mop-up achieved ₹2.31 lakh crore in October 2026, driven by a 16% rise in domestic transactions and a 42% rise in import revenues.",
+        "Demonstrates the growing stabilization and revenue productivity of indirect tax reforms in India."
       ]
     },
     {
-      "topic": "Indo-Pacific & Supply Chain Diplomacy",
+      "topic": "Agrarian Reforms and Gender Inclusion",
       "points": [
-        "Quad Strategy: Recent Atlanta Ministerial Outcomes highlight shift from maritime security alone towards securing critical mineral supply chains, AI standards, and countering market distortion."
+        "Maharashtra's Women Farmers' Empowerment Bill explicitly separates legal recognition of a 'farmer' from land title ownership.",
+        "Crucial case study to quote when addressing structural biases against female agricultural labour and lack of credit access."
       ]
     }
   ],
   "whatToRemember": [
-    "Gross GST collections touched ₹2.31 lakh crore in October 2026, marking a 23% year-on-year growth.",
-    "ISRO successfully launched the NVS-03 satellite aboard GSLV-F18 to restore NavIC standalone functionality.",
-    "Cyclone 'Murasu' formed over the Bay of Bengal, triggering alerts across Odisha and Andhra Pradesh.",
-    "Maharashtra passed the Women Farmers' Empowerment Bill, recognizing female agricultural workers independently of land titles.",
-    "Quad foreign ministers in Atlanta prioritized secure critical mineral supply chains and joint technology standards."
+    "October 2026 GST collections jumped 23% to reach ₹2.31 lakh crore, the second-highest tally ever.",
+    "Severe Cyclone Murasu approached the Andhra Pradesh-Telangana coast, prompting high-level disaster alerts.",
+    "Maharashtra legally recognized women as independent farmers irrespective of land ownership.",
+    "ICCI report warns that temporarily exceeding 1.5°C warming will cause non-reversible cryosphere collapse.",
+    "India's Manufacturing PMI stood at 54.7 in October, showing sustained expansion alongside strong export demand.",
+    "ISRO restored and expanded NavIC regional navigation positioning capabilities with successful GSLV-F18 operations."
   ]
 }
