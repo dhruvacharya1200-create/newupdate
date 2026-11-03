@@ -1,238 +1,200 @@
 {
-  "date": "2026-11-02",
-  "updatedAt": "2026-11-02T11:35:42.917Z",
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T11:14:15.211Z",
   "frontPage": [
     {
-      "headline": "October GST Collections Surge 23% to Reach ₹2.31 Lakh Crore Driven by Festive Demand",
+      "headline": "India and Israel Oppose UN General Assembly Draft Resolution on Regional Arms Control",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+          "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/gst-mop-up-rises-record-23-in-octoer-hits-rs-2-3-lakh-crore/articleshow/135436802.cms"
+          "url": "https://timesofindia.indiatimes.com/india/india-israel-vote-against-pakistan-backed-un-arms-control-resolution-what-it-means/articleshow/135487897.cms"
         }
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations & Multilateral Forums",
+      "summary": "India and Israel stood as the sole dissenters in the 193-member UN General Assembly voting against a Pakistan-backed draft resolution on regional conventional arms control. India consistently rejects attempts to force regional balance frameworks that restrict its defense capabilities while ignoring cross-border threat dynamics.",
+      "whyItMatters": "Demonstrates India's strategic stance at multilateral platforms regarding security imperatives, defense sovereignty, and resistance to artificial security parity in South Asia."
+    },
+    {
+      "headline": "India Reaffirms Exclusion of Dairy Sector and Genetically Modified Imports from Trade Agreements",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Industry/india-has-never-allowed-import-of-genetically-modified-products-will-never-open-dairy-sector-piyush-goyal/article71660272.ece"
+        }
+      ],
+      "date": "2026-11-03",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy & Fiscal Policy",
-      "summary": "India's Gross Goods and Services Tax (GST) revenue jumped 23% year-on-year in October 2026 to ₹2.31 lakh crore, marking the second-highest monthly mop-up recorded. Growth was propelled by strong domestic sales ahead of the festive season and a 42% spike in revenues from imported goods.",
-      "whyItMatters": "Demonstrates buoyancy in consumption and import trends, aiding fiscal consolidation targets while serving as a primary quantitative indicator for Indian macroeconomic health."
+      "topic": "Agricultural Trade & Economic Policy",
+      "summary": "The Union Commerce Ministry reiterated that India will maintain its stance against opening its domestic dairy sector or permitting genetically modified (GM) food product imports under free trade agreements. The stance aims to shield smallholder farmers, preserve rural livelihoods, and maintain biosafety protocols.",
+      "whyItMatters": "Highlights core principles driving India's Free Trade Agreement (FTA) negotiations, emphasizing domestic agricultural protectionism and food sovereignty."
     },
     {
-      "headline": "Severe Cyclone Murasu Threatens South Andhra Pradesh and Adjoining Coastal Belts",
+      "headline": "Severe Cyclonic Storm Murasu Makes Landfall along Andhra Coast, Weakens into Cyclonic Storm",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
+          "url": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece"
         }
       ],
-      "date": "2026-11-02",
-      "gsPaper": "GS I & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Tropical Cyclones & Disaster Management",
-      "summary": "Cyclone 'Murasu' intensified into a Severe Cyclonic Storm over the Bay of Bengal, prompting red alerts and major disaster preparedness measures across coastal Andhra Pradesh and Telangana. The system comes within days of Cyclone Arnab hitting the eastern coast.",
-      "whyItMatters": "Provides a practical context for tropical cyclonogenesis in the Bay of Bengal during the post-monsoon season and evaluates state level disaster preparedness under NDMA framework."
-    },
-    {
-      "headline": "ISRO's Successful GSLV-F18 Mission Enhances Navigation Infrastructure via NavIC",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece"
-        }
-      ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Space Technology & Satellite Systems",
-      "summary": "The successful deployment of a satellite via the GSLV-F18 launch vehicle marks a crucial step in operationalising and augmenting India's indigenous navigation satellite system, NavIC. The mission underscores the necessity of continuous cryogenic engine reliability for heavy satellite payloads.",
-      "whyItMatters": "Crucial for strategic self-reliance in satellite positioning, defense, and civil navigation applications under GS-3 Space Technology."
+      "topic": "Disaster Management & Physical Geography",
+      "summary": "Severe Cyclonic Storm Murasu crossed the South Andhra Pradesh coast near Ongole, causing heavy precipitation across coastal districts before gradually weakening into a cyclonic storm. Early warning systems and evacuation protocols mitigated potential loss of life.",
+      "whyItMatters": "Provides a practical case study for tropical cyclone dynamics in the Bay of Bengal, early warning implementation, and coastal disaster mitigation strategies."
     },
     {
-      "headline": "Maharashtra Enacts Legislation Recognizing Women as Independent Farmers",
+      "headline": "Supreme Court Balances Right to Protest with Right to Livelihood and Free Movement",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
-        }
-      ],
-      "date": "2026-11-02",
-      "gsPaper": "GS I & II",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Feminisation of Agriculture & Social Justice",
-      "summary": "Maharashtra passed the Women Farmers' Empowerment Bill, granting women formal status as farmers regardless of whether land title rights exist in their name. This step addresses institutional invisibility and establishes a framework for targeted delivery of agricultural credit and state subsidies.",
-      "whyItMatters": "Directly links to agrarian reforms, gender empowerment, and solving institutional bottlenecks in micro-credit and scheme benefits for female agricultural workers."
-    },
-    {
-      "headline": "Breaching 1.5°C Global Warming Threshold Risks Irreversible Cryosphere Damage",
-      "sources": [
+          "url": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece"
+        },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/home/environment/global-warming/1-5c-warming-breach-could-cause-irreversible-damage-to-glaciers-ice-sheets-report/articleshow/135448351.cms"
+          "url": "https://timesofindia.indiatimes.com/india/cant-occupy-a-site-for-all-times-sc-on-delhi-protests-against-cec-gyanesh-kumar/articleshow/135487784.cms"
         }
       ],
-      "date": "2026-11-02",
-      "gsPaper": "GS III",
-      "relevance": "Both",
+      "date": "2026-11-03",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
       "importance": "High",
-      "topic": "Environmental Degradation & Climate Change",
-      "summary": "A scientific assessment by the International Cryosphere Climate Initiative (ICCI) warns that temporary overshoot beyond 1.5°C global temperatures will trigger permanent loss of polar ice sheets and mountain glaciers. The report highlights irreversible sea-level rise and alteration of global ocean circulation.",
-      "whyItMatters": "Key reference for climate change impact analysis, international climate negotiations, and cryosphere dynamics under environmental geography."
-    }
-  ],
-  "gs1": [
+      "topic": "Fundamental Rights & Constitutional Law",
+      "summary": "The Supreme Court reiterated that public spaces and thoroughfares cannot be indefinitely occupied for demonstrations. While acknowledging the freedom of speech and expression, the apex court observed that prolonged blockades adversely impact the fundamental right to livelihood of street vendors, traders, and the general commuting public.",
+      "whyItMatters": "Crucial for understanding the doctrine of reasonable restrictions under Article 19 and balancing competing fundamental rights under the Indian Constitution."
+    },
     {
-      "headline": "Understanding El Niño Dynamics and Its Asymmetric Impact on Indian Monsoon",
+      "headline": "RBI Reopens Licensing Framework for Urban Cooperative Banks After Two Decades",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+          "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
         }
       ],
-      "date": "2026-11-02",
-      "gsPaper": "GS I",
+      "date": "2026-11-03",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Banking Sector Reforms & Cooperative Governance",
+      "summary": "The Reserve Bank of India has reopened licensing for Urban Cooperative Banks (UCBs) after a 22-year hiatus. The revised framework introduces stringent audit regulations, governance standards, and capital adequacy norms to ensure financial stability among multi-state cooperative societies.",
+      "whyItMatters": "Directly relevant to financial inclusion, dual regulation challenges in the cooperative sector, and structural governance reforms in primary cooperative institutions."
+    },
+    {
+      "headline": "Delhi Air Pollution Plunges to 'Very Poor' Category, Prompting Implementation of GRAP Stage II",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece"
+        }
+      ],
+      "date": "2026-11-03",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Important Geophysical Phenomena (Monsoon Dynamics)",
-      "summary": "Historical analysis reveals that while five out of seven strong El Niño events since 1950 caused deficient monsoons in India, exceptional years like 1997 recorded normal rainfall. Local air-sea interactions and Indian Ocean Dipole (IOD) phases significantly modulate the overarching warming impact of Pacific waters.",
-      "whyItMatters": "Helps conceptualise physical climate drivers, teleconnections between ENSO and Indian Summer Monsoon Rainfall (ISMR), and weather forecasting limits."
+      "topic": "Environmental Pollution & Governance",
+      "summary": "With the Air Quality Index (AQI) breaching the 300 mark into the 'Very Poor' category, the Commission for Air Quality Management (CAQM) invoked Stage II of the Graded Response Action Plan (GRAP) across the National Capital Region. Measures include enhanced parking fees, increased public transport frequency, and targeted dust suppression.",
+      "whyItMatters": "Illustrates urban environmental management, regulatory intervention frameworks, and policy challenges surrounding air pollution control."
     }
   ],
+  "gs1": [],
   "gs2": [
     {
-      "headline": "Increasing Online Content Blocking Under IT Act Rules Prompts Transparency Concerns",
+      "headline": "Supreme Court Rules Public Sites Cannot Be Occupied Indefinitely for Protests",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/why-are-social-media-posts-being-blocked-in-india-amid-protests-explained/article71643710.ece"
-        }
-      ],
-      "date": "2026-11-02",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Fundamental Rights & Government Policies on Digital Media",
-      "summary": "Shorter compliance deadlines under IT Intermediary Guidelines and Section 69A orders from MeitY have led to frequent geo-blocking of social media posts during public protests. Legal experts argue that lack of transparent disclosure undermines procedural safeguards established in the Shreya Singhal judgment.",
-      "whyItMatters": "Relevant for questions on freedom of speech (Article 19), digital regulation, executive discretion, and judicial compliance under constitutional law."
-    },
-    {
-      "headline": "Supreme Court Directs Fast-Tracking Rules Under Bharatiya Vayuyan Adhiniyam to Regulate Airfares",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/dont-travel-by-air-says-supreme-court-refuses-urgent-listing-of-plea-alleging-700-hike-in-airfares/article71656239.ece"
+          "url": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/dont-travel-by-air-next-case-sc-judge-on-plea-alleging-700-airfare-hike/articleshow/135451797.cms"
+          "url": "https://timesofindia.indiatimes.com/india/cant-occupy-a-site-for-all-times-sc-on-delhi-protests-against-cec-gyanesh-kumar/articleshow/135487784.cms"
         }
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "gsPaper": "GS II",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Regulatory Frameworks & Executive Legislation",
-      "summary": "The Supreme Court addressed concern over dynamic airfare surges, noting the Union Government's ongoing formulation of operational guidelines under the newly enacted Bharatiya Vayuyan Adhiniyam to protect passenger interest and maintain fare stability.",
-      "whyItMatters": "Highlights modern regulatory reform replacing outdated colonial aviation laws and civil aviation framework oversight."
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Fundamental Rights",
+      "summary": "Hearing petitions regarding public blockades in Delhi, the Supreme Court stated that rights under Article 19(1)(a) and 19(1)(b) must be balanced against the right to free movement under Article 19(1)(d) and livelihood under Article 21. Indefinite blockage of public arterial roads causes economic distress to local commercial communities.",
+      "whyItMatters": "Key reference for questions on judicial interpretation of freedom of assembly versus public order and civil rights of non-protesting citizens."
     }
   ],
   "gs3": [
     {
-      "headline": "India's Manufacturing PMI Eases to 54.7 in October Amid Moderate Output Growth",
+      "headline": "RBI Introduces Modernized Governance and Audit Protocols for Urban Cooperative Banks",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-manufacturing-pmi-eases-to-54-7-in-october-as-export-orders-hit-six-month-high/articleshow/135451608.cms"
+          "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
         }
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Industrial Growth & Macroeconomic Indicators",
-      "summary": "The HSBC India Manufacturing Purchasing Managers' Index (PMI) registered 54.7 in October, down slightly from previous months due to softer output growth, even as new export orders surged to a six-month high. Input cost pressures softened across key manufacturing hubs.",
-      "whyItMatters": "PMI is a vital high-frequency indicator used to track economic expansion, manufacturing health, and private sector output trends."
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Economy & Banking System",
+      "summary": "Following amendments to the Banking Regulation Act, the RBI has ended its long-standing moratorium on issuing fresh licenses for UCBs. The updated norms mandate enhanced oversight by the ICAI, dual-auditing protocols, and strict capital metrics to mitigate systemic risks.",
+      "whyItMatters": "Cooperative banking reform is a recurring topic in UPSC Economy papers, specifically concerning financial system robustness and regulatory oversight."
     },
     {
-      "headline": "Experimental Gene Therapy Mutes Viral DNA to Fight Chronic Hepatitis B",
+      "headline": "World One Health Day Emphasizes Integrated Epidemiological Governance Across Human and Animal Domains",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
+          "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece"
         }
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Biotechnology & Health Innovations",
-      "summary": "An innovative gene therapy platform (CRMA-1001) successfully silenced viral DNA instead of attacking the virus directly, offering a mechanism to suppress Hepatitis B permanently. Standard antiviral medications currently fail to eliminate covalently closed circular DNA (cccDNA), leading to viral rebound.",
-      "whyItMatters": "Demonstrates breakthroughs in gene-editing applications for communicable viral diseases and non-communicable complications like liver cirrhosis."
-    },
-    {
-      "headline": "State Wildlife Boards Reconstituted Under Wildlife Protection Act Guidelines",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-reconstitutes-state-board-for-wildlife/article71656342.ece"
-        }
-      ],
-      "date": "2026-11-02",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Environmental Governance & Conservation Bodies",
-      "summary": "State Governments have reconstituted their respective State Boards for Wildlife (SBWL) following the expiration of non-official members' terms. Chaired by the Chief Minister, the SBWL is a statutory body empowered under Section 6 of the Wildlife (Protection) Act, 1972.",
-      "whyItMatters": "Essential for Prelims governance questions regarding statutory bodies, environmental clearances, and wildlife conservation frameworks."
+      "topic": "Public Health & Science & Technology",
+      "summary": "Observances on World One Health Day highlighted the need for unified governance structures uniting veterinary, human health, and ecological research to prevent zoonotic spillover events. Modern genomic surveillance is essential to track antimicrobial resistance and emerging pathogens across inter-species interfaces.",
+      "whyItMatters": "Directly aligns with syllabus topics on health security, biotechnology, and institutional mechanisms to handle pandemics and biological hazards."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "State Board for Wildlife (SBWL)",
-      "category": "Organizations",
-      "detail": "Statutory body constituted under Section 6 of the Wildlife (Protection) Act, 1972. It is chaired by the Chief Minister of the state, with the Forest Minister as Vice-Chairperson."
-    },
-    {
-      "fact": "NavIC (Navigation with Indian Constellation)",
-      "category": "Terminology",
-      "detail": "India's independent regional navigation satellite system providing accurate real-time positioning and timing services over India and a region extending 1,500 km around it."
-    },
-    {
-      "fact": "Gaia Space Mission",
-      "category": "Organizations",
-      "detail": "An astronomical observatory space mission launched by the European Space Agency (ESA) designed to create a precise 3D map of the Milky Way galaxy."
-    },
-    {
-      "fact": "Starquakes",
-      "category": "Terminology",
-      "detail": "Massive tsunami-like movements or non-radial oscillations on the surface of stars that alter their internal shape, recently detected in large numbers by ESA's Gaia telescope."
-    },
-    {
-      "fact": "Antikythera Mechanism",
+      "fact": "Cyclone Murasu",
       "category": "Places",
-      "detail": "An ancient Greek hand-powered mechanical device discovered off Antikythera island, recognized as the earliest known analogue computer used to predict astronomical positions and eclipses."
+      "detail": "A severe cyclonic storm in the Bay of Bengal that made landfall near Ongole along the south coastal region of Andhra Pradesh."
     },
     {
-      "fact": "Purchasing Managers' Index (PMI)",
+      "fact": "Graded Response Action Plan (GRAP) Stage II",
       "category": "Terminology",
-      "detail": "An economic indicator derived from monthly surveys of private sector companies. A index reading above 50 indicates expansion in business activity, while below 50 indicates contraction."
+      "detail": "Invoked in the Delhi-NCR region when AQI enters the 'Very Poor' (301-400) band, focusing on targeted measures such as enhanced parking fees and augmented public transport."
+    },
+    {
+      "fact": "Jadarite",
+      "category": "Terminology",
+      "detail": "A lithium- and boron-bearing monoclinic silicate mineral discovered in Serbia whose chemical formula closely resembles the fictional substance Kryptonite."
+    },
+    {
+      "fact": "Dracula Orchids",
+      "category": "Species",
+      "detail": "A genus of rare epiphytic orchids native to Central and South America, recently awarded National Plant Collection status at Chester Zoo due to habitat loss threats."
+    },
+    {
+      "fact": "Qeshm Island",
+      "category": "Places",
+      "detail": "An Iranian island situated in the strategic Strait of Hormuz, known for its geopolitical and maritime sensitivity."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the State Board for Wildlife (SBWL) in India, consider the following statements:\n1. It is a statutory body constituted under the Environment (Protection) Act, 1986.\n2. The Chief Minister of the respective state acts as the ex-officio Chairperson of the board.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Graded Response Action Plan (GRAP) for the National Capital Region, consider the following statements:\n1. Stage II of GRAP is triggered when the Air Quality Index (AQI) enters the 'Severe' category.\n2. Raising parking fees to discourage private vehicle usage is a specific action under Stage II of GRAP.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -240,89 +202,41 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect because the SBWL is constituted under Section 6 of the Wildlife (Protection) Act, 1972. Statement 2 is correct as the Chief Minister serves as its ex-officio Chairperson."
+      "explanation": "Statement 1 is incorrect: Stage II is invoked when AQI enters the 'Very Poor' category (301-400), whereas Stage III corresponds to 'Severe'. Statement 2 is correct: enhancing parking fees to deter private transport is an explicit measure under Stage II."
     },
     {
-      "question": "Which of the following best describes the phenomenon of 'Starquakes' observed recently by space telescopes?",
-      "options": [
-        "Gravitational waves emitted during neutron star collisions",
-        "Non-radial acoustic oscillations on stellar surfaces that alter star shapes",
-        "Solar flares directed specifically towards earth orbit",
-        "Thermal contractions observed during black hole formation"
-      ],
-      "correctIndex": 1,
-      "explanation": "Starquakes are tiny movements or non-radial oscillations on the surface of a star that change its overall shape, similar to seismic waves on Earth."
-    },
-    {
-      "question": "Regarding the Indian regional navigation satellite system 'NavIC', consider the following statements:\n1. It provides coverage to India and an area extending up to 1,500 km from its boundaries.\n2. It relies exclusively on low earth orbit (LEO) satellites for signals.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the regulation of Urban Cooperative Banks (UCBs) in India, consider the following statements:\n1. Urban Cooperative Banks are regulated in terms of banking functions solely by the Ministry of Cooperation.\n2. The Reserve Bank of India derives regulatory power over banking aspects of UCBs through amendments to the Banking Regulation Act.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct. Statement 2 is incorrect because NavIC utilizes a constellation of Geostationary (GEO) and Geosynchronous (GSO) satellites, not LEO satellites."
-    },
-    {
-      "question": "The 'One Health' initiative, frequently seen in news, focuses primarily on which of the following?",
-      "options": [
-        "Providing universal free health insurance to urban poor",
-        "An integrated approach balancing the health of people, animals, and ecosystems",
-        "Single-window regulatory clearances for pharmaceutical exports",
-        "Standardising medical education curricula across South Asian countries"
-      ],
       "correctIndex": 1,
-      "explanation": "One Health is an integrated, unifying approach that aims to sustainably balance and optimize the health of people, animals, and ecosystems."
-    },
-    {
-      "question": "Which among the following indices indicates economic expansion in manufacturing when its value rises above 50?",
-      "options": [
-        "Consumer Price Index (CPI)",
-        "Index of Industrial Production (IIP)",
-        "Purchasing Managers' Index (PMI)",
-        "Wholesale Price Index (WPI)"
-      ],
-      "correctIndex": 2,
-      "explanation": "A Purchasing Managers' Index (PMI) value above 50 represents expansion when compared to the previous month."
+      "explanation": "Statement 1 is incorrect: Banking functions of UCBs are regulated by the RBI, while administrative/incorporation matters are handled by the Registrar of Cooperative Societies or Central Registrar. Statement 2 is correct."
     }
   ],
-  "schemes": [
-    {
-      "name": "One Health Framework",
-      "ministry": "Ministry of Health and Family Welfare (in collaboration with MoEFCC and Ministry of Fisheries, Animal Husbandry and Dairying)",
-      "beneficiaries": "General Public, Livestock Farmers, and Public Health Ecosystem",
-      "objective": "To prevent, detect, and respond to zoonotic disease outbreaks by integrating human, animal, and environmental health surveillance.",
-      "keyFeatures": [
-        "Cross-sectoral intelligence sharing between veterinary and medical professionals.",
-        "Joint field investigations of zoonotic outbreaks and anti-microbial resistance (AMR) tracking."
-      ],
-      "funding": "Not specified in source coverage",
-      "upscRelevance": "High relevance for GS-2 Public Health governance and GS-3 Environment/Biosecurity."
-    }
-  ],
+  "schemes": [],
   "mainsEnrichment": [
     {
-      "topic": "Fiscal Federalism and Indirect Taxation",
+      "topic": "Balancing Fundamental Rights & Public Order",
       "points": [
-        "Gross GST mop-up achieved ₹2.31 lakh crore in October 2026, driven by a 16% rise in domestic transactions and a 42% rise in import revenues.",
-        "Demonstrates the growing stabilization and revenue productivity of indirect tax reforms in India."
+        "Supreme Court Observation (2026): Right to protest under Article 19(1)(a) cannot infringe indefinitely on the right of other citizens to trade, earn a livelihood (Article 21), and exercise free movement (Article 19(1)(d)).",
+        "Economic Impact of Blockades: Protracted street occupations create localized disruption to small traders, street vendors, and logistics networks, illustrating the conflict between expressional rights and economic rights."
       ]
     },
     {
-      "topic": "Agrarian Reforms and Gender Inclusion",
+      "topic": "Public Health & Zoonotic Preparedness",
       "points": [
-        "Maharashtra's Women Farmers' Empowerment Bill explicitly separates legal recognition of a 'farmer' from land title ownership.",
-        "Crucial case study to quote when addressing structural biases against female agricultural labour and lack of credit access."
+        "One Health Framework: Integrating genomic surveillance across wildlife, domestic livestock, and human disease vectors is critical to early identification of emerging zoonoses and curbing antimicrobial resistance."
       ]
     }
   ],
   "whatToRemember": [
-    "October 2026 GST collections jumped 23% to reach ₹2.31 lakh crore, the second-highest tally ever.",
-    "Severe Cyclone Murasu approached the Andhra Pradesh-Telangana coast, prompting high-level disaster alerts.",
-    "Maharashtra legally recognized women as independent farmers irrespective of land ownership.",
-    "ICCI report warns that temporarily exceeding 1.5°C warming will cause non-reversible cryosphere collapse.",
-    "India's Manufacturing PMI stood at 54.7 in October, showing sustained expansion alongside strong export demand.",
-    "ISRO restored and expanded NavIC regional navigation positioning capabilities with successful GSLV-F18 operations."
+    "India and Israel stood alone in voting against the UNGA draft resolution on regional conventional arms control proposed by Pakistan.",
+    "India maintains a strict exclusion policy for the domestic dairy sector and genetically modified food imports in all Free Trade Agreement negotiations.",
+    "The Reserve Bank of India has reopened licensing for Urban Cooperative Banks (UCBs) after a 22-year pause, introducing stricter audit and capital rules.",
+    "The Supreme Court reiterated that public roads cannot be indefinitely blocked for protests, balancing freedom of speech with the right to livelihood.",
+    "Stage II of the Graded Response Action Plan (GRAP) was invoked in Delhi-NCR after air quality deteriorated into the 'Very Poor' category."
   ]
 }
