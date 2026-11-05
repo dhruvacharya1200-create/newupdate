@@ -1,200 +1,314 @@
 {
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03T11:14:15.211Z",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T11:23:33.325Z",
   "frontPage": [
     {
-      "headline": "India and Israel Oppose UN General Assembly Draft Resolution on Regional Arms Control",
+      "headline": "Union Cabinet Sanctions VISTAR Scheme to Modernize National Statistical Architecture",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece"
+          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
+        }
+      ],
+      "date": "2026-11-04",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Government Policies & Governance",
+      "summary": "The Union Cabinet has approved the VISTAR scheme aimed at restructuring India's statistical data collection infrastructure. The initiative integrates artificial intelligence tools and focuses on capturing unorganised sector metrics to improve GDP estimation precision.",
+      "whyItMatters": "Reliable data governance and accurate unorganised sector representation are central to informed macroeconomic policymaking, resource allocation, and GS II governance themes."
+    },
+    {
+      "headline": "Government Approves ₹14,500 Crore Viability Gap Funding for Renewable Energy Storage",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece"
+        }
+      ],
+      "date": "2026-11-04",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Infrastructure: Energy",
+      "summary": "The Union Cabinet approved a ₹14,500 crore Viability Gap Funding (VGF) scheme dedicated to expanding grid-scale energy storage capacities. The program covers Battery Energy Storage Systems (BESS) and Hydro Pumped Storage Plants (PSP) to support renewable energy integration.",
+      "whyItMatters": "Grid stability and energy storage infrastructure are vital for India to achieve its 500 GW non-fossil fuel capacity target by 2030."
+    },
+    {
+      "headline": "Cabinet Allocates ₹2,814 Crore Incentive Scheme for Critical Mineral Processing",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/india-israel-vote-against-pakistan-backed-un-arms-control-resolution-what-it-means/articleshow/135487897.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/cab-nod-for-rs-2814-cr-plan-to-support-critical-mineral-processing/articleshow/135553957.cms"
         }
       ],
-      "date": "2026-11-03",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Relations & Multilateral Forums",
-      "summary": "India and Israel stood as the sole dissenters in the 193-member UN General Assembly voting against a Pakistan-backed draft resolution on regional conventional arms control. India consistently rejects attempts to force regional balance frameworks that restrict its defense capabilities while ignoring cross-border threat dynamics.",
-      "whyItMatters": "Demonstrates India's strategic stance at multilateral platforms regarding security imperatives, defense sovereignty, and resistance to artificial security parity in South Asia."
-    },
-    {
-      "headline": "India Reaffirms Exclusion of Dairy Sector and Genetically Modified Imports from Trade Agreements",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/india-has-never-allowed-import-of-genetically-modified-products-will-never-open-dairy-sector-piyush-goyal/article71660272.ece"
-        }
-      ],
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Agricultural Trade & Economic Policy",
-      "summary": "The Union Commerce Ministry reiterated that India will maintain its stance against opening its domestic dairy sector or permitting genetically modified (GM) food product imports under free trade agreements. The stance aims to shield smallholder farmers, preserve rural livelihoods, and maintain biosafety protocols.",
-      "whyItMatters": "Highlights core principles driving India's Free Trade Agreement (FTA) negotiations, emphasizing domestic agricultural protectionism and food sovereignty."
+      "topic": "Industrial Policy & Mineral Resources",
+      "summary": "The Central government has allocated ₹2,814 crore to provide capital expenditure assistance for processing critical minerals such as lithium and nickel. The measure is designed to secure clean energy supply chains and lower import dependencies.",
+      "whyItMatters": "Domestic mineral refining capability is essential for India's high-tech manufacturing, EV ecosystem, and strategic self-reliance (Atmanirbhar Bharat)."
     },
     {
-      "headline": "Severe Cyclonic Storm Murasu Makes Landfall along Andhra Coast, Weakens into Cyclonic Storm",
+      "headline": "Supreme Court Rules 24-Hour Production Mandate Begins at Actual Physical Detention",
       "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cyclone-murasu-landfall-live-updates-november-3-2026-rain-andhra-pradesh-telangana-odisha-weather/article71659195.ece"
-        }
-      ],
-      "date": "2026-11-03",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Disaster Management & Physical Geography",
-      "summary": "Severe Cyclonic Storm Murasu crossed the South Andhra Pradesh coast near Ongole, causing heavy precipitation across coastal districts before gradually weakening into a cyclonic storm. Early warning systems and evacuation protocols mitigated potential loss of life.",
-      "whyItMatters": "Provides a practical case study for tropical cyclone dynamics in the Bay of Bengal, early warning implementation, and coastal disaster mitigation strategies."
-    },
-    {
-      "headline": "Supreme Court Balances Right to Protest with Right to Livelihood and Free Movement",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece"
-        },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cant-occupy-a-site-for-all-times-sc-on-delhi-protests-against-cec-gyanesh-kumar/articleshow/135487784.cms"
+          "url": "https://timesofindia.indiatimes.com/india/24-hour-arrest-clock-starts-from-detention-not-formal-arrest-supreme-court/articleshow/135560387.cms"
         }
       ],
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "gsPaper": "GS II",
-      "relevance": "Mains",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Fundamental Rights & Constitutional Law",
-      "summary": "The Supreme Court reiterated that public spaces and thoroughfares cannot be indefinitely occupied for demonstrations. While acknowledging the freedom of speech and expression, the apex court observed that prolonged blockades adversely impact the fundamental right to livelihood of street vendors, traders, and the general commuting public.",
-      "whyItMatters": "Crucial for understanding the doctrine of reasonable restrictions under Article 19 and balancing competing fundamental rights under the Indian Constitution."
+      "topic": "Fundamental Rights & Criminal Justice",
+      "summary": "The Supreme Court clarified that the statutory requirement to present an arrested person before a magistrate within 24 hours under Article 22(2) commences from the time of actual physical restraint, rather than formal arrest recording.",
+      "whyItMatters": "This judgment upholds fundamental rights against illegal detention and strengthens procedural safeguards under constitutional criminal jurisprudence."
     },
     {
-      "headline": "RBI Reopens Licensing Framework for Urban Cooperative Banks After Two Decades",
+      "headline": "Supreme Court Observes Two-Child Norm Restrictions Outdated Due to Falling TFR",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
+          "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
         }
       ],
-      "date": "2026-11-03",
-      "gsPaper": "GS III",
+      "date": "2026-11-05",
+      "gsPaper": "GS I & II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Banking Sector Reforms & Cooperative Governance",
-      "summary": "The Reserve Bank of India has reopened licensing for Urban Cooperative Banks (UCBs) after a 22-year hiatus. The revised framework introduces stringent audit regulations, governance standards, and capital adequacy norms to ensure financial stability among multi-state cooperative societies.",
-      "whyItMatters": "Directly relevant to financial inclusion, dual regulation challenges in the cooperative sector, and structural governance reforms in primary cooperative institutions."
+      "topic": "Demographics & Social Policy",
+      "summary": "The Supreme Court noted that penal statutory provisions disqualifying individuals with more than two children from contesting local government elections are becoming obsolete due to sharp declines in India's Total Fertility Rate (TFR).",
+      "whyItMatters": "Highlights the transition in demographic priorities from population control to addressing demographic ageing and low fertility dynamics."
     },
     {
-      "headline": "Delhi Air Pollution Plunges to 'Very Poor' Category, Prompting Implementation of GRAP Stage II",
+      "headline": "CERT-In Issues New Security Framework for Autonomous AI Agents and Systems",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-chokes-aqi-324-plunges-to-very-poor-stage-ii-grap-invoked/article71657232.ece"
+          "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
         }
       ],
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "gsPaper": "GS III",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Environmental Pollution & Governance",
-      "summary": "With the Air Quality Index (AQI) breaching the 300 mark into the 'Very Poor' category, the Commission for Air Quality Management (CAQM) invoked Stage II of the Graded Response Action Plan (GRAP) across the National Capital Region. Measures include enhanced parking fees, increased public transport frequency, and targeted dust suppression.",
-      "whyItMatters": "Illustrates urban environmental management, regulatory intervention frameworks, and policy challenges surrounding air pollution control."
+      "importance": "High",
+      "topic": "Cyber Security & Science and Technology",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has advised security audits for autonomous AI agents to prevent privilege abuse and unauthorized tool usage. Guidelines emphasize emergency kill-switches and logged multi-agent interactions.",
+      "whyItMatters": "Establishes institutional cybersecurity frameworks for safe deployment of autonomous artificial intelligence systems across national infrastructure."
     }
   ],
-  "gs1": [],
-  "gs2": [
+  "gs1": [
     {
-      "headline": "Supreme Court Rules Public Sites Cannot Be Occupied Indefinitely for Protests",
+      "headline": "Internal Migration Study Highlights Regional Employment Corridors from Northeast to South India",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/demonstrations-generate-protest-economy-supreme-court-tells-delhi-traders/article71660312.ece"
+          "url": "https://www.thehindu.com/news/national/assam/some-northeast-districts-have-their-own-migration-corridors-for-jobs-in-southern-india-reveals-survey/article71669066.ece"
+        }
+      ],
+      "date": "2026-11-05",
+      "gsPaper": "GS I",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Population and Associated Issues & Migration",
+      "summary": "A survey conducted by a Guwahati-based organization revealed dedicated migration patterns connecting specific districts in Northeastern states to urban job hubs in South India. Up to 91% of respondents cited agricultural land constraints and debt burden as primary push factors.",
+      "whyItMatters": "Examines socio-economic drivers of internal migration, rural-urban disparities, and livelihood distress across regional economic corridors."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Supreme Court Rules 24-Hour Production Requirement Applies from Time of Physical Detention",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/24-hour-arrest-clock-starts-from-detention-not-formal-arrest-supreme-court/articleshow/135560387.cms"
+        }
+      ],
+      "date": "2026-11-05",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Judiciary & Protection of Fundamental Rights",
+      "summary": "The apex court ruled that the constitutional guarantee under Article 22(2), requiring an arrested individual to be produced before a magistrate within 24 hours, begins the moment police restrict physical freedom, preventing delayed recording of arrests.",
+      "whyItMatters": "Protects personal liberty against arbitrary police detention and enforces constitutional rights guaranteed under Part III."
+    },
+    {
+      "headline": "Supreme Court Notes Disqualifications Based on Two-Child Norm Need Reconsideration",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
+        }
+      ],
+      "date": "2026-11-05",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Demographics and Social Justice",
+      "summary": "Observing the national reduction in replacement fertility rates, the Supreme Court stated that restrictive two-child policies for local election candidacies are backed by outdated demographic assumptions.",
+      "whyItMatters": "Connects to legal policy alignment with shifting demographic realities, social inclusion, and rights-based governance."
+    },
+    {
+      "headline": "Government Proposes Immediate Manufacturing License Suspension for Substandard Drugs",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cant-occupy-a-site-for-all-times-sc-on-delhi-protests-against-cec-gyanesh-kumar/articleshow/135487784.cms"
+          "url": "https://timesofindia.indiatimes.com/india/centre-proposes-immediate-suspension-of-licences-for-substandard-drugs/articleshow/135557911.cms"
         }
       ],
-      "date": "2026-11-03",
+      "date": "2026-11-05",
       "gsPaper": "GS II",
-      "relevance": "Mains",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Fundamental Rights",
-      "summary": "Hearing petitions regarding public blockades in Delhi, the Supreme Court stated that rights under Article 19(1)(a) and 19(1)(b) must be balanced against the right to free movement under Article 19(1)(d) and livelihood under Article 21. Indefinite blockage of public arterial roads causes economic distress to local commercial communities.",
-      "whyItMatters": "Key reference for questions on judicial interpretation of freedom of assembly versus public order and civil rights of non-protesting citizens."
+      "topic": "Issues Relating to Health & Governance",
+      "summary": "The Ministry of Health has proposed regulatory changes under drug quality framework to mandate immediate suspension of manufacturing licenses for pharmaceutical units producing Not of Standard Quality (NSQ) drugs, requiring mandatory corrective actions before license restoration.",
+      "whyItMatters": "Protects public health, enhances regulatory stringency, and reinforces confidence in the quality of domestic drug manufacturing."
     }
   ],
   "gs3": [
     {
-      "headline": "RBI Introduces Modernized Governance and Audit Protocols for Urban Cooperative Banks",
+      "headline": "Union Cabinet Approves VISTAR Scheme to Overhaul National Data and GDP Estimation",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
+          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
         }
       ],
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy & Banking System",
-      "summary": "Following amendments to the Banking Regulation Act, the RBI has ended its long-standing moratorium on issuing fresh licenses for UCBs. The updated norms mandate enhanced oversight by the ICAI, dual-auditing protocols, and strict capital metrics to mitigate systemic risks.",
-      "whyItMatters": "Cooperative banking reform is a recurring topic in UPSC Economy papers, specifically concerning financial system robustness and regulatory oversight."
+      "topic": "Indian Economy and Statistics",
+      "summary": "The Union Cabinet sanctioned the VISTAR scheme to modernise data collection methodologies, integrate advanced AI analysis, and enhance sampling across the informal economy for improved national account calculations.",
+      "whyItMatters": "Critical for structural economic analysis, addressing informal sector representation, and improving policy formulation through robust datasets."
     },
     {
-      "headline": "World One Health Day Emphasizes Integrated Epidemiological Governance Across Human and Animal Domains",
+      "headline": "Cabinet Sanctions ₹14,500 Crore Viability Gap Funding for Clean Energy Storage Systems",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece"
+          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece"
         }
       ],
-      "date": "2026-11-03",
+      "date": "2026-11-04",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Infrastructure: Energy & Renewable Sector",
+      "summary": "The Union Cabinet approved a ₹14,500 crore VGF scheme to accelerate deployment of large-scale battery energy storage systems (BESS) and pumped storage hydro projects (PSP) across the national grid.",
+      "whyItMatters": "Grid-scale energy storage solves intermittency challenges of solar and wind power, enabling a seamless transition to clean energy targets."
+    },
+    {
+      "headline": "Centre Approves ₹2,814 Crore Scheme to Drive Critical Mineral Processing Capacities",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
+        }
+      ],
+      "date": "2026-11-04",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Industrial Growth & Mineral Resources",
+      "summary": "To reduce reliance on foreign supply chains, the government introduced a financial scheme offering up to 30% capital expenditure support for setting up processing plants for critical minerals such as lithium and nickel.",
+      "whyItMatters": "Mineral processing is essential for domestic battery manufacturing, semiconductor value chains, and national security."
+    },
+    {
+      "headline": "CERT-In Issues Cyber Guidelines to Prevent Privilege Abuse by Autonomous AI Agents",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
+        }
+      ],
+      "date": "2026-11-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Cybersecurity & Artificial Intelligence",
+      "summary": "National cyber agency CERT-In released advisory guidelines calling for stringent testing of AI agents to prevent unauthorized execution of tasks, command escalation, and unverified inter-agent communication protocols.",
+      "whyItMatters": "Addresses emerging cyber threats stemming from agentic AI systems integrated into critical economic sectors."
+    },
+    {
+      "headline": "Study Shows Climate Change Amplified Wind Speeds and Eyewall Rainfall of Cyclone Arnab",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece"
+        }
+      ],
+      "date": "2026-11-05",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Public Health & Science & Technology",
-      "summary": "Observances on World One Health Day highlighted the need for unified governance structures uniting veterinary, human health, and ecological research to prevent zoonotic spillover events. Modern genomic surveillance is essential to track antimicrobial resistance and emerging pathogens across inter-species interfaces.",
-      "whyItMatters": "Directly aligns with syllabus topics on health security, biotechnology, and institutional mechanisms to handle pandemics and biological hazards."
+      "topic": "Disaster Management & Environment",
+      "summary": "An attribution study revealed that anthropogenic climate change increased maximum wind speeds of Tropical Cyclone Arnab by 5% and intensified eyewall rainfall rates by 11%, inflating economic damages by 33%.",
+      "whyItMatters": "Provides empirical evidence linking oceanic warming to rapid cyclone intensification and severe coastal vulnerability."
+    },
+    {
+      "headline": "Amazon Basin Shifts from Global Carbon Sink to Net Carbon Emitter",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/the-amazon-is-no-longer-a-carbon-sink-it-is-an-emitter/article71655416.ece"
+        }
+      ],
+      "date": "2026-11-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Degradation & Global Warming",
+      "summary": "Scientific assessments confirm that widespread deforestation, land degradation, and prolonged droughts have turned parts of the Amazon rainforest from a critical global carbon sink into a net contributor of carbon emissions.",
+      "whyItMatters": "Illustrates a major global climate tipping point with severe implications for planetary carbon budgets and international environmental targets."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Cyclone Murasu",
-      "category": "Places",
-      "detail": "A severe cyclonic storm in the Bay of Bengal that made landfall near Ongole along the south coastal region of Andhra Pradesh."
+      "fact": "VISTAR Scheme",
+      "category": "Schemes",
+      "detail": "A newly approved Union Cabinet scheme to overhaul the national statistical system, integrate artificial intelligence, and accurately survey the unorganised sector."
     },
     {
-      "fact": "Graded Response Action Plan (GRAP) Stage II",
+      "fact": "Viability Gap Funding (VGF) for Energy Storage",
+      "category": "Schemes",
+      "detail": "A ₹14,500 crore financial initiative aimed at building grid-scale Hydro Pumped Storage Plants (PSP) and Battery Energy Storage Systems (BESS)."
+    },
+    {
+      "fact": "Article 22(2) of the Indian Constitution",
       "category": "Terminology",
-      "detail": "Invoked in the Delhi-NCR region when AQI enters the 'Very Poor' (301-400) band, focusing on targeted measures such as enhanced parking fees and augmented public transport."
+      "detail": "Mandates that any person arrested must be produced before the nearest magistrate within 24 hours of detention, excluding time spent on the journey."
     },
     {
-      "fact": "Jadarite",
-      "category": "Terminology",
-      "detail": "A lithium- and boron-bearing monoclinic silicate mineral discovered in Serbia whose chemical formula closely resembles the fictional substance Kryptonite."
-    },
-    {
-      "fact": "Dracula Orchids",
-      "category": "Species",
-      "detail": "A genus of rare epiphytic orchids native to Central and South America, recently awarded National Plant Collection status at Chester Zoo due to habitat loss threats."
-    },
-    {
-      "fact": "Qeshm Island",
+      "fact": "Sintaphu Tsho",
       "category": "Places",
-      "detail": "An Iranian island situated in the strategic Strait of Hormuz, known for its geopolitical and maritime sensitivity."
+      "detail": "A glacial lake in Bhutan that recently underwent a Glacial Lake Outburst Flood (GLOF), resulting in a 73% area reduction."
+    },
+    {
+      "fact": "CERT-In (Indian Computer Emergency Response Team)",
+      "category": "Organizations",
+      "detail": "The national nodal agency for responding to computer security incidents, operating under the Ministry of Electronics and Information Technology (MeitY)."
+    },
+    {
+      "fact": "Swift Space Telescope",
+      "category": "Terminology",
+      "detail": "NASA's multi-wavelength space observatory operational for 22 years to detect gamma-ray bursts before re-entering Earth's atmosphere."
     }
   ],
   "quiz": [
     {
-      "question": "With reference to the Graded Response Action Plan (GRAP) for the National Capital Region, consider the following statements:\n1. Stage II of GRAP is triggered when the Air Quality Index (AQI) enters the 'Severe' category.\n2. Raising parking fees to discourage private vehicle usage is a specific action under Stage II of GRAP.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the statutory protection under Article 22(2) of the Indian Constitution, consider the following statements:\n1. The requirement to produce an arrested person before a magistrate within 24 hours begins from the moment of formal FIR registration.\n2. The Supreme Court has clarified that physical detention marks the beginning of the 24-hour limit.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
@@ -202,41 +316,93 @@
         "Neither 1 nor 2"
       ],
       "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect: Stage II is invoked when AQI enters the 'Very Poor' category (301-400), whereas Stage III corresponds to 'Severe'. Statement 2 is correct: enhancing parking fees to deter private transport is an explicit measure under Stage II."
+      "explanation": "The Supreme Court clarified that the 24-hour timer starts from actual physical detention or restraint, not from formal registration of arrest or FIR."
     },
     {
-      "question": "Regarding the regulation of Urban Cooperative Banks (UCBs) in India, consider the following statements:\n1. Urban Cooperative Banks are regulated in terms of banking functions solely by the Ministry of Cooperation.\n2. The Reserve Bank of India derives regulatory power over banking aspects of UCBs through amendments to the Banking Regulation Act.\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following describes the objective of the newly launched VISTAR scheme?",
+      "options": [
+        "Modernizing statistical data collection and improving informal sector representation in GDP",
+        "Providing subsidized credit to small-scale renewable energy manufacturers",
+        "Setting up AI-driven public healthcare diagnostic centers in rural districts",
+        "Facilitating deep-sea mineral extraction in the Indian Ocean region"
+      ],
+      "correctIndex": 0,
+      "explanation": "VISTAR focuses on modernizing statistical infrastructure, leveraging AI tools, and capturing unorganised sector data for precise GDP estimation."
+    },
+    {
+      "question": "Consider the following statements regarding energy storage systems in India:\n1. Pumped Storage Hydro Projects (PSP) function as mechanical energy storage mechanisms.\n2. The Cabinet's VGF scheme supports both Battery Energy Storage Systems (BESS) and PSP.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
+      "correctIndex": 2,
+      "explanation": "Pumped hydro stores potential energy mechanically, and the ₹14,500 crore VGF scheme covers both PSP and BESS."
+    },
+    {
+      "question": "Sintaphu Tsho, which was recently in the news due to a Glacial Lake Outburst Flood (GLOF), is located in:",
+      "options": [
+        "Nepal",
+        "Bhutan",
+        "Sikkim, India",
+        "Ladakh, India"
+      ],
       "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect: Banking functions of UCBs are regulated by the RBI, while administrative/incorporation matters are handled by the Registrar of Cooperative Societies or Central Registrar. Statement 2 is correct."
+      "explanation": "Sintaphu Tsho is a glacial lake situated in Bhutan that recently experienced a major GLOF event."
     }
   ],
-  "schemes": [],
+  "schemes": [
+    {
+      "name": "VISTAR Scheme",
+      "ministry": "Ministry of Statistics and Programme Implementation",
+      "beneficiaries": "Policy makers, national statistical bodies, and national economic planners",
+      "objective": "To modernise the national statistical system by incorporating artificial intelligence, streamlining survey processes, and accurately reflecting informal sector metrics in national accounts.",
+      "keyFeatures": [
+        "Integration of AI technology in data collection and cross-verification",
+        "Specialized data generation framework targeting the unorganised sector",
+        "Enhanced methodology for robust and accurate GDP estimation"
+      ],
+      "funding": "Approved by Union Cabinet",
+      "upscRelevance": "High relevance for GS II Governance (data-driven policy) and GS III Indian Economy (national accounts & informal sector)."
+    },
+    {
+      "name": "Viability Gap Funding (VGF) Scheme for RE Grid Storage",
+      "ministry": "Ministry of Power / Ministry of New and Renewable Energy",
+      "beneficiaries": "Power sector utilities, renewable energy developers, and national grid operators",
+      "objective": "To support the development of grid-scale energy storage capacity to ensure smooth integration of variable renewable power into the national grid.",
+      "keyFeatures": [
+        "Support for Hydro Pumped Storage Plants (PSP)",
+        "Funding assistance for Battery Energy Storage Systems (BESS)",
+        "Targeted at lowering capital costs for long-duration energy storage projects"
+      ],
+      "funding": "₹14,500 crore total financial outlay",
+      "upscRelevance": "Directly linked to GS III Infrastructure: Energy and Climate Change mitigation targets."
+    }
+  ],
   "mainsEnrichment": [
     {
-      "topic": "Balancing Fundamental Rights & Public Order",
+      "topic": "Demographic Transition & Population Law Re-evaluation",
       "points": [
-        "Supreme Court Observation (2026): Right to protest under Article 19(1)(a) cannot infringe indefinitely on the right of other citizens to trade, earn a livelihood (Article 21), and exercise free movement (Article 19(1)(d)).",
-        "Economic Impact of Blockades: Protracted street occupations create localized disruption to small traders, street vendors, and logistics networks, illustrating the conflict between expressional rights and economic rights."
+        "Supreme Court Observation: Statutory penal provisions penalizing families with more than two children (e.g., in local elections) are crumbling as India's Total Fertility Rate (TFR) falls below replacement level (2.1).",
+        "Policy Shift: Emphasizes moving from coercive population control strategies towards structural interventions for population ageing, skill creation, and demographic stabilization."
       ]
     },
     {
-      "topic": "Public Health & Zoonotic Preparedness",
+      "topic": "Procedural Safeguards under Criminal Jurisprudence",
       "points": [
-        "One Health Framework: Integrating genomic surveillance across wildlife, domestic livestock, and human disease vectors is critical to early identification of emerging zoonoses and curbing antimicrobial resistance."
+        "Supreme Court Ruling: The statutory 24-hour limit under Article 22(2) for producing a suspect before a magistrate starts from physical detention, preventing police from delaying formal arrest entries.",
+        "Governance Significance: Upholds procedural constitutionalism and checks custodial abuses."
       ]
     }
   ],
   "whatToRemember": [
-    "India and Israel stood alone in voting against the UNGA draft resolution on regional conventional arms control proposed by Pakistan.",
-    "India maintains a strict exclusion policy for the domestic dairy sector and genetically modified food imports in all Free Trade Agreement negotiations.",
-    "The Reserve Bank of India has reopened licensing for Urban Cooperative Banks (UCBs) after a 22-year pause, introducing stricter audit and capital rules.",
-    "The Supreme Court reiterated that public roads cannot be indefinitely blocked for protests, balancing freedom of speech with the right to livelihood.",
-    "Stage II of the Graded Response Action Plan (GRAP) was invoked in Delhi-NCR after air quality deteriorated into the 'Very Poor' category."
+    "Union Cabinet approved the VISTAR scheme to overhaul national statistics, integrate AI, and accurately measure the informal sector.",
+    "Cabinet sanctioned ₹14,500 crore Viability Gap Funding for grid-scale Battery (BESS) and Hydro Pumped Storage (PSP).",
+    "Government announced ₹2,814 crore incentives to build domestic processing capacity for critical minerals like lithium and nickel.",
+    "Supreme Court ruled that the constitutional 24-hour limit to present suspects before a magistrate starts from actual physical detention.",
+    "Supreme Court observed that two-child election disqualification laws have become outdated due to India's declining fertility rates.",
+    "CERT-In issued cyber safety guidelines calling for mandatory security testing and kill-switches in autonomous AI agents.",
+    "Attribution study showed climate change increased Cyclone Arnab's wind speeds by 5% and eyewall rainfall by 11%."
   ]
 }
