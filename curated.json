@@ -1,25 +1,29 @@
 {
-  "date": "2026-11-05",
-  "updatedAt": "2026-11-05T11:23:33.325Z",
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T11:22:24.490Z",
   "frontPage": [
     {
-      "headline": "Union Cabinet Sanctions VISTAR Scheme to Modernize National Statistical Architecture",
+      "headline": "Cabinet Approves VISTAR Scheme to Modernize India's Statistical Framework",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece"
         }
       ],
-      "date": "2026-11-04",
-      "gsPaper": "GS II & III",
+      "date": "2026-11-06",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Government Policies & Governance",
-      "summary": "The Union Cabinet has approved the VISTAR scheme aimed at restructuring India's statistical data collection infrastructure. The initiative integrates artificial intelligence tools and focuses on capturing unorganised sector metrics to improve GDP estimation precision.",
-      "whyItMatters": "Reliable data governance and accurate unorganised sector representation are central to informed macroeconomic policymaking, resource allocation, and GS II governance themes."
+      "topic": "Indian Economy and Statistics",
+      "summary": "The Union Cabinet has approved the VISTAR scheme aimed at transforming India's data collection and statistical architecture into a real-time, technology-driven system. The initiative incorporates artificial intelligence and improves coverage of the unorganized sector to enhance GDP accuracy and reduce policy blind spots.",
+      "whyItMatters": "Reliable and timely economic statistics are essential for evidence-based policymaking, targeted welfare delivery, and accurate macroeconomic planning under the Vision 2047 framework."
     },
     {
-      "headline": "Government Approves ₹14,500 Crore Viability Gap Funding for Renewable Energy Storage",
+      "headline": "Cabinet Sanctions ₹14,500 Crore Viability Gap Funding for Energy Storage Infrastructure",
       "sources": [
         {
           "name": "The Hindu",
@@ -31,153 +35,153 @@
       "relevance": "Both",
       "importance": "High",
       "topic": "Infrastructure: Energy",
-      "summary": "The Union Cabinet approved a ₹14,500 crore Viability Gap Funding (VGF) scheme dedicated to expanding grid-scale energy storage capacities. The program covers Battery Energy Storage Systems (BESS) and Hydro Pumped Storage Plants (PSP) to support renewable energy integration.",
-      "whyItMatters": "Grid stability and energy storage infrastructure are vital for India to achieve its 500 GW non-fossil fuel capacity target by 2030."
+      "summary": "The Union Cabinet approved a ₹14,500 crore Viability Gap Funding (VGF) scheme to accelerate large-scale energy storage development across India. The scheme targets Hydro Pumped Storage Plants (PSP), Battery Energy Storage Systems (BESS), and alternative storage technologies.",
+      "whyItMatters": "Energy storage is critical for integrating intermittent renewable power into the national grid, facilitating India's energy transition and climate commitments under Nationally Determined Contributions."
     },
     {
-      "headline": "Cabinet Allocates ₹2,814 Crore Incentive Scheme for Critical Mineral Processing",
+      "headline": "Historical Manuscripts Added to UNESCO Memory of the World Regional Register",
       "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
+        }
+      ],
+      "date": "2026-11-06",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "High",
+      "topic": "Indian Culture and Heritage",
+      "summary": "Ancient Indian manuscripts including the Mahabharata, Arthashastra, and Rajatarangini have been formally inscribed in the UNESCO Memory of the World Regional Register for Asia-Pacific. The inscription highlights global recognition of India's classical textual heritage.",
+      "whyItMatters": "Preservation of literary heritage connects directly to GS I Art & Culture syllabus topics on ancient texts, historiography, and global heritage recognition."
+    },
+    {
+      "headline": "Mines Ministry Initiates 9th Round of Critical Mineral Block Auctions",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece"
+        },
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/cab-nod-for-rs-2814-cr-plan-to-support-critical-mineral-processing/articleshow/135553957.cms"
         }
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Industrial Policy & Mineral Resources",
-      "summary": "The Central government has allocated ₹2,814 crore to provide capital expenditure assistance for processing critical minerals such as lithium and nickel. The measure is designed to secure clean energy supply chains and lower import dependencies.",
-      "whyItMatters": "Domestic mineral refining capability is essential for India's high-tech manufacturing, EV ecosystem, and strategic self-reliance (Atmanirbhar Bharat)."
+      "topic": "Industrial Growth and Mineral Resources",
+      "summary": "The Ministry of Mines launched the ninth tranche of critical mineral auctions offering 20 blocks, bringing total offered blocks to 100. Simultaneously, the Centre earmarked ₹2,814 crore to bolster domestic processing of key energy minerals like lithium and nickel.",
+      "whyItMatters": "Securing domestic critical mineral supply chains reduces import vulnerability for green technologies, electric vehicles, defense, and high-tech manufacturing."
     },
     {
-      "headline": "Supreme Court Rules 24-Hour Production Mandate Begins at Actual Physical Detention",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/24-hour-arrest-clock-starts-from-detention-not-formal-arrest-supreme-court/articleshow/135560387.cms"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Fundamental Rights & Criminal Justice",
-      "summary": "The Supreme Court clarified that the statutory requirement to present an arrested person before a magistrate within 24 hours under Article 22(2) commences from the time of actual physical restraint, rather than formal arrest recording.",
-      "whyItMatters": "This judgment upholds fundamental rights against illegal detention and strengthens procedural safeguards under constitutional criminal jurisprudence."
-    },
-    {
-      "headline": "Supreme Court Observes Two-Child Norm Restrictions Outdated Due to Falling TFR",
+      "headline": "NPCI Defends Merchant Discount Rate on UPI Before Supreme Court",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS I & II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Demographics & Social Policy",
-      "summary": "The Supreme Court noted that penal statutory provisions disqualifying individuals with more than two children from contesting local government elections are becoming obsolete due to sharp declines in India's Total Fertility Rate (TFR).",
-      "whyItMatters": "Highlights the transition in demographic priorities from population control to addressing demographic ageing and low fertility dynamics."
-    },
-    {
-      "headline": "CERT-In Issues New Security Framework for Autonomous AI Agents and Systems",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
+          "url": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
         }
       ],
       "date": "2026-11-05",
       "gsPaper": "GS III",
       "relevance": "Both",
-      "importance": "High",
-      "topic": "Cyber Security & Science and Technology",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has advised security audits for autonomous AI agents to prevent privilege abuse and unauthorized tool usage. Guidelines emphasize emergency kill-switches and logged multi-agent interactions.",
-      "whyItMatters": "Establishes institutional cybersecurity frameworks for safe deployment of autonomous artificial intelligence systems across national infrastructure."
+      "importance": "Medium",
+      "topic": "Financial Technology and Infrastructure",
+      "summary": "The National Payments Corporation of India (NPCI) informed the Supreme Court that a zero-Merchant Discount Rate (MDR) model is no longer sustainable for Unified Payments Interface (UPI) systems. NPCI argued that financial contributions are required to maintain system resilience, security, and infrastructure expansion.",
+      "whyItMatters": "Balancing public digital infrastructure growth with financial sustainability is a core economic governance challenge for India's digital economy."
+    },
+    {
+      "headline": "Study Reveals Decadal Expansion in Mangrove Cover Across Coastal Kerala",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece"
+        }
+      ],
+      "date": "2026-11-06",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Conservation & Environmental Degradation",
+      "summary": "A remote-sensing study by the ICAR-Central Marine Fisheries Research Institute (CMFRI) showed a net expansion of mangrove ecosystems along Kerala's coast over the past decade, reversing earlier trends of degradation.",
+      "whyItMatters": "Mangroves serve as natural bio-shields against coastal erosion, extreme weather events, and carbon sequestration reservoirs."
     }
   ],
   "gs1": [
     {
-      "headline": "Internal Migration Study Highlights Regional Employment Corridors from Northeast to South India",
+      "headline": "UNESCO Inscribes Classical Indian Manuscripts in Regional Heritage Register",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/some-northeast-districts-have-their-own-migration-corridors-for-jobs-in-southern-india-reveals-survey/article71669066.ece"
+          "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
         }
       ],
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "gsPaper": "GS I",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Population and Associated Issues & Migration",
-      "summary": "A survey conducted by a Guwahati-based organization revealed dedicated migration patterns connecting specific districts in Northeastern states to urban job hubs in South India. Up to 91% of respondents cited agricultural land constraints and debt burden as primary push factors.",
-      "whyItMatters": "Examines socio-economic drivers of internal migration, rural-urban disparities, and livelihood distress across regional economic corridors."
+      "relevance": "Prelims",
+      "importance": "High",
+      "topic": "Indian Culture and Heritage",
+      "summary": "Manuscripts of the epic Mahabharata, Kautilya's Arthashastra, and Kalhana's Rajatarangini were formally added to the UNESCO Memory of the World Regional Register for Asia-Pacific. The decision acknowledges the deep historical and literary influence of ancient Indian codices.",
+      "whyItMatters": "Directly relevant to GS Paper I requirements covering Indian art, literature, ancient polity texts, and historical chronicles."
     }
   ],
   "gs2": [
     {
-      "headline": "Supreme Court Rules 24-Hour Production Requirement Applies from Time of Physical Detention",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/24-hour-arrest-clock-starts-from-detention-not-formal-arrest-supreme-court/articleshow/135560387.cms"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Judiciary & Protection of Fundamental Rights",
-      "summary": "The apex court ruled that the constitutional guarantee under Article 22(2), requiring an arrested individual to be produced before a magistrate within 24 hours, begins the moment police restrict physical freedom, preventing delayed recording of arrests.",
-      "whyItMatters": "Protects personal liberty against arbitrary police detention and enforces constitutional rights guaranteed under Part III."
-    },
-    {
-      "headline": "Supreme Court Notes Disqualifications Based on Two-Child Norm Need Reconsideration",
+      "headline": "Election Commission Extends Form Submission Opportunity for Left-Out Electors in 7 States",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Demographics and Social Justice",
-      "summary": "Observing the national reduction in replacement fertility rates, the Supreme Court stated that restrictive two-child policies for local election candidacies are backed by outdated demographic assumptions.",
-      "whyItMatters": "Connects to legal policy alignment with shifting demographic realities, social inclusion, and rights-based governance."
-    },
-    {
-      "headline": "Government Proposes Immediate Manufacturing License Suspension for Substandard Drugs",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/government-proposes-immediate-suspension-of-manufacturing-licences-of-substandard-drugs/article71666870.ece"
+          "url": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/centre-proposes-immediate-suspension-of-licences-for-substandard-drugs/articleshow/135557911.cms"
+          "url": "https://timesofindia.indiatimes.com/india/ec-gives-voters-excluded-from-draft-electoral-rolls-in-7-states-another-chance-to-apply/articleshow/135604039.cms"
         }
       ],
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Issues Relating to Health & Governance",
-      "summary": "The Ministry of Health has proposed regulatory changes under drug quality framework to mandate immediate suspension of manufacturing licenses for pharmaceutical units producing Not of Standard Quality (NSQ) drugs, requiring mandatory corrective actions before license restoration.",
-      "whyItMatters": "Protects public health, enhances regulatory stringency, and reinforces confidence in the quality of domestic drug manufacturing."
+      "topic": "Elections and Statutory Bodies",
+      "summary": "The Election Commission of India has issued fresh directions granting eligible voters omitted from draft Special Summary Revision (SIR) electoral rolls another chance to submit claims in seven states/UTs, including Delhi, Maharashtra, and Telangana.",
+      "whyItMatters": "Ensures universal adult suffrage, voter inclusivity, and transparent electoral roll maintenance managed by an independent constitutional body."
+    },
+    {
+      "headline": "Gauhati High Court Quashes Preventive Detention of Environmental Activist Under NSA",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-quashes-assam-activists-nsa-detention/article71673798.ece"
+        }
+      ],
+      "date": "2026-11-06",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Fundamental Rights and Preventive Detention",
+      "summary": "The Gauhati High Court set aside the detention of an activist under the National Security Act (NSA), invoked shortly after he received bail for protests near Kaziranga National Park. The court cited procedural irregularities and misuse of executive power.",
+      "whyItMatters": "Highlights judicial safeguards protecting personal liberty under Article 21 against arbitrary preventive detention laws."
+    },
+    {
+      "headline": "Supreme Court Protects Past Promotions in Creamy Layer OBC Dispute",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/obc-creamy-layer-row-sc-protects-past-jobs-promotions-but-leaves-pending-cases-open/articleshow/135601416.cms"
+        }
+      ],
+      "date": "2026-11-06",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Social Justice and Reservation Governance",
+      "summary": "The Supreme Court clarified that its earlier rulings on the OBC creamy layer exclusion will safeguard past completed appointments and promotions, preventing retroactive disruption while allowing ongoing litigation to proceed.",
+      "whyItMatters": "Maintains administrative stability and balances public employment jurisprudence with affirmative action principles."
     }
   ],
   "gs3": [
     {
-      "headline": "Union Cabinet Approves VISTAR Scheme to Overhaul National Data and GDP Estimation",
+      "headline": "Union Cabinet Launches VISTAR Scheme for Real-Time Economic Data",
       "sources": [
         {
           "name": "The Hindu",
@@ -188,12 +192,12 @@
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy and Statistics",
-      "summary": "The Union Cabinet sanctioned the VISTAR scheme to modernise data collection methodologies, integrate advanced AI analysis, and enhance sampling across the informal economy for improved national account calculations.",
-      "whyItMatters": "Critical for structural economic analysis, addressing informal sector representation, and improving policy formulation through robust datasets."
+      "topic": "Indian Economy and Planning",
+      "summary": "The Union Cabinet has introduced the VISTAR scheme to modernise national statistical collection using advanced digital tools and AI, focusing on accurate measurements of informal sector contributions to GDP.",
+      "whyItMatters": "Addresses structural data lag in Indian macroeconomic policy, improving GDP estimation and planning accuracy."
     },
     {
-      "headline": "Cabinet Sanctions ₹14,500 Crore Viability Gap Funding for Clean Energy Storage Systems",
+      "headline": "Cabinet Approves ₹14,500 Crore Viability Gap Funding for Energy Storage",
       "sources": [
         {
           "name": "The Hindu",
@@ -204,205 +208,176 @@
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Infrastructure: Energy & Renewable Sector",
-      "summary": "The Union Cabinet approved a ₹14,500 crore VGF scheme to accelerate deployment of large-scale battery energy storage systems (BESS) and pumped storage hydro projects (PSP) across the national grid.",
-      "whyItMatters": "Grid-scale energy storage solves intermittency challenges of solar and wind power, enabling a seamless transition to clean energy targets."
+      "topic": "Energy and Infrastructure",
+      "summary": "A financial outlay of ₹14,500 crore under Viability Gap Funding has been approved to build utility-scale battery storage and pumped hydro storage assets to manage grid stability.",
+      "whyItMatters": "Key intervention to achieve 500 GW non-fossil energy capacity by 2030 and maintain grid stability."
     },
     {
-      "headline": "Centre Approves ₹2,814 Crore Scheme to Drive Critical Mineral Processing Capacities",
+      "headline": "ISRO Reports Navigation Satellite NVS-03 Health as Optimal in Orbit",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
-        }
-      ],
-      "date": "2026-11-04",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Industrial Growth & Mineral Resources",
-      "summary": "To reduce reliance on foreign supply chains, the government introduced a financial scheme offering up to 30% capital expenditure support for setting up processing plants for critical minerals such as lithium and nickel.",
-      "whyItMatters": "Mineral processing is essential for domestic battery manufacturing, semiconductor value chains, and national security."
-    },
-    {
-      "headline": "CERT-In Issues Cyber Guidelines to Prevent Privilege Abuse by Autonomous AI Agents",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
+          "url": "https://www.thehindu.com/sci-tech/science/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
         }
       ],
       "date": "2026-11-05",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Cybersecurity & Artificial Intelligence",
-      "summary": "National cyber agency CERT-In released advisory guidelines calling for stringent testing of AI agents to prevent unauthorized execution of tasks, command escalation, and unverified inter-agent communication protocols.",
-      "whyItMatters": "Addresses emerging cyber threats stemming from agentic AI systems integrated into critical economic sectors."
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Space Technology",
+      "summary": "ISRO confirmed that the NVS-03 satellite is healthy and undergoing in-orbit payload tests. NVS-03 forms part of the second-generation NavIC navigation constellation featuring atomic clock enhancements.",
+      "whyItMatters": "Strengthens India's sovereign satellite navigation capabilities and reduces dependence on foreign GPS networks."
     },
     {
-      "headline": "Study Shows Climate Change Amplified Wind Speeds and Eyewall Rainfall of Cyclone Arnab",
+      "headline": "Excessive Ethanol Blending in Fuel Detected Above E20 Limits in Karnataka",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece"
+          "url": "https://www.thehindu.com/news/national/karnataka/lab-tests-show-ethanol-blend-in-petrol-is-as-high-as-31-higher-than-20-e20-petrol-in-karnataka-government/article71673683.ece"
         }
       ],
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Disaster Management & Environment",
-      "summary": "An attribution study revealed that anthropogenic climate change increased maximum wind speeds of Tropical Cyclone Arnab by 5% and intensified eyewall rainfall rates by 11%, inflating economic damages by 33%.",
-      "whyItMatters": "Provides empirical evidence linking oceanic warming to rapid cyclone intensification and severe coastal vulnerability."
-    },
-    {
-      "headline": "Amazon Basin Shifts from Global Carbon Sink to Net Carbon Emitter",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/the-amazon-is-no-longer-a-carbon-sink-it-is-an-emitter/article71655416.ece"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Degradation & Global Warming",
-      "summary": "Scientific assessments confirm that widespread deforestation, land degradation, and prolonged droughts have turned parts of the Amazon rainforest from a critical global carbon sink into a net contributor of carbon emissions.",
-      "whyItMatters": "Illustrates a major global climate tipping point with severe implications for planetary carbon budgets and international environmental targets."
+      "topic": "Biofuels and Consumer Protection",
+      "summary": "State laboratory testing revealed ethanol content reaching up to 31% in commercial petrol samples labeled as E20 in Karnataka, raising concerns regarding vehicle engine safety and quality assurance mechanisms of Oil Marketing Companies.",
+      "whyItMatters": "Exposes regulatory and standardization challenges in executing national biofuel blending programs."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
+      "fact": "UNESCO Memory of the World Register",
+      "category": "Organizations",
+      "detail": "Added Mahabharata, Arthashastra, and Rajatarangini manuscripts during its Asia-Pacific regional meeting."
+    },
+    {
       "fact": "VISTAR Scheme",
       "category": "Schemes",
-      "detail": "A newly approved Union Cabinet scheme to overhaul the national statistical system, integrate artificial intelligence, and accurately survey the unorganised sector."
+      "detail": "Central initiative to modernize national statistical infrastructure and incorporate real-time data analytics."
     },
     {
-      "fact": "Viability Gap Funding (VGF) for Energy Storage",
-      "category": "Schemes",
-      "detail": "A ₹14,500 crore financial initiative aimed at building grid-scale Hydro Pumped Storage Plants (PSP) and Battery Energy Storage Systems (BESS)."
+      "fact": "Kochon Prize 2026",
+      "category": "Organizations",
+      "detail": "Awarded to Indian NGO REACH by the Kochon Foundation and Stop TB Partnership for outstanding efforts against Tuberculosis."
     },
     {
-      "fact": "Article 22(2) of the Indian Constitution",
+      "fact": "NVS-03 Satellite",
       "category": "Terminology",
-      "detail": "Mandates that any person arrested must be produced before the nearest magistrate within 24 hours of detention, excluding time spent on the journey."
+      "detail": "Second-generation navigation satellite deployed to augment India's indigenous NavIC constellation."
+    },
+    {
+      "fact": "Cellophane Bees",
+      "category": "Species",
+      "detail": "Ground-nesting bee species known for producing a natural, biodegradable polyester-like plastic waterproof lining for underground nests."
     },
     {
       "fact": "Sintaphu Tsho",
       "category": "Places",
-      "detail": "A glacial lake in Bhutan that recently underwent a Glacial Lake Outburst Flood (GLOF), resulting in a 73% area reduction."
-    },
-    {
-      "fact": "CERT-In (Indian Computer Emergency Response Team)",
-      "category": "Organizations",
-      "detail": "The national nodal agency for responding to computer security incidents, operating under the Ministry of Electronics and Information Technology (MeitY)."
-    },
-    {
-      "fact": "Swift Space Telescope",
-      "category": "Terminology",
-      "detail": "NASA's multi-wavelength space observatory operational for 22 years to detect gamma-ray bursts before re-entering Earth's atmosphere."
+      "detail": "Glacial lake in Bhutan monitored via satellite data following a recent Glacial Lake Outburst Flood (GLOF)."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the statutory protection under Article 22(2) of the Indian Constitution, consider the following statements:\n1. The requirement to produce an arrested person before a magistrate within 24 hours begins from the moment of formal FIR registration.\n2. The Supreme Court has clarified that physical detention marks the beginning of the 24-hour limit.\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following ancient Indian works were recently added to the UNESCO Memory of the World Regional Register for Asia-Pacific?",
       "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
+        "A) Silappadikaram, Manimekalai, and Tolkappiyam",
+        "B) Mahabharata, Arthashastra, and Rajatarangini",
+        "C) Rigveda, Sama Veda, and Yajur Veda",
+        "D) Meghaduta, Abhijnanashakuntalam, and Raghuvamsha"
       ],
       "correctIndex": 1,
-      "explanation": "The Supreme Court clarified that the 24-hour timer starts from actual physical detention or restraint, not from formal registration of arrest or FIR."
+      "explanation": "The UNESCO Memory of the World Regional Register for Asia-Pacific recently inscribed ancient manuscripts of the Mahabharata, Kautilya's Arthashastra, and Kalhana's Rajatarangini."
     },
     {
-      "question": "Which of the following describes the objective of the newly launched VISTAR scheme?",
+      "question": "The primary objective of the newly approved VISTAR scheme by the Union Cabinet is to:",
       "options": [
-        "Modernizing statistical data collection and improving informal sector representation in GDP",
-        "Providing subsidized credit to small-scale renewable energy manufacturers",
-        "Setting up AI-driven public healthcare diagnostic centers in rural districts",
-        "Facilitating deep-sea mineral extraction in the Indian Ocean region"
+        "A) Construct expressways along border zones",
+        "B) Modernize data collection and statistical systems in real time",
+        "C) Subsidize semiconductor fabrication plants",
+        "D) Expand urban housing under PMAY"
+      ],
+      "correctIndex": 1,
+      "explanation": "VISTAR focuses on overhauling India's statistical infrastructure by integrating real-time data, AI, and comprehensive coverage of informal economic sectors."
+    },
+    {
+      "question": "Cellophane bees are scientifically unique because they:",
+      "options": [
+        "A) Produce natural biodegradable plastic linings for their nests",
+        "B) Do not consume nectar from flowering plants",
+        "C) Build floating hives on freshwater lakes",
+        "D) Are completely immune to synthetic pesticides"
       ],
       "correctIndex": 0,
-      "explanation": "VISTAR focuses on modernizing statistical infrastructure, leveraging AI tools, and capturing unorganised sector data for precise GDP estimation."
+      "explanation": "Ground-nesting cellophane bees synthesize a natural polymer resembling translucent plastic that protects their eggs and degrades naturally within a year."
     },
     {
-      "question": "Consider the following statements regarding energy storage systems in India:\n1. Pumped Storage Hydro Projects (PSP) function as mechanical energy storage mechanisms.\n2. The Cabinet's VGF scheme supports both Battery Energy Storage Systems (BESS) and PSP.\nWhich of the statements given above is/are correct?",
+      "question": "The Viability Gap Funding (VGF) scheme allocated ₹14,500 crore by the Cabinet is designed to support:",
       "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 2,
-      "explanation": "Pumped hydro stores potential energy mechanically, and the ₹14,500 crore VGF scheme covers both PSP and BESS."
-    },
-    {
-      "question": "Sintaphu Tsho, which was recently in the news due to a Glacial Lake Outburst Flood (GLOF), is located in:",
-      "options": [
-        "Nepal",
-        "Bhutan",
-        "Sikkim, India",
-        "Ladakh, India"
+        "A) Thermal power plant retrofitting",
+        "B) Large-scale energy storage systems such as BESS and Pumped Hydro",
+        "C) Offshore natural gas exploration",
+        "D) Nuclear power reactor construction"
       ],
       "correctIndex": 1,
-      "explanation": "Sintaphu Tsho is a glacial lake situated in Bhutan that recently experienced a major GLOF event."
+      "explanation": "The ₹14,500 crore VGF scheme targets grid-scale battery energy storage systems (BESS) and hydro pumped storage projects."
     }
   ],
   "schemes": [
     {
-      "name": "VISTAR Scheme",
-      "ministry": "Ministry of Statistics and Programme Implementation",
-      "beneficiaries": "Policy makers, national statistical bodies, and national economic planners",
-      "objective": "To modernise the national statistical system by incorporating artificial intelligence, streamlining survey processes, and accurately reflecting informal sector metrics in national accounts.",
+      "name": "VISTAR (Visionary Initiative for Statistical Transformation and Real-time Analytics)",
+      "ministry": "Ministry of Statistics and Programme Implementation (MoSPI)",
+      "beneficiaries": "Policymakers, economic analysts, national statistics bodies, public institutions",
+      "objective": "To overhaul India's national statistical system into a real-time, technology-driven architecture with enhanced unorganized sector sampling.",
       "keyFeatures": [
-        "Integration of AI technology in data collection and cross-verification",
-        "Specialized data generation framework targeting the unorganised sector",
-        "Enhanced methodology for robust and accurate GDP estimation"
+        "Integration of Artificial Intelligence in data verification",
+        "Real-time survey collection models",
+        "Enhanced methodology for unorganized sector GDP representation"
       ],
       "funding": "Approved by Union Cabinet",
-      "upscRelevance": "High relevance for GS II Governance (data-driven policy) and GS III Indian Economy (national accounts & informal sector)."
+      "upscRelevance": "GS III: Economic planning, resource mobilization, and data governance."
     },
     {
-      "name": "Viability Gap Funding (VGF) Scheme for RE Grid Storage",
+      "name": "Viability Gap Funding (VGF) Scheme for Energy Storage Systems",
       "ministry": "Ministry of Power / Ministry of New and Renewable Energy",
-      "beneficiaries": "Power sector utilities, renewable energy developers, and national grid operators",
-      "objective": "To support the development of grid-scale energy storage capacity to ensure smooth integration of variable renewable power into the national grid.",
+      "beneficiaries": "Power distribution companies, renewable energy developers, national grid operators",
+      "objective": "To de-risk capital investment in utility-scale energy storage systems for grid stability.",
       "keyFeatures": [
-        "Support for Hydro Pumped Storage Plants (PSP)",
-        "Funding assistance for Battery Energy Storage Systems (BESS)",
-        "Targeted at lowering capital costs for long-duration energy storage projects"
+        "Supports Hydro Pumped Storage Plants (PSP)",
+        "Finances Battery Energy Storage Systems (BESS)",
+        "Targets integration of variable renewable power"
       ],
-      "funding": "₹14,500 crore total financial outlay",
-      "upscRelevance": "Directly linked to GS III Infrastructure: Energy and Climate Change mitigation targets."
+      "funding": "₹14,500 crore central outlay",
+      "upscRelevance": "GS III: Renewable energy infrastructure, climate change mitigation."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Demographic Transition & Population Law Re-evaluation",
+      "topic": "Judicial Oversight on Preventive Detention",
       "points": [
-        "Supreme Court Observation: Statutory penal provisions penalizing families with more than two children (e.g., in local elections) are crumbling as India's Total Fertility Rate (TFR) falls below replacement level (2.1).",
-        "Policy Shift: Emphasizes moving from coercive population control strategies towards structural interventions for population ageing, skill creation, and demographic stabilization."
+        "Gauhati High Court quashed National Security Act (NSA) orders invoked immediately following court bail, underscoring that executive detention cannot bypass ordinary criminal justice remedies."
       ]
     },
     {
-      "topic": "Procedural Safeguards under Criminal Jurisprudence",
+      "topic": "Data Quality in Governance",
       "points": [
-        "Supreme Court Ruling: The statutory 24-hour limit under Article 22(2) for producing a suspect before a magistrate starts from physical detention, preventing police from delaying formal arrest entries.",
-        "Governance Significance: Upholds procedural constitutionalism and checks custodial abuses."
+        "Transitioning from lagged sample surveys to real-time digital statistical collection (VISTAR) reduces policy blind spots in welfare delivery and macroeconomic targets."
+      ]
+    },
+    {
+      "topic": "Ecosystem Services and Bio-Shields",
+      "points": [
+        "ICAR-CMFRI remote sensing data proves coastal mangrove expansion acts as an effective carbon sink and defense against extreme marine weather events."
       ]
     }
   ],
   "whatToRemember": [
-    "Union Cabinet approved the VISTAR scheme to overhaul national statistics, integrate AI, and accurately measure the informal sector.",
-    "Cabinet sanctioned ₹14,500 crore Viability Gap Funding for grid-scale Battery (BESS) and Hydro Pumped Storage (PSP).",
-    "Government announced ₹2,814 crore incentives to build domestic processing capacity for critical minerals like lithium and nickel.",
-    "Supreme Court ruled that the constitutional 24-hour limit to present suspects before a magistrate starts from actual physical detention.",
-    "Supreme Court observed that two-child election disqualification laws have become outdated due to India's declining fertility rates.",
-    "CERT-In issued cyber safety guidelines calling for mandatory security testing and kill-switches in autonomous AI agents.",
-    "Attribution study showed climate change increased Cyclone Arnab's wind speeds by 5% and eyewall rainfall by 11%."
+    "Cabinet approved the VISTAR scheme to modernize India's statistics with AI and real-time data tools.",
+    "₹14,500 crore VGF scheme sanctioned to bolster battery and pumped-hydro energy storage.",
+    "Mahabharata, Arthashastra, and Rajatarangini manuscripts added to UNESCO Memory of the World Asia-Pacific Register.",
+    "Mines Ministry launched the 9th auction round of critical mineral blocks alongside a ₹2,814 crore refining incentive.",
+    "Gauhati HC quashed NSA detention of an environmental activist, reiterating Article 21 protections.",
+    "Indian NGO REACH won the international Kochon Prize 2026 for Tuberculosis prevention."
   ]
 }
