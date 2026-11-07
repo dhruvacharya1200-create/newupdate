@@ -1,81 +1,77 @@
 {
-  "date": "2026-11-06",
-  "updatedAt": "2026-11-06T11:22:24.490Z",
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T10:36:03.953Z",
   "frontPage": [
     {
-      "headline": "Cabinet Approves VISTAR Scheme to Modernize India's Statistical Framework",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/vistar-indias-shift-towards-a-real-time-technology-driven-statistical-system-explained/article71672990.ece"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy and Statistics",
-      "summary": "The Union Cabinet has approved the VISTAR scheme aimed at transforming India's data collection and statistical architecture into a real-time, technology-driven system. The initiative incorporates artificial intelligence and improves coverage of the unorganized sector to enhance GDP accuracy and reduce policy blind spots.",
-      "whyItMatters": "Reliable and timely economic statistics are essential for evidence-based policymaking, targeted welfare delivery, and accurate macroeconomic planning under the Vision 2047 framework."
-    },
-    {
-      "headline": "Cabinet Sanctions ₹14,500 Crore Viability Gap Funding for Energy Storage Infrastructure",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece"
-        }
-      ],
-      "date": "2026-11-04",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Infrastructure: Energy",
-      "summary": "The Union Cabinet approved a ₹14,500 crore Viability Gap Funding (VGF) scheme to accelerate large-scale energy storage development across India. The scheme targets Hydro Pumped Storage Plants (PSP), Battery Energy Storage Systems (BESS), and alternative storage technologies.",
-      "whyItMatters": "Energy storage is critical for integrating intermittent renewable power into the national grid, facilitating India's energy transition and climate commitments under Nationally Determined Contributions."
-    },
-    {
-      "headline": "Historical Manuscripts Added to UNESCO Memory of the World Regional Register",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "High",
-      "topic": "Indian Culture and Heritage",
-      "summary": "Ancient Indian manuscripts including the Mahabharata, Arthashastra, and Rajatarangini have been formally inscribed in the UNESCO Memory of the World Regional Register for Asia-Pacific. The inscription highlights global recognition of India's classical textual heritage.",
-      "whyItMatters": "Preservation of literary heritage connects directly to GS I Art & Culture syllabus topics on ancient texts, historiography, and global heritage recognition."
-    },
-    {
-      "headline": "Mines Ministry Initiates 9th Round of Critical Mineral Block Auctions",
+      "headline": "Mines Ministry launches 9th tranche of critical mineral block auctions, offering 20 blocks",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece"
         }
       ],
       "date": "2026-11-06",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Industrial Growth and Mineral Resources",
-      "summary": "The Ministry of Mines launched the ninth tranche of critical mineral auctions offering 20 blocks, bringing total offered blocks to 100. Simultaneously, the Centre earmarked ₹2,814 crore to bolster domestic processing of key energy minerals like lithium and nickel.",
-      "whyItMatters": "Securing domestic critical mineral supply chains reduces import vulnerability for green technologies, electric vehicles, defense, and high-tech manufacturing."
+      "topic": "Critical Minerals & Industrial Policy",
+      "summary": "The Ministry of Mines has launched the ninth round of critical mineral block auctions, putting 20 blocks up for bidding. Across nine tranches, 100 unique critical and strategic mineral blocks have been offered so far, aimed at securing domestic supply chains.",
+      "whyItMatters": "Critical minerals like lithium, cobalt, nickel, and rare earth elements are vital for green energy transitions, high-tech manufacturing, and defence capabilities, reducing import dependence."
     },
     {
-      "headline": "NPCI Defends Merchant Discount Rate on UPI Before Supreme Court",
+      "headline": "Controversy emerges over ethanol blending percentages in petrol; Ministry denies exceeding limits",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/not-supported-by-tests-petroleum-ministry-rejects-over-20-ethanol-blending-in-karnataka/articleshow/135631902.cms"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Biofuels & Energy Security",
+      "summary": "A policy dispute arose following claims that petrol samples in Karnataka contained up to 31% ethanol, exceeding the nationwide E20 target. The Union Ministry of Petroleum rejected the claims, asserting that oil marketing companies adhere strictly to standard blending protocols.",
+      "whyItMatters": "India’s Ethanol Blended Petrol (EBP) Programme aims to reach E20 blending to curb crude oil imports, but engine compatibility, standards compliance, and testing integrity remain crucial regulatory issues."
+    },
+    {
+      "headline": "Protests intensify in Arunachal Pradesh over the proposed Siang Upper Multipurpose Hydro Project",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Tribal Rights, Environmental Impact Assessment & Infrastructure Development",
+      "summary": "Members of the indigenous Adi community in Arunachal Pradesh are opposing the Siang Upper Multipurpose Project, citing severe threats to their ancestral land, culture, and local ecosystems. The community alleges inadequate consent protocols for the feasibility study.",
+      "whyItMatters": "Highlights the delicate balance between large hydropower infrastructure, environmental sustainability, eco-sensitive Himalayan river basins, and the constitutional land rights of indigenous tribes."
+    },
+    {
+      "headline": "Centre mandates mandatory stock declaration for rice and paddy to curb price volatility",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Agricultural Economics & Food Security",
+      "summary": "To prevent artificial scarcity and speculative hoarding, the Union government has directed traders, millers, and wholesalers to declare their rice and paddy stocks, while enabling state governments to impose stock limits.",
+      "whyItMatters": "Food price inflation directly impacts macro-economic stability and food security; regulatory interventions under essential commodities mechanisms are key tools for inflation control."
+    },
+    {
+      "headline": "NPCI defends UPI Merchant Discount Rate before Supreme Court, citing infrastructure costs",
       "sources": [
         {
           "name": "The Hindu",
@@ -85,13 +81,115 @@
       "date": "2026-11-05",
       "gsPaper": "GS III",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Financial Technology and Infrastructure",
-      "summary": "The National Payments Corporation of India (NPCI) informed the Supreme Court that a zero-Merchant Discount Rate (MDR) model is no longer sustainable for Unified Payments Interface (UPI) systems. NPCI argued that financial contributions are required to maintain system resilience, security, and infrastructure expansion.",
-      "whyItMatters": "Balancing public digital infrastructure growth with financial sustainability is a core economic governance challenge for India's digital economy."
+      "importance": "High",
+      "topic": "Digital Public Infrastructure & Banking",
+      "summary": "The National Payments Corporation of India (NPCI) informed the Supreme Court that maintaining a zero Merchant Discount Rate (MDR) for UPI transactions is unsustainable due to escalating infrastructure, cybersecurity, and operational maintenance costs.",
+      "whyItMatters": "Addresses the financial viability of India's flagship Digital Public Infrastructure (DPI) and the policy debate surrounding subsidising digital payment ecosystems versus private commercial sustainability."
     },
     {
-      "headline": "Study Reveals Decadal Expansion in Mangrove Cover Across Coastal Kerala",
+      "headline": "Study shows long-term livestock grazing in the Himalayas causes decline in spider populations",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/wildlife/14-year-himalayan-study-of-25604-arthropods-finds-fewer-spiders-but-more-grasshoppers-ticks-and-mites-when-livestock-replace-native-grazers/articleshow/135538980.cms"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Ecology & Biodiversity",
+      "summary": "A 14-year study analyzing over 25,000 arthropods in Himalayan high-altitude pastures found that replacing native wild herbivores with domestic livestock significantly reduces spider populations while leading to a surge in grasshoppers, ticks, and mites.",
+      "whyItMatters": "Examines ecosystem degradation, land-use changes, and trophic shifts within vulnerable alpine ecosystems in the Himalayas."
+    }
+  ],
+  "gs1": [
+    {
+      "headline": "Archaeologists discover over 200 Paleolithic engravings in Spain's Cova de la Font Major",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/archaeology/for-more-than-60-years-visitors-walked-through-a-cave-in-spain-without-noticing-hundreds-of-ice-age-engravings-archaeologists-have-now-identified-280-motifs-making-it-one-of-mediterranean-iberias-largest-art-sites/articleshow/135595063.cms"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "World History & Rock Art",
+      "summary": "Archaeologists have catalogued 280 Ice Age rock art motifs, including animal depictions and geometric designs, inside Spain's Cova de la Font Major, making it one of the largest Paleolithic art sites in Mediterranean Iberia.",
+      "whyItMatters": "Provides crucial insights into human cognitive evolution, pre-historic artistic traditions, and early human migrations across prehistoric Europe."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Karnataka High Court quashes Enforcement Directorate proceedings citing lack of standalone power",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/ed-is-not-super-cop-karnataka-hc-quashes-ecir-against-congress-mla-others/articleshow/135633035.cms"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Statutory & Regulatory Bodies / Prevention of Money Laundering Act (PMLA)",
+      "summary": "The Karnataka High Court quashed an Enforcement Case Information Report (ECIR) filed by the Enforcement Directorate, reaffirming that the ED cannot act as an independent investigative agency without a valid, underlying scheduled/predicate offense.",
+      "whyItMatters": "Reinforces constitutional checks and balances regarding investigative agencies under the PMLA and upholds federal administrative principles."
+    },
+    {
+      "headline": "Telangana expands post-graduate medical capacity by adding 359 seats in government colleges",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-gets-359-additional-pg-medical-seats-in-government-colleges-for-2026-27-intake-rises-to-1625/article71677401.ece"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Health Infrastructure & Education",
+      "summary": "The National Medical Commission approved 359 additional post-graduate medical seats across government medical colleges in Telangana for the 2026-27 academic session, expanding specialist medical education to 23 state institutes.",
+      "whyItMatters": "Addresses the severe shortage of specialist medical practitioners in public health systems, supporting primary and secondary healthcare delivery."
+    }
+  ],
+  "gs3": [
+    {
+      "headline": "Compressed Bio-Gas blending reaches 1.7% in H1; infrastructure gaps hamper target",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece"
+        }
+      ],
+      "date": "2026-11-05",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Renewable Energy & Agricultural Waste Management",
+      "summary": "India registered a 1.7% Compressed Bio-Gas (CBG) blending rate in city gas distribution networks during H1. Experts emphasized that expanding pipeline connectivity is essential to meet the mandatory 3% blending target set for the end of FY27.",
+      "whyItMatters": "CBG blending supports the SATAT initiative, promotes circular economy through paddy straw/stubble utilization, and reduces natural gas import dependency."
+    },
+    {
+      "headline": "Assam bans drone flights near major Amur Falcon roosting habitats to prevent disturbance",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece"
+        }
+      ],
+      "date": "2026-11-07",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "High",
+      "topic": "Wildlife Conservation & Migratory Birds",
+      "summary": "District authorities in Assam have restricted the operation of unmanned aerial vehicles (drones) around key roosting sites of the migratory Amur Falcon, following reports of human disturbance during their annual stopover.",
+      "whyItMatters": "Protects key winter stopover ecological corridors for raptors protected under the Convention on Migratory Species (CMS) and Wildlife Protection Act, 1972."
+    },
+    {
+      "headline": "ICAR-CMFRI study records expansion of Kerala's mangrove forest coverage over the past decade",
       "sources": [
         {
           "name": "The Hindu",
@@ -100,284 +198,114 @@
       ],
       "date": "2026-11-06",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Conservation & Environmental Degradation",
-      "summary": "A remote-sensing study by the ICAR-Central Marine Fisheries Research Institute (CMFRI) showed a net expansion of mangrove ecosystems along Kerala's coast over the past decade, reversing earlier trends of degradation.",
-      "whyItMatters": "Mangroves serve as natural bio-shields against coastal erosion, extreme weather events, and carbon sequestration reservoirs."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "UNESCO Inscribes Classical Indian Manuscripts in Regional Heritage Register",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "High",
-      "topic": "Indian Culture and Heritage",
-      "summary": "Manuscripts of the epic Mahabharata, Kautilya's Arthashastra, and Kalhana's Rajatarangini were formally added to the UNESCO Memory of the World Regional Register for Asia-Pacific. The decision acknowledges the deep historical and literary influence of ancient Indian codices.",
-      "whyItMatters": "Directly relevant to GS Paper I requirements covering Indian art, literature, ancient polity texts, and historical chronicles."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Election Commission Extends Form Submission Opportunity for Left-Out Electors in 7 States",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ec-gives-voters-excluded-from-draft-electoral-rolls-in-7-states-another-chance-to-apply/articleshow/135604039.cms"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Elections and Statutory Bodies",
-      "summary": "The Election Commission of India has issued fresh directions granting eligible voters omitted from draft Special Summary Revision (SIR) electoral rolls another chance to submit claims in seven states/UTs, including Delhi, Maharashtra, and Telangana.",
-      "whyItMatters": "Ensures universal adult suffrage, voter inclusivity, and transparent electoral roll maintenance managed by an independent constitutional body."
-    },
-    {
-      "headline": "Gauhati High Court Quashes Preventive Detention of Environmental Activist Under NSA",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/gauhati-high-court-quashes-assam-activists-nsa-detention/article71673798.ece"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Fundamental Rights and Preventive Detention",
-      "summary": "The Gauhati High Court set aside the detention of an activist under the National Security Act (NSA), invoked shortly after he received bail for protests near Kaziranga National Park. The court cited procedural irregularities and misuse of executive power.",
-      "whyItMatters": "Highlights judicial safeguards protecting personal liberty under Article 21 against arbitrary preventive detention laws."
-    },
-    {
-      "headline": "Supreme Court Protects Past Promotions in Creamy Layer OBC Dispute",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/obc-creamy-layer-row-sc-protects-past-jobs-promotions-but-leaves-pending-cases-open/articleshow/135601416.cms"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Social Justice and Reservation Governance",
-      "summary": "The Supreme Court clarified that its earlier rulings on the OBC creamy layer exclusion will safeguard past completed appointments and promotions, preventing retroactive disruption while allowing ongoing litigation to proceed.",
-      "whyItMatters": "Maintains administrative stability and balances public employment jurisprudence with affirmative action principles."
-    }
-  ],
-  "gs3": [
-    {
-      "headline": "Union Cabinet Launches VISTAR Scheme for Real-Time Economic Data",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece"
-        }
-      ],
-      "date": "2026-11-04",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy and Planning",
-      "summary": "The Union Cabinet has introduced the VISTAR scheme to modernise national statistical collection using advanced digital tools and AI, focusing on accurate measurements of informal sector contributions to GDP.",
-      "whyItMatters": "Addresses structural data lag in Indian macroeconomic policy, improving GDP estimation and planning accuracy."
-    },
-    {
-      "headline": "Cabinet Approves ₹14,500 Crore Viability Gap Funding for Energy Storage",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece"
-        }
-      ],
-      "date": "2026-11-04",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Energy and Infrastructure",
-      "summary": "A financial outlay of ₹14,500 crore under Viability Gap Funding has been approved to build utility-scale battery storage and pumped hydro storage assets to manage grid stability.",
-      "whyItMatters": "Key intervention to achieve 500 GW non-fossil energy capacity by 2030 and maintain grid stability."
-    },
-    {
-      "headline": "ISRO Reports Navigation Satellite NVS-03 Health as Optimal in Orbit",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Space Technology",
-      "summary": "ISRO confirmed that the NVS-03 satellite is healthy and undergoing in-orbit payload tests. NVS-03 forms part of the second-generation NavIC navigation constellation featuring atomic clock enhancements.",
-      "whyItMatters": "Strengthens India's sovereign satellite navigation capabilities and reduces dependence on foreign GPS networks."
-    },
-    {
-      "headline": "Excessive Ethanol Blending in Fuel Detected Above E20 Limits in Karnataka",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/lab-tests-show-ethanol-blend-in-petrol-is-as-high-as-31-higher-than-20-e20-petrol-in-karnataka-government/article71673683.ece"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Biofuels and Consumer Protection",
-      "summary": "State laboratory testing revealed ethanol content reaching up to 31% in commercial petrol samples labeled as E20 in Karnataka, raising concerns regarding vehicle engine safety and quality assurance mechanisms of Oil Marketing Companies.",
-      "whyItMatters": "Exposes regulatory and standardization challenges in executing national biofuel blending programs."
+      "topic": "Environmental Conservation & Coastal Ecology",
+      "summary": "A spatial analysis conducted by ICAR-Central Marine Fisheries Research Institute using decade-apart satellite imagery revealed an overall expansion in Kerala's coastal mangrove cover, driven by targeted community conservation and natural regeneration.",
+      "whyItMatters": "Mangroves serve as vital blue carbon sinks and natural bio-shields against coastal erosion and extreme marine weather events."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "UNESCO Memory of the World Register",
-      "category": "Organizations",
-      "detail": "Added Mahabharata, Arthashastra, and Rajatarangini manuscripts during its Asia-Pacific regional meeting."
-    },
-    {
-      "fact": "VISTAR Scheme",
-      "category": "Schemes",
-      "detail": "Central initiative to modernize national statistical infrastructure and incorporate real-time data analytics."
-    },
-    {
-      "fact": "Kochon Prize 2026",
-      "category": "Organizations",
-      "detail": "Awarded to Indian NGO REACH by the Kochon Foundation and Stop TB Partnership for outstanding efforts against Tuberculosis."
-    },
-    {
-      "fact": "NVS-03 Satellite",
-      "category": "Terminology",
-      "detail": "Second-generation navigation satellite deployed to augment India's indigenous NavIC constellation."
-    },
-    {
-      "fact": "Cellophane Bees",
-      "category": "Species",
-      "detail": "Ground-nesting bee species known for producing a natural, biodegradable polyester-like plastic waterproof lining for underground nests."
-    },
-    {
-      "fact": "Sintaphu Tsho",
+      "fact": "Siang Upper Multipurpose Project",
       "category": "Places",
-      "detail": "Glacial lake in Bhutan monitored via satellite data following a recent Glacial Lake Outburst Flood (GLOF)."
+      "detail": "A proposed large-scale hydroelectric dam project on the Siang River (main stem of the Brahmaputra) in Arunachal Pradesh, facing opposition from the indigenous Adi tribe."
+    },
+    {
+      "fact": "Amur Falcon (Falco amurensis)",
+      "category": "Species",
+      "detail": "A small migratory raptor that undertakes one of the longest migration routes, travelling from Siberia and China through Northeast India to Southern Africa."
+    },
+    {
+      "fact": "Kochon Prize",
+      "category": "Organizations",
+      "detail": "An annual global award presented by the Kochon Foundation and Stop TB Partnership recognizing significant contributions towards eradicating Tuberculosis."
+    },
+    {
+      "fact": "SATAT Initiative",
+      "category": "Schemes",
+      "detail": "Sustainable Alternative Towards Affordable Transportation initiative aimed at establishing Compressed Bio-Gas (CBG) production plants from agricultural waste."
+    },
+    {
+      "fact": "Merchant Discount Rate (MDR)",
+      "category": "Terminology",
+      "detail": "The fee charged to a merchant by a bank for accepting payments from their customers via digital transactions, debit, or credit cards."
+    },
+    {
+      "fact": "Cellophane Bees (Colletes spp.)",
+      "category": "Species",
+      "detail": "Ground-nesting bees known for producing a natural polyester-like bioplastic lining for their underground brood cells that is naturally biodegradable."
     }
   ],
   "quiz": [
     {
-      "question": "Which of the following ancient Indian works were recently added to the UNESCO Memory of the World Regional Register for Asia-Pacific?",
+      "question": "Consider the following statements regarding the Amur Falcon (Falco amurensis):\n1. It is a long-distance migratory raptor that breeds in eastern Asia and winters in Southern Africa.\n2. Northeast India, particularly Nagaland and Assam, serves as a crucial staging site during its migration.\nWhich of the statements given above is/are correct?",
       "options": [
-        "A) Silappadikaram, Manimekalai, and Tolkappiyam",
-        "B) Mahabharata, Arthashastra, and Rajatarangini",
-        "C) Rigveda, Sama Veda, and Yajur Veda",
-        "D) Meghaduta, Abhijnanashakuntalam, and Raghuvamsha"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "The UNESCO Memory of the World Regional Register for Asia-Pacific recently inscribed ancient manuscripts of the Mahabharata, Kautilya's Arthashastra, and Kalhana's Rajatarangini."
+      "correctIndex": 2,
+      "explanation": "Both statements are correct. Amur Falcons breed in southeastern Siberia and northern China, pass through Northeast India in autumn, and migrate across the Indian Ocean to winter in Southern Africa."
     },
     {
-      "question": "The primary objective of the newly approved VISTAR scheme by the Union Cabinet is to:",
+      "question": "With reference to Compressed Bio-Gas (CBG) in India, consider the following statements:\n1. It has chemical properties identical to commercially available natural gas (CNG).\n2. The SATAT scheme was launched to promote CBG production from biomass resources.\nWhich of the statements given above is/are correct?",
       "options": [
-        "A) Construct expressways along border zones",
-        "B) Modernize data collection and statistical systems in real time",
-        "C) Subsidize semiconductor fabrication plants",
-        "D) Expand urban housing under PMAY"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "VISTAR focuses on overhauling India's statistical infrastructure by integrating real-time data, AI, and comprehensive coverage of informal economic sectors."
+      "correctIndex": 2,
+      "explanation": "CBG is purified biogas with over 90% methane content, making its chemical composition and energy potential functionally identical to CNG."
     },
     {
-      "question": "Cellophane bees are scientifically unique because they:",
+      "question": "The Siang River, often in the news regarding major hydroelectric project proposals, forms the main stem of which river in India?",
       "options": [
-        "A) Produce natural biodegradable plastic linings for their nests",
-        "B) Do not consume nectar from flowering plants",
-        "C) Build floating hives on freshwater lakes",
-        "D) Are completely immune to synthetic pesticides"
-      ],
-      "correctIndex": 0,
-      "explanation": "Ground-nesting cellophane bees synthesize a natural polymer resembling translucent plastic that protects their eggs and degrades naturally within a year."
-    },
-    {
-      "question": "The Viability Gap Funding (VGF) scheme allocated ₹14,500 crore by the Cabinet is designed to support:",
-      "options": [
-        "A) Thermal power plant retrofitting",
-        "B) Large-scale energy storage systems such as BESS and Pumped Hydro",
-        "C) Offshore natural gas exploration",
-        "D) Nuclear power reactor construction"
+        "Teesta",
+        "Brahmaputra",
+        "Barak",
+        "Subansiri"
       ],
       "correctIndex": 1,
-      "explanation": "The ₹14,500 crore VGF scheme targets grid-scale battery energy storage systems (BESS) and hydro pumped storage projects."
+      "explanation": "The Yarlung Tsangpo enters India in Arunachal Pradesh as the Siang (or Dihang) River, which later merges with the Dibang and Lohit to form the Brahmaputra in Assam."
     }
   ],
   "schemes": [
     {
-      "name": "VISTAR (Visionary Initiative for Statistical Transformation and Real-time Analytics)",
-      "ministry": "Ministry of Statistics and Programme Implementation (MoSPI)",
-      "beneficiaries": "Policymakers, economic analysts, national statistics bodies, public institutions",
-      "objective": "To overhaul India's national statistical system into a real-time, technology-driven architecture with enhanced unorganized sector sampling.",
+      "name": "SATAT (Sustainable Alternative Towards Affordable Transportation)",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "beneficiaries": "Entrepreneurs, farmers, municipal bodies, and green transport sector",
+      "objective": "To establish Compressed Bio-Gas (CBG) production plants and integrate CBG into the market for automotive and industrial use.",
       "keyFeatures": [
-        "Integration of Artificial Intelligence in data verification",
-        "Real-time survey collection models",
-        "Enhanced methodology for unorganized sector GDP representation"
+        "Encourages commercial production of CBG from agricultural residue, cattle dung, and municipal solid waste.",
+        "Aims for phased mandatory CBG blending targets in City Gas Distribution (CGD) networks."
       ],
-      "funding": "Approved by Union Cabinet",
-      "upscRelevance": "GS III: Economic planning, resource mobilization, and data governance."
-    },
-    {
-      "name": "Viability Gap Funding (VGF) Scheme for Energy Storage Systems",
-      "ministry": "Ministry of Power / Ministry of New and Renewable Energy",
-      "beneficiaries": "Power distribution companies, renewable energy developers, national grid operators",
-      "objective": "To de-risk capital investment in utility-scale energy storage systems for grid stability.",
-      "keyFeatures": [
-        "Supports Hydro Pumped Storage Plants (PSP)",
-        "Finances Battery Energy Storage Systems (BESS)",
-        "Targets integration of variable renewable power"
-      ],
-      "funding": "₹14,500 crore central outlay",
-      "upscRelevance": "GS III: Renewable energy infrastructure, climate change mitigation."
+      "funding": "Public-private partnerships and commercial bank financing supported by central policy incentives.",
+      "upscRelevance": "Relevant for GS III (Renewable Energy, Agricultural Waste Management, and Environmental Pollution control)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Judicial Oversight on Preventive Detention",
+      "topic": "Digital Financial Infrastructure",
       "points": [
-        "Gauhati High Court quashed National Security Act (NSA) orders invoked immediately following court bail, underscoring that executive detention cannot bypass ordinary criminal justice remedies."
+        "NPCI arguments before the SC highlighted that supporting high transaction volumes requires continuous investments in cybersecurity resilience, infrastructure redundancy, and system scalability, challenging the long-term sustainability of zero-MDR mandates."
       ]
     },
     {
-      "topic": "Data Quality in Governance",
+      "topic": "Statutory Authority & Federal PMLA Enforcement",
       "points": [
-        "Transitioning from lagged sample surveys to real-time digital statistical collection (VISTAR) reduces policy blind spots in welfare delivery and macroeconomic targets."
-      ]
-    },
-    {
-      "topic": "Ecosystem Services and Bio-Shields",
-      "points": [
-        "ICAR-CMFRI remote sensing data proves coastal mangrove expansion acts as an effective carbon sink and defense against extreme marine weather events."
+        "Karnataka High Court ruling established that the Enforcement Directorate (ED) cannot maintain independent PMLA proceedings without an active scheduled predicate offense registered by competent law enforcement agencies."
       ]
     }
   ],
   "whatToRemember": [
-    "Cabinet approved the VISTAR scheme to modernize India's statistics with AI and real-time data tools.",
-    "₹14,500 crore VGF scheme sanctioned to bolster battery and pumped-hydro energy storage.",
-    "Mahabharata, Arthashastra, and Rajatarangini manuscripts added to UNESCO Memory of the World Asia-Pacific Register.",
-    "Mines Ministry launched the 9th auction round of critical mineral blocks alongside a ₹2,814 crore refining incentive.",
-    "Gauhati HC quashed NSA detention of an environmental activist, reiterating Article 21 protections.",
-    "Indian NGO REACH won the international Kochon Prize 2026 for Tuberculosis prevention."
+    "Ministry of Mines launched the 9th tranche of critical mineral auctions, covering 20 strategic blocks.",
+    "NPCI informed the Supreme Court that maintaining zero MDR on UPI is financially unsustainable for long-term digital payment infrastructure.",
+    "Assam imposed restrictions on drone operations near Amur Falcon roosting habitats to prevent ecological disruption.",
+    "Karnataka High Court held that ED cannot initiate PMLA investigations without a pre-existing predicate offense.",
+    "Center mandated rice and paddy stock disclosures for traders to manage food inflation and check hoarding."
   ]
 }

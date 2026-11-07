@@ -1,405 +1,429 @@
 {
-  "fetchedAt": "2026-11-06T11:21:54.541Z",
+  "fetchedAt": "2026-11-07T10:35:40.383Z",
   "articles": [
     {
-      "title": "Gold rush chokes traffic in Hyderabad’s Panjagutta on November 6; not enough sales say jewellers",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/gold-rush-chokes-traffic-in-hyderabads-panjagutta-not-enough-sales-say-jewellers/article71674020.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:48:03 +0530",
+      "title": "One injured in explosion at Ghaziabad police outpost; ATS, bomb disposal team at site",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/ghaziabad-police-outpost-bomb-blast-injured-ats-bomb-disposal-team-at-site/article71677524.ece",
+      "pubDate": "Sat, 07 Nov 2026 16:03:52 +0530",
+      "description": "‘At that time, a Sub-Inspector and a delivery boy were present at the location; following this, an investigation was initiated, and all available evidence at the scene has been collected,’ said Ghaziabad Police Commissioner J. Ravinder Goud",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Telangana prisons introduce open schooling programme for inmates",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-prisons-introduce-open-schooling-programme-for-inmates/article71677937.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:59:54 +0530",
+      "description": "The programme was inaugurated by Principal Secretary to the Education Department Yogita Rana in the presence of DG of Prisons and Correctional Services Soumya Mishra and other senior officials",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:58:34 +0530",
+      "description": "State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "‘Arrangements in place for festive rush,’ Railway Minister says",
+      "link": "https://www.thehindu.com/news/national/arrangements-in-place-for-festive-rush-railway-minister-says/article71677885.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:55:06 +0530",
+      "description": "Minister of Railways Ashwini Vaishnaw said that the Ministry was closely tracking railway station crowds over the Deepavali weekend.",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Maoist with ₹10 Lakh Bounty Arrested in Thane",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maoist-with-10-lakh-bounty-arrested-in-thane/article71677653.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:54:57 +0530",
+      "description": "​Acting on intelligence provided by Jharkhand Police to senior officials of the Maharashtra ATS, the local unit verified the inputs and conducted the operation",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "A.P.-SECM launches State-level Short Video Contest on energy conservation for students",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-secm-launches-state-level-short-video-contest-on-energy-conservation-for-students/article71677414.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:42:12 +0530",
+      "description": "Competition is open for students from Classes 7 to 10 in all government, aided and private schools; videos (in Telugu, English, or Hindi) have to be of 30 seconds to 2 minutes duration",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:39:47 +0530",
+      "description": "The former top poll official also said that the Election Commission of India is supposed to make decisions based on a majority",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Wayanad landslides: Despite township progress, 13 Adivasi families still caught between ‘no-go zones’ and delayed rehab",
+      "link": "https://www.thehindu.com/news/national/kerala/wayanad-landslides-despite-township-progress-13-adivasi-families-still-caught-between-no-go-zones-and-delayed-rehab/article71677156.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:33:47 +0530",
+      "description": "Some now live in rented accommodation with government assistance, cut off from their forest environment and traditional livelihoods. Others have returned to the forest, as construction of the promised houses on alternative land allocated to them at Puthiyavillage in Meppadi under Forest Rights Act, 2006 is yet to begin",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "‘Mookuthi Amman 2’ movie review: Nayanthara’s Amman has divine powers, but cannot defeat bad filmmaking",
+      "link": "https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-movie-review-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71677645.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:25:23 +0530",
+      "description": "Sundar C hands Amman the superhero playbook, but even her divine powers cannot save this formulaic mess",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Sanskrit varsity suspension row: Prakash Raj says protesting students ‘are not Savarkars’ to tender apology",
+      "link": "https://www.thehindu.com/news/national/kerala/suspension-row-at-sanskrit-varsity-prakash-raj-says-protesting-students-are-not-savarkars-to-tender-apology/article71677687.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:21:01 +0530",
+      "description": "The actor visits protest site, says he will join protesting students if they are not allowed to appear for their examinations",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Assam group’s ‘Paani Campaign’ covers 3,000 flood-hit villagers",
+      "link": "https://www.thehindu.com/news/national/assam/assam-groups-paani-campaign-covers-3000-flood-hit-villagers/article71677604.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:20:09 +0530",
+      "description": "Jeevan Initiative, a volunteer-run organisation, has taken charge of seven villages in eastern Assam’s Charaideo district for water-related issues",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "FDA suspends 105 licences, cancels 7 across Maharashtra after pre-Deepavali checks",
+      "link": "https://www.thehindu.com/news/cities/mumbai/fda-suspends-105-licences-cancels-7-across-maharashtra-after-pre-deepavali-checks/article71677623.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:17:43 +0530",
+      "description": "The FDA pre-Deepavali inspections found violations in hygiene, food storage, manufacturing practices, and licensing requirements",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Sharad Pawar discharged from Mumbai hospital",
+      "link": "https://www.thehindu.com/news/national/sharad-pawar-discharged-from-mumbai-hospital/article71677827.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:15:43 +0530",
+      "description": "Mr. Pawar (85) proceeded to his residence near the Breach Candy Hospital, where he was under treatment for the last three days",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "‘Scene’ movie review: Suriya redefines mass in Jithu Madhavan’s ‘scene’-tillating dark comedy",
+      "link": "https://www.thehindu.com/entertainment/movies/scene-movie-review-suriya-jithu-madhavan-naslen-nazriya-nazim-sushin-shyam/article71673522.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:12:00 +0530",
+      "description": "Suriya’s playful reinvention, Naslen’s wicked charm, and Nazriya’s infectious energy power Jithu Madhavan’s thoroughly engaging, delectably satisfying dark comedy",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Bengaluru: Seven-murder accused allegedly terrorised neighbours for years, say residents",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-seven-murder-accused-allegedly-terrorised-neighbours-for-years-say-residents/article71675781.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:09:29 +0530",
+      "description": "Anand E., president of a small political party that operates from a small space on the first floor, just below Indushekhar’s house, said he had been threatened by him.",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Is your petrol really E20? Karnataka claims ethanol levels reached 31%",
+      "link": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:03:32 +0530",
+      "description": "A major controversy has emerged over ethanol blending in petrol after the Karnataka government claimed that fuel samples collected from multiple districts contained ethanol levels significantly above India’s permitted E20 limit.",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "The Siang dam and a threatened homeland",
+      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:00:08 +0530",
+      "description": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay ",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Tamil Nadu government restructures crop loan waiver scheme, extends eligibility period by a month",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-restructures-crop-loan-waiver-scheme-extends-eligibility-period-by-a-month/article71677707.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:55:19 +0530",
+      "description": "The State government has sanctioned an additional ₹2,842.77 crore towards the implementation of the expanded scheme",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Minor daughter allegedly helped father pack, dispose of bodies",
+      "link": "https://www.thehindu.com/news/cities/bangalore/minor-daughter-allegedly-helped-father-pack-dispose-of-bodies/article71675059.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:45:43 +0530",
+      "description": "A preliminary police investigation revealed that the girl was studying at a pre-university college and was close to her father",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "‘He said we were going on a trip’: 11-year-old survivor recounts days with accused after family’s murder in Bengaluru",
+      "link": "https://www.thehindu.com/news/cities/bangalore/he-said-we-were-going-on-a-trip-11-year-old-survivor-recounts-days-with-accused-after-familys-murder-in-bengaluru/article71674878.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:42:38 +0530",
+      "description": "The accused is suspected to have roamed with the boy’s parents’ bodies in the boot and boy, ‘his next target’, in the car",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Ex-Keralam Excise Commissioner Seeram Sambasiva Rao flags corruption, bribery in report to govt",
+      "link": "https://www.thehindu.com/news/national/kerala/ex-keralam-excise-commissioner-flags-corruption-bribery-in-report-to-govt-cpim-alleges-ministers-involvement/article71677415.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:40:59 +0530",
+      "description": "Report names Joint Excise Commissioner S. Vinod and Deputy Commissioner Ajay and recommends their immediate removal from field postings and a Vigilance probe against them. It also mentions that Excise Minister M. Liju has a close acquaintance with a bar in Kayamkulam, although there are no details about what kind of relationship the Minister was maintaining with bar authorities",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Police officer’s swift action saves journalist’s life in Anakapalli during ZPTC elections counting",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/police-officers-swift-action-saves-journalists-life-in-anakapalli-during-zptc-elections-counting/article71677397.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:29:23 +0530",
+      "description": "Hospital sources confirmed that the journalist received prompt medical attention and is currently undergoing treatment.",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Madras High Court closes plea to regulate gold loans and auction of pledged jewellery",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-closes-plea-to-regulate-gold-loans-and-auction-of-pledged-jewellery/article71677391.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:23:42 +0530",
+      "description": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan dispose of the case after recording RBI’s statement that it had already issued necessary circulars",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Telangana gets 359 additional PG medical seats in government colleges for 2026-27, intake rises to 1,625",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-gets-359-additional-pg-medical-seats-in-government-colleges-for-2026-27-intake-rises-to-1625/article71677401.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:23:37 +0530",
+      "description": "With this expansion, 23 of the State’s 35 government medical colleges will offer postgraduate courses, compared with 10 colleges earlier",
+      "source": "The Hindu",
+      "section": "National"
+    },
+    {
+      "title": "Man arrested for creating ruckus, vandalising police vehicle in Mattancherry in inebriated state",
+      "link": "https://www.thehindu.com/news/national/kerala/man-arrested-for-creating-ruckus-vandalising-police-vehicle-in-mattancherry-in-inebriated-state/article71677532.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:15:30 +0530",
       "description": "",
       "source": "The Hindu",
       "section": "National"
     },
     {
-      "title": "Air Force Sports Complex shut as Centre moves to reclaim prime land in Delhi",
-      "link": "https://www.thehindu.com/news/cities/Delhi/air-force-sports-complex-shut-as-centre-moves-to-reclaim-prime-land-in-delhi/article71645207.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:46:48 +0530",
-      "description": "The closure comes days after the Land and Development Office issued notices to the facility to hand over the land located on Lok Kalyan Marg.",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Election Commission gives fresh opportunity to electors left out of SIR draft rolls in Delhi, six States",
-      "link": "https://www.thehindu.com/news/national/eci-sir-draft-rolls-fresh-opportunity-to-electors-seven-states/article71674069.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:43:44 +0530",
-      "description": "The directions apply to Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Gauhati High Court quashes Assam activist’s NSA detention",
-      "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-quashes-assam-activists-nsa-detention/article71673798.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:42:04 +0530",
-      "description": "The State government invoked the National Security Act against Pranab Doley on July 30, a day after a court granted him bail for protesting a luxury hotel project near Kaziranga National Park",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Lab tests show ethanol blend in E20 petrol as high as 31% in Karnataka",
-      "link": "https://www.thehindu.com/news/national/karnataka/lab-tests-show-ethanol-blend-in-petrol-is-as-high-as-31-higher-than-20-e20-petrol-in-karnataka-government/article71673683.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:40:43 +0530",
-      "description": "Minister for Food, Civil Supplies and Consumer Affairs of Karnataka demands penalising OMCs, an E20 spoilage fund to compensate consumers",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Tourist arrivals in Keralam post modest growth; foreign footfall remains sluggish",
-      "link": "https://www.thehindu.com/news/national/kerala/tourist-arrivals-in-keralam-post-modest-growth-foreign-footfall-remains-sluggish/article71673666.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:37:33 +0530",
-      "description": "Domestic tourist arrivals registered a 10.47% increase this year, while foreign tourist arrivals grew by just 8.3% compared to corresponding period last year",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Keralam’s mangrove cover expanded in past decade despite prior decline, finds study",
-      "link": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:36:55 +0530",
-      "description": "Study by ICAR-Central Marine Fisheries Research Institute based in Kochi compared satellite images from 2017 and 2026 to map changes in mangrove vegetation across Keralam’s coastal districts",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Nora Fatehi appears in Delhi Court in extortion case involving Sukesh Chandrasekhar",
-      "link": "https://www.thehindu.com/news/cities/Delhi/nora-fatehi-appears-in-delhi-court-in-extortion-case-involving-sukesh-chandrasekhar/article71673825.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:36:34 +0530",
-      "description": "Nora Fatehi appeared as a listed witness before Additional Sessions Judge Gagandeep Singh. The Court proceedings are currently underway",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Actor Nora Fatehi gets fresh summons in extortion case involving Sukesh Chandrasekhar",
-      "link": "https://www.thehindu.com/news/national/actor-nora-fatehi-gets-fresh-summons-in-extortion-case-involving-sukesh-chandrasekhar/article71656550.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:36:12 +0530",
-      "description": "Additional Sessions Judge Gagandeep Singh issued fresh summons to the actor while expressing displeasure over her non-appearance",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Supreme Court refuses to suspend Tarun Tejpal’s 10-year sentence in 2013 rape case",
-      "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-suspend-tarun-tejpals-10-year-sentence-in-2013-rape-case/article71673809.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:32:49 +0530",
-      "description": "A Bench of Justices M.M. Sundresh and Prasanna B. Varale said it was “not a fit case” for suspension, while the Goa government’s plea for a longer sentence is pending",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Supreme Court seeks Goa’s response on Tarun Tejpal’s appeal against rape case conviction",
-      "link": "https://www.thehindu.com/news/national/supreme-court-seeks-goa-polices-response-on-tarun-tejpals-appeal-against-rape-case-conviction/article71507360.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:32:30 +0530",
-      "description": "Tejpal surrendered before a Goa court on September 14, to serve his 10-year rigorous imprisonment sentence",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Supreme Court notice to KPCC office-bearers on contempt plea for social media post against CJI",
-      "link": "https://www.thehindu.com/news/national/sc-issues-notice-to-all-office-bearers-of-keralam-unit-of-congress-over-post-targeting-cji-surya-kant/article71673644.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:30:12 +0530",
-      "description": "A post against the CJI from the official X account of the Keralam unit of Congress went viral on October 12, drawing sharp criticism on social media, before it was deleted",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Cyber criminals have no space in society, jails only meant for them: Supreme Court",
-      "link": "https://www.thehindu.com/news/national/cyber-criminals-have-no-space-in-society-jails-only-meant-for-them-supreme-court/article71673654.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:28:31 +0530",
-      "description": "A three-judge Bench headed by CJI Surya Kant refused bail to a cyber fraud accused and did not entertain his plea to surrender after Deepavali",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Fire breaks out in train coach in Punjab, passengers escape unhurt",
-      "link": "https://www.thehindu.com/news/national/fire-breaks-out-in-train-coach-in-punjab-passengers-escape-unhurt/article71674042.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:28:18 +0530",
-      "description": "According to officials, the incident occurred in a general coach of a train headed from Amritsar to New Jalpaiguri in West Bengal",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "APSCHE moots major overhaul of PG education in 28 State universities",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-moots-major-overhaul-of-pg-education-in-28-state-universities/article71673898.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:27:20 +0530",
-      "description": "A major feature of the proposed reform is a common credit framework of 80–88 credits for two-year postgraduate programmes",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Legal metrology department cracked down on traders selling rice more than stipulated prices in Vizianagaram district",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/legal-metrology-department-cracked-down-on-traders-selling-rice-more-than-stipulated-prices-in-vizianagaram-district/article71673559.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:26:24 +0530",
-      "description": "",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "SCR nets record ₹1.18 crore in single-day anti-ticketless travel drive",
-      "link": "https://www.thehindu.com/news/national/telangana/scr-nets-record-118-crore-in-single-day-anti-ticketless-travel-drive/article71673705.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:22:49 +0530",
-      "description": "The zone’s average daily ticket checking revenue stands at ₹33.44 lakh from around 4,373 cases",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Maharashtra FDA outlines precautions for consumers, directions to food business operators amid Deepavali",
-      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-outlines-precautions-for-consumers-directions-to-food-business-operators-amid-deepavali/article71673376.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:21:14 +0530",
-      "description": "The advisory, by the FDA, was issued to ensure food safety during the festive season, when demand for sweets, khava, ghee, dry fruits and other food products rises",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "JSP keen on Deputy Mayor post of Vizianagaram city",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/jsp-keen-on-deputy-mayor-post-of-vizianagaram-city/article71673528.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:21:08 +0530",
-      "description": "Despite stiff TDP competition, JSP hopes to win the coveted post for backing a major alliance partner. According to sources, BJP, which won three divisions, is also in the race",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Amit Shah calls for hat-trick in Uttarakhand, sets target of winning 65 seats in assembly polls",
-      "link": "https://www.thehindu.com/news/national/uttarakhand/amit-shah-calls-for-hat-trick-in-uttarakhand-sets-target-of-winning-65-seats-in-assembly-polls/article71673943.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:13:34 +0530",
-      "description": "Addressing a public rally in Dehradun, Amit Shah asserted that the BJP is set to form the Government in Uttarakhand once again and said the “voice of Uttarakhand” should reach Rahul Gandhi",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Lok Sabha Speaker accepts Srinagar MP Aga Ruhullah's resignation",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/lok-sabha-speaker-accepts-srinagar-mp-aga-ruhullahs-resignation/article71673704.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:09:21 +0530",
-      "description": "Ending a bitter stalemate with the National Conference leadership, Mr. Ruhullah resigned from the Lok Sabha and the party on November 3",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Sivakasi’s fireworks industry: sparkling opportunities up ahead",
-      "link": "https://www.thehindu.com/videos/sivakasis-fireworks-industry-sparkling-opportunities-up-ahead/article71673984.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:06:07 +0530",
-      "description": "Wave you ever wondered where the fireworks that light up your skies on Deepavali day come from? Let’s travel to Sivakasi, India’s fireworks capital, and discover the people, passion and industry behind the festival’s dazzling celebrations.",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "‘Shankarabharanna’ interview: Shine Shetty, Sumanth Bhat and Tanvi Ram on the horror comedy",
-      "link": "https://www.thehindu.com/videos/shankarabharanna-interview-shine-shetty-sumanth-bhat-and-tanvi-ram-the-horror-comedy/article71673697.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:05:20 +0530",
-      "description": "‘Shankarabharanna’, the upcoming Kannada comedy, is directed by Sumanth Bhat, who recently won the National Award for his debut feature, ‘Mithya’.",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "ISRO Chairman Narayanan meets Tamil Nadu CM Vijay",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/isro-chairman-narayanan-meets-tamil-nadu-cm-vijay/article71673774.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:03:54 +0530",
-      "description": "",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Hydrogen peroxide used to adulterate milk, seized in Ibrahimpatnam",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/hydrogen-peroxide-used-to-adulterate-milk-seized-in-ibrahimpatnam/article71673865.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:01:39 +0530",
-      "description": "Future City Police seized 35 kg of milk powder and one litre of hydrogen peroxide during a raid at a unit in Pocharam village",
-      "source": "The Hindu",
-      "section": "National"
-    },
-    {
-      "title": "Asian parties reject ‘unilateral actions’, call for respect for international law",
-      "link": "https://www.thehindu.com/news/international/asian-parties-reject-unilateral-actions-call-for-respect-for-international-law/article71674004.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:39:35 +0530",
-      "description": "The declaration was unanimously adopted at the 13th General Assembly of ICAPP, held in Seoul from November 4 to 6, with representatives of 83 political parties from across Asia participating",
+      "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+      "link": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:57:26 +0530",
+      "description": "Millions of customers, abruptly, lost access to their savings accounts and pension payments after regulators seized the bank, setting off a sequence of events that culminated in a change of political leadership",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "US midterm election results 2026: Key Indian-origin winners",
-      "link": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:03:32 +0530",
-      "description": "Indian-Americans Nithya Raman won the Los Angeles mayoral race, while Vivek ‌Ramaswamy‌ was defeated in ⁠the ⁠race to become Ohio’s ‌next governor",
-      "source": "The Hindu",
-      "section": "International"
-    },
-    {
-      "title": "Why Abdul El-Sayed’s victory matters beyond Michigan | Explained",
-      "link": "https://www.thehindu.com/videos/why-abdul-el-sayeds-victory-matters-beyond-michigan-explained/article71673969.ece",
-      "pubDate": "Fri, 06 Nov 2026 15:57:37 +0530",
-      "description": "Abdul El-Sayed has made history by becoming the first Muslim elected to the United States Senate. The physician, epidemiologist and progressive Democrat defeated Republican Mike Rogers in one of the most closely watched races of the 2026 midterm elections. His victory comes despite record spending against his campaign and intense political attacks from opponents.",
-      "source": "The Hindu",
-      "section": "International"
-    },
-    {
-      "title": "Trump debacle: On the U.S. midterm election results",
-      "link": "https://www.thehindu.com/opinion/editorial/trump-debacle-on-the-us-midterm-election-results/article71670096.ece",
-      "pubDate": "Fri, 06 Nov 2026 15:35:23 +0530",
-      "description": "Democrats must use their win to influence policy and improve lives",
-      "source": "The Hindu",
-      "section": "International"
-    },
-    {
-      "title": "Federal judge orders 14-day delay on any work beginning on Trump’s monumental arch",
-      "link": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece",
-      "pubDate": "Fri, 06 Nov 2026 15:34:41 +0530",
-      "description": "Judge Tanya Chutkan’s temporary restraining order came just over an hour after the National Capital Planning Commission approved the memorial arch in an 8-4 vote",
+      "title": "Who is Stephen Miller, Trump’s new Chief of Staff?",
+      "link": "https://www.thehindu.com/news/international/who-is-stephen-miller-trump-new-chief-of-staff/article71677475.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:42:25 +0530",
+      "description": "Stephen Miller, one of U.S. President Donald Trump’s closest aides for decades, will replace Susie Wiles, who becomes the first major White House casualty from the Democratic landslide earlier this week",
       "source": "The Hindu",
       "section": "International"
     },
     {
       "title": "After Donald Trump’s midterm poll rout, South America breathes easy as far-right feels the heat",
       "link": "https://www.thehindu.com/news/international/after-trumps-midterm-poll-rout-south-america-breathes-easy-as-far-right-feels-the-heat/article71673628.ece",
-      "pubDate": "Fri, 06 Nov 2026 15:25:36 +0530",
+      "pubDate": "Sat, 07 Nov 2026 14:38:32 +0530",
       "description": "Just a day after a blue wave swept across the U.S. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
-      "link": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece",
-      "pubDate": "Fri, 06 Nov 2026 13:46:02 +0530",
-      "description": "Union Culture Minister Gajendra Singh Shekhawat hailed the inscriptions as a landmark recognition of India’s extraordinary documentary and civilisational heritage",
+      "title": "New Zealand vote still too close to call as results trickle in",
+      "link": "https://www.thehindu.com/news/international/new-zealand-vote-still-too-close-to-call-as-results-trickle-in/article71677647.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:01:58 +0530",
+      "description": "New Zealand’s election remained too close to call on November 7, as early results trickled in from across the country, with neither the governing National-Luxon coalition nor Labour falling short of a majority and minor parties weighing in, including a rising Opportunity Party",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Malaysia’s former PM Najib will serve prison time at home after paying $12.3 million for pardon",
-      "link": "https://www.thehindu.com/news/international/malaysias-former-pm-najib-will-serve-prison-time-at-home-after-paying-123-million-for-pardon/article71673165.ece",
-      "pubDate": "Fri, 06 Nov 2026 13:44:57 +0530",
-      "description": "Najib, 73, has been imprisoned since August 2022, when Malaysia’s top court upheld his conviction in a case linked to the multi-billion dollar looting of the state investment fund 1Malaysia Development Berhad",
+      "title": "Who is Abdul El-Sayed, first Muslim U.S. Senator-elect?",
+      "link": "https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece",
+      "pubDate": "Sat, 07 Nov 2026 13:24:00 +0530",
+      "description": "Abdul El-Sayed is set to become the first Muslim to enter the U.S. Senate with his victory over former Republican lawmaker Mike Rogers in midterm elections",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Eisenkot tipped to seek Israel government with backing of Arab lists",
-      "link": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece",
-      "pubDate": "Fri, 06 Nov 2026 13:36:15 +0530",
-      "description": "Isaac Herzog held a second day of consultations with political parties on November 5 after the October 27 election; he said he will announce on November 8 whom he will task with trying to form a new government",
+      "title": "U.S. midterm election results: Senate, House and Governor shifts before and after",
+      "link": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece",
+      "pubDate": "Sat, 07 Nov 2026 13:22:54 +0530",
+      "description": "Democrats surged to full control of Congress in the November 2026 U.S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds. Here’s what changed between 2022 and 2026 midterms.",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Magnitude 4.2 earthquake strikes Nepal's Humla district",
-      "link": "https://www.thehindu.com/news/international/nepal-humla-earthquake-updates-on-november-6-2026/article71673185.ece",
-      "pubDate": "Fri, 06 Nov 2026 13:36:14 +0530",
-      "description": "The tremors were also felt in neighbouring Mugu and Bajhang districts",
+      "title": "Top U.S., China officials raise trade 'concerns' as APEC approaches",
+      "link": "https://www.thehindu.com/news/international/top-us-china-officials-raise-trade-concerns-as-apec-approaches/article71677476.ece",
+      "pubDate": "Sat, 07 Nov 2026 12:24:45 +0530",
+      "description": "Treasury Secretary Scott Bessent and U.S. Trade Representative Jamieson Greer held a call with Chinese Vice Premier He Lifeng and discussed economic and trade commitments over the last year",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Eisenkot tipped to seek Israel government as religious party drops Netanyahu",
-      "link": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-as-religious-party-drops-netanyahu/article71669957.ece",
-      "pubDate": "Fri, 06 Nov 2026 13:33:30 +0530",
-      "description": "The Opposition leader also received a recommendation from a key lawmaker from the Israeli-Arab minority, whose seats in Parliament soared due to outrage over Netanyahu's policies",
+      "title": "Iran says forces 'stronger' than at beginning of war",
+      "link": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece",
+      "pubDate": "Sat, 07 Nov 2026 11:32:25 +0530",
+      "description": "The Islamic Republic’s armed forces, having gained experience from direct confrontation with United States and Israel, are stronger than they were at the beginning of the war, Iranian Army Spokesperson Mohammad Akraminia said",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "India-born Nithya Raman beats Democratic incumbent to become LA mayor",
-      "link": "https://www.thehindu.com/news/international/india-born-nithya-raman-beats-democratic-incumbent-to-become-la-mayor/article71671618.ece",
-      "pubDate": "Fri, 06 Nov 2026 13:20:39 +0530",
-      "description": "Leftist Nithya Raman, who was the first DSA-affiliated Los Angeles City Council member, will now helm the entertainment capital as it prepares to host the 2028 Olympics",
+      "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+      "link": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:42:15 +0530",
+      "description": "U.S. State Department program, Rewards for Justice, gave no specific parameters on what information would yield a $20 million reward",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "The war that defeated ‘America First’",
-      "link": "https://www.thehindu.com/opinion/op-ed/the-war-that-defeated-america-first/article71668984.ece",
-      "pubDate": "Fri, 06 Nov 2026 12:57:53 +0530",
-      "description": "The central question now is whether Washington can recover the capacity to distinguish supporting an ally from subordinating its own interests",
+      "title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump",
+      "link": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:40:35 +0530",
+      "description": "U.S. officials say the suspect, Ronny Yordrix Guanipa Chrinos, then went on to describe voices in his head that were telling him to come to the nation’s capital and kill the Republican President",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Making sense of the blue shift in U.S. midterm election | a collection",
-      "link": "https://www.thehindu.com/news/international/making-sense-of-the-blue-shift-in-us-midterm-election-a-collection/article71673207.ece",
-      "pubDate": "Fri, 06 Nov 2026 12:56:44 +0530",
-      "description": "Analytical insights from The Hindu on the 2026 U.S. midterm results, blue wave shifts, and key state races",
+      "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
+      "link": "https://www.thehindu.com/news/international/jay-rockefeller-heir-to-famed-dynasty-and-healthcare-advocate-in-us-senate-dies-at-89/article71674682.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:33:00 +0530",
+      "description": "Jay Rockefeller, a tall, soft-spoken Democrat with liberal views, was a great-grandson of oil tycoon John ‌D. Rockefeller and the scion of a family that formed a political dynasty",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Trump to participate in Deepavali celebration at White House",
-      "link": "https://www.thehindu.com/news/international/trump-to-participate-in-deepavali-celebration-at-white-house/article71673084.ece",
-      "pubDate": "Fri, 06 Nov 2026 12:20:40 +0530",
-      "description": "The celebrations are scheduled to be held at the Oval Office, continuing a tradition started by President George W Bush",
+      "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+      "link": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:50:23 +0530",
+      "description": "‘They knocked out — they built a little bit of an anti-aircraft device — and we knocked it out in about 15 minutes, maybe five,’ says U.S. President Trump",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Donald Trump predicts deal with Russia on Ukraine and ‘all of Europe’",
-      "link": "https://www.thehindu.com/news/international/donald-trump-predicts-deal-with-russia-on-ukraine-and-all-of-europe/article71672626.ece",
-      "pubDate": "Fri, 06 Nov 2026 11:49:07 +0530",
-      "description": "The U.S. president’s comments will fuel European fears that Mr. Trump is pivoting towards the Kremlin and will push Ukraine into an unfavorable deal to end Russia’s invasion",
+      "title": "China says discussions underway on Xi-Trump-Putin meeting",
+      "link": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
+      "pubDate": "Sat, 07 Nov 2026 08:27:07 +0530",
+      "description": "President Trump is expected to travel to Shenzhen to meet President Xi for the third time this year, as the fragile trade truce is set to expire in January",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Trump blames Democrats’ midterm win for U.S. stock market selloff",
-      "link": "https://www.thehindu.com/news/international/trump-blames-democrats-midterm-win-for-us-stock-market-selloff/article71672908.ece",
-      "pubDate": "Fri, 06 Nov 2026 11:32:16 +0530",
-      "description": "Analysts attributed the fall to fears that Democrats could threaten the AI data centre investment boom, as the Nasdaq had its worst session in percentage terms since April 2025",
+      "title": "Iran reviewing proposals on Tehran’s nuclear programme: Officials",
+      "link": "https://www.thehindu.com/news/international/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials/article71677167.ece",
+      "pubDate": "Sat, 07 Nov 2026 06:55:49 +0530",
+      "description": "Mediators and Iran have discussed a potential bridge deal aimed at helping pave the way for further talks on Tehran’s nuclear programme, according to regional officials",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "China's Macau jails ex-lawmaker in first national security trial",
-      "link": "https://www.thehindu.com/news/international/chinas-macau-jails-ex-lawmaker-in-first-national-security-trial/article71672885.ece",
-      "pubDate": "Fri, 06 Nov 2026 11:02:54 +0530",
-      "description": "Au Kam San, who co-organised annual vigils for victims of the 1989 Tiananmen Square crackdown in Beijing, is the first person convicted under national security laws widened in 2023 in Macau",
+      "title": "Paraguayan President Pena impeached over banking crisis",
+      "link": "https://www.thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece",
+      "pubDate": "Sat, 07 Nov 2026 04:46:54 +0530",
+      "description": "Santiago Pena had offered his resignation over the disaster, but lawmakers pressed ahead with impeachment proceedings that would strip him of immunity granted to former Presidents",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Santiago Pena, Paraguay President, steps down as banking crisis sows chaos",
-      "link": "https://www.thehindu.com/news/international/santiago-pena-paraguay-president-steps-down-as-banking-crisis-sows-chaos/article71672650.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:30:44 +0530",
-      "description": "Thousands of Paraguayans gathered outside Congress on Thursday (November 5, 2026) to protest against the President",
+      "title": "Wave of resignations from U.S. Justice Department after midterms",
+      "link": "https://www.thehindu.com/news/international/wave-of-resignations-from-us-justice-department-after-midterms/article71676248.ece",
+      "pubDate": "Sat, 07 Nov 2026 04:11:07 +0530",
+      "description": "The Justice Department under Donald Trump has pursued cases against a number of perceived enemies, and several prosecutors have lost their jobs over their reluctance or inability to bring charges",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "The ecological fallout of Israel’s war in Gaza",
-      "link": "https://www.thehindu.com/opinion/op-ed/the-ecological-fallout-of-israels-war-in-gaza/article71670933.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:07:56 +0530",
-      "description": "The destruction of Gaza’s ecosystems underscores the need for accountability under international law",
+      "title": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP’s midterm defeat",
+      "link": "https://www.thehindu.com/news/international/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/article71676063.ece",
+      "pubDate": "Sat, 07 Nov 2026 01:10:45 +0530",
+      "description": "On his social media site, Donald Trump praised Susie Wiles and said she’d continue working for his political organisation",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Abdul El-Sayed: The progressive’s progress",
-      "link": "https://www.thehindu.com/news/international/abdul-el-sayed-the-progressives-progress/article71666954.ece",
-      "pubDate": "Fri, 06 Nov 2026 08:41:18 +0530",
-      "description": "Abdul El-Sayed’s describes himself as ‘just a capitalist who understands how capitalism works’ and identifies as a progressive; his candidacy was backed by leading figures such as Bernie Sanders and Alexandria Ocasio-Cortez",
+      "title": "Sailor killed in Gulf as Iran says tankers on fire",
+      "link": "https://www.thehindu.com/news/international/sailor-killed-in-gulf-as-iran-says-tankers-on-fire/article71676046.ece",
+      "pubDate": "Sat, 07 Nov 2026 00:40:32 +0530",
+      "description": "The Marshall Islands-flagged tanker Velos Sapphire was sailing to Bahrain empty of cargo when the attack happened on November 5, Velos Tankers said in a statement",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Sarah Jukaku: First Muslim U.S. senator’s wife has a Karnataka link",
-      "link": "https://www.thehindu.com/news/national/karnataka/sarah-jukaku-first-muslim-us-senator-abdul-el-sayed-wife-karnataka-bhatkal-links/article71667298.ece",
-      "pubDate": "Fri, 06 Nov 2026 08:39:39 +0530",
-      "description": "Dr. Sarah is the granddaughter of the late J.H. Shamsuddin Jukaku, a lawyer from Bhatkal who served as Deputy Finance Minister in the erstwhile Mysore State government, led by the then Chief Minister B.D. Jatti, in the late 1950s and early 1960s.",
+      "title": "Myanmar to conduct byelections next April",
+      "link": "https://www.thehindu.com/news/international/myanmar-to-conduct-byelections-next-april/article71675733.ece",
+      "pubDate": "Fri, 06 Nov 2026 23:45:48 +0530",
+      "description": "The move indicates the military's increasing confidence in its ability to control territory in the Southeast Asian nation after it claimed advances following a string of offensives",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Trump designates Oval Office as national monument",
-      "link": "https://www.thehindu.com/news/international/trump-designates-oval-office-as-national-monument/article71671751.ece",
-      "pubDate": "Fri, 06 Nov 2026 07:59:35 +0530",
-      "description": "Critics accused Donald Trump of ignoring voter concerns over the Iran war and affordability ahead of midterm elections and obsessing instead on multiple construction and renovation projects in the capital",
+      "title": "Israel Opposition eases on ultra-Orthodox draft to oust Netanyahu",
+      "link": "https://www.thehindu.com/news/international/israel-opposition-eases-on-ultra-orthodox-draft-to-oust-netanyahu/article71675551.ece",
+      "pubDate": "Fri, 06 Nov 2026 23:36:39 +0530",
+      "description": "Listing the most important goals as removing Netanyahu and avoiding new elections, Opposition partner Avigdor Liberman said it was time to compromise and \"understand that trying to have everything risks getting nothing\".",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "U.S. Assistant Attorney General Harmeet Dhillon resigns",
-      "link": "https://www.thehindu.com/news/international/us-assistant-attorney-general-harmeet-dhillon-resigns/article71672623.ece",
-      "pubDate": "Fri, 06 Nov 2026 07:20:08 +0530",
-      "description": "Attorney General Todd Blanche announced her resignation in a social media post, saying Assistant Attorney General Dhillon had \"led the Civil Rights Division with conviction",
+      "title": "FBI arrests Thomas Markle, father of Meghan, over child sexual abuse material",
+      "link": "https://www.thehindu.com/news/international/meghan-markle-father-thomas-arrested-fbi/article71675624.ece",
+      "pubDate": "Fri, 06 Nov 2026 23:36:19 +0530",
+      "description": "Meghan Markle recently said she was “deeply distressed” by allegations that a collection of child sexual abuse images had been found at her father's former home",
       "source": "The Hindu",
       "section": "International"
     },
     {
-      "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
-      "link": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-      "pubDate": "Fri, 06 Nov 2026 02:04:58 +0530",
-      "description": "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, a joint press release stated",
+      "title": "Two USCIRF officials claim vigilante attacks on gurdwaras in India",
+      "link": "https://www.thehindu.com/news/national/us-commission-on-international-religious-freedom-claim-vigilante-attacks-on-india-gurdwaras/article71675663.ece",
+      "pubDate": "Fri, 06 Nov 2026 23:32:34 +0530",
+      "description": "India describes U.S. Commission on International Religious Freedom as a biased organisation that lacks credibility",
       "source": "The Hindu",
       "section": "International"
+    },
+    {
+      "title": "Airstrikes on market in southwestern Yemen kill at least 30, Houthis say",
+      "link": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
+      "pubDate": "Fri, 06 Nov 2026 22:54:28 +0530",
+      "description": "A Houthi Health Ministry spokesperson, Anees Alsabahi, told Houthi-run TV Al Masirah that 15 people were also wounded in the airstrikes on the market in al-Waziyah in the province of Taiz",
+      "source": "The Hindu",
+      "section": "International"
+    },
+    {
+      "title": "Bangladesh rescues Rohingya refugees in border gun battle",
+      "link": "https://www.thehindu.com/news/international/bangladesh-rescues-rohingya-refugees-in-border-gun-battle/article71675805.ece",
+      "pubDate": "Fri, 06 Nov 2026 22:48:36 +0530",
+      "description": "One soldier was killed in the clash on November 5 night, the military's Inter-Services Public Relations (ISPR) said.",
+      "source": "The Hindu",
+      "section": "International"
+    },
+    {
+      "title": "U.K. police expect more cases against celebrity sex convict Russell Brand",
+      "link": "https://www.thehindu.com/news/international/uk-police-expect-more-cases-against-celebrity-sex-convict-russell-brand/article71675800.ece",
+      "pubDate": "Fri, 06 Nov 2026 22:39:48 +0530",
+      "description": "Russell Brand was remanded in custody and told by the judge he faced a \"significant custodial term\" at his sentencing on November 9",
+      "source": "The Hindu",
+      "section": "International"
+    },
+    {
+      "title": "Amid price rise, Centre mandates rice, paddy stock declaration",
+      "link": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece",
+      "pubDate": "Sat, 07 Nov 2026 00:53:37 +0530",
+      "description": "To prevent hoarding, Union government allows five southern States to impose stock limits",
+      "source": "The Hindu",
+      "section": "Economy"
+    },
+    {
+      "title": "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
+      "link": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
+      "pubDate": "Fri, 06 Nov 2026 21:35:13 +0530",
+      "description": "Democrats’ victories raise prospect of tighter scrutiny of data-centre projects as investors reassess AI spending; Indian equities buck global market weakness",
+      "source": "The Hindu",
+      "section": "Economy"
+    },
+    {
+      "title": "ADNOC inks 10-year LNG supply and purchase agreement with Gujarat Energy",
+      "link": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
+      "pubDate": "Fri, 06 Nov 2026 21:27:52 +0530",
+      "description": "This would be ADNOC’s fifth long-term LNG supply agreement with India.",
+      "source": "The Hindu",
+      "section": "Economy"
     },
     {
       "title": "VISTAR: India’s shift towards a real-time, technology-driven statistical system | Explained",
@@ -442,73 +466,161 @@
       "section": "Economy"
     },
     {
-      "title": "From poverty alleviation to prosperity",
-      "link": "https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece",
-      "pubDate": "Thu, 05 Nov 2026 09:02:46 +0530",
-      "description": "India has reduced extreme poverty, but its high prosperity gap shows that millions remain far from a comfortable standard of living; informal work, stagnant wages and limited employment opportunities continue to constrain upward mobility",
+      "title": "How improving your daily lifestyle can help decrease the risk of endometrial cancer",
+      "link": "https://www.thehindu.com/sci-tech/health/how-improving-your-daily-lifestyle-can-help-decrease-the-risk-of-endometrial-cancer/article71673951.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:08:55 +0530",
+      "description": "The incidence of endometrial cancer is rising in India. Understanding risk factors can help women take action to reduce their risk, and make informed decisions about their health",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "U.S. midterm elections: An economy under pressure, political shift and the road ahead",
-      "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece",
-      "pubDate": "Thu, 05 Nov 2026 08:50:49 +0530",
-      "description": "Despite robust economic growth, a buoyant stock market and relatively low unemployment, rising living costs have emerged as a major political challenge for the Trump administration",
+      "title": "Faith meets fitness: The Keralam church where prayers come with pull-ups",
+      "link": "https://www.thehindu.com/news/national/kerala/faith-meets-fitness-the-keralam-church-where-prayers-come-with-pull-ups/article71677600.ece",
+      "pubDate": "Sat, 07 Nov 2026 13:53:02 +0530",
+      "description": "St. Joseph’s Church in Kuriachira, Thrissur, has set up an open gym to promote fitness among parishioners. With no fixed timings, parishioners can drop in at their convenience, with many heading to the gym after attending Holy Mass",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "Oil prices hit two-month low after U.S. Democratic win",
-      "link": "https://www.thehindu.com/business/Economy/oil-prices-hit-two-month-low-after-us-democratic-win/article71668473.ece",
-      "pubDate": "Thu, 05 Nov 2026 08:22:17 +0530",
-      "description": "Brent crude futures dropped 1% to $93.5 per ⁠barrel, after an 8.7% slide in the previous session",
+      "title": "U.S. FBI and regulators issue warning about cyber-attacks targeting industrial refrigerators",
+      "link": "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece",
+      "pubDate": "Sat, 07 Nov 2026 13:14:22 +0530",
+      "description": "The U.S. regulators warned organisations about “ongoing cyber threat activity targeting industrial refrigeration and cold chain monitoring systems,” shortly after these hacks led to huge amounts of food waste across European supermarkets",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "Centre earmarks ₹2,814 crore to boost lithium, nickel processing",
-      "link": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
-      "pubDate": "Wed, 04 Nov 2026 22:49:15 +0530",
-      "description": "In a social media post, Union Coal and Mines Minister G. Kishan Reddy stated the scheme would help strengthen domestic capabilities, boost manufacturing and reduce dependence on imports.",
+      "title": "The Siang dam and a threatened homeland",
+      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+      "pubDate": "Sat, 07 Nov 2026 11:16:33 +0530",
+      "description": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay ",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "Union Cabinet approves new VISTAR scheme to overhaul India’s statistical system",
-      "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece",
-      "pubDate": "Wed, 04 Nov 2026 21:18:00 +0530",
-      "description": "The three-pronged scheme is aimed at strengthening data collecting, analysis, the incorporation of AI, as well as provide fresh data on the unorganised sector to make the overall GDP figure more accurate",
+      "title": "Lung cancer rising faster among women in Karnataka",
+      "link": "https://www.thehindu.com/news/national/karnataka/lung-cancer-rising-faster-among-women-in-karnataka/article71674996.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:56:09 +0530",
+      "description": "While men account for a higher number of cases, incidence among women is increasing at a faster rate, data shows",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "Union Cabinet approves ₹14,500 crore VGF scheme to develop large scale energy storage in India",
-      "link": "https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece",
-      "pubDate": "Wed, 04 Nov 2026 18:27:02 +0530",
-      "description": "The scheme is designed to provide for the development of hydro pumped storage plant (PSP) capacity, battery energy storage system (BESS) capacity, as well as alternative energy storage technologies",
+      "title": "Keralam Child Development Centre gets ₹35-lakh grant to study autism-related parental grief",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-child-development-centre-gets-35-lakh-grant-to-study-autism-related-parental-grief/article71674060.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:39:14 +0530",
+      "description": "Three-year project will examine chronic sorrow and coping mechanisms in ASD families.",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely",
-      "link": "https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece",
-      "pubDate": "Wed, 04 Nov 2026 18:12:46 +0530",
-      "description": "Trade and geopolitical experts say that losing control of the U.S. Congress will push President Donald Trump to increase tariff pressure on India to seal a deal. Indian negotiators, for their part, will smell an opportunity",
+      "title": "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR",
+      "link": "https://www.thehindu.com/news/national/supreme-court-terms-vehicular-emissions-major-contributor-to-air-pollution-in-delhi-ncr/article71673419.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:36:08 +0530",
+      "description": "The Bench highlighted the large number of vehicles plying on roads connecting Delhi with neighbouring areas, including Ghaziabad, Greater Noida, Gurugram and Faridabad",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
     },
     {
-      "title": "Supreme Court upholds States’ power to levy additional sales tax, says case has become academic",
-      "link": "https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece",
-      "pubDate": "Wed, 04 Nov 2026 16:55:35 +0530",
-      "description": "The seven-judge Bench, led by CJI Surya Kant, said the reference in the Orissa Sales Tax Act case no longer requires adjudication since the challenged provisions have been amended and GST governs the issue moving forward",
+      "title": "Kochi doctor booked for sexual assault a day after actors’ arrest on his complaint",
+      "link": "https://www.thehindu.com/news/national/kerala/kochi-doctor-booked-for-sexual-assault-a-day-after-actors-arrest-on-his-complaint/article71675580.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:33:53 +0530",
+      "description": "The Infopark police registered the case against the doctor on a complaint filed by a relative of one of the accused; he allegedly abused the woman after giving her intoxicants, say police",
       "source": "The Hindu",
-      "section": "Economy"
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
+      "link": "https://www.thehindu.com/news/international/jay-rockefeller-heir-to-famed-dynasty-and-healthcare-advocate-in-us-senate-dies-at-89/article71674682.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:33:00 +0530",
+      "description": "Jay Rockefeller, a tall, soft-spoken Democrat with liberal views, was a great-grandson of oil tycoon John ‌D. Rockefeller and the scion of a family that formed a political dynasty",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
+      "link": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:26:58 +0530",
+      "description": "One of the corporate faces of the AI boom, OpenAI has moved quickly ‌to counter fears that a shift in congressional power could slow the industry’s growth",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "If you’re fit and performing well, age doesn’t matter: Michael Klinger",
+      "link": "https://www.thehindu.com/sport/cricket/michael-klinger-interview-australia-cricketer-gujarat-giants-coach-wpl-india/article71676036.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:24:28 +0530",
+      "description": "After spending years waiting for an international call-up, Klinger sparkled in his brief stint with Australia. Now a sought-after coach on the franchise circuit, the 46-year-old reflects on opening with Brendon McCullum in the IPL, coaching Gujarat Giants in the WPL and ageism in cricket.",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Activists invade site of Microsoft's planned data centre in Amsterdam",
+      "link": "https://www.thehindu.com/sci-tech/technology/activists-invade-site-of-microsofts-planned-data-centre-in-amsterdam/article71677202.ece",
+      "pubDate": "Sat, 07 Nov 2026 10:05:22 +0530",
+      "description": "\"It's so many things, so many struggles that come together in this data centre,\" Geef Tegengas spokesman, Nathan Timmer, told AFP",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Amazon rolls out text-based shopping through Alexa",
+      "link": "https://www.thehindu.com/sci-tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/article71677218.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:30:23 +0530",
+      "description": "Amazon said the new text ‌feature lets users ‌research ⁠and compare products, track ⁠deals and price drops, and have Alexa for Shopping complete purchases",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Assam prohibits drone operations near Amur falcon roosting sites",
+      "link": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:16:30 +0530",
+      "description": "The order follows reports of content creators and visitors flying drones close to congregations of the migratory raptors, apparently to capture photographs and videos for social media",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
+      "link": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:15:36 +0530",
+      "description": "The Supreme Court permitted the bursting of certified green firecrackers between 6 a.m. and 7 a.m. and between 8 p.m. and 10 p.m. on November 7 and November 8, 2026 in Delhi-NCR",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+      "pubDate": "Sat, 07 Nov 2026 06:46:06 +0530",
+      "description": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Documentary highlights role of family physicians in strengthening primary healthcare",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-news-documentary-highlights-role-of-family-physicians-in-strengthening-primary-healthcare/article71671059.ece",
+      "pubDate": "Fri, 06 Nov 2026 19:22:56 +0530",
+      "description": "The documentary intends to initiate wider conversations on reviving primary healthcare networks in urban and rural communities, and recognising neighbourhood doctors as an integral part of the healthcare system",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "Air quality of Delhi worsens, many parts reel under ‘severe’ level air pollution",
+      "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-of-delhi-worsens-many-parts-reel-under-severe-level-air-pollution/article71672802.ece",
+      "pubDate": "Fri, 06 Nov 2026 18:47:01 +0530",
+      "description": "Many parts of the national capital, including IIT Delhi, ITO, Dwarka, Rohini, Punjabi Bagh, Alipur, Bawana, and Jahangirpuri, witnessed “severe” level air pollution",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
+    },
+    {
+      "title": "IT Ministry approves 12 more projects under ECMS scheme",
+      "link": "https://www.thehindu.com/business/Industry/it-ministry-approves-12-more-projects-under-ecms-scheme/article71673913.ece",
+      "pubDate": "Fri, 06 Nov 2026 18:08:10 +0530",
+      "description": "The Electronics Component Manufacturing Scheme (ECMS) allows the government to approve turnover-linked incentives across the component industry.",
+      "source": "The Hindu",
+      "section": "Sci-Tech"
     },
     {
       "title": "Keralam’s mangrove cover expanded in past decade despite prior decline, finds study",
       "link": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:36:55 +0530",
+      "pubDate": "Fri, 06 Nov 2026 17:50:09 +0530",
       "description": "Study by ICAR-Central Marine Fisheries Research Institute based in Kochi compared satellite images from 2017 and 2026 to map changes in mangrove vegetation across Keralam’s coastal districts",
       "source": "The Hindu",
       "section": "Sci-Tech"
@@ -522,14 +634,6 @@
       "section": "Sci-Tech"
     },
     {
-      "title": "Air quality of Delhi worsens, many parts reel under ‘severe’ level air pollution",
-      "link": "https://www.thehindu.com/news/cities/Delhi/air-quality-of-delhi-worsens-many-parts-reel-under-severe-level-air-pollution/article71672802.ece",
-      "pubDate": "Fri, 06 Nov 2026 15:09:03 +0530",
-      "description": "Many parts of the national capital, including IIT Delhi, ITO, Dwarka, Rohini, Punjabi Bagh, Alipur, Bawana, and Jahangirpuri, witnessed “severe” level air pollution",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
       "title": "Indian NGO REACH receives Kochon Prize 2026",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/indian-ngo-reach-receives-kochon-prize-2026/article71673359.ece",
       "pubDate": "Fri, 06 Nov 2026 14:19:34 +0530",
@@ -538,10 +642,10 @@
       "section": "Sci-Tech"
     },
     {
-      "title": "Documentary highlights role of family physicians in strengthening primary healthcare",
-      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-news-documentary-highlights-role-of-family-physicians-in-strengthening-primary-healthcare/article71671059.ece",
-      "pubDate": "Fri, 06 Nov 2026 14:19:06 +0530",
-      "description": "The documentary is intended to initiate wider conversations on reviving primary healthcare networks in urban and rural communities, and recognising neighbourhood doctors as an integral part of the healthcare system",
+      "title": "Health Quiz: On prematurity",
+      "link": "https://www.thehindu.com/sci-tech/health/health-quiz-on-prematurity/article71664565.ece",
+      "pubDate": "Fri, 06 Nov 2026 14:10:38 +0530",
+      "description": "November has a significant day: the world observes Prematurity Day on November 15. Globally, prematurity is the leading cause of death in children under the age of 5 years. India carries a significant burden of prematurity, and is believed to have the highest number of preterm births in the world. How much do you know about it? Take this quiz to find out!",
       "source": "The Hindu",
       "section": "Sci-Tech"
     },
@@ -562,153 +666,41 @@
       "section": "Sci-Tech"
     },
     {
-      "title": "Deepavali with pets: Why pet parents are choosing quieter holiday getaways",
-      "link": "https://www.thehindu.com/life-and-style/how-to-calm-a-dog-during-diwali-fireworks-signs-of-firework-stress-in-cats-pet-friendly-places-to-spend-deepavali/article71656241.ece",
-      "pubDate": "Fri, 06 Nov 2026 11:17:43 +0530",
-      "description": "As fireworks unsettle dogs and cats, pet owners are trading noisy city celebrations for countryside retreats, pet hostels and quieter holidays",
+      "title": "The Siang dam and a threatened homeland",
+      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece",
+      "pubDate": "Sat, 07 Nov 2026 15:00:08 +0530",
+      "description": "The Adi community has been protesting against the Siang Upper Multipurpose Project in Arunachal Pradesh, saying it threatens their land, livelihoods, and civilisation. The agitation has turned violent in response to increasing use of force by the State authorities. The community alleges that the State government has used deceit, force, and threats to get consent for the feasibility study. Abhinay ",
       "source": "The Hindu",
-      "section": "Sci-Tech"
+      "section": "Environment"
     },
     {
-      "title": "Google sued over suicide-related AI chats on school computer",
-      "link": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
-      "pubDate": "Fri, 06 Nov 2026 11:14:46 +0530",
-      "description": "The teenager was not able to access Google's Gemini app, nor OpenAI's ChatGPT, because they were blocked by her school",
+      "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+      "pubDate": "Sat, 07 Nov 2026 14:18:45 +0530",
+      "description": "No COP decision has referred to the quantitative value of the total or remaining carbon budget nor has discussed which countries have spent it the most. If COP31 is to deliver real impetus to climate action, its decisions must revert to the basics",
       "source": "The Hindu",
-      "section": "Sci-Tech"
+      "section": "Environment"
     },
     {
-      "title": "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
-      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-seizes-drugs-cosmetics-worth-3451-lakh-cancels-122-licences/article71671236.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:43:52 +0530",
-      "description": "The FDA urged citizens to report instances of illegal drug manufacturing or sales, as well as suspected substandard drugs, medical devices and cosmetics, to its commissioner’s office or the nearest district office",
+      "title": "Assam prohibits drone operations near Amur falcon roosting sites",
+      "link": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:16:30 +0530",
+      "description": "The order follows reports of content creators and visitors flying drones close to congregations of the migratory raptors, apparently to capture photographs and videos for social media",
       "source": "The Hindu",
-      "section": "Sci-Tech"
+      "section": "Environment"
     },
     {
-      "title": "Amid rising concerns over Ebola, A.P. steps up surveillance at airports",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/amid-rising-concerns-over-ebola-ap-steps-up-surveillance-at-airports/article71670600.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:43:36 +0530",
-      "description": "Medical teams stationed at three airports and three ports to screen passengers arriving from Ebola-affected countries for any symptoms",
+      "title": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
+      "link": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:15:36 +0530",
+      "description": "The Supreme Court permitted the bursting of certified green firecrackers between 6 a.m. and 7 a.m. and between 8 p.m. and 10 p.m. on November 7 and November 8, 2026 in Delhi-NCR",
       "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "Anthropic rolls out personal finance feature for Claude",
-      "link": "https://www.thehindu.com/sci-tech/technology/anthropic-rolls-out-personal-finance-feature-for-claude/article71672717.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:37:03 +0530",
-      "description": "The company ​said the feature carries no ads or ⁠sponsored recommendations",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "As New Delhi’s air turns toxic again, people complain of unaffordable air purification products",
-      "link": "https://www.thehindu.com/sci-tech/technology/as-new-delhis-air-turns-toxic-again-people-complain-of-unaffordable-air-purification-products/article71660297.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:33:44 +0530",
-      "description": "Despite observations from the Delhi High Court and recommendations from a Parliamentary Standing Committee to reduce the 18% GST on purifiers and HEPA filters to 5%, the GST Fitment Committee maintained the 18% levy",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
-      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:15:51 +0530",
-      "description": "The nest lining of the ground-nesting bee is translucent, flexible, resilient and degrades within a year",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
-      "link": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece",
-      "pubDate": "Fri, 06 Nov 2026 10:10:39 +0530",
-      "description": "Galactic archaeologists are using precise measures and larger sample sizes afforded by new missions to tease apart minute differences between groups of stars, revealing the history of the Milky Way going back almost 12 billion years",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "Tech firms suffer bloodbath as US midterms fuel AI fears",
-      "link": "https://www.thehindu.com/sci-tech/technology/tech-firms-suffer-bloodbath-as-us-midterms-fuel-ai-fears/article71672699.ece",
-      "pubDate": "Fri, 06 Nov 2026 09:57:57 +0530",
-      "description": "Trading boards were a sea of red in early business, with Seoul and Tokyo taking the brunt of the selling as traders fled to the hills",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "Are lower MRPs on cancer drugs translating into affordable care?",
-      "link": "https://www.thehindu.com/opinion/op-ed/are-lower-mrps-on-cancer-drugs-translating-into-affordable-care/article71671311.ece",
-      "pubDate": "Fri, 06 Nov 2026 09:49:12 +0530",
-      "description": "",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-      "link": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece",
-      "pubDate": "Fri, 06 Nov 2026 09:31:18 +0530",
-      "description": "The model ⁠is meant to help security researchers find vulnerabilities, test how they could be exploited and ‌fix flaws before attackers do, OpenAI said",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
-      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece",
-      "pubDate": "Fri, 06 Nov 2026 09:04:56 +0530",
-      "description": "Researchers analysed over 200 experimental studies on 177 aquatic and terrestrial species across six continents and found that noise altered specific traits in 80% of the animals studied",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "OpenAI formalises future U.S. data-centre safeguards; pledges union engagement, environmental disclosures",
-      "link": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-      "pubDate": "Thu, 05 Nov 2026 23:40:01 +0530",
-      "description": "Amid growing U.S. opposition to data-centre expansion, company commits to bearing electricity and grid infrastructure costs, publishing water and power consumption, and working with unions on local hiring and training; proposes measures to make data-centre developers more accountable",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "How do tokamaks work to make nuclear fusion possible?",
-      "link": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece",
-      "pubDate": "Thu, 05 Nov 2026 23:32:24 +0530",
-      "description": "A tokamak uses magnetic fields to confine superhot plasma to enable nuclear fusion; despite advances in research, engineering challenges remain, and no tokamak has generated net energy for commercial power",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
-      "link": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece",
-      "pubDate": "Thu, 05 Nov 2026 22:44:46 +0530",
-      "description": "ISRO to conduct in-orbit testing for satellite payload as part of developing NavIC, an indigenous GPS alternative; ISRO chief recalls Indian scientists’ role in saving lives on the Axiom-4 mission; praises Russian support of India’s space programme",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "Ninja Crispi review: India’s viral glass air fryer, from marinade to leftovers",
-      "link": "https://www.thehindu.com/life-and-style/ninja-crispi-review-indias-viral-glass-air-fryer-from-marinade-to-leftovers/article71634242.ece",
-      "pubDate": "Thu, 05 Nov 2026 20:55:34 +0530",
-      "description": "Shopping for a kitchen upgrade this festive season? SharkNinja’s glass air fryer is built for households of one or two, and it largely lives up to the hype, with one gap Ninja India still has to close.",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "Postcards from Earth",
-      "link": "https://www.thehindu.com/infographics/2026-11-05/nasa-voyager-i-49-years-in-space/index.html",
-      "pubDate": "Thu, 05 Nov 2026 18:50:38 +0530",
-      "description": "Voyager I’s forty-nine-year journey into the void",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
-    },
-    {
-      "title": "What do dark circles under a child’s eyes indicate?",
-      "link": "https://www.thehindu.com/sci-tech/health/what-do-dark-circles-under-a-childs-eyes-indicate/article71656102.ece",
-      "pubDate": "Thu, 05 Nov 2026 17:35:58 +0530",
-      "description": "Dark circles under a child’s eyes may not always be due to lack of sleep. Genetics, allergies and nasal congestion can also play a role. Paediatricians explain the causes and when parents should seek medical advice",
-      "source": "The Hindu",
-      "section": "Sci-Tech"
+      "section": "Environment"
     },
     {
       "title": "Keralam’s mangrove cover expanded in past decade despite prior decline, finds study",
       "link": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece",
-      "pubDate": "Fri, 06 Nov 2026 16:36:55 +0530",
+      "pubDate": "Fri, 06 Nov 2026 17:50:09 +0530",
       "description": "Study by ICAR-Central Marine Fisheries Research Institute based in Kochi compared satellite images from 2017 and 2026 to map changes in mangrove vegetation across Keralam’s coastal districts",
       "source": "The Hindu",
       "section": "Environment"
@@ -746,28 +738,20 @@
       "section": "Environment"
     },
     {
-      "title": "On the proposed Siang dam in Arunachal Pradesh | Green Humour by Rohan Chakravarty",
-      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/on-the-proposed-siang-dam-in-arunachal-pradesh-green-humour-by-rohan-chakravarty/article71655923.ece",
-      "pubDate": "Thu, 05 Nov 2026 15:10:49 +0530",
-      "description": "",
+      "title": "Epic failures: on electoral roll, welfare",
+      "link": "https://www.thehindu.com/opinion/editorial/epic-failures-on-electoral-roll-welfare/article71674394.ece",
+      "pubDate": "Sat, 07 Nov 2026 09:19:46 +0530",
+      "description": "The electoral roll cannot be used to determine welfare beneficiaries",
       "source": "The Hindu",
-      "section": "Environment"
+      "section": "Editorial"
     },
     {
-      "title": "Satellite assessment shows 73% reduction in Bhutan’s lake after GLOF",
-      "link": "https://www.thehindu.com/news/international/satellite-assessment-shows-73-reduction-in-bhutans-lake-after-glof/article71666542.ece",
-      "pubDate": "Thu, 05 Nov 2026 04:13:18 +0530",
-      "description": "The Noida-based geospatial intelligence company’s study indicates a supraglacial lake adjoining the GLOF-hit Sintaphu Tsho continues to remain substantially larger than its 2016 extent",
+      "title": "Young and fast: on F1’s youngest champion",
+      "link": "https://www.thehindu.com/opinion/editorial/young-and-fast-on-f1s-youngest-champion/article71674756.ece",
+      "pubDate": "Fri, 06 Nov 2026 23:59:28 +0530",
+      "description": "As F1’s youngest champion, Kimi Antonelli can attract a new generation of fans",
       "source": "The Hindu",
-      "section": "Environment"
-    },
-    {
-      "title": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
-      "link": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
-      "pubDate": "Wed, 04 Nov 2026 17:23:03 +0530",
-      "description": "Seven Indian monsoons since 1950 have run into a moderate or strong El Niño. Of these, in five years, including 2026, monsoon rainfall levels were at least 10% lower than the long-term average. The IMD refers to this level as 'deficient’. The 2023 season was something of an exception with ‘below average’ rainfall. However, 1997 had ‘average’ rainfall",
-      "source": "The Hindu",
-      "section": "Environment"
+      "section": "Editorial"
     },
     {
       "title": "Trump debacle: On the U.S. midterm election results",
@@ -786,508 +770,556 @@
       "section": "Editorial"
     },
     {
-      "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
-      "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece",
-      "pubDate": "Thu, 05 Nov 2026 13:41:21 +0530",
-      "description": "ISRO needs more human and material resources to fulfil its mandate",
-      "source": "The Hindu",
-      "section": "Editorial"
-    },
-    {
-      "title": "Damning report: On Justice Muralidhar’s report on Israeli atrocities",
-      "link": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece",
-      "pubDate": "Thu, 05 Nov 2026 09:34:33 +0530",
-      "description": "The world must act on Justice Muralidhar’s report on Israeli atrocities",
-      "source": "The Hindu",
-      "section": "Editorial"
-    },
-    {
-      "title": "Helping hand: On Cyclones Arnab and Murasu",
-      "link": "https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece",
-      "pubDate": "Thu, 05 Nov 2026 08:02:40 +0530",
-      "description": "States need help to rebuild public infrastructure after damage in cyclones",
-      "source": "The Hindu",
-      "section": "Editorial"
-    },
-    {
-      "title": "EC gives voters excluded from draft electoral rolls in 7 states another chance to apply",
-      "link": "https://timesofindia.indiatimes.com/india/ec-gives-voters-excluded-from-draft-electoral-rolls-in-7-states-another-chance-to-apply/articleshow/135604039.cms",
-      "pubDate": "2026-11-06T16:16:12+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/ec-gives-voters-excluded-from-draft-electoral-rolls-in-7-states-another-chance-to-apply/articleshow/135604039.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135604039.cms\" /></a>",
+      "title": "'ED is not a super cop': Karnataka HC quashes ECIR against Congress MLA, others",
+      "link": "https://timesofindia.indiatimes.com/india/ed-is-not-a-super-cop-karnataka-hc-quashes-ecir-against-congress-mla-others/articleshow/135633035.cms",
+      "pubDate": "2026-11-07T15:52:24+05:30",
+      "description": "",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "Watch: Karmabhoomi Express coaches gutted in Punjab; short-circuit suspected",
-      "link": "https://timesofindia.indiatimes.com/india/watch-karmabhoomi-express-coaches-gutted-in-punjab-short-circuit-suspected/articleshow/135602316.cms",
-      "pubDate": "2026-11-06T15:32:17+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/watch-karmabhoomi-express-coaches-gutted-in-punjab-short-circuit-suspected/articleshow/135602316.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135602316.cms\" /></a>A fire erupted in three coaches of the Karmabhoomi Express in Patiala district, Punjab on Friday ",
+      "title": "'No place for Tagore, glorifying India': Mural of Nobel laureate defaced in Bangladesh",
+      "link": "https://timesofindia.indiatimes.com/india/no-place-for-tagore-glorifying-india-mural-of-nobel-laureate-defaced-in-bangladesh/articleshow/135633400.cms",
+      "pubDate": "2026-11-07T15:41:28+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/no-place-for-tagore-glorifying-india-mural-of-nobel-laureate-defaced-in-bangladesh/articleshow/135633400.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135633400.cms\" /></a>A mural of Rabindranath Tagore was vandalized in Khulna, where opposing posters were also",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "SC ends decades-old power tussle, Himachal to get 11,973 MU from Punjab, Haryana",
-      "link": "https://timesofindia.indiatimes.com/india/sc-ends-decades-old-power-tussle-himachal-to-get-11973-mu-from-punjab-haryana/articleshow/135600859.cms",
-      "pubDate": "2026-11-06T15:16:52+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/sc-ends-decades-old-power-tussle-himachal-to-get-11973-mu-from-punjab-haryana/articleshow/135600859.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135600859.cms\" /></a>",
+      "title": "Akhilesh, Dimple Yadav to visit Ram Temple in Ayodhya on Dec 12, says SP leader Pandey ahead of UP polls",
+      "link": "https://timesofindia.indiatimes.com/india/akhilesh-dimple-yadav-to-visit-ram-temple-in-ayodhya-on-dec-12-says-sp-leader-pandey-ahead-of-up-polls/articleshow/135633025.cms",
+      "pubDate": "2026-11-07T15:27:27+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/akhilesh-dimple-yadav-to-visit-ram-temple-in-ayodhya-on-dec-12-says-sp-leader-pandey-ahead-of-up-polls/articleshow/135633025.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135633025.cms\" /></a>Akhilesh Yadav and Dimple Yadav are set to tour the Ram Temple and Ha",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "OBC creamy layer row: SC protects past jobs, promotions but leaves pending cases open",
-      "link": "https://timesofindia.indiatimes.com/india/obc-creamy-layer-row-sc-protects-past-jobs-promotions-but-leaves-pending-cases-open/articleshow/135601416.cms",
-      "pubDate": "2026-11-06T14:53:01+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/obc-creamy-layer-row-sc-protects-past-jobs-promotions-but-leaves-pending-cases-open/articleshow/135601416.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135601416.cms\" /></a>The Supreme Court has clarified that its March ruling will not impact completed appointm",
+      "title": "‘Congress has not had a level playing field’: Sonia targets Modi govt amid SIR row",
+      "link": "https://timesofindia.indiatimes.com/india/congress-has-not-had-a-level-playing-field-sonia-targets-modi-govt-amid-sir-row/articleshow/135632226.cms",
+      "pubDate": "2026-11-07T15:08:47+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/congress-has-not-had-a-level-playing-field-sonia-targets-modi-govt-amid-sir-row/articleshow/135632226.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135632226.cms\" /></a>In a recent statement, Sonia Gandhi discussed the hurdles facing the Congress party under th",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "Karmabhoomi Express passengers panic as moving train catches fire in Punjab",
-      "link": "https://timesofindia.indiatimes.com/india/four-coaches-in-karmabhoomi-express-catches-fire-in-punjab/articleshow/135601505.cms",
-      "pubDate": "2026-11-06T14:46:50+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/four-coaches-in-karmabhoomi-express-catches-fire-in-punjab/articleshow/135601505.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135601505.cms\" /></a>",
+      "title": "'More you connect with locals, weaker enemy’s plots become': Rajnath Singh's message to troops in WB's Bagdogra",
+      "link": "https://timesofindia.indiatimes.com/india/more-you-connect-with-locals-weaker-enemys-plots-become-rajnath-singhs-message-to-troops-in-wbs-bagdogra/articleshow/135632296.cms",
+      "pubDate": "2026-11-07T14:55:09+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/more-you-connect-with-locals-weaker-enemys-plots-become-rajnath-singhs-message-to-troops-in-wbs-bagdogra/articleshow/135632296.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135632296.cms\" /></a>Defence minister Rajnath Singh addressed soldiers in Bagdogra, urgi",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "'Will be dealt with iron hand': SC issues contempt notice to Kerala Congress over controversial CJI post",
-      "link": "https://timesofindia.indiatimes.com/india/will-be-dealt-with-iron-hand-sc-issues-contempt-notice-to-kerala-congress-over-controversial-cji-post/articleshow/135600201.cms",
-      "pubDate": "2026-11-06T14:04:52+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/will-be-dealt-with-iron-hand-sc-issues-contempt-notice-to-kerala-congress-over-controversial-cji-post/articleshow/135600201.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135600201.cms\" /></a>",
+      "title": "'Let Modi, Rahul question each other': Kapil Sibal wants 'historic' debate on SIR",
+      "link": "https://timesofindia.indiatimes.com/india/let-modi-rahul-question-each-other-kapil-sibal-wants-historic-debate-on-sir/articleshow/135632129.cms",
+      "pubDate": "2026-11-07T14:48:44+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/let-modi-rahul-question-each-other-kapil-sibal-wants-historic-debate-on-sir/articleshow/135632129.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135632129.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "2013 Tehelka rape case: SC refuses to suspend Tarun Tejpal's 10-year jail term",
-      "link": "https://timesofindia.indiatimes.com/india/2013-tehelka-rape-case-sc-refuses-to-suspend-tarun-tejpals-10-year-jail-term/articleshow/135599899.cms",
-      "pubDate": "2026-11-06T13:59:21+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/2013-tehelka-rape-case-sc-refuses-to-suspend-tarun-tejpals-10-year-jail-term/articleshow/135599899.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599899.cms\" /></a>",
+      "title": "'Not supported by tests': Petroleum ministry rejects over 20% ethanol blending in Karnataka",
+      "link": "https://timesofindia.indiatimes.com/india/not-supported-by-tests-petroleum-ministry-rejects-over-20-ethanol-blending-in-karnataka/articleshow/135631902.cms",
+      "pubDate": "2026-11-07T14:37:48+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/not-supported-by-tests-petroleum-ministry-rejects-over-20-ethanol-blending-in-karnataka/articleshow/135631902.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135631902.cms\" /></a>The Centre has clarified that all ethanol blending in Karnataka's petrol meets E20 s",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "IMA asks CBFC to deny certification to Sunny Deol-starrer, flags glorification of violence against doctors",
-      "link": "https://timesofindia.indiatimes.com/india/ima-asks-cbfc-to-deny-certification-to-sunny-deol-starrer-flags-glorification-of-violence-against-doctors/articleshow/135600061.cms",
-      "pubDate": "2026-11-06T13:54:38+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/ima-asks-cbfc-to-deny-certification-to-sunny-deol-starrer-flags-glorification-of-violence-against-doctors/articleshow/135600061.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135600061.cms\" /></a>The Indian Medical Association has raised concerns about the film ",
+      "title": "18,000 special trains, 700 AI cameras: Railways prepares for festive rush",
+      "link": "https://timesofindia.indiatimes.com/india/18000-special-trains-700-ai-cameras-railways-prepares-for-festive-rush/articleshow/135631596.cms",
+      "pubDate": "2026-11-07T14:16:25+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/18000-special-trains-700-ai-cameras-railways-prepares-for-festive-rush/articleshow/135631596.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135631596.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "‘Vote gone, rights gone’: Rahul alleges BJP conspiracy in schemes linked with voter ID instead of Aadhaar",
-      "link": "https://timesofindia.indiatimes.com/india/vote-gone-rights-gone-rahul-gandhi-alleges-voter-lists-being-crafted-where-majority-is-always-bjps/articleshow/135599564.cms",
-      "pubDate": "2026-11-06T13:39:37+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/vote-gone-rights-gone-rahul-gandhi-alleges-voter-lists-being-crafted-where-majority-is-always-bjps/articleshow/135599564.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599564.cms\" /></a>",
+      "title": "BJP attacks Rahul over 'out of context' Amit Shah video amid SIR row",
+      "link": "https://timesofindia.indiatimes.com/india/bjp-attacks-rahul-over-out-of-context-amit-shah-video-amid-sir-row/articleshow/135627465.cms",
+      "pubDate": "2026-11-07T14:11:00+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/bjp-attacks-rahul-over-out-of-context-amit-shah-video-amid-sir-row/articleshow/135627465.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627465.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "NC rebellion calms down at Abdullahs’ door; Omar’s advisor Wani is in London as Speaker accepts Ruhullah’s resignation",
-      "link": "https://timesofindia.indiatimes.com/india/nc-rebellion-calms-down-at-abdullahs-door-omars-advisor-wani-is-in-london-as-speaker-accepts-ruhullahs-resignation/articleshow/135598869.cms",
-      "pubDate": "2026-11-06T13:29:07+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/nc-rebellion-calms-down-at-abdullahs-door-omars-advisor-wani-is-in-london-as-speaker-accepts-ruhullahs-resignation/articleshow/135598869.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135598869.cms\" /></a>",
+      "title": "‘Complete hooliganism': Mamata on attack at Abhishek Banerjee’s house ahead of Kali Puja",
+      "link": "https://timesofindia.indiatimes.com/india/complete-hooliganism-mamata-on-attack-at-abhishek-banerjees-house-ahead-of-kali-puja/articleshow/135631122.cms",
+      "pubDate": "2026-11-07T13:54:01+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/complete-hooliganism-mamata-on-attack-at-abhishek-banerjees-house-ahead-of-kali-puja/articleshow/135631122.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135631122.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "'It was an imposter': X tells HC takedown notices for IFF, SFLC not sent by Delhi Police",
-      "link": "https://timesofindia.indiatimes.com/india/it-was-an-imposter-x-tells-hc-takedown-notices-for-iff-sflc-not-sent-by-delhi-police/articleshow/135597541.cms",
-      "pubDate": "2026-11-06T12:53:10+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/it-was-an-imposter-x-tells-hc-takedown-notices-for-iff-sflc-not-sent-by-delhi-police/articleshow/135597541.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597541.cms\" /></a>",
+      "title": "‘Experimenting on 1.3 billion people’: Priyank Kharge alleges excess ethanol blending in E20 petrol",
+      "link": "https://timesofindia.indiatimes.com/india/experimenting-on-1-3-billion-people-priyank-kharge-alleges-excess-ethanol-blending-in-e20-petrol/articleshow/135630391.cms",
+      "pubDate": "2026-11-07T13:42:29+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/experimenting-on-1-3-billion-people-priyank-kharge-alleges-excess-ethanol-blending-in-e20-petrol/articleshow/135630391.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135630391.cms\" /></a>Karnataka minister Priyank Kharge alleges that the Central government is mi",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "‘AQI data fraud can cost lives’: Saurabh Bharadwaj accuses Delhi government of misleading people",
-      "link": "https://timesofindia.indiatimes.com/india/aqi-data-fraud-can-cost-lives-saurabh-bharadwaj-accuses-delhi-government-of-misleading-people/articleshow/135597818.cms",
-      "pubDate": "2026-11-06T12:47:33+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/aqi-data-fraud-can-cost-lives-saurabh-bharadwaj-accuses-delhi-government-of-misleading-people/articleshow/135597818.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597818.cms\" /></a>",
+      "title": "Why death of tribal activist Nisha Bhagat has sparked row in Jharkhand",
+      "link": "https://timesofindia.indiatimes.com/india/why-death-of-tribal-activist-nisha-bhagat-has-sparked-row-in-jharkhand/articleshow/135630562.cms",
+      "pubDate": "2026-11-07T13:27:18+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/why-death-of-tribal-activist-nisha-bhagat-has-sparked-row-in-jharkhand/articleshow/135630562.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135630562.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "'NC has never been broken, will never be broken': Farooq Abdullah after meeting disgruntled MLAs",
-      "link": "https://timesofindia.indiatimes.com/india/nc-has-never-been-broken-will-never-be-broken-farooq-abdullah-after-meeting-disgruntled-mlas/articleshow/135597887.cms",
-      "pubDate": "2026-11-06T12:47:17+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/nc-has-never-been-broken-will-never-be-broken-farooq-abdullah-after-meeting-disgruntled-mlas/articleshow/135597887.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597887.cms\" /></a>",
+      "title": "Cancer in India: Screening exists, but why are patients still diagnosed late",
+      "link": "https://timesofindia.indiatimes.com/india/cancer-in-india-screening-exists-but-why-are-patients-still-diagnosed-late/articleshow/135629745.cms",
+      "pubDate": "2026-11-07T12:59:21+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/cancer-in-india-screening-exists-but-why-are-patients-still-diagnosed-late/articleshow/135629745.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135629745.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "Jharkhand High Court quashes state government's decision to cancel JSSC CGL exam",
-      "link": "https://timesofindia.indiatimes.com/india/jharkhand-high-court-quashes-state-governments-decision-to-cancel-jssc-cgl-exam/articleshow/135597369.cms",
-      "pubDate": "2026-11-06T12:24:42+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/jharkhand-high-court-quashes-state-governments-decision-to-cancel-jssc-cgl-exam/articleshow/135597369.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597369.cms\" /></a>The Jharkhand High Court has set aside the government's cancellation of the JSSC CGL examina",
+      "title": "PG doctors quit premier medical institutes",
+      "link": "https://timesofindia.indiatimes.com/india/pg-doctors-quit-premier-medical-institutes/articleshow/135629757.cms",
+      "pubDate": "2026-11-07T12:49:13+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/pg-doctors-quit-premier-medical-institutes/articleshow/135629757.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135629757.cms\" /></a>RTI replies show exits across AIIMS campuses and JIPMER; numbers decline at Delhi AIIMS and JIPMER, but several institutes lack c",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "‘Hope you are enjoying Delhi weather’: CJI blames vehicles as SC takes up air pollution case",
-      "link": "https://timesofindia.indiatimes.com/india/hope-you-are-enjoying-delhi-weather-cjis-remark-as-sc-takes-up-delhi-ncr-pollution/articleshow/135597208.cms",
-      "pubDate": "2026-11-06T12:16:44+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/hope-you-are-enjoying-delhi-weather-cjis-remark-as-sc-takes-up-delhi-ncr-pollution/articleshow/135597208.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597208.cms\" /></a>",
+      "title": "Massive anti-drug drive: 458 acres of illicit cannabis eradicated in Arunachal Pradesh",
+      "link": "https://timesofindia.indiatimes.com/india/massive-anti-drug-drive-458-acres-of-illicit-cannabis-eradicated-in-arunachal-pradesh/articleshow/135629659.cms",
+      "pubDate": "2026-11-07T12:42:59+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/massive-anti-drug-drive-458-acres-of-illicit-cannabis-eradicated-in-arunachal-pradesh/articleshow/135629659.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135629659.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "'Jantar Mantar in Kochi': Actor Prakash Raj calls for anti-SIR protest on Saturday",
-      "link": "https://timesofindia.indiatimes.com/india/jantar-mantar-in-kochi-actor-prakash-raj-calls-for-anti-sir-protest-on-saturday/articleshow/135595207.cms",
-      "pubDate": "2026-11-06T11:21:56+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/jantar-mantar-in-kochi-actor-prakash-raj-calls-for-anti-sir-protest-on-saturday/articleshow/135595207.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595207.cms\" /></a>",
+      "title": "Sharad Pawar discharged from hospital, doctor shares health update",
+      "link": "https://timesofindia.indiatimes.com/india/sharad-pawar-discharged-from-hospital-doctor-shares-health-update/articleshow/135628917.cms",
+      "pubDate": "2026-11-07T12:07:57+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/sharad-pawar-discharged-from-hospital-doctor-shares-health-update/articleshow/135628917.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628917.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "Centre eases immigration rules for Pakistani, Afghan minorities and other foreign nationals",
-      "link": "https://timesofindia.indiatimes.com/india/centre-eases-immigration-rules-for-pakistani-afghan-minorities-and-other-foreign-nationals/articleshow/135593727.cms",
-      "pubDate": "2026-11-06T10:06:47+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/centre-eases-immigration-rules-for-pakistani-afghan-minorities-and-other-foreign-nationals/articleshow/135593727.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135593727.cms\" /></a>",
+      "title": "‘Relief to breathe Kerala’s clean air’: Shashi Tharoor takes swipe at Delhi govt over pollution crisis",
+      "link": "https://timesofindia.indiatimes.com/india/relief-to-breathe-keralas-clean-air-shashi-tharoor-takes-swipe-at-delhi-govt-over-pollution-crisis/articleshow/135628339.cms",
+      "pubDate": "2026-11-07T11:52:11+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/relief-to-breathe-keralas-clean-air-shashi-tharoor-takes-swipe-at-delhi-govt-over-pollution-crisis/articleshow/135628339.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628339.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "NCP's Praful Patel visits Sharad Pawar in hospital amid reported discontent with Sunetra",
-      "link": "https://timesofindia.indiatimes.com/india/ncps-praful-patel-visits-sharad-pawar-in-hospital-amid-reported-discontent-with-sunetra/articleshow/135593079.cms",
-      "pubDate": "2026-11-06T09:48:34+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/ncps-praful-patel-visits-sharad-pawar-in-hospital-amid-reported-discontent-with-sunetra/articleshow/135593079.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135593079.cms\" /></a>",
+      "title": "'Democratic rights were curtailed but constitutionally': Sonia Gandhi reflects on Emergency",
+      "link": "https://timesofindia.indiatimes.com/india/democratic-rights-were-curtailed-but-constitutionally-sonia-gandhi-reflects-on-emergency/articleshow/135627738.cms",
+      "pubDate": "2026-11-07T11:24:45+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/democratic-rights-were-curtailed-but-constitutionally-sonia-gandhi-reflects-on-emergency/articleshow/135627738.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627738.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "'No impact on India-US ties': Tharoor says Trump retains power on tariffs, Iran war",
-      "link": "https://timesofindia.indiatimes.com/india/no-impact-on-india-us-ties-tharoor-says-trump-retains-power-on-tariffs-iran-war/articleshow/135591811.cms",
-      "pubDate": "2026-11-06T09:01:40+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/no-impact-on-india-us-ties-tharoor-says-trump-retains-power-on-tariffs-iran-war/articleshow/135591811.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135591811.cms\" /></a>",
+      "title": "Two men charged over shooting at Kapil Sharma's restaurant in Canada",
+      "link": "https://timesofindia.indiatimes.com/india/two-men-charged-over-shooting-at-kapil-sharmas-restaurant-in-canada/articleshow/135626680.cms",
+      "pubDate": "2026-11-07T10:35:31+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/two-men-charged-over-shooting-at-kapil-sharmas-restaurant-in-canada/articleshow/135626680.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626680.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "'Rahul's offer to debate still stands': Tharoor challenges BJP amid SIR, vote theft row",
-      "link": "https://timesofindia.indiatimes.com/india/rahuls-offer-to-debate-still-stands-tharoor-challenges-bjp-amid-sir-vote-theft-row/articleshow/135590676.cms",
-      "pubDate": "2026-11-06T07:56:16+05:30",
-      "description": "<a href=\"https://timesofindia.indiatimes.com/india/rahuls-offer-to-debate-still-stands-tharoor-challenges-bjp-amid-sir-vote-theft-row/articleshow/135590676.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135590676.cms\" /></a>",
+      "title": "‘E20 turned into 420’: Rahul Gandhi alleges petrol samples from Karnataka exceed 20% ethanol limit",
+      "link": "https://timesofindia.indiatimes.com/india/e20-turned-into-420-rahul-gandhi-alleges-petrol-samples-from-karnataka-7-districts-exceed-ethanol-limit/articleshow/135626259.cms",
+      "pubDate": "2026-11-07T10:04:04+05:30",
+      "description": "<a href=\"https://timesofindia.indiatimes.com/india/e20-turned-into-420-rahul-gandhi-alleges-petrol-samples-from-karnataka-7-districts-exceed-ethanol-limit/articleshow/135626259.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626259.cms\" /></a>",
       "source": "Times of India",
       "section": "India"
     },
     {
-      "title": "Ashton Kutcher's nonprofit detects nearly 1.4 million suspected child abuse files in six months",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2009-ashton-kutcher-co-founded-a-nonprofit-to-protect-children-online-by-mid-2026-its-technology-had-flagged-nearly-1-4-million-suspected-abuse-files-in-six-months-and-was-used-by-agencies-in-40-countries/articleshow/135599718.cms",
-      "pubDate": "2026-11-06T16:08:00+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599718.cms\" />Founded by Ashton Kutcher and Demi Moore, Thorn is dedicated to combating online sexual exploitation of children. Utilizing advanced technology, the organization helps pinpoint victims and provides essential support to law enforcement. In just six months",
+      "title": "'Downed 260 aircraft, new capabilities will astonish enemies': Iran warns US",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/downed-260-aircraft-new-capabilities-will-astonish-enemies-iran-warns-us/articleshow/135633617.cms",
+      "pubDate": "2026-11-07T15:54:48+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135633617.cms\" />Iran's military claimed it downed 260 hostile aircraft, including various fighter jets and drones during its conflict with the US. Brigadier General Hossein Mohebbi stated that Iran has developed underground missile production facilities for enhanced def",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "In 1990, a British Airways pilot was sucked halfway out of cockpit; crew held his legs until landing",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1990-a-cockpit-window-blew-out-at-17300-feet-and-sucked-british-airways-captain-tim-lancaster-halfway-out-of-his-plane-crew-members-held-his-legs-for-about-20-minutes-until-the-jet-landed-and-he-survived/articleshow/135596532.cms",
-      "pubDate": "2026-11-06T16:06:07+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135596532.cms\" />A British Airways captain was pulled halfway out of his cockpit after a window shattered at 24,000 feet in 1990. Two crew members held him while the co-pilot took control and made an emergency landing at Southampton.",
+      "title": "Kelly Clarkson to headline Miami charity gala as organisation celebrates $50 million raised and 9,000 wishes granted",
+      "link": "https://timesofindia.indiatimes.com/world/us/kelly-clarkson-will-perform-at-a-miami-charity-gala-on-november-7-as-the-event-marks-more-than-50-million-raised-and-over-9000-wishes-granted-to-children-with-critical-illnesses-across-south-florida/articleshow/135631689.cms",
+      "pubDate": "2026-11-07T14:30:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135631689.cms\" />Kelly Clarkson is scheduled to perform at the 31st annual InterContinental Miami Make-A-Wish Ball in November 2026. The event will feature a reception, dinner, and silent auction to raise funds. Over the past 30 years, more than $50 million has been rais",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Indian-American DOJ civil rights chief Harmeet Dhillon resigns after GOP midterm setback",
-      "link": "https://timesofindia.indiatimes.com/world/us/indian-american-doj-civil-rights-chief-harmeet-dhillon-resigns-after-gop-midterm-setback/articleshow/135602710.cms",
-      "pubDate": "2026-11-06T15:29:22+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135602710.cms\" />",
+      "title": "Jim Carrey finds buyer for his $35 million Maui oceanfront estate after weeks on market",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/in-2016-jim-carrey-bought-a-maui-oceanfront-retreat-for-16-5-million-after-listing-it-for-35-million-in-october-2026-he-found-a-buyer-within-weeks-though-the-final-sale-price-is-not-yet-known/articleshow/135632229.cms",
+      "pubDate": "2026-11-07T15:06:57+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135632229.cms\" />",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Holocaust survivor, 90, wounded in Sydney’s Bondi Beach shooting dies nearly a year later",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/holocaust-survivor-90-wounded-in-sydneys-bondi-beach-shooting-dies-nearly-a-year-later/articleshow/135601979.cms",
-      "pubDate": "2026-11-06T15:29:52+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135601979.cms\" />",
+      "title": "Built for a Stanford classics scholar in 1904, this historic California mansion was once saved from demolition; now Palo Alto’s Squire House is listed for nearly $20 million",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/built-in-1904-for-a-stanford-greek-professor-palo-altos-columned-squire-house-is-a-state-historic-landmark-last-sold-in-1999-the-nearly-8400-sq-ft-estate-with-a-pool-and-guest-house-is-listed-for-19-9-million/articleshow/135630808.cms",
+      "pubDate": "2026-11-07T15:06:51+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135630808.cms\" />Nestled on University Avenue in Palo Alto, the stunning Squire House—an estate that has stood since 1904—is once again up for sale at nearly $20 million. This iconic mansion, saved from destruction in the 1970s, spans 7,794 square feet and includes an ad",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Vehicle Swept Away In Floods: Heavy rain in Corsica kills 2; firefighter injured in rescue",
-      "link": "https://timesofindia.indiatimes.com/world/europe/2-killed-as-vehicle-swept-away-by-floodwaters-in-frances-corsica/articleshow/135600994.cms",
-      "pubDate": "2026-11-06T15:11:00+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135600994.cms\" />Heavy rainfall on the French island of Corsica has recently led to flooding and tragic fatalities. Two individuals lost their lives after their vehicle was swept away by floodwaters. Emergency services were involved in rescue operations, which also left ",
+      "title": "Scientists fitted nearly 1,750 monarch butterflies with tiny solar-powered trackers",
+      "link": "https://timesofindia.indiatimes.com/science/scientists-fitted-nearly-1750-monarch-butterflies-with-tiny-solar-powered-trackers-to-follow-their-migration-across-north-america-about-175-have-been-detected-in-mexico-as-researchers-map-previously-uncertain-routes/articleshow/135565337.cms",
+      "pubDate": "2026-11-07T15:06:43+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135565337.cms\" />In an innovative effort, researchers have equipped around 1,750 monarch butterflies with solar-powered trackers to study their extensive migration patterns. This advanced tracking technology offers insights into their traveling habits, including routes, ",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Insurer paid $13,844 for attic leak; homeowner's $112,000 claim fails",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-georgia-homeowner-returned-from-a-two-week-trip-to-find-an-attic-leak-but-his-insurer-paid-13844-against-a-repair-estimate-exceeding-112000-on-november-4-an-appeals-court-upheld-the-rejection-of-his-lawsuit/articleshow/135595598.cms",
-      "pubDate": "2026-11-06T14:30:00+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595598.cms\" />A Georgia appeals court upheld an insurer's refusal to pay more for attic water damage after a homeowner failed to prove that additional repair costs exceeding $112,000 were caused by the leak. The court also rejected his claims of breach of contract and",
+      "title": "Louisiana appeals court reverses $205,000 divorce award, orders husband to pay wife $176,800",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-louisiana-divorce-court-ordered-a-wife-to-pay-her-former-husband-205000-after-a-fight-over-shared-property-and-spending-on-a-new-partner-on-appeal-the-ruling-flipped-and-the-husband-was-ordered-to-pay-her-176800/articleshow/135578579.cms",
+      "pubDate": "2026-11-07T14:06:42+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135578579.cms\" />A Louisiana divorce case saw a significant reversal regarding the division of community property and money spent. Initially, the trial court ordered the wife to pay $205,000 to her ex-husband due to mishandling shared assets. On appeal, the Louisiana Thi",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Women who scored higher on cognitive tests were rated as more hostile by teammates and got less help from them, in studies of 432 US business students and 394 Chinese finance workers, a pattern that did not hold for men",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/women-who-scored-higher-on-cognitive-tests-were-rated-as-more-hostile-by-teammates-and-got-less-help-from-them-in-studies-of-432-us-business-students-and-394-chinese-finance-workers-a-pattern-that-did-not-hold-for-men/articleshow/135597855.cms",
-      "pubDate": "2026-11-06T14:59:07+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597855.cms\" />In the workplace, women often have to deal with a bunch of societal pressures that can make their skills seem less impressive. Research shows that when women are competent, they can come off as aggressive, which sometimes scares off support from others. ",
+      "title": "Wedding ring lost on Dutch farm during WWII, found 83 years later",
+      "link": "https://timesofindia.indiatimes.com/world/europe/jo-nabuurs-lost-his-wedding-ring-while-threshing-grain-on-his-familys-dutch-farm-in-the-winter-of-1942-or-1943-83-years-later-a-man-with-a-metal-detector-found-it-and-returned-it-to-his-son-refusing-a-reward/articleshow/135627442.cms",
+      "pubDate": "2026-11-07T11:59:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627442.cms\" />A Dutch man who lost his wedding ring while threshing grain in 1942 or 1943 has had it returned to his family 83 years later. A metal detector user found it buried 20 centimetres underground in Odiliapeel and personally returned it to the owner's son, Be",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Scientists tracked 356 Florida pythons and uncovered a surprising winter habit",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/scientists-tracked-356-burmese-pythons-in-florida-for-8-years-and-uncovered-a-surprising-winter-habit-with-some-invasive-snakes-climbing-trees-as-high-as-7-metres-above-the-ground/articleshow/135599310.cms",
-      "pubDate": "2026-11-06T15:00:54+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599310.cms\" />",
+      "title": "Utah millionaire father of seven built a 300-acre doomsday compound stocked with food, weapons and supplies to shelter 200 people if civilisation collapses",
+      "link": "https://timesofindia.indiatimes.com/world/us/utah-millionaire-father-of-seven-built-a-300-acre-doomsday-compound-stocked-with-food-weapons-and-supplies-to-shelter-200-people-if-civilisation-collapses-property-now-doubles-as-a-tv-filming-location/articleshow/135627899.cms",
+      "pubDate": "2026-11-07T13:04:19+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627899.cms\" />Jayson Orvis has created a 300-acre doomsday sanctuary in the heart of Utah, designed to accommodate 200 people during catastrophic circumstances. This unique compound showcases greenhouses and a flourishing food forest, underpinning his vision of cooper",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Trump seeks to overturn 34 felony convictions in New York hush money appeal",
-      "link": "https://timesofindia.indiatimes.com/world/us/two-years-after-donald-trumps-conviction-on-34-felony-counts-over-a-130000-payment-to-stormy-daniels-his-lawyers-ask-a-new-york-appeals-court-to-overturn-the-verdict-on-immunity-and-legal-grounds/articleshow/135599716.cms",
-      "pubDate": "2026-11-06T14:59:13+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599716.cms\" />",
+      "title": "Texas court upholds refinery's gross negligence in worker's death, cuts award by $125,000",
+      "link": "https://timesofindia.indiatimes.com/world/us/a-texas-refinery-worker-was-exposed-to-asbestos-over-decades-and-later-died-of-mesothelioma-his-familys-325000-punitive-award-was-cut-to-200000-but-the-court-also-revived-additional-claims-against-the-company/articleshow/135627041.cms",
+      "pubDate": "2026-11-07T13:03:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627041.cms\" />A Texas appeals court upheld a refinery company's gross negligence in a worker's asbestos-related death but reduced his family's damages award from $325,000 to $200,000. It also revived negligence claims that had earlier been dismissed, allowing the fami",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Florida couple disputed four mortgage reversals; appeals court revived foreclosure over bank error",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-florida-couple-disputed-four-reversed-mortgage-payments-and-stopped-paying-in-2017-an-appeals-court-revived-foreclosure-proceedings-despite-the-banks-accounting-errors/articleshow/135568529.cms",
-      "pubDate": "2026-11-06T14:09:48+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135568529.cms\" />Facing unexpected mortgage troubles, Michael and Dianna Fernandez were blindsided when their bank reversed four payments without warning. Though they continued to adhere to their payment schedule, the bank refused to accept further payments, resulting in",
+      "title": "Als Nursing Hospital Opens: 14-year ALS drive builds specialised facility; 350,000 donors fund care",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/cha-eunwoo-donated-10-million-won-to-a-south-korean-als-charity-campaign-in-2023-two-years-later-a-23-9-billion-won-hospital-with-76-beds-opened-after-a-collective-fundraising-effort-backed-by-350000-donors/articleshow/135591788.cms",
+      "pubDate": "2026-11-07T10:59:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135591788.cms\" />In March 2025, the Seungil Hope Nursing Hospital in Yongin welcomed its first ALS patients, marking a 14-year journey led by dedicated advocates Park Seung-il and Sean. This landmark facility, developed with the generosity of over 350,000 donors and gove",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "CT scans cracked the code of a brass lock from a 1583 shipwreck off Wales, 443 years later, intact",
-      "link": "https://timesofindia.indiatimes.com/world/uk/in-1583-a-ship-returning-from-spain-wrecked-off-wales-443-years-later-scientists-used-ct-scans-to-crack-the-four-letter-code-of-its-brass-combination-lock-without-damaging-the-centuries-old-mechanism/articleshow/135564473.cms",
-      "pubDate": "2026-11-06T14:09:43+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135564473.cms\" />A fascinating shipwreck dating back to 1583 was discovered off the coast of Wales, revealing a brass combination lock that had remained sealed for centuries. Researchers utilized advanced micro-CT scanning to unveil its four-letter combination, ANCE, pre",
+      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+      "pubDate": "2026-11-07T09:47:53+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626137.cms\" />In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts. High ",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "'Bomb on board': How three minute warning changed Dublin to Rome Aer Lingus flight's route",
-      "link": "https://timesofindia.indiatimes.com/world/europe/bomb-on-board-how-three-minute-warning-changed-dublin-to-rome-aer-lingus-flights-route/articleshow/135599456.cms",
-      "pubDate": "2026-11-06T13:40:41+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599456.cms\" />",
+      "title": "France deploys 70,000 security personnel ahead of fresh nationwide protests",
+      "link": "https://timesofindia.indiatimes.com/world/europe/france-deploys-70000-security-personnel-ahead-of-fresh-nationwide-protests/articleshow/135624778.cms",
+      "pubDate": "2026-11-07T08:26:28+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624778.cms\" />French trade unions and student groups are organizing a day of protests against rising living costs. The Yellow Vests movement plans a separate rally in central Paris, despite an official ban on gatherings. Nationwide demonstrations have been ongoing for",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Najib Royal Pardon House Arrest: Party pays 50mn ringgit fine; transfer date unclear",
-      "link": "https://timesofindia.indiatimes.com/world/south-asia/malaysia-ex-pm-najib-wins-home-detention-after-12-3-million-pardon-payment/articleshow/135598960.cms",
-      "pubDate": "2026-11-06T13:25:09+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135598960.cms\" />Najib Razak is anticipated to transition from prison to house arrest after a fine has been paid. His political party, the United Malays National Organisation, successfully gathered the required funds through a fundraising initiative, satisfying a crucial",
+      "title": "Streamer Feud Over Halloween: Banks slams Plaqueboymax’s ‘whiteface’ stream; questions career slide",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/why-is-faze-banks-attacking-plaqueboymax-kai-cenat-comparison-halloween-controversy-and-super-bowl-halftime-challenge/articleshow/135619548.cms",
+      "pubDate": "2026-11-07T01:30:00+05:30",
+      "description": "Plaqueboymax’s Halloween livestream led to disagreements with Adin Ross and FaZe Banks. Adin suggested a blackface stream after seeing Max’s crew dressed as stereotypical white men. Max questioned Adin’s respect for Black culture, while Banks said Max’s costume showed disrespect towards white people. Banks also criticised Max’s content, career direction and Super Bowl halftime show ambitions, and ",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "A man jailed for 46 months for tricking 12,600 people into donating $106,000 to a fake charity",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/singapore-man-lim-kah-kheng-tricked-more-than-12600-people-into-donating-over-106000-through-a-fake-charity-scheme-he-was-jailed-for-46-months/articleshow/135597536.cms",
-      "pubDate": "2026-11-06T12:36:20+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597536.cms\" />",
+      "title": "US offers $20 million reward for information on Iran's nuclear programme",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-offers-20-million-reward-for-information-on-irans-nuclear-programme/articleshow/135624328.cms",
+      "pubDate": "2026-11-07T07:27:10+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624328.cms\" />The United States has announced a reward of up to $20 million for information regarding Iran's nuclear program. This reward aims to gather details about facilities, equipment, and personnel involved with the program. Diplomatic efforts are ongoing to res",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Texas court upholds $7.11m award to aide injured while moving 300-pound patient",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2016-a-texas-nursing-aide-was-injured-when-a-patient-weighing-over-300-pounds-fell-on-her-10-years-later-an-appeals-court-upheld-liability-on-a-7-11-million-verdict-but-offered-a-264448-cut-or-a-new-trial/articleshow/135595064.cms",
-      "pubDate": "2026-11-06T12:56:30+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595064.cms\" />A Texas appeals court upheld a nursing facility's liability after a CNA was injured while transferring a patient weighing over 300 pounds in 2016. It upheld most of the $7.11 million jury award but proposed reducing future medical expenses by $264,448.51",
+      "title": "US-China trade talks to continue as Washington presses Beijing to honour Busan deal",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/us-china-agree-to-continue-trade-talks-as-washington-presses-beijing-to-fulfil-busan-deal-commitments/articleshow/135624178.cms",
+      "pubDate": "2026-11-07T07:23:47+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624178.cms\" />China and the US are engaged in ongoing dialogues to foster stable trade relations, with emphasis on prior commitments. US officials expressed concern regarding China's adherence to agreements related to rare earth materials and agricultural products. Th",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "New York man claims mother and sister broke promises over father's Pennsylvania property and Long Island home after his death in Saudi Arabia; 16 years later, US court dismisses lawsuit",
-      "link": "https://timesofindia.indiatimes.com/world/us/after-their-father-died-in-saudi-arabia-in-2009-a-new-york-man-alleged-his-mother-and-sister-broke-promises-involving-homes-in-pennsylvania-and-long-island-a-november-5-court-ruling-has-dismissed-his-lawsuit/articleshow/135597723.cms",
-      "pubDate": "2026-11-06T12:56:26+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597723.cms\" />In a recent ruling, Saad Ahmed's lawsuit challenging his mother and sister over inheritance was dismissed by a New York court. The court found that many of his claims were filed too late, beyond the legal deadlines. Ahmed had accused his family of not ho",
+      "title": "'Voices in head said to kill Trump': Man with firearms and ammunition arrested near White House",
+      "link": "https://timesofindia.indiatimes.com/world/us/voices-in-head-said-to-kill-president-man-with-firearms-and-ammunition-arrested-near-white-house/articleshow/135623981.cms",
+      "pubDate": "2026-11-07T06:41:10+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135623981.cms\" />The Secret Service took Ronny Yordrix Guanipa Chrinos into custody after he exhibited alarming conduct in his vehicle. When confronted by officers, he insisted that he heard voices commanding him to execute President Trump. A subsequent search of his sto",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "For decades, physicists assumed black holes can merge but cannot split; new calculations suggest a black hole spinning near its maximum speed might break in two, though nobody has ever observed it happening.",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/for-decades-physicists-assumed-black-holes-can-merge-but-cannot-split-new-calculations-suggest-a-black-hole-spinning-near-its-maximum-speed-might-break-in-two-though-nobody-has-ever-observed-it-happening-/articleshow/135595782.cms",
-      "pubDate": "2026-11-06T12:56:22+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595782.cms\" />Recent theoretical study explores whether rapidly spinning black holes can split into two smaller black holes. Scientists have long believed that black holes are incapable of splitting due to entropy and the area theorem. The research proposes that under",
+      "title": "North Carolina student wins top award for free tool mapping wildlife roadkill hotspots",
+      "link": "https://timesofindia.indiatimes.com/science/earth/meet-aaryan-ghorpade-the-north-carolina-student-who-built-a-prototype-for-a-free-roadkill-mapping-platform-and-has-now-won-a-first-place-award-for-his-plan-to-make-american-roads-safer-for-wildlife/articleshow/135619848.cms",
+      "pubDate": "2026-11-07T01:46:43+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135619848.cms\" />Aaryan Ghorpade, a North Carolina student, has triumphed in a national competition with EcoRoute, a project that tracks wildlife-vehicle collision hotspots across the U.S. This innovative online tool gathers collision data and produces heat maps to assis",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Rocky Balboa, Superman Cash, Fat Boy: Trio charged for using AI to steal $129 million in US",
-      "link": "https://timesofindia.indiatimes.com/world/us/rocky-balboa-superman-cash-fat-boy-trio-charged-for-using-ai-to-steal-129-million-in-us/articleshow/135598066.cms",
-      "pubDate": "2026-11-06T12:57:16+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135598066.cms\" />A trio known as 'Rocky Balboa', 'Superman Cash', and 'Fat Boy' has been charged with orchestrating a massive fraud scheme. Utilizing artificial intelligence, they impersonated corporate leaders and lawyers, targeting the accounting departments of various",
+      "title": "Kimberly Guilfoyle back to US after shameful exit from Greece; moved in with ex-husband with a hit list: Report",
+      "link": "https://timesofindia.indiatimes.com/world/us/kimberly-guilfoyle-back-to-us-after-shameful-exit-from-greece-moved-in-with-ex-husband-with-a-hit-list-report/articleshow/135617755.cms",
+      "pubDate": "2026-11-07T01:26:10+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135617755.cms\" />",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Bob Dylan donated all royalties from his 2009 Christmas album to fight hunger",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2009-bob-dylan-released-his-first-ever-christmas-album-that-surprised-his-fans-the-music-legend-donated-all-its-royalties-to-charities-feeding-millions-of-people-and-pledged-future-earnings-from-the-album-to-them-in-perpetuity/articleshow/135597083.cms",
-      "pubDate": "2026-11-06T12:28:13+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597083.cms\" />",
+      "title": "Indian family seeks help to bring back man's body after he dies from burn injuries in New Zealand on birthday",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-family-seeks-help-to-bring-back-mans-body-after-he-dies-from-burn-injuries-in-new-zealand-on-birthday/articleshow/135619909.cms",
+      "pubDate": "2026-11-07T01:45:06+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135619909.cms\" />",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "North Dakota ranchers take $383,375 legal fee fight against pipeline firm to US Supreme Court",
-      "link": "https://timesofindia.indiatimes.com/world/us/north-dakota-ranchers-fought-a-gas-companys-pipeline-easement-and-won-383375-in-legal-costs-only-to-lose-the-award-on-appeal-their-dispute-is-now-headed-to-the-us-supreme-court-on-november-9/articleshow/135594612.cms",
-      "pubDate": "2026-11-06T12:08:17+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135594612.cms\" />The US Supreme Court will hear a dispute involving North Dakota ranchers and WBI Energy Transmission over $383,375.76 in legal fees. The justices will decide whether state or federal law governs compensation when private natural gas companies acquire lan",
+      "title": "Stephen King's Maine mansion becomes a literary archive, with $2,500 writers' retreats next door",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1980-stephen-king-bought-a-red-victorian-home-in-maine-for-135000-46-years-later-the-house-holds-his-literary-archives-while-a-neighbouring-mansion-offers-writers-10-day-residencies-and-2500-stipends/articleshow/135619089.cms",
+      "pubDate": "2026-11-07T01:34:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135619089.cms\" />Stephen King and Tabitha have innovatively turned their Bangor residence into a unique archive and retreat for writers. This initiative offers aid and an inspiring atmosphere, allowing selected authors to immerse themselves in their work. The nearby Brow",
       "source": "Times of India",
       "section": "World"
     },
     {
-      "title": "Gold buying on Dhanteras: What can you buy if not gold?",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-buying-on-dhanteras-diwali-what-should-your-ideal-portfolio-look-like-what-can-you-buy-if-not-gold/articleshow/135602049.cms",
-      "pubDate": "2026-11-06T15:30:04+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135602049.cms\" />Fundamentally, what needs to be understood is that investors should first assess whether they require gold in their portfolio before investing in it. Although gold has outperformed equities recently, it has also corrected by around 22% from its January 2",
+      "title": "Elon Musk's dream vehicle to cease production - What went wrong with Tesla Cybertruck",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/elon-musks-futuristic-dream-vehicle-to-cease-production-what-went-wrong-with-teslas-cybertruck/articleshow/135632407.cms",
+      "pubDate": "2026-11-07T15:30:06+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135632407.cms\" />Tesla is set to cease Cybertruck production by mid-2027 as it pivots towards the Cybercab robotaxi initiative. The Cybertruck's sales have disappointed, falling short of Elon Musk's ambitious expectations. Its avant-garde design polarized opinions within",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Pakistan's external debt nearly doubles to $135 bn in 10 years, China biggest lender",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/pakistans-external-debt-nearly-doubles-to-135-billion-in-10-years-china-biggest-lender/articleshow/135601595.cms",
-      "pubDate": "2026-11-06T15:12:00+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135601595.cms\" />Pakistan's external borrowing is projected to reach $135.1 billion by 2025, with much of the debt owed to China. The country's external debt increased from $68.673 billion in 2015 to the current level, reflecting a significant upward trend. Public and pu",
+      "title": "Muhurat Trading 2026: Why Dalal Street opens for an hour on Diwali - 10 stocks to buy",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/muhurat-trading-2026-why-dalal-street-opens-for-an-hour-on-diwali-10-stocks-to-buy-for-samvat-2083/articleshow/135632689.cms",
+      "pubDate": "2026-11-07T15:15:31+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135632689.cms\" />Muhurat Trading will occur on Sunday, November 8, signaling the beginning of Samvat 2083. This trading session reflects auspiciousness associated with the Diwali festival and investor optimism. Major indices have seen strong rallies leading up to this ev",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "'It was last to apply, meet security norms': Govt hits back on Starlink row",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/starlink-was-last-to-apply-meet-security-requirements-govt-defends-satcom-licensing-process/articleshow/135601838.cms",
-      "pubDate": "2026-11-06T14:57:52+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135601838.cms\" />",
+      "title": "Stuck at work on Diwali? Firms offer employees longer breaks, better gifts and more",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/stuck-at-work-on-diwali-firms-offer-employees-longer-breaks-better-gifts-and-extra-earnings/articleshow/135628718.cms",
+      "pubDate": "2026-11-07T12:37:16+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628718.cms\" />Companies are implementing various initiatives to support employees working during Diwali by providing festive perks. These include extended weekends, work-from-home options, and personalized gifts for staff. Some firms are organizing celebrations for em",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Stock market today: Why did Sensex, Nifty50 rally today? Top reasons",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-why-bse-sensex-nifty50-have-rallied-on-november-06-2026-ltcg-foreign-investors-ai-stocks-dhanteras-diwali/articleshow/135600625.cms",
-      "pubDate": "2026-11-06T14:16:14+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135600625.cms\" />Stock market today: BSE Sensex ended the session at 81,028.02, up 1,718 points or 2.17%. Nifty50 closed at 25,030.35, up 494 points or 2.01%. Global equities suffered a sharp sell-off amid fading enthusiasm for artificial intelligence (AI) stocks followi",
+      "title": "Noel Tata to step down as Voltas chairman from November 12; Sunil D'Souza named successor",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/noel-tata-to-step-down-as-voltas-chairman-from-november-12-sunil-dsouza-named-successor/articleshow/135628610.cms",
+      "pubDate": "2026-11-07T11:52:54+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628610.cms\" />Voltas is set for a notable leadership change as Sunil Alaric D'Souza steps in as Chairman following Noel N Tata's retirement. Tata, who has been with the company since 2003, will take on the role of Chairman Emeritus. Meanwhile, Mukundan Menon C.P. will",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Dhanteras shopping spree may cross Rs 1 lakh crore: What are buyers purchasing this festive season",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/dhanteras-shopping-spree-may-cross-rs-1-lakh-crore-what-are-buyers-purchasing-this-festive-season/articleshow/135601305.cms",
-      "pubDate": "2026-11-06T14:40:11+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135601305.cms\" />This year's Dhanteras shopping spree is anticipated to surpass Rs 1 lakh crore across the country. Gold and silver purchases alone may reach over Rs 60,000 crore, with consumers favoring lightweight jewellery and silver coins. Additionally, there's a not",
+      "title": "Why new LNG projects may not prevent a global gas crunch this winter",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/why-new-lng-projects-may-not-prevent-a-global-gas-crunch-this-winter/articleshow/135627696.cms",
+      "pubDate": "2026-11-07T11:38:44+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135627696.cms\" />Global liquefied natural gas supplies are facing unprecedented challenges due to ongoing disruptions in the Strait of Hormuz. The International Energy Agency reports that LNG loadings from Qatar and the UAE have decreased significantly. As a result, glob",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Gold price today on Dhanteras: Check city-wise rates in Delhi, Mumbai, Pune & more",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-today-on-dhanteras-check-gold-rate-in-your-city-on-november-06-2026-delhi-mumbai-bangalore-chennai-kolkata-hyderabad-ahmedabad-jaipur/articleshow/135599911.cms",
-      "pubDate": "2026-11-06T13:52:08+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135599911.cms\" />Gold prices have fallen sharply in futures trade due to weak spot demand across major Indian cities. In futures contracts, the price declined by Rs 2,178 for December delivery on the Multi Commodity Exchange. Major cities like Bengaluru, Mumbai, and Delh",
+      "title": "India's forex reserves dip by $2.69 billion: What's behind the decline?",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/indias-forex-reserves-dip-by-2-69-billion-whats-behind-the-decline/articleshow/135626724.cms",
+      "pubDate": "2026-11-07T10:59:04+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626724.cms\" />India's foreign exchange reserves decreased by $2.691 billion, primarily due to lower foreign currency assets and gold holdings. Foreign currency assets fell by $2.088 billion, while gold reserves decreased by $559 million during the reporting week. Desp",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Gold buying on Dhanteras: What's the outlook for Samvat 2083?",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-on-dhanteras-60-return-in-2025-13-in-2026-whats-the-outlook-for-yellow-metal-for-the-next-year/articleshow/135598223.cms",
-      "pubDate": "2026-11-06T13:00:08+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135598223.cms\" />Buying gold on Dhanteras is considered auspicious in many traditions. But the festive season comes at a time when gold prices have seen sharp corrections in recent months. Does that mean that gold has lost its glitter as an investment bet? Or are the cur",
+      "title": "Republicans spent more, Democrats won more: Inside the costliest US midterm battle",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/republicans-spent-more-democrats-won-more-inside-the-costliest-us-midterm-battle/articleshow/135626137.cms",
+      "pubDate": "2026-11-07T09:47:53+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135626137.cms\" />In the 2026 US midterm elections, Democrats made notable gains among Latino voters, following a period of prior support for Republicans. Increased spending by GOP candidates did not secure the anticipated wins, resulting in losses in key districts. High ",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Stock market holidays for Diwali: When are NSE, BSE open? Check Muhurat trading timings",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holidays-for-diwali-when-are-nse-bse-open-check-muhurat-trading-timings/articleshow/135597584.cms",
-      "pubDate": "2026-11-06T12:30:30+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597584.cms\" />Diwali celebrations bring about a shift in trading hours on Dalal Street and MCX. On Dhanteras, the stock market will operate, while it will observe its usual Saturday closure. A special Muhurat Trading session is scheduled for Sunday, allowing limited c",
+      "title": "US stocks: Wall street bounces back after hitting 18-month low as chipmakers rally",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/us-stocks-wall-street-bounces-back-in-green-after-hitting-18-month-low-as-chipmakers-rally/articleshow/135624761.cms",
+      "pubDate": "2026-11-07T08:21:17+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624761.cms\" />Wall Street showed signs of recovery on Friday, driven primarily by semiconductor stocks, following earlier losses. The semiconductor sector, particularly companies like Nvidia and AMD, experienced significant rebounds in share prices. Concerns regarding",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "What is the gold price prediction on Dhanteras? Check November 6, 2026 outlook",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-on-dhanteras-what-is-the-gold-rate-outlook-for-november-06-2026-should-you-buy-or-sell-mcx-gold/articleshow/135597238.cms",
-      "pubDate": "2026-11-06T12:19:08+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135597238.cms\" />Gold price prediction today: Gold is witnessing profit booking after its recent rally. Sustaining above Rs 1,41,300 could help stabilise prices, while a break below this level may extend the correction towards Rs 1,40,337 and Rs 1,39,378. On the upside, ",
+      "title": "Semicon 2.0 aims to attract 8 major suppliers to India",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/semicon-2-0-aims-to-attract-8-major-suppliers-to-india/articleshow/135624384.cms",
+      "pubDate": "2026-11-07T07:29:49+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624384.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Will banks remain closed for Dhanteras, Diwali and other festivals; check list",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/diwali-bank-holidays-will-banks-remain-closed-for-dhanteras-diwali-and-other-festivals-check-state-wise-list/articleshow/135596188.cms",
-      "pubDate": "2026-11-06T11:41:53+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135596188.cms\" />In November 2026, Indian banks will take several days off to celebrate Diwali and various regional festivals. Banks will close their doors on November 9, 10, and 11 across different states, each holiday showcasing the unique cultural significance of the ",
+      "title": "Seize, sell Tata Power's shares in arms: Court",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/seize-sell-tata-powers-shares-in-arms-court/articleshow/135624361.cms",
+      "pubDate": "2026-11-07T07:27:19+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624361.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Sensex surges 1,718 points to close at 81,028, Nifty at 25,030",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-6-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/135591408.cms",
-      "pubDate": "2026-11-06T08:23:50+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135591408.cms\" />",
+      "title": "Rules tightened for classifying gold-backed farm loans as PSL",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/rules-tightened-for-classifying-gold-backed-farm-loans-as-psl/articleshow/135624322.cms",
+      "pubDate": "2026-11-07T07:23:54+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624322.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Asian stocks plunge: Kospi tumbles over 7%, Nikkei sheds 3,000 points as AI-linked shares drag markets",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-plunge-kospi-tumbles-over-7-nikkei-sheds-3000-points-as-ai-linked-shares-drag-markets/articleshow/135592890.cms",
-      "pubDate": "2026-11-06T09:32:57+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135592890.cms\" />Asian equity markets witnessed drastic downturns, with Taiwan and South Korea hit the hardest in the trading frenzy. This sell-off arose from growing apprehensions about AI investments, particularly in semiconductors. Wall Street also saw an alarming plu",
+      "title": "OVL looks to operate 2 Venezuelan oil projects",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/ovl-looks-to-operate-2-venezuelan-oil-projects/articleshow/135624319.cms",
+      "pubDate": "2026-11-07T07:21:29+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624319.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Oil prices bounce back: Brent nears $100 after hitting a more than two-month low",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-bounce-back-brent-nears-100-after-hitting-a-more-than-two-month-low/articleshow/135591008.cms",
-      "pubDate": "2026-11-06T08:21:00+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135591008.cms\" />Crude oil prices are on the upswing following major declines fueled by geopolitical tensions. Brent crude approaches the $100 per barrel threshold, while WTI records similar gains. Ongoing conflicts in the Middle East have disrupted refinery operations, ",
+      "title": "Social media platforms urged to act on digital arrest scams",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/social-media-platforms-urged-to-act-on-digital-arrest-scams/articleshow/135624247.cms",
+      "pubDate": "2026-11-07T07:18:10+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624247.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Which are the top stocks to buy on November 6, 2026? Check list",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-06-2026-apl-apollo-tubes-lenskart-anthem-biosciences-limited-stocks-to-buy-today/articleshow/135590744.cms",
-      "pubDate": "2026-11-06T08:04:48+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135590744.cms\" />Stock market recommendations: APL Apollo Tubes, Lenskart, and Anthem Biosciences Limited - Hitesh Rathi, Technical Analyst (Equity & Derivatives) at Angel One has identified these as the top stocks to buy today on November 6, 2026.",
+      "title": "Rupee rises 57 paise to close at 6-month high of 93.91",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-rises-57-paise-to-close-at-6-mth-high-of-93-91/articleshow/135624179.cms",
+      "pubDate": "2026-11-07T07:10:35+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624179.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Gold loan defaults see almost 2x rise in 5 months",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-loan-defaults-see-almost-2x-rise-in-5-months/articleshow/135590513.cms",
-      "pubDate": "2026-11-06T07:41:07+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135590513.cms\" />",
+      "title": "Pollution drives sales of air purifiers",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/pollution-drives-sales-of-air-purifiers/articleshow/135624126.cms",
+      "pubDate": "2026-11-07T07:03:44+05:30",
+      "description": "",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Wall Street bloodbath: $2.5 trillion wiped out as Nasdaq suffers worst crash in 18 months",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/wall-street-bloodbath-2-5-trillion-wiped-out-as-nasdaq-suffers-worst-crash-in-18-months/articleshow/135590089.cms",
-      "pubDate": "2026-11-06T07:08:40+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135590089.cms\" />Wall Street faced a dramatic selloff with technology stocks plummeting due to growing concerns about artificial intelligence spending. Investors reevaluated popular AI-related trades after midterm election results suggested potential tougher scrutiny in ",
+      "title": "Bosch Q2 revenue rises 28%, net up 19%",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/bosch-q2-revenue-rises-28-net-up-19/articleshow/135624128.cms",
+      "pubDate": "2026-11-07T06:59:54+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624128.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "SUVs drive up M&M Q2 net profit by 25%",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/suvs-drive-up-mm-q2-net-profit-by-25/articleshow/135589534.cms",
-      "pubDate": "2026-11-06T06:01:51+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135589534.cms\" />",
+      "title": "Wipro appoints Guha as Americas 2 CEO",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/wipro-appoints-guha-as-americas-2-ceo/articleshow/135624052.cms",
+      "pubDate": "2026-11-07T06:52:56+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135624052.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Rupee gains 16 paise",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-16-paise/articleshow/135589519.cms",
-      "pubDate": "2026-11-06T06:00:01+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135589519.cms\" />",
+      "title": "Crude cost for Indian companies at 2-month low",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/crude-cost-for-indian-cos-at-2-month-low/articleshow/135623170.cms",
+      "pubDate": "2026-11-07T04:37:17+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135623170.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "At 12k cr, LIC profit rises 20% in Q2",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/at-12k-cr-lic-profit-rises-20-in-q2/articleshow/135589511.cms",
-      "pubDate": "2026-11-06T05:57:47+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135589511.cms\" />",
+      "title": "Decline in gold price pushes jewellery sales on Dhanteras",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/decline-in-gold-price-pushes-jewellery-sales-on-dhanteras/articleshow/135620770.cms",
+      "pubDate": "2026-11-07T03:24:29+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135620770.cms\" />",
       "source": "Times of India",
       "section": "Business"
     },
     {
-      "title": "Bharti Airtel profit up 24% to 10,710cr",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/bharti-airtel-profit-up-24-to-10710cr/articleshow/135589499.cms",
-      "pubDate": "2026-11-06T05:55:21+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135589499.cms\" />",
+      "title": "Karnataka's '30% ethanol' claim stirs row as OMCs junk 'test'",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/karnatakas-30-ethanol-claim-stirs-row-as-omcs-junk-test/articleshow/135620353.cms",
+      "pubDate": "2026-11-07T02:39:41+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135620353.cms\" />IOC, BP & HP Question Cong Govt's Sampling & Testing Methodology",
       "source": "Times of India",
       "section": "Business"
+    },
+    {
+      "title": "Scientists fitted nearly 1,750 monarch butterflies with tiny solar-powered trackers",
+      "link": "https://timesofindia.indiatimes.com/science/scientists-fitted-nearly-1750-monarch-butterflies-with-tiny-solar-powered-trackers-to-follow-their-migration-across-north-america-about-175-have-been-detected-in-mexico-as-researchers-map-previously-uncertain-routes/articleshow/135565337.cms",
+      "pubDate": "2026-11-07T15:06:43+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135565337.cms\" />In an innovative effort, researchers have equipped around 1,750 monarch butterflies with solar-powered trackers to study their extensive migration patterns. This advanced tracking technology offers insights into their traveling habits, including routes, ",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "Pakistan to send astronaut to China’s space station aboard Shenzhou-24 mission",
+      "link": "https://timesofindia.indiatimes.com/science/pakistan-to-send-astronaut-to-chinas-space-station-aboard-shenzhou-24-mission/articleshow/135628961.cms",
+      "pubDate": "2026-11-07T12:28:45+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135628961.cms\" />",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "North Carolina student wins top award for free tool mapping wildlife roadkill hotspots",
+      "link": "https://timesofindia.indiatimes.com/science/earth/meet-aaryan-ghorpade-the-north-carolina-student-who-built-a-prototype-for-a-free-roadkill-mapping-platform-and-has-now-won-a-first-place-award-for-his-plan-to-make-american-roads-safer-for-wildlife/articleshow/135619848.cms",
+      "pubDate": "2026-11-07T01:46:43+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135619848.cms\" />Aaryan Ghorpade, a North Carolina student, has triumphed in a national competition with EcoRoute, a project that tracks wildlife-vehicle collision hotspots across the U.S. This innovative online tool gathers collision data and produces heat maps to assis",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "New research rules out the theory of Stonehenge Altar Stone's Northeast Scottish Origin",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/altar-stone-mystery-deepens-stonehenges-origins-linked-to-scotland-remain-elusive/articleshow/135612200.cms",
+      "pubDate": "2026-11-07T02:58:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135612200.cms\" />Researchers continue to explore the origins of the Altar Stone at Stonehenge, which weighs approximately six tonnes. Recent studies suggested a possible origin from northeast Scotland, but findings have complicated this theory. A new international team's",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "For more than 60 years, visitors walked through a cave in Spain; now 280 motifs identified",
+      "link": "https://timesofindia.indiatimes.com/science/archaeology/for-more-than-60-years-visitors-walked-through-a-cave-in-spain-without-noticing-hundreds-of-ice-age-engravings-archaeologists-have-now-identified-280-motifs-making-it-one-of-mediterranean-iberias-largest-art-sites/articleshow/135595063.cms",
+      "pubDate": "2026-11-07T01:56:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135595063.cms\" />A remarkable archaeological find at Cova de la Font Major has revealed 280 Palaeolithic engravings, showcasing diverse motifs of animals and geometric shapes. This challenges the previously held notion that cave art was scarce in northeastern Iberia, whe",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "Twenty black grouse were moved from the North Pennines to the North York Moors in 2024",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/twenty-black-grouse-were-moved-from-the-north-pennines-to-the-north-york-moors-in-2024-the-next-breeding-season-produced-12-chicks-likely-the-areas-first-successful-breeding-in-nearly-200-years/articleshow/135607907.cms",
+      "pubDate": "2026-11-07T01:53:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135607907.cms\" />In a remarkable conservation achievement, black grouse have successfully hatched chicks in North York Moors after a long absence of 200 years. In 2024, 20 black grouse were moved from North Pennines as part of a dedicated effort that includes habitat res",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "14-year study finds livestock grazing linked to fewer spiders in the Himalayas",
+      "link": "https://timesofindia.indiatimes.com/science/wildlife/14-year-himalayan-study-of-25604-arthropods-finds-fewer-spiders-but-more-grasshoppers-ticks-and-mites-when-livestock-replace-native-grazers/articleshow/135538980.cms",
+      "pubDate": "2026-11-07T13:30:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135538980.cms\" />",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "Moon dust reveals rare asteroid rock linked to water on the lunar surface",
+      "link": "https://timesofindia.indiatimes.com/science/space/scientists-find-rare-rock-formed-by-carbon-rich-asteroid-impact-in-moon-dust-that-may-explain-how-water-reached-the-lunar-surface/articleshow/135461653.cms",
+      "pubDate": "2026-11-07T08:30:00+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135461653.cms\" />A rare rock fragment has been identified in lunar soil samples collected by China's Chang'e-6 mission. Researchers discovered that this fragment formed from an impact by a carbon-rich asteroid. This impact likely delivered water and other materials to th",
+      "source": "Times of India",
+      "section": "Science"
+    },
+    {
+      "title": "US start-up plans to sell sunlight at night with India's Skyroot Aerospace",
+      "link": "https://timesofindia.indiatimes.com/science/space/american-start-up-plans-to-sell-sunlight-at-night-with-help-from-indias-skyroot-aerospace-a-scientific-study-warns-the-glow-could-affect-the-night-sky-up-to-30-kilometres-from-the-target/articleshow/135600533.cms",
+      "pubDate": "2026-11-06T17:55:19+05:30",
+      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135600533.cms\" />",
+      "source": "Times of India",
+      "section": "Science"
     },
     {
       "title": "Women who scored higher on cognitive tests were rated as more hostile by teammates and got less help from them, in studies of 432 US business students and 394 Chinese finance workers, a pattern that did not hold for men",
@@ -1374,30 +1406,6 @@
       "link": "https://timesofindia.indiatimes.com/science/discovery/former-nasa-researcher-diana-yousef-builds-waterless-toilet-that-has-already-reached-20000-people-lacking-access-to-safe-sanitation-wins-100000-global-award/articleshow/135570667.cms",
       "pubDate": "2026-11-05T16:48:24+05:30",
       "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135570667.cms\" />",
-      "source": "Times of India",
-      "section": "Science"
-    },
-    {
-      "title": "Abhinav Mehta builds a student-led battery recycling network with over 23,000 collections",
-      "link": "https://timesofindia.indiatimes.com/science/discovery/at-18-abhinav-mehta-builds-a-student-led-battery-recycling-network-that-collects-over-23000-batteries-across-10-chapters/articleshow/135568014.cms",
-      "pubDate": "2026-11-05T20:30:00+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135568014.cms\" />",
-      "source": "Times of India",
-      "section": "Science"
-    },
-    {
-      "title": "Australia launches A$28 million project to stop invasive cane toads from reaching Pilbara after 1935 introduction",
-      "link": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms",
-      "pubDate": "2026-11-05T14:28:17+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135535303.cms\" />A new project involving Curtin University and Rio Tinto seeks to establish a waterless barrier for cane toads. The initiative intends to protect Western Australia's Pilbara area from the ecologically damaging species. Researchers plan to modify water sou",
-      "source": "Times of India",
-      "section": "Science"
-    },
-    {
-      "title": "NASA’s 3,200-pound Swift space telescope crashes back to Earth over Indonesia after failed $30 million rescue mission",
-      "link": "https://timesofindia.indiatimes.com/science/space/after-22-years-in-space-nasas-3200-pound-swift-space-telescope-crashes-back-to-earth-over-indonesia-after-failed-30-million-rescue-mission-agency-estimates-1-in-2100-risk-of-debris-harming-someone/articleshow/135557967.cms",
-      "pubDate": "2026-11-05T12:06:40+05:30",
-      "description": "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/135557967.cms\" />NASA’s Neil Gehrels Swift Observatory re-entered Earth's atmosphere after 22 years in orbit, ending its mission. Swift was crucial for understanding gamma-ray bursts and other cosmic events, detecting over 2,000 bursts. The spacecraft's orbit deteriorate",
       "source": "Times of India",
       "section": "Science"
     }
