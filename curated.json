@@ -1,311 +1,322 @@
 {
-  "date": "2026-11-07",
-  "updatedAt": "2026-11-07T10:36:03.953Z",
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11T11:22:35.098Z",
   "frontPage": [
     {
-      "headline": "Mines Ministry launches 9th tranche of critical mineral block auctions, offering 20 blocks",
+      "headline": "Union Cabinet Allocates ₹62,370 Crore Nutrient Based Subsidy for Rabi Season 2026",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece"
+          "url": "https://www.thehindu.com/news/national/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season/article71689318.ece"
         }
       ],
-      "date": "2026-11-06",
+      "date": "2026-11-11",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Critical Minerals & Industrial Policy",
-      "summary": "The Ministry of Mines has launched the ninth round of critical mineral block auctions, putting 20 blocks up for bidding. Across nine tranches, 100 unique critical and strategic mineral blocks have been offered so far, aimed at securing domestic supply chains.",
-      "whyItMatters": "Critical minerals like lithium, cobalt, nickel, and rare earth elements are vital for green energy transitions, high-tech manufacturing, and defence capabilities, reducing import dependence."
+      "topic": "Agricultural Subsidies",
+      "summary": "The Union Cabinet has approved a subsidy of ₹62,370 crore for Phosphatic and Potassic (P&K) fertilisers for the upcoming Rabi cropping season. The decision aims to shield Indian farmers from rising global fertiliser prices caused by ongoing geopolitical conflicts in West Asia and Eastern Europe.",
+      "whyItMatters": "Directly impacts agricultural economics, crop production costs, and government fiscal expenditure under the Nutrient Based Subsidy (NBS) regime."
     },
     {
-      "headline": "Controversy emerges over ethanol blending percentages in petrol; Ministry denies exceeding limits",
+      "headline": "Moody’s Upgrades India’s FY27 Economic Growth Forecast to 7% Citing Macro Fundamentals",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/videos/is-your-petrol-really-e20-karnataka-claims-ethanol-levels-reached-31/article71677871.ece"
+          "url": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/not-supported-by-tests-petroleum-ministry-rejects-over-20-ethanol-blending-in-karnataka/articleshow/135631902.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/moodys-raises-indias-fy27-growth-forecast-to-7-on-strong-economic-momentum/articleshow/135730431.cms"
         }
       ],
-      "date": "2026-11-07",
+      "date": "2026-11-11",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Biofuels & Energy Security",
-      "summary": "A policy dispute arose following claims that petrol samples in Karnataka contained up to 31% ethanol, exceeding the nationwide E20 target. The Union Ministry of Petroleum rejected the claims, asserting that oil marketing companies adhere strictly to standard blending protocols.",
-      "whyItMatters": "India’s Ethanol Blended Petrol (EBP) Programme aims to reach E20 blending to curb crude oil imports, but engine compatibility, standards compliance, and testing integrity remain crucial regulatory issues."
+      "topic": "Indian Economy and Growth",
+      "summary": "Global rating agency Moody's has raised India's GDP growth estimate to 7% for FY27, citing broad-based domestic momentum, robust private consumption, and strong investment dynamics. The agency noted that India remains relatively resilient against external global energy supply shocks.",
+      "whyItMatters": "Provides key macroeconomic validation for India's growth trajectory and highlights drivers of domestic economic resilience amid global tailwinds."
     },
     {
-      "headline": "Protests intensify in Arunachal Pradesh over the proposed Siang Upper Multipurpose Hydro Project",
+      "headline": "Supreme Court Rules Commercial Plantation within Forest Land Not Protected Under FRA 2006",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece"
+        }
+      ],
+      "date": "2026-11-09",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Judiciary & Tribal Rights",
+      "summary": "The Supreme Court clarified that the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 is intended exclusively to protect traditional forest-dwelling communities dependent on forests for livelihood, not commercial cultivators or plantation owners.",
+      "whyItMatters": "Sets a critical legal precedent preventing the misuse of environmental welfare legislation for commercial land encroachments."
+    },
+    {
+      "headline": "Finance Ministry Mandates Electric Vehicles as Preferred Staff Transport Across Central Ministries",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/finmin-asks-ministries-to-make-evs-default-and-preferred-choice-for-staff-car-purchases/article71689377.ece"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Environmental Conservation & E-Mobility",
+      "summary": "The Ministry of Finance has issued guidelines directing all Union ministries and departments to prioritize Electric Vehicles (EVs) as the default option for government staff car procurements. Any exceptions must now receive explicit administrative and financial clearance.",
+      "whyItMatters": "Demonstrates public-sector leadership in driving clean transport transitions and achieving net-zero carbon goals."
+    },
+    {
+      "headline": "Himalayan Climate Vulnerabilities Left Off Formal Agenda at COP31 Climate Summit",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalayas-agenda-left-off-cop31-formal-list-as-major-blocs-withhold-support-nepal-foreign-minister/article71688621.ece"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Politics & Climate Change",
+      "summary": "Specific climate risks facing the fragile Himalayan eco-system were excluded from the formal agenda at COP31 in Antalya due to lack of consensus among major geopolitical negotiating blocs. Affected regional nations declared they will continue lobbying for formal international recognition of high-altitude climate vulnerabilities.",
+      "whyItMatters": "Highlights geopolitical bottlenecks in international climate diplomacy and the challenges mountain economies face in securing adaptation funding."
+    },
+    {
+      "headline": "Supreme Court Directs Focus to Vehicular Emissions and Regional Traffic in NCR Air Crisis",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece"
+        }
+      ],
+      "date": "2026-11-10",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Pollution & Urban Governance",
+      "summary": "Expanding its scrutiny of National Capital Region (NCR) air pollution beyond seasonal events, the Supreme Court highlighted the systemic burden of vehicular traffic. The apex court demanded detailed accounting of regulatory interventions curbing inter-state commercial vehicle entries.",
+      "whyItMatters": "Underscores the need for year-round structural urban planning and multi-state governance over episodic emergency bans."
+    }
+  ],
+  "gs1": [
+    {
+      "headline": "Fossilized Leg Bone Found in Flores Island Identified as New Extinct Giant Bird Species",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/archaeology/in-2009-researchers-found-a-fossilised-leg-bone-inside-liang-bua-cave-on-indonesias-flores-island-seventeen-years-later-they-realised-it-belonged-to-a-completely-new-extinct-species-of-ground-dwelling-bird/articleshow/135683791.cms"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Paleontology & Archaeology",
+      "summary": "A fossilized leg bone uncovered at the Liang Bua cave site on Flores Island, Indonesia, has been confirmed as a novel extinct giant megapode species named Megapodius rokusi. This discovery provides new insights into prehistoric insular gigantism and Pleistocene fauna.",
+      "whyItMatters": "Liang Bua is globally famous for Homo floresiensis ('Hobbit'); discovering new endemic fauna expands understanding of island biogeography."
+    }
+  ],
+  "gs2": [
+    {
+      "headline": "Supreme Court Rules Commercial Cultivators Excluded from Forest Rights Act Protection",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece"
+        }
+      ],
+      "date": "2026-11-09",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Government Policies & Tribal Welfare",
+      "summary": "The Supreme Court has clarified that claims under the Forest Rights Act (FRA), 2006 must strictly benefit customary, generationally dependent forest-dwelling communities. Commercial agriculturalists operating inside forest boundaries cannot claim statutory protection against eviction under the Act.",
+      "whyItMatters": "Clarifies legal interpretation of FRA 2006, protecting environmental reserves while upholding legitimate tribal welfare rights."
+    },
+    {
+      "headline": "Kerala to Roll Out Family Sustainability Mapping for At-Risk Child Protection",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/kerala/keralam-to-launch-family-sustainability-mapping-to-identify-children-in-high-risk-environments/article71689217.ece"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Social Justice & Child Welfare",
+      "summary": "Kerala’s Department of Women and Child Development is launching a 'Family Sustainability Mapping' initiative to identify vulnerable children living in high-risk family environments. The framework integrates inputs from local self-governments, Anganwadis, schools, health workers, and police.",
+      "whyItMatters": "Serves as an innovative social welfare governance model combining multi-departmental coordination to safeguard vulnerable children."
+    }
+  ],
+  "gs3": [
+    {
+      "headline": "Union Cabinet Sanctions ₹62,370 Crore Fertilizer Subsidy for Rabi Season",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season/article71689318.ece"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Agricultural Economics & Subsidies",
+      "summary": "To buffer domestic agriculture against volatile international input costs, the Union Cabinet approved a ₹62,370 crore outlay for Nutrient Based Subsidy (NBS) covering Phosphatic and Potassic fertilizers for the Rabi season.",
+      "whyItMatters": "Demonstrates fiscal intervention to maintain farm productivity and domestic food security during geopolitical cost spikes."
+    },
+    {
+      "headline": "Moody’s Raises India’s Growth Forecast to 7% for FY27",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Economic Growth & Development",
+      "summary": "Moody's Ratings updated India's economic growth estimate to 7% for FY27, pointing to sustained investment cycles and strong consumption trends across urban and rural markets.",
+      "whyItMatters": "Relevant for assessing India's medium-term macroeconomic sustainability and capital attraction capability."
+    },
+    {
+      "headline": "Public Transport Underutilized in Major Indian IT Hubs, Reports Cyberabad Traffic Survey",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece"
+        }
+      ],
+      "date": "2026-11-11",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Urban Infrastructure & Sustainable Transport",
+      "summary": "A traffic study in Cyberabad revealed that only 2% of IT corridor commuters utilize public transit systems, while 82% rely on private vehicles, causing severe peak-hour congestion. Authorities recommended hybrid work scheduling and corporate-managed mass transit.",
+      "whyItMatters": "Illustrates urban infrastructure bottlenecks and the urgent need for Last-Mile Connectivity in major economic zones."
+    },
+    {
+      "headline": "Local Protests Escalate Over Siang Upper Multipurpose Hydroelectric Project in Arunachal Pradesh",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
         }
       ],
-      "date": "2026-11-07",
+      "date": "2026-11-10",
       "gsPaper": "GS I & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Tribal Rights, Environmental Impact Assessment & Infrastructure Development",
-      "summary": "Members of the indigenous Adi community in Arunachal Pradesh are opposing the Siang Upper Multipurpose Project, citing severe threats to their ancestral land, culture, and local ecosystems. The community alleges inadequate consent protocols for the feasibility study.",
-      "whyItMatters": "Highlights the delicate balance between large hydropower infrastructure, environmental sustainability, eco-sensitive Himalayan river basins, and the constitutional land rights of indigenous tribes."
-    },
-    {
-      "headline": "Centre mandates mandatory stock declaration for rice and paddy to curb price volatility",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece"
-        }
-      ],
-      "date": "2026-11-07",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Agricultural Economics & Food Security",
-      "summary": "To prevent artificial scarcity and speculative hoarding, the Union government has directed traders, millers, and wholesalers to declare their rice and paddy stocks, while enabling state governments to impose stock limits.",
-      "whyItMatters": "Food price inflation directly impacts macro-economic stability and food security; regulatory interventions under essential commodities mechanisms are key tools for inflation control."
-    },
-    {
-      "headline": "NPCI defends UPI Merchant Discount Rate before Supreme Court, citing infrastructure costs",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Digital Public Infrastructure & Banking",
-      "summary": "The National Payments Corporation of India (NPCI) informed the Supreme Court that maintaining a zero Merchant Discount Rate (MDR) for UPI transactions is unsustainable due to escalating infrastructure, cybersecurity, and operational maintenance costs.",
-      "whyItMatters": "Addresses the financial viability of India's flagship Digital Public Infrastructure (DPI) and the policy debate surrounding subsidising digital payment ecosystems versus private commercial sustainability."
-    },
-    {
-      "headline": "Study shows long-term livestock grazing in the Himalayas causes decline in spider populations",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/wildlife/14-year-himalayan-study-of-25604-arthropods-finds-fewer-spiders-but-more-grasshoppers-ticks-and-mites-when-livestock-replace-native-grazers/articleshow/135538980.cms"
-        }
-      ],
-      "date": "2026-11-07",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Ecology & Biodiversity",
-      "summary": "A 14-year study analyzing over 25,000 arthropods in Himalayan high-altitude pastures found that replacing native wild herbivores with domestic livestock significantly reduces spider populations while leading to a surge in grasshoppers, ticks, and mites.",
-      "whyItMatters": "Examines ecosystem degradation, land-use changes, and trophic shifts within vulnerable alpine ecosystems in the Himalayas."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "Archaeologists discover over 200 Paleolithic engravings in Spain's Cova de la Font Major",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/archaeology/for-more-than-60-years-visitors-walked-through-a-cave-in-spain-without-noticing-hundreds-of-ice-age-engravings-archaeologists-have-now-identified-280-motifs-making-it-one-of-mediterranean-iberias-largest-art-sites/articleshow/135595063.cms"
-        }
-      ],
-      "date": "2026-11-07",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "World History & Rock Art",
-      "summary": "Archaeologists have catalogued 280 Ice Age rock art motifs, including animal depictions and geometric designs, inside Spain's Cova de la Font Major, making it one of the largest Paleolithic art sites in Mediterranean Iberia.",
-      "whyItMatters": "Provides crucial insights into human cognitive evolution, pre-historic artistic traditions, and early human migrations across prehistoric Europe."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Karnataka High Court quashes Enforcement Directorate proceedings citing lack of standalone power",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ed-is-not-super-cop-karnataka-hc-quashes-ecir-against-congress-mla-others/articleshow/135633035.cms"
-        }
-      ],
-      "date": "2026-11-07",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Statutory & Regulatory Bodies / Prevention of Money Laundering Act (PMLA)",
-      "summary": "The Karnataka High Court quashed an Enforcement Case Information Report (ECIR) filed by the Enforcement Directorate, reaffirming that the ED cannot act as an independent investigative agency without a valid, underlying scheduled/predicate offense.",
-      "whyItMatters": "Reinforces constitutional checks and balances regarding investigative agencies under the PMLA and upholds federal administrative principles."
-    },
-    {
-      "headline": "Telangana expands post-graduate medical capacity by adding 359 seats in government colleges",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/telangana-gets-359-additional-pg-medical-seats-in-government-colleges-for-2026-27-intake-rises-to-1625/article71677401.ece"
-        }
-      ],
-      "date": "2026-11-07",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Health Infrastructure & Education",
-      "summary": "The National Medical Commission approved 359 additional post-graduate medical seats across government medical colleges in Telangana for the 2026-27 academic session, expanding specialist medical education to 23 state institutes.",
-      "whyItMatters": "Addresses the severe shortage of specialist medical practitioners in public health systems, supporting primary and secondary healthcare delivery."
-    }
-  ],
-  "gs3": [
-    {
-      "headline": "Compressed Bio-Gas blending reaches 1.7% in H1; infrastructure gaps hamper target",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece"
-        }
-      ],
-      "date": "2026-11-05",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Renewable Energy & Agricultural Waste Management",
-      "summary": "India registered a 1.7% Compressed Bio-Gas (CBG) blending rate in city gas distribution networks during H1. Experts emphasized that expanding pipeline connectivity is essential to meet the mandatory 3% blending target set for the end of FY27.",
-      "whyItMatters": "CBG blending supports the SATAT initiative, promotes circular economy through paddy straw/stubble utilization, and reduces natural gas import dependency."
-    },
-    {
-      "headline": "Assam bans drone flights near major Amur Falcon roosting habitats to prevent disturbance",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/assam/assam-prohibits-drone-operations-near-amur-falcon-roosting-sites/article71674015.ece"
-        }
-      ],
-      "date": "2026-11-07",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "High",
-      "topic": "Wildlife Conservation & Migratory Birds",
-      "summary": "District authorities in Assam have restricted the operation of unmanned aerial vehicles (drones) around key roosting sites of the migratory Amur Falcon, following reports of human disturbance during their annual stopover.",
-      "whyItMatters": "Protects key winter stopover ecological corridors for raptors protected under the Convention on Migratory Species (CMS) and Wildlife Protection Act, 1972."
-    },
-    {
-      "headline": "ICAR-CMFRI study records expansion of Kerala's mangrove forest coverage over the past decade",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/keralams-mangrove-cover-expanded-in-past-decade-despite-prior-decline-finds-study/article71673685.ece"
-        }
-      ],
-      "date": "2026-11-06",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Environmental Conservation & Coastal Ecology",
-      "summary": "A spatial analysis conducted by ICAR-Central Marine Fisheries Research Institute using decade-apart satellite imagery revealed an overall expansion in Kerala's coastal mangrove cover, driven by targeted community conservation and natural regeneration.",
-      "whyItMatters": "Mangroves serve as vital blue carbon sinks and natural bio-shields against coastal erosion and extreme marine weather events."
+      "topic": "Hydroelectric Infrastructure vs Indigenous Rights",
+      "summary": "Indigenous Adi communities in Arunachal Pradesh have intensified protests against the proposed Siang Upper Multipurpose Hydroelectric Project. Protesters express concern over cultural displacement, ecological damage to the Siang River basin, and potential downstream flooding risks.",
+      "whyItMatters": "Exemplifies the complex balance between national renewable energy goals, strategic border infrastructure, and local environmental/tribal rights."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Siang Upper Multipurpose Project",
+      "fact": "Liang Bua Cave",
       "category": "Places",
-      "detail": "A proposed large-scale hydroelectric dam project on the Siang River (main stem of the Brahmaputra) in Arunachal Pradesh, facing opposition from the indigenous Adi tribe."
+      "detail": "A limestone cave on Flores Island, Indonesia, famous for the discovery of Homo floresiensis and recently identified extinct giant megapode fossils."
     },
     {
-      "fact": "Amur Falcon (Falco amurensis)",
+      "fact": "Megapodius rokusi",
       "category": "Species",
-      "detail": "A small migratory raptor that undertakes one of the longest migration routes, travelling from Siberia and China through Northeast India to Southern Africa."
+      "detail": "A newly described extinct species of giant ground-dwelling megapode bird identified from Pleistocene fossil remains in Indonesia."
     },
     {
-      "fact": "Kochon Prize",
-      "category": "Organizations",
-      "detail": "An annual global award presented by the Kochon Foundation and Stop TB Partnership recognizing significant contributions towards eradicating Tuberculosis."
+      "fact": "Strait of Hormuz",
+      "category": "Places",
+      "detail": "A critical strategic maritime bottleneck connecting the Persian Gulf with the Gulf of Oman, handling a major portion of global LNG and crude petroleum trade."
     },
     {
-      "fact": "SATAT Initiative",
+      "fact": "Siang River",
+      "category": "Geography",
+      "detail": "The main stem of the Brahmaputra River flowing through Arunachal Pradesh before entering Assam to join the Dibang and Lohit rivers."
+    },
+    {
+      "fact": "Nutrient Based Subsidy (NBS) Scheme",
       "category": "Schemes",
-      "detail": "Sustainable Alternative Towards Affordable Transportation initiative aimed at establishing Compressed Bio-Gas (CBG) production plants from agricultural waste."
-    },
-    {
-      "fact": "Merchant Discount Rate (MDR)",
-      "category": "Terminology",
-      "detail": "The fee charged to a merchant by a bank for accepting payments from their customers via digital transactions, debit, or credit cards."
-    },
-    {
-      "fact": "Cellophane Bees (Colletes spp.)",
-      "category": "Species",
-      "detail": "Ground-nesting bees known for producing a natural polyester-like bioplastic lining for their underground brood cells that is naturally biodegradable."
+      "detail": "Administered by the Department of Fertilisers, it fixes annual/bi-annual subsidies on non-urea P&K fertilisers based on their nutrient content (N, P, K, S)."
     }
   ],
   "quiz": [
     {
-      "question": "Consider the following statements regarding the Amur Falcon (Falco amurensis):\n1. It is a long-distance migratory raptor that breeds in eastern Asia and winters in Southern Africa.\n2. Northeast India, particularly Nagaland and Assam, serves as a crucial staging site during its migration.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the Nutrient Based Subsidy (NBS) regime for fertilizers in India, consider the following statements:\n1. It covers both Urea and non-Urea fertilizers equally.\n2. Subsidies are determined based on the nutrient content (N, P, K, S) present in the fertilizers.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
-      ],
-      "correctIndex": 2,
-      "explanation": "Both statements are correct. Amur Falcons breed in southeastern Siberia and northern China, pass through Northeast India in autumn, and migrate across the Indian Ocean to winter in Southern Africa."
-    },
-    {
-      "question": "With reference to Compressed Bio-Gas (CBG) in India, consider the following statements:\n1. It has chemical properties identical to commercially available natural gas (CNG).\n2. The SATAT scheme was launched to promote CBG production from biomass resources.\nWhich of the statements given above is/are correct?",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 2,
-      "explanation": "CBG is purified biogas with over 90% methane content, making its chemical composition and energy potential functionally identical to CNG."
-    },
-    {
-      "question": "The Siang River, often in the news regarding major hydroelectric project proposals, forms the main stem of which river in India?",
-      "options": [
-        "Teesta",
-        "Brahmaputra",
-        "Barak",
-        "Subansiri"
       ],
       "correctIndex": 1,
-      "explanation": "The Yarlung Tsangpo enters India in Arunachal Pradesh as the Siang (or Dihang) River, which later merges with the Dibang and Lohit to form the Brahmaputra in Assam."
+      "explanation": "Statement 1 is incorrect because Urea remains under statutory price control and is outside the NBS scheme, which primarily governs P&K fertilizers. Statement 2 is correct."
+    },
+    {
+      "question": "The Liang Bua cave site, frequently mentioned in paleoanthropological studies, is located in which of the following countries?",
+      "options": [
+        "Malaysia",
+        "Indonesia",
+        "Philippines",
+        "Vietnam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liang Bua is a prominent limestone cave site situated on Flores Island, Indonesia."
+    },
+    {
+      "question": "Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, which of the following rights is explicitly protected?",
+      "options": [
+        "Rights for commercial timber harvesting by private corporations",
+        "Individual or community tenure rights on forest land for habitation or self-cultivation",
+        "Unrestricted commercial plantation development by non-forest dwellers",
+        "Transfer of forest ownership titles to real estate developers"
+      ],
+      "correctIndex": 1,
+      "explanation": "The FRA 2006 protects customary individual and community tenure rights for self-cultivation and traditional forest use, excluding commercial non-forest activity."
     }
   ],
   "schemes": [
     {
-      "name": "SATAT (Sustainable Alternative Towards Affordable Transportation)",
-      "ministry": "Ministry of Petroleum and Natural Gas",
-      "beneficiaries": "Entrepreneurs, farmers, municipal bodies, and green transport sector",
-      "objective": "To establish Compressed Bio-Gas (CBG) production plants and integrate CBG into the market for automotive and industrial use.",
+      "name": "Nutrient Based Subsidy (NBS) Scheme",
+      "ministry": "Ministry of Chemicals and Fertilisers",
+      "beneficiaries": "Agricultural farmers across India",
+      "objective": "To ensure adequate supply of Phosphatic and Potassic (P&K) fertilisers to farmers at subsidized and reasonable prices.",
       "keyFeatures": [
-        "Encourages commercial production of CBG from agricultural residue, cattle dung, and municipal solid waste.",
-        "Aims for phased mandatory CBG blending targets in City Gas Distribution (CGD) networks."
+        "Provides fixed amount of subsidy annually/seasonally per kg of nutrients (N, P, K, S).",
+        "Encourages balanced fertilization of soils across domestic agricultural zones."
       ],
-      "funding": "Public-private partnerships and commercial bank financing supported by central policy incentives.",
-      "upscRelevance": "Relevant for GS III (Renewable Energy, Agricultural Waste Management, and Environmental Pollution control)."
+      "funding": "Central Sector Scheme fully funded by the Government of India.",
+      "upscRelevance": "Crucial for GS III topics on direct/indirect farm subsidies, soil health, and agricultural input costs."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Digital Financial Infrastructure",
+      "topic": "Urban Commute and Public Transit Infrastructure",
       "points": [
-        "NPCI arguments before the SC highlighted that supporting high transaction volumes requires continuous investments in cybersecurity resilience, infrastructure redundancy, and system scalability, challenging the long-term sustainability of zero-MDR mandates."
+        "According to a Cyberabad traffic study, only 2% of commuters in major IT hubs utilize public transit, while 82% rely on private vehicles, demonstrating severe last-mile transit gaps."
       ]
     },
     {
-      "topic": "Statutory Authority & Federal PMLA Enforcement",
+      "topic": "Forest Rights and Judiciary",
       "points": [
-        "Karnataka High Court ruling established that the Enforcement Directorate (ED) cannot maintain independent PMLA proceedings without an active scheduled predicate offense registered by competent law enforcement agencies."
+        "In a key ruling, the Supreme Court held that the Forest Rights Act (FRA), 2006 is strictly tailored for vulnerable forest-dependent communities, barring commercial plantation operators from invoking statutory protections."
       ]
     }
   ],
   "whatToRemember": [
-    "Ministry of Mines launched the 9th tranche of critical mineral auctions, covering 20 strategic blocks.",
-    "NPCI informed the Supreme Court that maintaining zero MDR on UPI is financially unsustainable for long-term digital payment infrastructure.",
-    "Assam imposed restrictions on drone operations near Amur Falcon roosting habitats to prevent ecological disruption.",
-    "Karnataka High Court held that ED cannot initiate PMLA investigations without a pre-existing predicate offense.",
-    "Center mandated rice and paddy stock disclosures for traders to manage food inflation and check hoarding."
+    "Cabinet approved a ₹62,370 crore NBS outlay for Rabi P&K fertilizers.",
+    "Moody's upgraded India's FY27 GDP growth forecast to 7%.",
+    "Supreme Court barred commercial cultivators from seeking protection under the Forest Rights Act, 2006.",
+    "Finance Ministry instructed Union ministries to make EVs the default choice for staff transport.",
+    "Himalayan climate vulnerability concerns were left off the formal COP31 agenda in Antalya."
   ]
 }
