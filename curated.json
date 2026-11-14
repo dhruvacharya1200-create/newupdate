@@ -1,322 +1,377 @@
 {
-  "date": "2026-11-11",
-  "updatedAt": "2026-11-11T11:22:35.098Z",
+  "date": "2026-11-14",
+  "updatedAt": "2026-11-14T10:48:25.669Z",
   "frontPage": [
     {
-      "headline": "Union Cabinet Allocates ₹62,370 Crore Nutrient Based Subsidy for Rabi Season 2026",
+      "headline": "Karnataka Recommends Including SC/ST Reservation Law in Ninth Schedule Following Tamil Nadu Precedent",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season/article71689318.ece"
-        }
-      ],
-      "date": "2026-11-11",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Agricultural Subsidies",
-      "summary": "The Union Cabinet has approved a subsidy of ₹62,370 crore for Phosphatic and Potassic (P&K) fertilisers for the upcoming Rabi cropping season. The decision aims to shield Indian farmers from rising global fertiliser prices caused by ongoing geopolitical conflicts in West Asia and Eastern Europe.",
-      "whyItMatters": "Directly impacts agricultural economics, crop production costs, and government fiscal expenditure under the Nutrient Based Subsidy (NBS) regime."
-    },
-    {
-      "headline": "Moody’s Upgrades India’s FY27 Economic Growth Forecast to 7% Citing Macro Fundamentals",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
+          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-cm-parameshwara-writes-to-modi-shah-seeking-inclusion-of-states-scst-reservation-law-in-ninth-schedule-on-the-lines-of-tamil-nadu/article71701274.ece"
         },
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/moodys-raises-indias-fy27-growth-forecast-to-7-on-strong-economic-momentum/articleshow/135730431.cms"
-        }
-      ],
-      "date": "2026-11-11",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy and Growth",
-      "summary": "Global rating agency Moody's has raised India's GDP growth estimate to 7% for FY27, citing broad-based domestic momentum, robust private consumption, and strong investment dynamics. The agency noted that India remains relatively resilient against external global energy supply shocks.",
-      "whyItMatters": "Provides key macroeconomic validation for India's growth trajectory and highlights drivers of domestic economic resilience amid global tailwinds."
-    },
-    {
-      "headline": "Supreme Court Rules Commercial Plantation within Forest Land Not Protected Under FRA 2006",
-      "sources": [
-        {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece"
+          "url": "https://www.thehindu.com/news/national/karnataka/scst-quota-enhancement-karnataka-recommends-inclusion-of-law-in-9th-schedule/article66654566.ece"
         }
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-14",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Judiciary & Tribal Rights",
-      "summary": "The Supreme Court clarified that the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 is intended exclusively to protect traditional forest-dwelling communities dependent on forests for livelihood, not commercial cultivators or plantation owners.",
-      "whyItMatters": "Sets a critical legal precedent preventing the misuse of environmental welfare legislation for commercial land encroachments."
+      "topic": "Indian Constitution & Federalism",
+      "summary": "The Karnataka government has requested the Centre to include its enhanced SC/ST reservation law under the Ninth Schedule of the Constitution. Citing Tamil Nadu's 69% reservation framework as a precedent, Karnataka seeks constitutional protection against judicial review for exceeding the 50% ceiling.",
+      "whyItMatters": "Connects directly to GS II Constitutional provisions, Judicial Review, Article 31B, the Ninth Schedule, and the 50% reservation limit established by the Indira Sawhney judgment."
     },
     {
-      "headline": "Finance Ministry Mandates Electric Vehicles as Preferred Staff Transport Across Central Ministries",
+      "headline": "India Re-asserts Support for UNGA Resolution on Permanent Sovereignty of Palestinian People",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/finmin-asks-ministries-to-make-evs-default-and-preferred-choice-for-staff-car-purchases/article71689377.ece"
+          "url": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece"
         }
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-14",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations",
+      "summary": "India voted in favour of a United Nations General Assembly (UNGA) draft resolution affirming the permanent sovereignty of the Palestinian population in the Occupied Palestinian Territory and the Arab population in the occupied Syrian Golan over their natural resources. The resolution demands an immediate halt to the depletion and endangerment of these resources.",
+      "whyItMatters": "Reflects India's multi-aligned foreign policy and historical stance on the West Asia conflict, highly relevant for GS II International Relations and UN bodies."
+    },
+    {
+      "headline": "India's Merchandise Exports Expand 29.9% in October; Trade Deficit Narrows",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-29-9-to-89-99-billion-in-october-overall-trade-deficit-narrows/articleshow/135797333.cms"
+        }
+      ],
+      "date": "2026-11-13",
       "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Economy & Foreign Trade",
+      "summary": "India's merchandise exports recorded a 29.9% year-on-year surge in October 2026, reaching nearly $90 billion total trade value. Strong export volumes outpaced import growth, causing the overall monthly trade deficit to narrow significantly.",
+      "whyItMatters": "Critical data point for GS III Economy covering Foreign Trade Policy, Balance of Payments, trade deficit dynamics, and macro-economic stability."
+    },
+    {
+      "headline": "India’s Retail Inflation Breaches RBI's 6% Upper Tolerance Band in October",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece"
+        }
+      ],
+      "date": "2026-11-12",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Monetary Policy & Inflation",
+      "summary": "India's retail inflation based on the Consumer Price Index (CPI) touched 6.1% in October 2026, crossing the Reserve Bank of India’s upper tolerance threshold of 6% for the first time in two years. Price pressures were seen spreading across multiple broad commodity sectors.",
+      "whyItMatters": "Essential for understanding RBI's Flexible Inflation Targeting framework (4% (+/-2%)), MPC interest rate decisions, and macroeconomic management in GS III."
+    },
+    {
+      "headline": "CAG Expands Audit Horizon to Power DISCOM Performance and Consumer Satisfaction",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece"
+        }
+      ],
+      "date": "2026-11-12",
+      "gsPaper": "GS II & GS III",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Audit Institutions & Energy Infrastructure",
+      "summary": "The Comptroller and Auditor General (CAG) of India has broadened its audit scope within the power sector to evaluate State DISCOMs over a five-year period. The expanded audit framework focuses on financial viability, service quality, RDSS scheme execution, and consumer satisfaction.",
+      "whyItMatters": "Combines CAG's constitutional mandate (GS II) with power sector reforms, discom stress, and infrastructure governance (GS III)."
+    },
+    {
+      "headline": "Mekedatu Balancing Reservoir Dispute Escalates Between Karnataka and Tamil Nadu",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/mekedatu-is-karnatakas-right-we-will-build-dam-and-release-tamil-nadus-share-of-water-dk-shivakumar/article71701313.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/mekedatu-dam-row-stalin-seeks-united-tamil-nadu-stand-asks-vijay-to-call-all-party-meeting/articleshow/135827511.cms"
+        }
+      ],
+      "date": "2026-11-14",
+      "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Environmental Conservation & E-Mobility",
-      "summary": "The Ministry of Finance has issued guidelines directing all Union ministries and departments to prioritize Electric Vehicles (EVs) as the default option for government staff car procurements. Any exceptions must now receive explicit administrative and financial clearance.",
-      "whyItMatters": "Demonstrates public-sector leadership in driving clean transport transitions and achieving net-zero carbon goals."
-    },
-    {
-      "headline": "Himalayan Climate Vulnerabilities Left Off Formal Agenda at COP31 Climate Summit",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalayas-agenda-left-off-cop31-formal-list-as-major-blocs-withhold-support-nepal-foreign-minister/article71688621.ece"
-        }
-      ],
-      "date": "2026-11-11",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Politics & Climate Change",
-      "summary": "Specific climate risks facing the fragile Himalayan eco-system were excluded from the formal agenda at COP31 in Antalya due to lack of consensus among major geopolitical negotiating blocs. Affected regional nations declared they will continue lobbying for formal international recognition of high-altitude climate vulnerabilities.",
-      "whyItMatters": "Highlights geopolitical bottlenecks in international climate diplomacy and the challenges mountain economies face in securing adaptation funding."
-    },
-    {
-      "headline": "Supreme Court Directs Focus to Vehicular Emissions and Regional Traffic in NCR Air Crisis",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece"
-        }
-      ],
-      "date": "2026-11-10",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Pollution & Urban Governance",
-      "summary": "Expanding its scrutiny of National Capital Region (NCR) air pollution beyond seasonal events, the Supreme Court highlighted the systemic burden of vehicular traffic. The apex court demanded detailed accounting of regulatory interventions curbing inter-state commercial vehicle entries.",
-      "whyItMatters": "Underscores the need for year-round structural urban planning and multi-state governance over episodic emergency bans."
+      "topic": "Inter-State Water Disputes",
+      "summary": "Tensions between Karnataka and Tamil Nadu have flared up once again over the proposed Mekedatu balancing reservoir across the Cauvery River. Karnataka claims the dam will secure drinking water for Bengaluru while ensuring Tamil Nadu's mandated water allocations, whereas Tamil Nadu fears lower riparian rights will be violated.",
+      "whyItMatters": "Key case study for Article 262, Inter-State River Water Disputes Act, and cooperative versus competitive federalism."
     }
   ],
   "gs1": [
     {
-      "headline": "Fossilized Leg Bone Found in Flores Island Identified as New Extinct Giant Bird Species",
+      "headline": "Historical Significance of Hyderabad as Deccan's Central Minting Hub Under the Nizams",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/archaeology/in-2009-researchers-found-a-fossilised-leg-bone-inside-liang-bua-cave-on-indonesias-flores-island-seventeen-years-later-they-realised-it-belonged-to-a-completely-new-extinct-species-of-ground-dwelling-bird/articleshow/135683791.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/telangana/hyderabad-emerged-as-the-deccans-centralised-minting-centre-under-the-nizams-says-historian/article71701283.ece"
         }
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-14",
       "gsPaper": "GS I",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Paleontology & Archaeology",
-      "summary": "A fossilized leg bone uncovered at the Liang Bua cave site on Flores Island, Indonesia, has been confirmed as a novel extinct giant megapode species named Megapodius rokusi. This discovery provides new insights into prehistoric insular gigantism and Pleistocene fauna.",
-      "whyItMatters": "Liang Bua is globally famous for Homo floresiensis ('Hobbit'); discovering new endemic fauna expands understanding of island biogeography."
+      "topic": "Indian History & Numismatics",
+      "summary": "Historians highlighted Hyderabad's central role as the premier minting hub of the Deccan region during the Asaf Jahi (Nizam) dynasty. The region's currency evolution reflects significant economic integration and trade networks across medieval and early modern South India.",
+      "whyItMatters": "Useful for GS I Art & Culture / History questions on medieval coinage, regional kingdoms, and economic history."
+    },
+    {
+      "headline": "Centuries-Old Lavi Fair Highlights Trans-Himalayan Trade and Cultural Exchange in Himachal",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+        }
+      ],
+      "date": "2026-11-13",
+      "gsPaper": "GS I",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Art and Culture",
+      "summary": "The historic 300-year-old Lavi Fair in Rampur Bushahr, Himachal Pradesh, showcases the historical evolution of Himalayan trade routes between India and Tibet. Traditionally centered on wool, dry fruits, and livestock barter, the fair has transitioned to modern digital trade while maintaining traditional heritage.",
+      "whyItMatters": "Frequently asked in Prelims under traditional Indian fairs, trade heritage, and Himalayan tribal economic practices."
     }
   ],
   "gs2": [
     {
-      "headline": "Supreme Court Rules Commercial Cultivators Excluded from Forest Rights Act Protection",
+      "headline": "Legal Limits on Serving US Court Summons to Indian National Security Officials Examined",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece"
+          "url": "https://www.thehindu.com/news/national/can-india-refuse-to-serve-summons-in-the-pannun-case/article71701463.ece"
         }
       ],
-      "date": "2026-11-09",
+      "date": "2026-11-14",
       "gsPaper": "GS II",
-      "relevance": "Both",
+      "relevance": "Mains",
       "importance": "High",
-      "topic": "Government Policies & Tribal Welfare",
-      "summary": "The Supreme Court has clarified that claims under the Forest Rights Act (FRA), 2006 must strictly benefit customary, generationally dependent forest-dwelling communities. Commercial agriculturalists operating inside forest boundaries cannot claim statutory protection against eviction under the Act.",
-      "whyItMatters": "Clarifies legal interpretation of FRA 2006, protecting environmental reserves while upholding legitimate tribal welfare rights."
+      "topic": "International Law & Diplomatic Immunity",
+      "summary": "A U.S. court allowed civil summons to be served via Indian judicial channels on senior Indian security officials. Legal experts point out that under the Hague Service Convention and principles of sovereign immunity, sovereign states retain the right to refuse assistance if service infringes on national sovereignty or security interests.",
+      "whyItMatters": "Directly links to international judicial assistance, Hague Service Convention, sovereign immunity, and India-US diplomatic relations."
     },
     {
-      "headline": "Kerala to Roll Out Family Sustainability Mapping for At-Risk Child Protection",
+      "headline": "Proposed Legislation and State Initiatives for Gig Workers' Social Security",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/keralam-to-launch-family-sustainability-mapping-to-identify-children-in-high-risk-environments/article71689217.ece"
+          "url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece"
         }
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-14",
       "gsPaper": "GS II",
       "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Social Justice & Child Welfare",
-      "summary": "Kerala’s Department of Women and Child Development is launching a 'Family Sustainability Mapping' initiative to identify vulnerable children living in high-risk family environments. The framework integrates inputs from local self-governments, Anganwadis, schools, health workers, and police.",
-      "whyItMatters": "Serves as an innovative social welfare governance model combining multi-departmental coordination to safeguard vulnerable children."
+      "topic": "Welfare Schemes for Vulnerable Sections",
+      "summary": "Policy discussions in Telangana have centered on creating dedicated welfare boards and funding models for platform gig workers. Proposed mechanisms include levying a micro-fee (1%) on transaction values to fund accident cover and healthcare security.",
+      "whyItMatters": "Relevant for Code on Social Security 2020 implementation, social safety nets for informal labour, and state welfare policies."
     }
   ],
   "gs3": [
     {
-      "headline": "Union Cabinet Sanctions ₹62,370 Crore Fertilizer Subsidy for Rabi Season",
+      "headline": "RBI Proposes Sub-Limit Under Liberalised Remittance Scheme to Protect Domestic Currency",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season/article71689318.ece"
+          "url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
         }
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Agricultural Economics & Subsidies",
-      "summary": "To buffer domestic agriculture against volatile international input costs, the Union Cabinet approved a ₹62,370 crore outlay for Nutrient Based Subsidy (NBS) covering Phosphatic and Potassic fertilizers for the Rabi season.",
-      "whyItMatters": "Demonstrates fiscal intervention to maintain farm productivity and domestic food security during geopolitical cost spikes."
+      "topic": "Indian Economy & Forex Management",
+      "summary": "The Reserve Bank of India has considered a ₹50 lakh sub-cap within the overall $250,000 annual Liberalised Remittance Scheme (LRS) ceiling for specific non-essential capital and current transactions. The move seeks to curtail speculative dollar outflows, buffer foreign exchange reserves, and stabilize the domestic rupee.",
+      "whyItMatters": "Crucial GS III topic on capital account management, LRS rules, rupee depreciation pressures, and central bank foreign exchange policy."
     },
     {
-      "headline": "Moody’s Raises India’s Growth Forecast to 7% for FY27",
+      "headline": "National Urgent Need for Formal Lithium-Ion Battery Recycling Ecosystem",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/moodys-ups-indias-fy27-growth-estimate-to-7-on-broad-based-momentum/article71688844.ece"
+          "url": "https://www.thehindu.com/opinion/editorial/critical-ban-on-recycling-of-lithium-ion-batteries/article71699389.ece"
         }
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-14",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "E-Waste Management & Critical Minerals",
+      "summary": "With India's rapid electric vehicle transition, experts urge building a robust domestic closed-loop ecosystem for recycling lithium-ion batteries. Proper recycling ensures recovery of critical minerals like cobalt, lithium, and nickel while preventing severe environmental degradation from unorganized disposal.",
+      "whyItMatters": "Spans GS III Environmental Pollution (E-waste rules), Critical Mineral Security, and Sustainable Industrial Policy."
+    },
+    {
+      "headline": "WHO Global Report Highlights Shift to Domestic Funding for Tuberculosis Management",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/as-external-funding-to-combat-tb-falls-domestic-spending-accounts-for-86-who-report/article71697995.ece"
+        }
+      ],
+      "date": "2026-11-13",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Economic Growth & Development",
-      "summary": "Moody's Ratings updated India's economic growth estimate to 7% for FY27, pointing to sustained investment cycles and strong consumption trends across urban and rural markets.",
-      "whyItMatters": "Relevant for assessing India's medium-term macroeconomic sustainability and capital attraction capability."
+      "topic": "Science & Tech - Public Health",
+      "summary": "According to the latest WHO global findings, domestic allocations now cover 86% of global Tuberculosis funding due to falling international assistance. India accounts for a quarter of the global TB burden, making sustained domestic health infrastructure spending essential for its elimination targets.",
+      "whyItMatters": "Directly related to GS III Public Health, National TB Elimination Program targets, and international health finance trends."
     },
     {
-      "headline": "Public Transport Underutilized in Major Indian IT Hubs, Reports Cyberabad Traffic Survey",
+      "headline": "Global One Health Approach Recommended to Counter Rising Antimicrobial Resistance",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Hyderabad/it-hubs-see-82-commute-by-personal-vehicles-just-2-use-public-transport/article71686991.ece"
+          "url": "https://www.thehindu.com/news/cities/chennai/experts-call-for-coordinated-action-across-sectors-to-tackle-antimicrobial-resistance/article71697841.ece"
         }
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Urban Infrastructure & Sustainable Transport",
-      "summary": "A traffic study in Cyberabad revealed that only 2% of IT corridor commuters utilize public transit systems, while 82% rely on private vehicles, causing severe peak-hour congestion. Authorities recommended hybrid work scheduling and corporate-managed mass transit.",
-      "whyItMatters": "Illustrates urban infrastructure bottlenecks and the urgent need for Last-Mile Connectivity in major economic zones."
-    },
-    {
-      "headline": "Local Protests Escalate Over Siang Upper Multipurpose Hydroelectric Project in Arunachal Pradesh",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
-        }
-      ],
-      "date": "2026-11-10",
-      "gsPaper": "GS I & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Hydroelectric Infrastructure vs Indigenous Rights",
-      "summary": "Indigenous Adi communities in Arunachal Pradesh have intensified protests against the proposed Siang Upper Multipurpose Hydroelectric Project. Protesters express concern over cultural displacement, ecological damage to the Siang River basin, and potential downstream flooding risks.",
-      "whyItMatters": "Exemplifies the complex balance between national renewable energy goals, strategic border infrastructure, and local environmental/tribal rights."
+      "topic": "Biotechnology & Public Health",
+      "summary": "Prior to World AMR Awareness Week, global health bodies urged cross-sectoral coordination under the 'One Health' framework linking human, animal, and environmental health. Surveillance and strict regulation of antibiotic misuse in farming and healthcare are highlighted as critical steps.",
+      "whyItMatters": "AMR is a frequent subject in UPSC Science & Tech, public health policy, and environmental health challenges."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Liang Bua Cave",
-      "category": "Places",
-      "detail": "A limestone cave on Flores Island, Indonesia, famous for the discovery of Homo floresiensis and recently identified extinct giant megapode fossils."
-    },
-    {
-      "fact": "Megapodius rokusi",
+      "fact": "Indian Bramble Shark (Echinorhinus roinee)",
       "category": "Species",
-      "detail": "A newly described extinct species of giant ground-dwelling megapode bird identified from Pleistocene fossil remains in Indonesia."
+      "detail": "A newly identified shark species in the Indian Ocean, previously misclassified for decades."
     },
     {
-      "fact": "Strait of Hormuz",
+      "fact": "Lavi Fair",
       "category": "Places",
-      "detail": "A critical strategic maritime bottleneck connecting the Persian Gulf with the Gulf of Oman, handling a major portion of global LNG and crude petroleum trade."
+      "detail": "A historic 300-year-old trade fair held annually in Rampur Bushahr, Himachal Pradesh, known for traditional Himalayan trade."
     },
     {
-      "fact": "Siang River",
-      "category": "Geography",
-      "detail": "The main stem of the Brahmaputra River flowing through Arunachal Pradesh before entering Assam to join the Dibang and Lohit rivers."
+      "fact": "Abhidhamma Divas",
+      "category": "Terminology",
+      "detail": "A significant Buddhist event commemorating the Buddha's descent from the heavenly realm after teaching the Abhidhamma."
     },
     {
-      "fact": "Nutrient Based Subsidy (NBS) Scheme",
+      "fact": "Hera Mission",
+      "category": "Organizations",
+      "detail": "European Space Agency's planetary defence mission sent to investigate the impact site of NASA's DART spacecraft on asteroid Dimorphos."
+    },
+    {
+      "fact": "National Poisoning Registry",
       "category": "Schemes",
-      "detail": "Administered by the Department of Fertilisers, it fixes annual/bi-annual subsidies on non-urea P&K fertilisers based on their nutrient content (N, P, K, S)."
+      "detail": "A public health database initiative led by AIIMS New Delhi to systematically record, monitor, and manage clinical poisoning cases across India."
+    },
+    {
+      "fact": "Liberalised Remittance Scheme (LRS)",
+      "category": "Terminology",
+      "detail": "An RBI framework permitting resident individuals to freely remit up to $250,000 per financial year for permissible capital or current account transactions."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the Nutrient Based Subsidy (NBS) regime for fertilizers in India, consider the following statements:\n1. It covers both Urea and non-Urea fertilizers equally.\n2. Subsidies are determined based on the nutrient content (N, P, K, S) present in the fertilizers.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the Ninth Schedule of the Indian Constitution, consider the following statements:\n1. It was added to the Constitution by the First Constitutional Amendment Act, 1951.\n2. Laws placed in the Ninth Schedule are completely immune from judicial review under all circumstances.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect because Urea remains under statutory price control and is outside the NBS scheme, which primarily governs P&K fertilizers. Statement 2 is correct."
+      "correctIndex": 0,
+      "explanation": "Statement 1 is correct. The Ninth Schedule was introduced by the 1st Amendment in 1951. Statement 2 is incorrect because in the I.R. Coelho case (2007), the Supreme Court ruled that laws placed in the Ninth Schedule after April 24, 1973, are open to judicial review if they violate the Basic Structure."
     },
     {
-      "question": "The Liang Bua cave site, frequently mentioned in paleoanthropological studies, is located in which of the following countries?",
+      "question": "The 'Hera Mission', recently seen in the news, is associated with which of the following?",
       "options": [
-        "Malaysia",
-        "Indonesia",
-        "Philippines",
-        "Vietnam"
+        "Exploring ice deposits on the lunar south pole",
+        "Investigating the asteroid impact site of NASA's DART mission",
+        "Studying solar flares from Lagrange Point L1",
+        "Monitoring deep ocean currents in the Indian Ocean"
       ],
       "correctIndex": 1,
-      "explanation": "Liang Bua is a prominent limestone cave site situated on Flores Island, Indonesia."
+      "explanation": "Hera is the European Space Agency's (ESA) mission designed to perform a detailed post-impact survey of the asteroid Dimorphos, which was struck by NASA's DART spacecraft."
     },
     {
-      "question": "Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, which of the following rights is explicitly protected?",
+      "question": "With reference to the Liberalised Remittance Scheme (LRS) of the RBI, consider the following statements:\n1. It is available to resident individuals including minors.\n2. Non-Resident Indians (NRIs) can utilize the LRS limit for remitting funds from India.\nWhich of the statements given above is/are correct?",
       "options": [
-        "Rights for commercial timber harvesting by private corporations",
-        "Individual or community tenure rights on forest land for habitation or self-cultivation",
-        "Unrestricted commercial plantation development by non-forest dwellers",
-        "Transfer of forest ownership titles to real estate developers"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Statement 1 is correct; the LRS facility is available to all resident individuals, including minors. Statement 2 is incorrect because LRS is not available to corporate bodies, partnership firms, or NRIs."
+    },
+    {
+      "question": "The 'Lavi Fair', famous for its historic trans-Himalayan trade connections, is celebrated in which Indian State/UT?",
+      "options": [
+        "Ladakh",
+        "Uttarakhand",
+        "Himachal Pradesh",
+        "Arunachal Pradesh"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Lavi Fair is a 300-year-old historic trade fair celebrated in Rampur Bushahr, Himachal Pradesh."
+    },
+    {
+      "question": "Which institution has proposed setting up India's first dedicated National Poisoning Registry to track clinical poisoning cases?",
+      "options": [
+        "Indian Council of Medical Research (ICMR)",
+        "AIIMS New Delhi",
+        "NITI Aayog",
+        "National Center for Disease Control (NCDC)"
       ],
       "correctIndex": 1,
-      "explanation": "The FRA 2006 protects customary individual and community tenure rights for self-cultivation and traditional forest use, excluding commercial non-forest activity."
+      "explanation": "AIIMS New Delhi has initiated plans to launch a National Poisoning Registry to track, monitor, and address poisoning cases across India."
     }
   ],
   "schemes": [
     {
-      "name": "Nutrient Based Subsidy (NBS) Scheme",
-      "ministry": "Ministry of Chemicals and Fertilisers",
-      "beneficiaries": "Agricultural farmers across India",
-      "objective": "To ensure adequate supply of Phosphatic and Potassic (P&K) fertilisers to farmers at subsidized and reasonable prices.",
+      "name": "Revamped Distribution Sector Scheme (RDSS)",
+      "ministry": "Ministry of Power",
+      "beneficiaries": "State Power Distribution Companies (DISCOMs) and electricity consumers",
+      "objective": "To improve operational efficiency and financial sustainability of State DISCOMs by providing financial assistance for infrastructure upgradation and smart metering.",
       "keyFeatures": [
-        "Provides fixed amount of subsidy annually/seasonally per kg of nutrients (N, P, K, S).",
-        "Encourages balanced fertilization of soils across domestic agricultural zones."
+        "Results-linked financial support to DISCOMs subject to meeting operational targets.",
+        "Phased rollout of prepaid smart meters across all consumer categories.",
+        "Loss reduction infrastructure including feeder separation and network modernization."
       ],
-      "funding": "Central Sector Scheme fully funded by the Government of India.",
-      "upscRelevance": "Crucial for GS III topics on direct/indirect farm subsidies, soil health, and agricultural input costs."
+      "funding": "Centrally Sponsored Scheme with outlay mix of central grants and state/loan funding.",
+      "upscRelevance": "High utility for GS III Power & Infrastructure questions and GS II public audit of state utilities."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Urban Commute and Public Transit Infrastructure",
+      "topic": "Public Health Finance & Global Burden",
       "points": [
-        "According to a Cyberabad traffic study, only 2% of commuters in major IT hubs utilize public transit, while 82% rely on private vehicles, demonstrating severe last-mile transit gaps."
+        "As per WHO Global Tuberculosis Report data, domestic financial resources now account for 86% of total global spending on TB prevention and treatment due to declining international donor funding.",
+        "India bears approximately 25% of the total global Tuberculosis case burden, underscoring the critical need for sustained domestic fiscal commitments to health."
       ]
     },
     {
-      "topic": "Forest Rights and Judiciary",
+      "topic": "Constitutional Safeguards & Federal Quota Dynamics",
       "points": [
-        "In a key ruling, the Supreme Court held that the Forest Rights Act (FRA), 2006 is strictly tailored for vulnerable forest-dependent communities, barring commercial plantation operators from invoking statutory protections."
+        "In I.R. Coelho v. State of Tamil Nadu (2007), the Supreme Court held that laws included under the Ninth Schedule after April 24, 1973, are subject to judicial review if they damage the Basic Structure of the Constitution.",
+        "Tamil Nadu's 69% reservation protection under the Ninth Schedule via the 76th Constitutional Amendment Act (1994) serves as a precedent currently cited by states like Karnataka to protect enhanced SC/ST quotas."
       ]
     }
   ],
   "whatToRemember": [
-    "Cabinet approved a ₹62,370 crore NBS outlay for Rabi P&K fertilizers.",
-    "Moody's upgraded India's FY27 GDP growth forecast to 7%.",
-    "Supreme Court barred commercial cultivators from seeking protection under the Forest Rights Act, 2006.",
-    "Finance Ministry instructed Union ministries to make EVs the default choice for staff transport.",
-    "Himalayan climate vulnerability concerns were left off the formal COP31 agenda in Antalya."
+    "Karnataka has urged the Centre to place its enhanced SC/ST quota act under the 9th Schedule, citing Tamil Nadu's 69% reservation precedent.",
+    "India voted in favour of the UNGA resolution affirming permanent sovereignty of Palestinians over their natural resources.",
+    "India's merchandise exports recorded a sharp 29.9% surge in October 2026, helping narrow the trade deficit.",
+    "India's CPI retail inflation rose to 6.1% in October, exceeding the RBI's 6% upper tolerance limit for the first time in 24 months.",
+    "The Comptroller and Auditor General (CAG) expanded its audit scope to evaluate DISCOM performance and consumer service delivery.",
+    "Echinorhinus roinee (Indian Bramble Shark) was identified as a distinct new shark species in the Indian Ocean."
   ]
 }
