@@ -1,97 +1,133 @@
 {
-  "date": "2026-11-14",
-  "updatedAt": "2026-11-14T10:48:25.669Z",
+  "date": "2026-11-15",
+  "updatedAt": "2026-11-15T11:23:43.251Z",
   "frontPage": [
     {
-      "headline": "Karnataka Recommends Including SC/ST Reservation Law in Ninth Schedule Following Tamil Nadu Precedent",
+      "headline": "India Reaffirms Position on Capital Punishment by Voting Against UNGA Moratorium Resolution",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-cm-parameshwara-writes-to-modi-shah-seeking-inclusion-of-states-scst-reservation-law-in-ninth-schedule-on-the-lines-of-tamil-nadu/article71701274.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/karnataka/scst-quota-enhancement-karnataka-recommends-inclusion-of-law-in-9th-schedule/article66654566.ece"
+          "url": "https://www.thehindu.com/news/international/india-votes-against-unga-resolution-calling-for-global-moratorium-on-death-penalty/article71704094.ece"
         }
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Constitution & Federalism",
-      "summary": "The Karnataka government has requested the Centre to include its enhanced SC/ST reservation law under the Ninth Schedule of the Constitution. Citing Tamil Nadu's 69% reservation framework as a precedent, Karnataka seeks constitutional protection against judicial review for exceeding the 50% ceiling.",
-      "whyItMatters": "Connects directly to GS II Constitutional provisions, Judicial Review, Article 31B, the Ninth Schedule, and the 50% reservation limit established by the Indira Sawhney judgment."
+      "topic": "International Organisations & Human Rights",
+      "summary": "India voted against a United Nations General Assembly (UNGA) draft resolution calling for a worldwide moratorium on the use of the death penalty. India maintains that sovereign state laws dictate criminal justice responses based on statutory legal procedures.",
+      "whyItMatters": "Relevant for GS-II under International Relations, UN resolutions, and Indian Judiciary's stance on capital punishment under criminal jurisprudence."
     },
     {
-      "headline": "India Re-asserts Support for UNGA Resolution on Permanent Sovereignty of Palestinian People",
+      "headline": "India's Deep Ocean Mission Targets Resource Exploration at 5,000-Metre Depths in Indian Ocean",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/deep-ocean-mission-important-for-indias-future-moes-secretary/article71701535.ece"
         }
       ],
-      "date": "2026-11-14",
-      "gsPaper": "GS II",
+      "date": "2026-11-15",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "International Relations",
-      "summary": "India voted in favour of a United Nations General Assembly (UNGA) draft resolution affirming the permanent sovereignty of the Palestinian population in the Occupied Palestinian Territory and the Arab population in the occupied Syrian Golan over their natural resources. The resolution demands an immediate halt to the depletion and endangerment of these resources.",
-      "whyItMatters": "Reflects India's multi-aligned foreign policy and historical stance on the West Asia conflict, highly relevant for GS II International Relations and UN bodies."
+      "topic": "Science & Technology - Deep Sea Exploration",
+      "summary": "The Ministry of Earth Sciences highlighted the strategic importance of the Deep Ocean Mission, which focuses on oceanographic exploration and polymetallic nodule assessment in the Central Indian Ocean Basin at depths of around 5,000 metres.",
+      "whyItMatters": "Connects to GS-III Science & Tech, Blue Economy, critical mineral security, and deep-sea mining regulations under the International Seabed Authority (ISA)."
     },
     {
-      "headline": "India's Merchandise Exports Expand 29.9% in October; Trade Deficit Narrows",
+      "headline": "India's Merchandise Exports Surged 29.9% in October as Trade Deficit Narrows",
       "sources": [
         {
           "name": "The Hindu",
           "url": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece"
+        }
+      ],
+      "date": "2026-11-15",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "High",
+      "topic": "Indian Economy - Foreign Trade",
+      "summary": "India witnessed a strong 29.9% increase in merchandise exports in October, driving down the overall monthly trade deficit to $20.09 billion due to higher export volumes and global demand alignment.",
+      "whyItMatters": "Directly impacts GS-III economic indicators, balance of payments, export promotion strategy, and current account management."
+    },
+    {
+      "headline": "SEBI Prepares Regulatory Guardrails for Artificial Intelligence Integration in Capital Markets",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms"
+        }
+      ],
+      "date": "2026-11-15",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Financial Regulatory Framework & AI Ethics",
+      "summary": "The Securities and Exchange Board of India (SEBI) is developing advisory guardrails for financial market intermediaries using artificial intelligence. The framework prioritises investor protection, ethical compliance, algorithmic transparency, and mandatory human oversight.",
+      "whyItMatters": "Crucial for GS-III regulation of capital markets, fintech governance, and ethical frameworks for emerging technologies like AI."
+    },
+    {
+      "headline": "Nation Commemorates Janjatiya Gaurav Diwas on Birsa Munda’s Birth Anniversary",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-exports-jump-29-9-to-89-99-billion-in-october-overall-trade-deficit-narrows/articleshow/135797333.cms"
+          "url": "https://timesofindia.indiatimes.com/india/abandoned-tribals-to-naxal-violence-pm-modi-takes-aim-at-previous-govts/articleshow/135849329.cms"
         }
       ],
-      "date": "2026-11-13",
-      "gsPaper": "GS III",
+      "date": "2026-11-15",
+      "gsPaper": "GS I & III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy & Foreign Trade",
-      "summary": "India's merchandise exports recorded a 29.9% year-on-year surge in October 2026, reaching nearly $90 billion total trade value. Strong export volumes outpaced import growth, causing the overall monthly trade deficit to narrow significantly.",
-      "whyItMatters": "Critical data point for GS III Economy covering Foreign Trade Policy, Balance of Payments, trade deficit dynamics, and macro-economic stability."
+      "topic": "Tribal Revolts / Modern Indian History",
+      "summary": "Tributes were paid across the country to tribal freedom fighter Birsa Munda on his birth anniversary, celebrated as Janjatiya Gaurav Diwas. State initiatives highlighted ongoing socio-economic programmes for tribal empowerment.",
+      "whyItMatters": "Combines GS-I Modern Indian History (Ulgulan movement/tribal uprisings) and GS-III welfare schemes for vulnerable tribal communities (PVTGs/DAJGUA)."
     },
     {
-      "headline": "India’s Retail Inflation Breaches RBI's 6% Upper Tolerance Band in October",
+      "headline": "SpaceX Achieves Historic Mechanical Capture of Returning Starship Booster",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece"
+          "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/watch-spacexs-starship-completes-first-ever-midair-catch-on-return-from-orbit/articleshow/135844940.cms"
         }
       ],
-      "date": "2026-11-12",
+      "date": "2026-11-15",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Monetary Policy & Inflation",
-      "summary": "India's retail inflation based on the Consumer Price Index (CPI) touched 6.1% in October 2026, crossing the Reserve Bank of India’s upper tolerance threshold of 6% for the first time in two years. Price pressures were seen spreading across multiple broad commodity sectors.",
-      "whyItMatters": "Essential for understanding RBI's Flexible Inflation Targeting framework (4% (+/-2%)), MPC interest rate decisions, and macroeconomic management in GS III."
-    },
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Space Technology",
+      "summary": "SpaceX successfully retrieved its Starship upper stage rocket using mechanical launch pad arms ('chopsticks') upon its return from atmospheric re-entry, demonstrating progress in reusable launch vehicle architecture.",
+      "whyItMatters": "Demonstrates advances in reusable space launch vehicles, lowering cost per launch and accelerating deep-space exploration technology."
+    }
+  ],
+  "gs1": [
     {
-      "headline": "CAG Expands Audit Horizon to Power DISCOM Performance and Consumer Satisfaction",
+      "headline": "Role of Birsa Munda and the Ulgulan Movement in India's Tribal Freedom Struggle",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece"
+          "url": "https://www.thehindu.com/news/national/pm-modi-pays-tribute-to-birsa-munda-on-birth-anniversary/article71704060.ece"
         }
       ],
-      "date": "2026-11-12",
-      "gsPaper": "GS II & GS III",
-      "relevance": "Mains",
+      "date": "2026-11-15",
+      "gsPaper": "GS I",
+      "relevance": "Both",
       "importance": "High",
-      "topic": "Audit Institutions & Energy Infrastructure",
-      "summary": "The Comptroller and Auditor General (CAG) of India has broadened its audit scope within the power sector to evaluate State DISCOMs over a five-year period. The expanded audit framework focuses on financial viability, service quality, RDSS scheme execution, and consumer satisfaction.",
-      "whyItMatters": "Combines CAG's constitutional mandate (GS II) with power sector reforms, discom stress, and infrastructure governance (GS III)."
-    },
+      "topic": "Tribal Revolts in 19th Century India",
+      "summary": "Birsa Munda led the historic 'Ulgulan' (Great Tumult) rebellion against British agrarian exploitation and land revenue systems in the Chota Nagpur region in the late 19th century.",
+      "whyItMatters": "A direct syllabus topic under 19th century anti-colonial peasant and tribal movements."
+    }
+  ],
+  "gs2": [
     {
-      "headline": "Mekedatu Balancing Reservoir Dispute Escalates Between Karnataka and Tamil Nadu",
+      "headline": "Renewed Friction Over Mekedatu Balancing Reservoir Project in Cauvery River Basin",
       "sources": [
         {
           "name": "The Hindu",
@@ -99,279 +135,220 @@
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/mekedatu-dam-row-stalin-seeks-united-tamil-nadu-stand-asks-vijay-to-call-all-party-meeting/articleshow/135827511.cms"
+          "url": "https://timesofindia.indiatimes.com/india/law-on-our-side-karnataka-ministers-big-remark-amid-mekedatu-dam-row-with-tamil-nadu/articleshow/135850140.cms"
         }
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Inter-State Water Disputes",
-      "summary": "Tensions between Karnataka and Tamil Nadu have flared up once again over the proposed Mekedatu balancing reservoir across the Cauvery River. Karnataka claims the dam will secure drinking water for Bengaluru while ensuring Tamil Nadu's mandated water allocations, whereas Tamil Nadu fears lower riparian rights will be violated.",
-      "whyItMatters": "Key case study for Article 262, Inter-State River Water Disputes Act, and cooperative versus competitive federalism."
-    }
-  ],
-  "gs1": [
-    {
-      "headline": "Historical Significance of Hyderabad as Deccan's Central Minting Hub Under the Nizams",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/hyderabad-emerged-as-the-deccans-centralised-minting-centre-under-the-nizams-says-historian/article71701283.ece"
-        }
-      ],
-      "date": "2026-11-14",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Indian History & Numismatics",
-      "summary": "Historians highlighted Hyderabad's central role as the premier minting hub of the Deccan region during the Asaf Jahi (Nizam) dynasty. The region's currency evolution reflects significant economic integration and trade networks across medieval and early modern South India.",
-      "whyItMatters": "Useful for GS I Art & Culture / History questions on medieval coinage, regional kingdoms, and economic history."
-    },
-    {
-      "headline": "Centuries-Old Lavi Fair Highlights Trans-Himalayan Trade and Cultural Exchange in Himachal",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
-        }
-      ],
-      "date": "2026-11-13",
-      "gsPaper": "GS I",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Art and Culture",
-      "summary": "The historic 300-year-old Lavi Fair in Rampur Bushahr, Himachal Pradesh, showcases the historical evolution of Himalayan trade routes between India and Tibet. Traditionally centered on wool, dry fruits, and livestock barter, the fair has transitioned to modern digital trade while maintaining traditional heritage.",
-      "whyItMatters": "Frequently asked in Prelims under traditional Indian fairs, trade heritage, and Himalayan tribal economic practices."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "Legal Limits on Serving US Court Summons to Indian National Security Officials Examined",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/can-india-refuse-to-serve-summons-in-the-pannun-case/article71701463.ece"
-        }
-      ],
-      "date": "2026-11-14",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
       "importance": "High",
-      "topic": "International Law & Diplomatic Immunity",
-      "summary": "A U.S. court allowed civil summons to be served via Indian judicial channels on senior Indian security officials. Legal experts point out that under the Hague Service Convention and principles of sovereign immunity, sovereign states retain the right to refuse assistance if service infringes on national sovereignty or security interests.",
-      "whyItMatters": "Directly links to international judicial assistance, Hague Service Convention, sovereign immunity, and India-US diplomatic relations."
+      "topic": "Inter-State Water Disputes & Federal Governance",
+      "summary": "Karnataka reaffirmed its resolve to construct the Mekedatu balancing reservoir across the Cauvery river, asserting it will regulate water releases to Tamil Nadu while meeting Bengaluru's drinking water needs. Tamil Nadu opposes the construction citing lower-riparian water rights.",
+      "whyItMatters": "Key reference for Article 262, inter-state water dispute tribunals, lower vs upper riparian rights, and federal cooperative mechanisms."
     },
     {
-      "headline": "Proposed Legislation and State Initiatives for Gig Workers' Social Security",
+      "headline": "India Votes Against UN Resolution Demanding Moratorium on Execution of Death Sentences",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece"
+          "url": "https://www.thehindu.com/news/international/india-votes-against-unga-resolution-calling-for-global-moratorium-on-death-penalty/article71704094.ece"
         }
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Welfare Schemes for Vulnerable Sections",
-      "summary": "Policy discussions in Telangana have centered on creating dedicated welfare boards and funding models for platform gig workers. Proposed mechanisms include levying a micro-fee (1%) on transaction values to fund accident cover and healthcare security.",
-      "whyItMatters": "Relevant for Code on Social Security 2020 implementation, social safety nets for informal labour, and state welfare policies."
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Judiciary & Criminal Justice System",
+      "summary": "India voted against a UNGA resolution urging a halt to capital punishment, stating that the death penalty is retained strictly for the rarest of rare cases, guarded by statutory checks, appeals, and executive clemency.",
+      "whyItMatters": "Directly relevant to fundamental rights, judicial precedents (Bachan Singh case), and international human rights treaties."
     }
   ],
   "gs3": [
     {
-      "headline": "RBI Proposes Sub-Limit Under Liberalised Remittance Scheme to Protect Domestic Currency",
+      "headline": "High Depths Exploration: India's Deep Ocean Mission and Oceanographic Strategy",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/deep-ocean-mission-important-for-indias-future-moes-secretary/article71701535.ece"
         }
       ],
-      "date": "2026-11-13",
+      "date": "2026-11-15",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indian Economy & Forex Management",
-      "summary": "The Reserve Bank of India has considered a ₹50 lakh sub-cap within the overall $250,000 annual Liberalised Remittance Scheme (LRS) ceiling for specific non-essential capital and current transactions. The move seeks to curtail speculative dollar outflows, buffer foreign exchange reserves, and stabilize the domestic rupee.",
-      "whyItMatters": "Crucial GS III topic on capital account management, LRS rules, rupee depreciation pressures, and central bank foreign exchange policy."
+      "topic": "Indigenisation of Technology & Blue Economy",
+      "summary": "The Ministry of Earth Sciences highlighted ongoing progress under the Deep Ocean Mission (DOM), including deep-sea mining technology development and oceanic biodiversity mapping at 5,000-metre depths.",
+      "whyItMatters": "Connects to energy independence, critical minerals like nickel/cobalt, and sustainable marine resource exploitation."
     },
     {
-      "headline": "National Urgent Need for Formal Lithium-Ion Battery Recycling Ecosystem",
+      "headline": "SEBI Outlines Human Oversight Mandates for AI Deployment in Indian Financial Markets",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/critical-ban-on-recycling-of-lithium-ion-batteries/article71699389.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms"
         }
       ],
-      "date": "2026-11-14",
-      "gsPaper": "GS III",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "E-Waste Management & Critical Minerals",
-      "summary": "With India's rapid electric vehicle transition, experts urge building a robust domestic closed-loop ecosystem for recycling lithium-ion batteries. Proper recycling ensures recovery of critical minerals like cobalt, lithium, and nickel while preventing severe environmental degradation from unorganized disposal.",
-      "whyItMatters": "Spans GS III Environmental Pollution (E-waste rules), Critical Mineral Security, and Sustainable Industrial Policy."
-    },
-    {
-      "headline": "WHO Global Report Highlights Shift to Domestic Funding for Tuberculosis Management",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/as-external-funding-to-combat-tb-falls-domestic-spending-accounts-for-86-who-report/article71697995.ece"
-        }
-      ],
-      "date": "2026-11-13",
+      "date": "2026-11-15",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Science & Tech - Public Health",
-      "summary": "According to the latest WHO global findings, domestic allocations now cover 86% of global Tuberculosis funding due to falling international assistance. India accounts for a quarter of the global TB burden, making sustained domestic health infrastructure spending essential for its elimination targets.",
-      "whyItMatters": "Directly related to GS III Public Health, National TB Elimination Program targets, and international health finance trends."
+      "topic": "Cyber Security & Financial Regulation",
+      "summary": "Market regulator SEBI is preparing regulatory guardrails to prevent algorithmic biases and financial market manipulation stemming from unsupervised AI applications.",
+      "whyItMatters": "Provides a practical case study for regulatory interventions in emerging AI capabilities."
     },
     {
-      "headline": "Global One Health Approach Recommended to Counter Rising Antimicrobial Resistance",
+      "headline": "Avian Influenza (H5N1) Outbreak Confirmed in Tamil Nadu's Cuddalore District",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/chennai/experts-call-for-coordinated-action-across-sectors-to-tackle-antimicrobial-resistance/article71697841.ece"
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece"
         }
       ],
-      "date": "2026-11-13",
+      "date": "2026-11-15",
+      "gsPaper": "GS III",
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Biosecurity & Animal Husbandry",
+      "summary": "Following confirmation of H5N1 strain by ICAR-NIHSAD Bhopal, animal husbandry authorities in Tamil Nadu executed containment protocols and culled over 1,500 birds in Cuddalore.",
+      "whyItMatters": "Relevant for biosecurity protocols, zoonotic disease monitoring, and agricultural disease management."
+    },
+    {
+      "headline": "Project Amrit Sarovar Expands Water Conservation Ponds Across High-Altitude Ladakh",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/project-amrit-sarovar-major-push-to-water-security-in-ladakh-as-lt-governor-clears-97-new-ponds/article71704423.ece"
+        }
+      ],
+      "date": "2026-11-15",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Biotechnology & Public Health",
-      "summary": "Prior to World AMR Awareness Week, global health bodies urged cross-sectoral coordination under the 'One Health' framework linking human, animal, and environmental health. Surveillance and strict regulation of antibiotic misuse in farming and healthcare are highlighted as critical steps.",
-      "whyItMatters": "AMR is a frequent subject in UPSC Science & Tech, public health policy, and environmental health challenges."
+      "topic": "Water Conservation & Disaster Resilience",
+      "summary": "Ladakh administration cleared 97 new water bodies under Mission Amrit Sarovar to trap seasonal meltwater and bolster climate resilience in cold desert ecosystems.",
+      "whyItMatters": "Useful case study for climate adaptation in fragile cold-desert habitats."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Indian Bramble Shark (Echinorhinus roinee)",
-      "category": "Species",
-      "detail": "A newly identified shark species in the Indian Ocean, previously misclassified for decades."
+      "fact": "Janjatiya Gaurav Diwas is celebrated every year on November 15.",
+      "category": "Personalities",
+      "detail": "It marks the birth anniversary of tribal freedom fighter Birsa Munda, who led the Ulgulan rebellion against British rule."
     },
     {
-      "fact": "Lavi Fair",
-      "category": "Places",
-      "detail": "A historic 300-year-old trade fair held annually in Rampur Bushahr, Himachal Pradesh, known for traditional Himalayan trade."
-    },
-    {
-      "fact": "Abhidhamma Divas",
-      "category": "Terminology",
-      "detail": "A significant Buddhist event commemorating the Buddha's descent from the heavenly realm after teaching the Abhidhamma."
-    },
-    {
-      "fact": "Hera Mission",
+      "fact": "ICAR-NIHSAD is located in Bhopal, Madhya Pradesh.",
       "category": "Organizations",
-      "detail": "European Space Agency's planetary defence mission sent to investigate the impact site of NASA's DART spacecraft on asteroid Dimorphos."
+      "detail": "National Institute of High Security Animal Diseases (NIHSAD) is India's premier laboratory for diagnosing exotic and emerging animal diseases like Avian Influenza."
     },
     {
-      "fact": "National Poisoning Registry",
+      "fact": "Mekedatu is a multi-purpose balancing reservoir project across the River Cauvery.",
+      "category": "Places",
+      "detail": "Located in Ramanagara district of Karnataka near the confluence of Cauvery and Arkavathi rivers."
+    },
+    {
+      "fact": "Deep Ocean Mission is executed by the Ministry of Earth Sciences (MoES).",
       "category": "Schemes",
-      "detail": "A public health database initiative led by AIIMS New Delhi to systematically record, monitor, and manage clinical poisoning cases across India."
+      "detail": "Focuses on deep-sea resource mining, underwater robotics, and ocean climate change advisory services."
     },
     {
-      "fact": "Liberalised Remittance Scheme (LRS)",
+      "fact": "Centaurea tchihatcheffii is an endangered endemic plant known as the 'Love Flower'.",
+      "category": "Species",
+      "detail": "Archaeologists recently discovered 4,000-year-old seeds of this critically endangered flower inside a Hittite jug in Turkey."
+    },
+    {
+      "fact": "Leonid Meteor Shower peaks annually in mid-November.",
       "category": "Terminology",
-      "detail": "An RBI framework permitting resident individuals to freely remit up to $250,000 per financial year for permissible capital or current account transactions."
+      "detail": "Associated with the dust trail left behind by Comet 55P/Tempel-Tuttle."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the Ninth Schedule of the Indian Constitution, consider the following statements:\n1. It was added to the Constitution by the First Constitutional Amendment Act, 1951.\n2. Laws placed in the Ninth Schedule are completely immune from judicial review under all circumstances.\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Birsa Munda, consider the following statements:\n1. He led the Ulgulan movement in the Chota Nagpur region.\n2. Janjatiya Gaurav Diwas is observed annually on his birth anniversary.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
-      ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct. The Ninth Schedule was introduced by the 1st Amendment in 1951. Statement 2 is incorrect because in the I.R. Coelho case (2007), the Supreme Court ruled that laws placed in the Ninth Schedule after April 24, 1973, are open to judicial review if they violate the Basic Structure."
-    },
-    {
-      "question": "The 'Hera Mission', recently seen in the news, is associated with which of the following?",
-      "options": [
-        "Exploring ice deposits on the lunar south pole",
-        "Investigating the asteroid impact site of NASA's DART mission",
-        "Studying solar flares from Lagrange Point L1",
-        "Monitoring deep ocean currents in the Indian Ocean"
-      ],
-      "correctIndex": 1,
-      "explanation": "Hera is the European Space Agency's (ESA) mission designed to perform a detailed post-impact survey of the asteroid Dimorphos, which was struck by NASA's DART spacecraft."
-    },
-    {
-      "question": "With reference to the Liberalised Remittance Scheme (LRS) of the RBI, consider the following statements:\n1. It is available to resident individuals including minors.\n2. Non-Resident Indians (NRIs) can utilize the LRS limit for remitting funds from India.\nWhich of the statements given above is/are correct?",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct; the LRS facility is available to all resident individuals, including minors. Statement 2 is incorrect because LRS is not available to corporate bodies, partnership firms, or NRIs."
-    },
-    {
-      "question": "The 'Lavi Fair', famous for its historic trans-Himalayan trade connections, is celebrated in which Indian State/UT?",
-      "options": [
-        "Ladakh",
-        "Uttarakhand",
-        "Himachal Pradesh",
-        "Arunachal Pradesh"
       ],
       "correctIndex": 2,
-      "explanation": "The Lavi Fair is a 300-year-old historic trade fair celebrated in Rampur Bushahr, Himachal Pradesh."
+      "explanation": "Both statements are correct. Birsa Munda led the Ulgulan (Great Tumult) in the late 19th century against British land policies, and his birth anniversary on November 15 is commemorated as Janjatiya Gaurav Diwas."
     },
     {
-      "question": "Which institution has proposed setting up India's first dedicated National Poisoning Registry to track clinical poisoning cases?",
+      "question": "The Mekedatu balancing reservoir project, often seen in the news, is proposed at the confluence of which of the following rivers?",
       "options": [
-        "Indian Council of Medical Research (ICMR)",
-        "AIIMS New Delhi",
-        "NITI Aayog",
-        "National Center for Disease Control (NCDC)"
+        "Cauvery and Kapila",
+        "Cauvery and Arkavathi",
+        "Krishna and Tungabhadra",
+        "Godavari and Indravati"
       ],
       "correctIndex": 1,
-      "explanation": "AIIMS New Delhi has initiated plans to launch a National Poisoning Registry to track, monitor, and address poisoning cases across India."
+      "explanation": "Mekedatu is a balancing reservoir project proposed by Karnataka at the confluence of the Cauvery and Arkavathi rivers in Ramanagara district."
+    },
+    {
+      "question": "Which national institution in India serves as the premier referral laboratory for high-consequence animal pathogens such as H5N1 Avian Influenza?",
+      "options": [
+        "IVRI Bareilly",
+        "ICAR-NIHSAD Bhopal",
+        "NIV Pune",
+        "CCMB Hyderabad"
+      ],
+      "correctIndex": 1,
+      "explanation": "ICAR-National Institute of High Security Animal Diseases (NIHSAD) located in Bhopal is the apex laboratory for high-consequence animal pathogens like H5N1."
+    },
+    {
+      "question": "Consider the following statements regarding the Deep Ocean Mission:\n1. It is a flagship initiative of the Ministry of Environment, Forest and Climate Change.\n2. It includes plans to explore polymetallic nodules at depths of around 5,000 metres in the Indian Ocean.\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "correctIndex": 1,
+      "explanation": "Statement 1 is incorrect because it is implemented by the Ministry of Earth Sciences (MoES). Statement 2 is correct as it targets polymetallic nodule exploration in the Central Indian Ocean Basin."
     }
   ],
   "schemes": [
     {
-      "name": "Revamped Distribution Sector Scheme (RDSS)",
-      "ministry": "Ministry of Power",
-      "beneficiaries": "State Power Distribution Companies (DISCOMs) and electricity consumers",
-      "objective": "To improve operational efficiency and financial sustainability of State DISCOMs by providing financial assistance for infrastructure upgradation and smart metering.",
+      "name": "Mission Amrit Sarovar",
+      "ministry": "Ministry of Rural Development",
+      "beneficiaries": "Rural communities and agricultural sectors across States/UTs",
+      "objective": "To construct or rejuvenate at least 75 water bodies in each district of the country to tackle water scarcity and enhance groundwater recharge.",
       "keyFeatures": [
-        "Results-linked financial support to DISCOMs subject to meeting operational targets.",
-        "Phased rollout of prepaid smart meters across all consumer categories.",
-        "Loss reduction infrastructure including feeder separation and network modernization."
+        "Focuses on community participation and convergence with MGNREGA",
+        "Utilises spatial technology for site identification and real-time monitoring",
+        "Actively used in cold desert regions like Ladakh for seasonal meltwater storage"
       ],
-      "funding": "Centrally Sponsored Scheme with outlay mix of central grants and state/loan funding.",
-      "upscRelevance": "High utility for GS III Power & Infrastructure questions and GS II public audit of state utilities."
+      "funding": "Implemented through convergence of existing central schemes (MGNREGA, XV Finance Commission Grants, XV FC funds).",
+      "upscRelevance": "High relevance for GS-III water resource management and GS-II scheme implementation."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Public Health Finance & Global Burden",
+      "topic": "Capital Punishment & Sovereign Judicial Policy",
       "points": [
-        "As per WHO Global Tuberculosis Report data, domestic financial resources now account for 86% of total global spending on TB prevention and treatment due to declining international donor funding.",
-        "India bears approximately 25% of the total global Tuberculosis case burden, underscoring the critical need for sustained domestic fiscal commitments to health."
+        "India's vote against the UNGA moratorium on the death penalty reflects its stance that criminal justice procedures must balance victim rights, statutory safeguards, and deterrence in the 'rarest of rare cases' (Bachan Singh v. State of Punjab)."
       ]
     },
     {
-      "topic": "Constitutional Safeguards & Federal Quota Dynamics",
+      "topic": "Inter-State Water Dispute Governance",
       "points": [
-        "In I.R. Coelho v. State of Tamil Nadu (2007), the Supreme Court held that laws included under the Ninth Schedule after April 24, 1973, are subject to judicial review if they damage the Basic Structure of the Constitution.",
-        "Tamil Nadu's 69% reservation protection under the Ninth Schedule via the 76th Constitutional Amendment Act (1994) serves as a precedent currently cited by states like Karnataka to protect enhanced SC/ST quotas."
+        "Friction over the Mekedatu Dam project highlights structural limits of Inter-State River Water Disputes Act, 1956, emphasizing the need for permanent river basin authorities rather than ad-hoc tribunals."
+      ]
+    },
+    {
+      "topic": "Deep Sea Resource Sovereignty",
+      "points": [
+        "India's exploration at 5,000-metre depth under the Deep Ocean Mission strengthens strategic autonomy over critical minerals like nickel, copper, and cobalt essential for the clean energy transition."
       ]
     }
   ],
   "whatToRemember": [
-    "Karnataka has urged the Centre to place its enhanced SC/ST quota act under the 9th Schedule, citing Tamil Nadu's 69% reservation precedent.",
-    "India voted in favour of the UNGA resolution affirming permanent sovereignty of Palestinians over their natural resources.",
-    "India's merchandise exports recorded a sharp 29.9% surge in October 2026, helping narrow the trade deficit.",
-    "India's CPI retail inflation rose to 6.1% in October, exceeding the RBI's 6% upper tolerance limit for the first time in 24 months.",
-    "The Comptroller and Auditor General (CAG) expanded its audit scope to evaluate DISCOM performance and consumer service delivery.",
-    "Echinorhinus roinee (Indian Bramble Shark) was identified as a distinct new shark species in the Indian Ocean."
+    "India voted against the UNGA resolution calling for a global moratorium on the death penalty, citing sovereign legal frameworks.",
+    "Birsa Munda's birth anniversary on Nov 15 is observed as Janjatiya Gaurav Diwas to honour tribal anti-colonial struggles like the Ulgulan.",
+    "The Deep Ocean Mission by MoES aims to explore ocean resources at 5,000-metre depths in the Central Indian Ocean Basin.",
+    "Karnataka and Tamil Nadu continue legal and political debates over the Mekedatu balancing reservoir on the Cauvery river.",
+    "SEBI is introducing mandatory human oversight guardrails for financial entities adopting Artificial Intelligence.",
+    "Project Amrit Sarovar is playing a crucial role in building cold-desert climate resilience by creating water storage ponds in Ladakh."
   ]
 }
