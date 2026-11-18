@@ -1,319 +1,345 @@
 {
-  "date": "2026-11-16",
-  "updatedAt": "2026-11-16T11:56:10.826Z",
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T12:06:31.864Z",
   "frontPage": [
     {
-      "headline": "India Joins U.S.-Led 'Pax Silica' Declaration to Secure Critical Minerals and AI Supply Chains",
+      "headline": "India and U.S. Bilateral Trade Pact Pending Finalization of American Tariff Framework",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/article71707057.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/india-joins-us-led-alliance-to-secure-ai-supply-chains-amid-china-tech-rivalry/articleshow/135886669.cms"
+          "url": "https://www.thehindu.com/business/Economy/india-us-trade-deal-signing-will-still-take-some-time-says-commerce-secretary-rajesh-agrawal/article71715672.ece"
         }
       ],
-      "date": "2026-11-16",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Relations & Critical Technologies",
-      "summary": "India along with nine other nations signed the U.S.-led 'Pax Silica' declaration aimed at safeguarding semiconductor and artificial intelligence supply chains. The initiative focuses on securing access to critical minerals like silicon, essential for advanced computing infrastructure.",
-      "whyItMatters": "Connects directly to GS II (Bilateral and Multilateral Coalitions) and GS III (Semiconductor Mission & Emerging Tech). Securing critical raw materials reduces vulnerability to global supply chain disruptions and geopolitical leverage by dominant market players."
-    },
-    {
-      "headline": "Out-of-Pocket Healthcare Expenditure Drops to 42.7% as Total Spending Triples: NHA Data",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/out-of-pocket-expenditure-on-health-shows-decadal-decline-explained/article71707302.ece"
-        }
-      ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Issues Relating to Development and Management of Social Sector/Health",
-      "summary": "According to National Health Accounts (NHA) data, out-of-pocket expenditure (OOPE) on healthcare in India declined from 64.2% in 2013-14 to 42.7% in 2023-24. Meanwhile, social security spending on health expanded from 6% to 11%, reflecting broader public coverage.",
-      "whyItMatters": "Essential for GS II Social Justice and Governance. Reduced OOPE prevents vulnerable households from slipping into poverty due to catastrophic health expenses, demonstrating the impact of public schemes like Ayushman Bharat."
+      "topic": "Bilateral Relations",
+      "summary": "The Union Commerce Ministry has clarified that the proposed India-U.S. trade agreement will require additional time before finalization. The delay is primarily dependent on the United States completing its updated internal tariff structure.",
+      "whyItMatters": "This trade agreement directly affects India-U.S. economic ties, export tariffs, and trade competitiveness against other global suppliers."
     },
     {
-      "headline": "Wholesale Price Inflation Surges to 12.29% in October Driven by Fuel and Energy Costs",
+      "headline": "Severe Cyclonic Storm 'Akvan' Prompts Heavy Rainfall Alerts Across Coastal Andhra Pradesh",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece"
+          "url": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-veers-north-and-may-cross-the-coast-anywhere-from-narsapur-to-puri/article71715514.ece"
+        }
+      ],
+      "date": "2026-11-18",
+      "gsPaper": "GS I & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Tropical Cyclones & Disaster Management",
+      "summary": "Cyclone 'Akvan' in the Bay of Bengal has intensified into a severe cyclonic storm, tracking northwards toward the coast between Narsapur in Andhra Pradesh and Puri in Odisha. State disaster authorities have issued high alerts across coastal districts for extreme rainfall.",
+      "whyItMatters": "Demonstrates the vulnerability of the East Coast of India to Bay of Bengal cyclonic storms and highlights disaster preparedness and early warning systems."
+    },
+    {
+      "headline": "Voyager 1 Reaches Historic One Light-Day Distance From Earth",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-jumps-to-12-29-in-october-due-to-rising-crude-and-power-prices/articleshow/135876550.cms"
+          "url": "https://timesofindia.indiatimes.com/science/nasas-voyager-1-eyes-history-to-reach-one-light-day-from-earth-today/articleshow/135945245.cms"
         }
       ],
-      "date": "2026-11-16",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy and Inflation",
-      "summary": "Provisional government figures show Wholesale Price Index (WPI) inflation rose to 12.29% in October, up from 11.39% in September. The surge was driven primarily by a 32.84% spike in the fuel and power index alongside elevated prices for crude petroleum and natural gas.",
-      "whyItMatters": "Directly impacts macroeconomic stability and monetary policy expectations. High WPI signals upstream cost pressures that could eventually spill over into consumer prices (CPI) and squeeze corporate profit margins."
-    },
-    {
-      "headline": "IMD Issues Alerts as Cyclonic Storm 'Akvan' Deepens Over Bay of Bengal",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece"
-        }
-      ],
-      "date": "2026-11-16",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Disaster Management & Tropical Cyclones",
-      "summary": "The India Meteorological Department (IMD) has issued warnings for Cyclone Akvan, which is forecast to intensify over the Bay of Bengal and hit the Andhra Pradesh coast between Nellore and Tuni. State disaster authorities have alerted fishermen and initiated early crop harvesting advisories.",
-      "whyItMatters": "Core topic for GS III Disaster Management and Physical Geography. Highlight coastal disaster preparedness, early warning systems, and economic relief protocols during recurring extreme weather events."
-    },
-    {
-      "headline": "SpaceX Achieves First-Ever Mechanical 'Catch' of Returning Rocket Booster",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/spacex-pulls-off-first-ever-spaceship-catch/articleshow/135869210.cms"
-        }
-      ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS III",
       "relevance": "Prelims",
-      "importance": "Medium",
+      "importance": "High",
       "topic": "Space Technology",
-      "summary": "SpaceX successfully demonstrated a full recovery technique by using launch tower mechanical arms ('chopsticks') to catch the returning Starship booster mid-air. This development marks a major milestone toward 100% reusable space launch architectures.",
-      "whyItMatters": "Illustrates rapid technological evolution in space infrastructure, significantly lowering payload launch costs and enabling future long-duration deep space missions."
+      "summary": "NASA's Voyager 1 spacecraft has reached a milestone distance of one light-day (approximately 26 billion kilometers) from Earth. Launched in 1977, it remains humanity's farthest operational human-made object in interstellar space.",
+      "whyItMatters": "A landmark achievement in deep space exploration, illustrating interstellar measurements and long-duration space probe engineering."
     },
     {
-      "headline": "India and Egypt Explore Preferential Trade Agreement to Boost Bilateral Commerce",
+      "headline": "Chandrayaan-3 Data Reveals Three Distinct Soil Layers in Lunar Regolith",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/chandrayaan-3-finds-3-distinct-layers-in-moons-soil/articleshow/135940788.cms"
+        }
+      ],
+      "date": "2026-11-18",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology",
+      "summary": "Scientific analysis of data returned by ISRO's Chandrayaan-3 mission has revealed three distinct stratified layers within the top region of the lunar regolith. These findings offer key insights into lunar geological history and sub-surface soil composition.",
+      "whyItMatters": "Understanding lunar sub-surface stratification is crucial for future lunar resource utilization, water-ice prospecting, and habitat construction."
+    },
+    {
+      "headline": "Union Government Introduces One-Time Settlement Scheme for Groundwater Environmental Compensation",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece"
         }
       ],
-      "date": "2026-11-16",
-      "gsPaper": "GS II",
+      "date": "2026-11-18",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Bilateral Trade Agreements & West Asia-Africa Relations",
-      "summary": "During the India-Egypt Joint Trade Committee meeting, both countries agreed to establish a Joint Working Group to draft Terms of Reference for a Preferential Trade Agreement (PTA) or Free Trade Agreement (FTA). Talks also targeted non-tariff barriers impeding market entry.",
-      "whyItMatters": "Relevant for GS II Bilateral Agreements involving India's interests. Strengthens India's trade presence in North Africa and the Suez Canal maritime economic corridor."
+      "topic": "Environmental Governance & Water Resources",
+      "summary": "The Central Government has announced a one-time settlement scheme offering 30% to 75% relief on environmental compensation fees for unauthorized or disputed groundwater extraction across 19 States and Union Territories.",
+      "whyItMatters": "Highlights the policy balance between environmental regulation enforcement, economic compliance, and sustainable groundwater management."
+    },
+    {
+      "headline": "Andaman and Nicobar Administration Replaces Colonial-Era Prison Regulations",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/andaman-junks-two-colonial-era-laws-with-new-prison-regulation/article71715445.ece"
+        }
+      ],
+      "date": "2026-11-18",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Prison Reforms & Legal Governance",
+      "summary": "The Andaman and Nicobar Islands administration has repealed two colonial-era prison statutes, substituting them with updated prison regulations focused on modern correctional principles.",
+      "whyItMatters": "Aligns with broader national efforts toward prison reform, human rights compliance, and decolonization of administrative legislation."
     }
   ],
   "gs1": [
     {
-      "headline": "Pastoral Communities Demand Formal Representation in Wildlife Conservation Boards",
+      "headline": "Severe Cyclonic Storm 'Akvan' and the Climatology of Bay of Bengal Cyclones",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Madurai/why-tamil-nadus-pastoralists-are-demanding-a-voice-in-wildlife-conservation/article71704546.ece"
+          "url": "https://www.thehindu.com/videos/will-cyclone-akvan-hit-andhra-pradesh-or-bangladesh-the-expert-shares-his-forecast/article71715507.ece"
         }
       ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS I",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Indian Society & Indigenous Knowledge",
-      "summary": "Traditional pastoralist groups in Tamil Nadu have called for institutional representation in reconstituted State Boards for Wildlife. They argue that traditional grazing practices and indigenous knowledge are crucial for ecological balance and forest ecosystem management.",
-      "whyItMatters": "Underlines the intersection between indigenous rights, traditional lifestyle preservation (GS I Society), and environmental conservation framework governance."
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Important Geophysical Phenomena",
+      "summary": "Experts highlight that high sea surface temperatures, low vertical wind shear, and significant freshwater runoff make the Bay of Bengal particularly prone to frequent and intense cyclonic systems like Cyclone Akvan.",
+      "whyItMatters": "Directly relates to GS-I physical geography syllabus covering tropical cyclones, oceanography, and regional climate patterns."
     }
   ],
   "gs2": [
     {
-      "headline": "UN Experts Convene to Discuss Governance and Rules for Autonomous Weapon Systems",
+      "headline": "Centre Proposes Mandatory 6-Day Quarantine Draft Rules for Unvaccinated Yellow Fever Area Arrivals",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/unvaccinated-yellow-fever-risk-travellers-may-face-six-day-quarantine-new-airport-rules-propose-changes/articleshow/135952010.cms"
         }
       ],
-      "date": "2026-11-16",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "International Institutions and Regulatory Frameworks",
-      "summary": "UN-backed international discussions are evaluating legal limits and binding standards on Lethal Autonomous Weapons Systems (LAWS). Delegates highlighted risks associated with removing human oversight from targeting decisions and operational algorithms.",
-      "whyItMatters": "Focuses on global security governance, international humanitarian law (IHL), and the necessity of binding treaties to regulate AI applications in armed conflict."
-    },
-    {
-      "headline": "New Delhi to Host First SCO Civilisational Dialogue Forum",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/pakistans-participation-in-sco-civilisational-forum-explained/article71707102.ece"
-        }
-      ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Regional Groupings & Cultural Diplomacy",
-      "summary": "India's Ministry of Culture and Ministry of External Affairs will host the inaugural Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum in New Delhi. The platform aims to foster intra-regional cultural exchange and historical research ties among member states.",
-      "whyItMatters": "Highlights SCO's soft power dimension and India's role in leveraging cultural diplomacy to build consensus within Eurasian multilateral bodies."
+      "topic": "Public Health & Governance",
+      "summary": "Draft health regulations propose a mandatory six-day quarantine at points of entry for international passengers arriving from yellow fever-endemic regions without valid vaccination certificates.",
+      "whyItMatters": "Demonstrates biosecurity measures and public health regulatory mechanisms to prevent vector-borne disease transmission."
+    },
+    {
+      "headline": "India Approves 350 MW Cross-Border Power Supply to Nepal for Winter",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece"
+        }
+      ],
+      "date": "2026-11-18",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "India and its Neighbourhood",
+      "summary": "India has granted authorization for Nepal to import up to 350 MW of electricity during the winter period, helping bridge Nepal's seasonal gap in domestic run-of-river hydro generation.",
+      "whyItMatters": "Highlights cross-border energy trade and sub-regional energy security cooperation under Neighborhood First policy."
     }
   ],
   "gs3": [
     {
-      "headline": "India Focuses on Expanding Domestic Mining to Reduce High Gold Import Bills",
+      "headline": "ISRO's Chandrayaan-3 Identifies Sub-surface Layering in Lunar Soil",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/india-has-up-to-607-tonnes-of-primary-gold-metal-but-imported-over-800-tonnes-of-gold-in-fy26-worth-a-record-71-98-billion-now-worlds-fifth-largest-gold-importer-to-focus-on-ramping-up-gold-mining/articleshow/135875061.cms"
+          "url": "https://timesofindia.indiatimes.com/science/chandrayaan-3-finds-3-distinct-layers-in-moons-soil/articleshow/135940788.cms"
         }
       ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Mineral Resources & Current Account Deficit",
-      "summary": "Despite possessing an estimated 607 tonnes of primary gold reserves—with Bihar holding nearly 44%—India imported over 800 tonnes in FY26. The government plans to streamline domestic mining exploration to curb the massive foreign exchange outflow that exacerbates the Current Account Deficit.",
-      "whyItMatters": "Directly links resource management, import substitution policies, and balance-of-payment management under GS III Economy."
+      "topic": "Space Technology",
+      "summary": "Data gathered by Chandrayaan-3 instruments confirmed the existence of three distinct structural layers in the lunar surface regolith. This stratification gives scientists deeper understanding of past lunar impact processes.",
+      "whyItMatters": "Crucial for planetary science and evaluating structural feasibility for future long-term lunar human habitats."
     },
     {
-      "headline": "FSSAI Issues Notice to Energy Drink Brands Over Elevated Sugar Content Claims",
+      "headline": "SEBI Rules Out 24/7 Stock Trading Citing Cybersecurity Risks and Liquidity Challenges",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/india-scrutinises-red-bulls-sugar-levels-as-energy-drink-dispute-escalates/article71707554.ece"
-        },
-        {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/energy-drink-or-sugar-fssai-sends-notice-to-red-bull-over-composition-of-beverage/articleshow/135883454.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/no-24x7-trading-in-immediate-future-sebi-chief-flags-cyber-risks-liquidity-concerns/articleshow/135956348.cms"
         }
       ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS III",
-      "relevance": "Prelims",
+      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Food Safety and Standards Regulator",
-      "summary": "The Food Safety and Standards Authority of India (FSSAI) has issued notices to major beverage companies, including Red Bull, demanding scientific substantiation for marketing products with high sugar content under the 'energy drink' category.",
-      "whyItMatters": "Exemplifies regulatory enforcement regarding consumer awareness, nutritional labeling rules, and public health protection."
+      "topic": "Indian Economy & Financial Markets",
+      "summary": "The Securities and Exchange Board of India (SEBI) announced that round-the-clock trading will not be implemented in the near future, citing heightened cybersecurity vulnerabilities and fragmented market liquidity risks.",
+      "whyItMatters": "Relevant for economic infrastructure governance, capital market stability, and financial cybersecurity oversight."
     },
     {
-      "headline": "Global Action Plan Deficits Exacerbate Antimicrobial Resistance Risk: WHO Report",
+      "headline": "ICMR-NIN Study Reveals High Thiamine (Vitamin B1) Deficiency Among Women in Northeast India",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/who-sounds-the-alarm-on-antimicrobial-resistance-threat/article71707517.ece"
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/one-in-five-northeast-women-deficient-in-vitamin-b1-icmr-nin-study/article71707885.ece"
         }
       ],
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Health & Biotechnology (AMR)",
-      "summary": "The World Health Organization (WHO) reported that fewer than 20% of countries (only 42 nation-states) have fully funded, implemented, and monitored National Action Plans to fight Antimicrobial Resistance (AMR), leaving global healthcare infrastructure vulnerable to superbugs.",
-      "whyItMatters": "AMR threatens global public health, medical procedure efficacy, and agricultural biosecurity; vital topic for GS III Health and Life Sciences."
+      "topic": "Health & Nutrition Science",
+      "summary": "A study conducted by the ICMR-National Institute of Nutrition (NIN) found that nearly 20% of women in parts of Northeast India suffer from Vitamin B1 (Thiamine) deficiency, which adversely affects metabolic and neurological health.",
+      "whyItMatters": "Underscores regional micronutrient vulnerabilities, public health policy requirements, and targeted food fortification needs."
+    },
+    {
+      "headline": "Groundwater Users Offered Up to 75% Settlement Relief by Environment Ministry",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece"
+        }
+      ],
+      "date": "2026-11-18",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "Environmental Conservation & Water Resources",
+      "summary": "The Centre has rolled out a dispute settlement initiative providing 30% to 75% relief on environmental compensation levies charged for unpermitted groundwater extraction across 19 States and UTs.",
+      "whyItMatters": "Critical for understanding statutory compliance mechanisms, Central Ground Water Authority (CGWA) guidelines, and sustainable resource extraction."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Pax Silica Initiative",
+      "fact": "Pichwai Painting",
       "category": "Terminology",
-      "detail": "A global strategic coalition launched to secure supply chains for silicon and critical raw materials required for advanced semiconductor and AI hardware manufacturing."
+      "detail": "A traditional Indian textile painting art form originating from Nathdwara, Rajasthan, predominantly depicting Lord Krishna (Shrinathji)."
     },
     {
-      "fact": "National Health Accounts (NHA) Estimates",
+      "fact": "Voyager 1",
+      "category": "Organizations",
+      "detail": "NASA space probe launched in 1977 that has crossed into interstellar space and recently reached 1 light-day distance from Earth."
+    },
+    {
+      "fact": "Thiamine (Vitamin B1)",
+      "category": "Terminology",
+      "detail": "An essential water-soluble micronutrient crucial for carbohydrate metabolism and neural function; deficiency causes beriberi."
+    },
+    {
+      "fact": "Andaman Cobra (Naja sagittifera)",
+      "category": "Species",
+      "detail": "Endemic venomous spitting cobra species found exclusively in the Andaman Islands."
+    },
+    {
+      "fact": "Earthshot Prize",
       "category": "Reports/Indices",
-      "detail": "Published periodically by the National Health Systems Resource Centre (NHSRC), tracking public, private, and out-of-pocket health expenditure trends across India."
+      "detail": "Global environmental award founded to incentivize solution-oriented climate and conservation initiatives worldwide."
     },
     {
-      "fact": "Dornoch Firth Native Oyster Restoration",
-      "category": "Species",
-      "detail": "European flat oysters (Ostrea edulis) were successfully bred naturally in wild Scottish waters following a 12-year ecological reintroduction project."
-    },
-    {
-      "fact": "Manx Shearwater (Puffinus puffinus)",
-      "category": "Species",
-      "detail": "A migratory seabird species known for transatlantic journeys; long-distance rapid flights disrupt their internal circadian clock, causing temporary navigational errors analogous to human jet lag."
-    },
-    {
-      "fact": "Lethal Autonomous Weapons Systems (LAWS)",
+      "fact": "Shakti Cloud",
       "category": "Terminology",
-      "detail": "Military systems that use sensors and algorithms to independently select and engage targets without human intervention."
+      "detail": "India's highest-ranked supercomputer featured on the global TOP500 high-performance computing list."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding National Health Accounts (NHA) data in India, consider the following statements:\n1. Out-of-pocket expenditure (OOPE) as a share of Total Health Expenditure has shown a continuous decline over the past decade.\n2. Social security expenditure on health has decreased over the same period.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding 'Thiamine' (Vitamin B1), consider the following statements:\n1. It is a fat-soluble vitamin stored in large quantities in the liver.\n2. Severe deficiency of Thiamine can lead to Beriberi and Wernicke-Korsakoff syndrome.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct as OOPE dropped from 64.2% to 42.7%. Statement 2 is incorrect because social security spending on health actually expanded from 6% to 11%."
+      "correctIndex": 1,
+      "explanation": "Thiamine (Vitamin B1) is a water-soluble vitamin (not fat-soluble) and is not stored in large amounts by the body. Severe deficiency causes disorders like Beriberi and Wernicke-Korsakoff syndrome."
     },
     {
-      "question": "The primary objective of the international 'Pax Silica' declaration is to:",
+      "question": "Which of the following geographical features primarily makes the Bay of Bengal highly prone to severe tropical cyclones compared to the Arabian Sea?",
       "options": [
-        "Establish unified international tariffs on solar photovoltaic imports",
-        "Secure resilient supply chains for semiconductors, silicon, and AI hardware infrastructure",
-        "Regulate Deep Sea Mining of polymetallic nodules in the Indian Ocean",
-        "Create a global satellite monitoring system for desertification"
+        "Higher sea surface temperatures and abundant freshwater runoff from rivers",
+        "Presence of strong vertical wind shear throughout the year",
+        "Higher salinity levels preventing evaporation",
+        "Complete absence of Coriolis force near the coastal belts"
+      ],
+      "correctIndex": 0,
+      "explanation": "High sea surface temperatures coupled with heavy freshwater influx from major river systems maintain high thermal energy and stratification, facilitating cyclone formation in the Bay of Bengal."
+    },
+    {
+      "question": "With reference to space technology, what does the term 'One Light-Day' represent?",
+      "options": [
+        "The time taken by the Sun to complete one rotation on its axis",
+        "The distance light travels in a vacuum over a period of 24 hours",
+        "The maximum operational life of a solar-powered satellite",
+        "The distance between the Earth and the Kuiper Belt edge"
       ],
       "correctIndex": 1,
-      "explanation": "Pax Silica is a multilateral initiative intended to safeguard critical technology supply chains, focusing on silicon, semiconductors, and artificial intelligence hardware."
+      "explanation": "A light-day is a unit of length equal to the distance light travels in a vacuum in 24 hours, approximately 25.9 billion kilometers."
     },
     {
-      "question": "Which state in India possesses the largest share of total primary gold metal reserves?",
+      "question": "The famous traditional 'Pichwai' art style originated in which of the following Indian states?",
       "options": [
-        "Karnataka",
+        "Gujarat",
         "Rajasthan",
-        "Bihar",
-        "Jharkhand"
+        "Madhya Pradesh",
+        "Odisha"
       ],
-      "correctIndex": 2,
-      "explanation": "Bihar holds the largest share of India's known primary gold reserves (approx. 44-45%), followed by Rajasthan (25%) and Karnataka (21%)."
+      "correctIndex": 1,
+      "explanation": "Pichwai paintings originated in Nathdwara, Rajasthan, and traditionally depict themes centered on Shrinathji (Lord Krishna)."
     }
   ],
   "schemes": [
     {
-      "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
-      "ministry": "Ministry of Health and Family Welfare",
-      "beneficiaries": "Poor and vulnerable families identified via Socio-Economic Caste Census (SECC)",
-      "objective": "Provide health coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization to reduce catastrophic out-of-pocket health costs.",
+      "name": "One-Time Groundwater Settlement Scheme",
+      "ministry": "Ministry of Jal Shakti",
+      "beneficiaries": "Industrial, commercial, infrastructure, and mining project operators using groundwater across 19 States/UTs",
+      "objective": "To resolve pending disputes and regularize unauthorized groundwater extraction by offering partial waivers on environmental compensation fees.",
       "keyFeatures": [
-        "Cashless and paperless treatment at empanelled public and private hospitals",
-        "Covers pre- and post-hospitalisation expenses without family size capping"
+        "Provides 30% to 75% relief on environmental compensation charges.",
+        "Aims to encourage regularisation and formal compliance under Central Ground Water Authority (CGWA) guidelines.",
+        "Applicable across designated non-notified and notified assessment units."
       ],
-      "funding": "Centrally Sponsored Scheme jointly funded by Central and State Governments (60:40 ratio for most states)",
-      "upscRelevance": "High relevance for GS II Social Justice, illustrating state interventions that lower out-of-pocket health expenditure (OOPE)."
+      "funding": "Not specified in source coverage",
+      "upscRelevance": "GS III - Infrastructure, Water Resources, and Environmental Compliance Policy."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Public Health & Social Security",
+      "topic": "Nutrition and Public Health Governance",
       "points": [
-        "National Health Accounts Data: India's Out-Of-Pocket Expenditure (OOPE) dropped from 64.2% in 2013-14 to 42.7% in 2023-24, demonstrating the efficacy of expanded government health cover.",
-        "Social Security Expansion: Government spending on health social security mechanisms doubled from 6% to 11% over the decade, mitigating healthcare-induced poverty."
+        "ICMR-NIN research indicates 1 in 5 women in parts of Northeast India face Vitamin B1 deficiency, highlighting the need for targeted micronutrient fortification in public distribution systems.",
+        "Strengthening operational research alongside frontline worker experience improves health interventions and policy outcomes."
       ]
     },
     {
-      "topic": "Resource Management & Trade Deficit",
+      "topic": "Sub-Regional Energy Security",
       "points": [
-        "Gold Import Dependency: India imports over 800 tonnes of gold annually ($71.98 billion in FY26) despite having 607 tonnes of primary reserves, highlighting structural gaps between geological survey potential and active mining extraction."
+        "India's approval of 350 MW electricity supply to Nepal during winter illustrates effective neighborhood energy integration and seasonal demand balancing."
       ]
     }
   ],
   "whatToRemember": [
-    "India joined the U.S.-led 'Pax Silica' initiative to safeguard critical silicon and AI hardware supply chains.",
-    "Out-of-Pocket Expenditure (OOPE) on healthcare in India declined significantly from 64.2% to 42.7% over the last decade.",
-    "WPI inflation spiked to 12.29% in October on the back of rising fuel, energy, and crude costs.",
-    "Bihar accounts for 44-45% of India's primary gold metal resources, though domestic mining infrastructure remains underutilized.",
-    "WHO alerted that less than 20% of countries possess funded and active National Action Plans against Antimicrobial Resistance (AMR)."
+    "India-U.S. trade agreement signing remains deferred pending the finalization of the new U.S. tariff structure.",
+    "Severe Cyclonic Storm 'Akvan' picked up speed in the Bay of Bengal, threatening coastal districts of Andhra Pradesh and Odisha.",
+    "NASA's Voyager 1 spacecraft hit the landmark distance of one light-day (approx. 26 billion km) from Earth.",
+    "ISRO's Chandrayaan-3 data revealed three distinct soil layers in the upper lunar regolith.",
+    "Central government introduced up to 75% relief on environmental compensation for groundwater users under a one-time settlement scheme.",
+    "ICMR-NIN study found 20% of women in parts of North-East India suffer from Thiamine (Vitamin B1) deficiency."
   ]
 }
