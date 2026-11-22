@@ -1,345 +1,321 @@
 {
-  "date": "2026-11-18",
-  "updatedAt": "2026-11-18T12:06:31.864Z",
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T11:50:41.527Z",
   "frontPage": [
     {
-      "headline": "India and U.S. Bilateral Trade Pact Pending Finalization of American Tariff Framework",
+      "headline": "India and EU Finalize Free Trade Agreement Ahead of December Summit",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/india-us-trade-deal-signing-will-still-take-some-time-says-commerce-secretary-rajesh-agrawal/article71715672.ece"
+          "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece"
         }
       ],
-      "date": "2026-11-18",
+      "date": "2026-11-22",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Bilateral Relations",
-      "summary": "The Union Commerce Ministry has clarified that the proposed India-U.S. trade agreement will require additional time before finalization. The delay is primarily dependent on the United States completing its updated internal tariff structure.",
-      "whyItMatters": "This trade agreement directly affects India-U.S. economic ties, export tariffs, and trade competitiveness against other global suppliers."
+      "topic": "Bilateral Trade & Agreements",
+      "summary": "India and the European Union are set to sign a comprehensive Free Trade Agreement (FTA) during Prime Minister Narendra Modi's visit to Brussels on December 16, with implementation targeted for 2027.",
+      "whyItMatters": "This pact will significantly boost bilateral trade, enhance supply chain resilience, and strengthen India's strategic economic partnership with Europe amid global trade realignments."
     },
     {
-      "headline": "Severe Cyclonic Storm 'Akvan' Prompts Heavy Rainfall Alerts Across Coastal Andhra Pradesh",
+      "headline": "COP31 Draft Outcome Draws Criticism Over Omission of Fossil Fuel Phase-Out Timelines",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-veers-north-and-may-cross-the-coast-anywhere-from-narsapur-to-puri/article71715514.ece"
-        }
-      ],
-      "date": "2026-11-18",
-      "gsPaper": "GS I & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Tropical Cyclones & Disaster Management",
-      "summary": "Cyclone 'Akvan' in the Bay of Bengal has intensified into a severe cyclonic storm, tracking northwards toward the coast between Narsapur in Andhra Pradesh and Puri in Odisha. State disaster authorities have issued high alerts across coastal districts for extreme rainfall.",
-      "whyItMatters": "Demonstrates the vulnerability of the East Coast of India to Bay of Bengal cyclonic storms and highlights disaster preparedness and early warning systems."
-    },
-    {
-      "headline": "Voyager 1 Reaches Historic One Light-Day Distance From Earth",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece"
+          "url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/nasas-voyager-1-eyes-history-to-reach-one-light-day-from-earth-today/articleshow/135945245.cms"
+          "url": "https://timesofindia.indiatimes.com/home/environment/cop31-trkiyes-draft-agreement-omits-fossil-fuels-draws-backlash/articleshow/136070785.cms"
         }
       ],
-      "date": "2026-11-18",
+      "date": "2026-11-22",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation & International Treaties",
+      "summary": "Negotiations at COP31 in Turkiye pushed into overtime after the presidency released a draft text that omitted explicit references to phasing out fossil fuels, triggering resistance from developing countries and European nations alike.",
+      "whyItMatters": "Highlights persistent challenges in reaching global consensus on climate action, energy transition timelines, and climate finance commitments between global North and South."
+    },
+    {
+      "headline": "India's Core Sector Output Surges to Series High of 10.9% in October 2026",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/power-cement-fuel-october-core-sector-growth-of-10-9/articleshow/136043007.cms"
+        }
+      ],
+      "date": "2026-11-21",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Economy & Industrial Growth",
+      "summary": "India's eight core infrastructure industries recorded a growth rate of 10.9% in October 2026, driven primarily by strong performance in power, coal, and cement sectors alongside a low base effect.",
+      "whyItMatters": "Core sector growth serves as a key lead indicator for overall industrial production (IIP) and reflects capital expenditure momentum in infrastructure."
+    },
+    {
+      "headline": "United States Restricts Advanced AI Hardware and Cloud Compute Access to China",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/china/chinas-secret-ai-chip-hunt-how-its-spyverse-is-helping-firms-bypass-us-curbs/articleshow/136071843.cms"
+        }
+      ],
+      "date": "2026-11-22",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Science & Tech - Critical Technologies & Geopolitics",
+      "summary": "The US Department of Commerce introduced regulatory rules blocking data centers using advanced American AI chips from providing remote cloud compute capabilities to companies in China and select other nations.",
+      "whyItMatters": "Illustrates tech-denial regimes, weaponized supply chains, and the ongoing superpower race over semiconductor sovereignty and Artificial Intelligence dominance."
+    },
+    {
+      "headline": "Over One Crore 14-Year-Old Girls Vaccinated Under National HPV Campaign",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece"
+        }
+      ],
+      "date": "2026-11-21",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Public Health & Social Justice",
+      "summary": "India's national cervical cancer prevention drive achieved a milestone by vaccinating over one crore 14-year-old girls within nine months, covering roughly 87% of the annual target cohort.",
+      "whyItMatters": "Demonstrates successful public health intervention strategies against preventable cancers and underscores progress in preventive healthcare delivery."
+    },
+    {
+      "headline": "Japan-Europe BepiColombo Mission Enters Orbit Around Mercury",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms"
+        }
+      ],
+      "date": "2026-11-22",
       "gsPaper": "GS III",
       "relevance": "Prelims",
-      "importance": "High",
-      "topic": "Space Technology",
-      "summary": "NASA's Voyager 1 spacecraft has reached a milestone distance of one light-day (approximately 26 billion kilometers) from Earth. Launched in 1977, it remains humanity's farthest operational human-made object in interstellar space.",
-      "whyItMatters": "A landmark achievement in deep space exploration, illustrating interstellar measurements and long-duration space probe engineering."
-    },
-    {
-      "headline": "Chandrayaan-3 Data Reveals Three Distinct Soil Layers in Lunar Regolith",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/chandrayaan-3-finds-3-distinct-layers-in-moons-soil/articleshow/135940788.cms"
-        }
-      ],
-      "date": "2026-11-18",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Space Technology",
-      "summary": "Scientific analysis of data returned by ISRO's Chandrayaan-3 mission has revealed three distinct stratified layers within the top region of the lunar regolith. These findings offer key insights into lunar geological history and sub-surface soil composition.",
-      "whyItMatters": "Understanding lunar sub-surface stratification is crucial for future lunar resource utilization, water-ice prospecting, and habitat construction."
-    },
-    {
-      "headline": "Union Government Introduces One-Time Settlement Scheme for Groundwater Environmental Compensation",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece"
-        }
-      ],
-      "date": "2026-11-18",
-      "gsPaper": "GS III",
-      "relevance": "Both",
       "importance": "Medium",
-      "topic": "Environmental Governance & Water Resources",
-      "summary": "The Central Government has announced a one-time settlement scheme offering 30% to 75% relief on environmental compensation fees for unauthorized or disputed groundwater extraction across 19 States and Union Territories.",
-      "whyItMatters": "Highlights the policy balance between environmental regulation enforcement, economic compliance, and sustainable groundwater management."
-    },
-    {
-      "headline": "Andaman and Nicobar Administration Replaces Colonial-Era Prison Regulations",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/andaman-junks-two-colonial-era-laws-with-new-prison-regulation/article71715445.ece"
-        }
-      ],
-      "date": "2026-11-18",
-      "gsPaper": "GS II",
-      "relevance": "Mains",
-      "importance": "Medium",
-      "topic": "Prison Reforms & Legal Governance",
-      "summary": "The Andaman and Nicobar Islands administration has repealed two colonial-era prison statutes, substituting them with updated prison regulations focused on modern correctional principles.",
-      "whyItMatters": "Aligns with broader national efforts toward prison reform, human rights compliance, and decolonization of administrative legislation."
+      "topic": "Space Technology",
+      "summary": "The joint JAXA-ESA BepiColombo spacecraft successfully entered Mercury's orbit after an 8-year, 10-billion-kilometer interplanetary journey launched in 2018.",
+      "whyItMatters": "Provides vital insights into solar system evolution, planetary magnetic fields, and deep-space mission trajectory engineering."
     }
   ],
   "gs1": [
     {
-      "headline": "Severe Cyclonic Storm 'Akvan' and the Climatology of Bay of Bengal Cyclones",
+      "headline": "Crisis in Attappady Highlights Vulnerability of Tribal Maternal and Infant Health",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/videos/will-cyclone-akvan-hit-andhra-pradesh-or-bangladesh-the-expert-shares-his-forecast/article71715507.ece"
+          "url": "https://www.thehindu.com/news/national/kerala/in-keralam-the-children-beyond-healthcare/article71720640.ece"
         }
       ],
-      "date": "2026-11-18",
+      "date": "2026-11-22",
       "gsPaper": "GS I",
-      "relevance": "Both",
+      "relevance": "Mains",
       "importance": "High",
-      "topic": "Important Geophysical Phenomena",
-      "summary": "Experts highlight that high sea surface temperatures, low vertical wind shear, and significant freshwater runoff make the Bay of Bengal particularly prone to frequent and intense cyclonic systems like Cyclone Akvan.",
-      "whyItMatters": "Directly relates to GS-I physical geography syllabus covering tropical cyclones, oceanography, and regional climate patterns."
+      "topic": "Social Empowerment & Vulnerable Sections",
+      "summary": "A rise in infant mortality in Attappady, Kerala reveals underlying issues of land alienation, poverty, and loss of traditional indigenous food systems beyond basic healthcare delivery.",
+      "whyItMatters": "Serves as an essential case study on how structural socio-economic disruptions affect tribal communities and vulnerable social demographic groups."
     }
   ],
   "gs2": [
     {
-      "headline": "Centre Proposes Mandatory 6-Day Quarantine Draft Rules for Unvaccinated Yellow Fever Area Arrivals",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/unvaccinated-yellow-fever-risk-travellers-may-face-six-day-quarantine-new-airport-rules-propose-changes/articleshow/135952010.cms"
-        }
-      ],
-      "date": "2026-11-18",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Public Health & Governance",
-      "summary": "Draft health regulations propose a mandatory six-day quarantine at points of entry for international passengers arriving from yellow fever-endemic regions without valid vaccination certificates.",
-      "whyItMatters": "Demonstrates biosecurity measures and public health regulatory mechanisms to prevent vector-borne disease transmission."
-    },
-    {
-      "headline": "India Approves 350 MW Cross-Border Power Supply to Nepal for Winter",
+      "headline": "EPFO Proposes Systematic Withdrawal Plan for Retirees and Seeks Tax Alignment",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece"
+          "url": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/systematic-withdrawal-epfo-seeks-income-tax-tweaks/articleshow/136042938.cms"
         }
       ],
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "gsPaper": "GS II",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "India and its Neighbourhood",
-      "summary": "India has granted authorization for Nepal to import up to 350 MW of electricity during the winter period, helping bridge Nepal's seasonal gap in domestic run-of-river hydro generation.",
-      "whyItMatters": "Highlights cross-border energy trade and sub-regional energy security cooperation under Neighborhood First policy."
+      "importance": "High",
+      "topic": "Social Security & Governance",
+      "summary": "The Employees' Provident Fund Organisation (EPFO) has proposed a Systematic Withdrawal Plan (SWP) allowing retirees periodic payouts instead of single lump-sum withdrawals, requesting tax law adjustments to facilitate implementation.",
+      "whyItMatters": "Strengthens India's social security framework for formal sector workers and promotes structured retirement planning."
+    },
+    {
+      "headline": "Chief Economic Advisor Emphasizes Expansion of Corporate Bond Market to Match Equity Growth",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece"
+        }
+      ],
+      "date": "2026-11-20",
+      "gsPaper": "GS III",
+      "relevance": "Mains",
+      "importance": "High",
+      "topic": "Capital Markets & Financial Sector",
+      "summary": "India's Chief Economic Advisor highlighted an imbalance in the capital market structure, pointing out that equity market capitalisation reached ~130% of GDP while the corporate bond market stood at only 16%.",
+      "whyItMatters": "Crucial for understanding capital formation challenges and debt market deepening required for long-term infrastructure funding."
     }
   ],
   "gs3": [
     {
-      "headline": "ISRO's Chandrayaan-3 Identifies Sub-surface Layering in Lunar Soil",
+      "headline": "Biological Control of Vector-Borne Diseases: Brazil Study Demonstrates Wolbachia Efficacy",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/chandrayaan-3-finds-3-distinct-layers-in-moons-soil/articleshow/135940788.cms"
+          "url": "https://timesofindia.indiatimes.com/science/brazil-study-finds-69-fewer-dengue-chikungunya-infections-with-modified-mosquitoes/articleshow/136058674.cms"
         }
       ],
-      "date": "2026-11-18",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Space Technology",
-      "summary": "Data gathered by Chandrayaan-3 instruments confirmed the existence of three distinct structural layers in the lunar surface regolith. This stratification gives scientists deeper understanding of past lunar impact processes.",
-      "whyItMatters": "Crucial for planetary science and evaluating structural feasibility for future long-term lunar human habitats."
-    },
-    {
-      "headline": "SEBI Rules Out 24/7 Stock Trading Citing Cybersecurity Risks and Liquidity Challenges",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/no-24x7-trading-in-immediate-future-sebi-chief-flags-cyber-risks-liquidity-concerns/articleshow/135956348.cms"
-        }
-      ],
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Indian Economy & Financial Markets",
-      "summary": "The Securities and Exchange Board of India (SEBI) announced that round-the-clock trading will not be implemented in the near future, citing heightened cybersecurity vulnerabilities and fragmented market liquidity risks.",
-      "whyItMatters": "Relevant for economic infrastructure governance, capital market stability, and financial cybersecurity oversight."
+      "topic": "Biotechnology & Health",
+      "summary": "A large-scale study in Brazil showed a 69% reduction in dengue and chikungunya cases among children following the release of Aedes aegypti mosquitoes carrying Wolbachia bacteria.",
+      "whyItMatters": "Presents a proven bio-control mechanism for tropical countries like India struggling with recurrent vector-borne outbreaks."
     },
     {
-      "headline": "ICMR-NIN Study Reveals High Thiamine (Vitamin B1) Deficiency Among Women in Northeast India",
+      "headline": "Bay of Bengal Witnesses Increased Cyclone Frequency During Post-Monsoon Season",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/cities/Hyderabad/one-in-five-northeast-women-deficient-in-vitamin-b1-icmr-nin-study/article71707885.ece"
+          "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
         }
       ],
-      "date": "2026-11-18",
+      "date": "2026-11-22",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Health & Nutrition Science",
-      "summary": "A study conducted by the ICMR-National Institute of Nutrition (NIN) found that nearly 20% of women in parts of Northeast India suffer from Vitamin B1 (Thiamine) deficiency, which adversely affects metabolic and neurological health.",
-      "whyItMatters": "Underscores regional micronutrient vulnerabilities, public health policy requirements, and targeted food fortification needs."
+      "topic": "Disaster Management & Physical Geography",
+      "summary": "The occurrence of three tropical cyclones within three weeks in the Bay of Bengal highlights changing post-monsoon cyclogenesis dynamics and ocean thermal conditions.",
+      "whyItMatters": "Critical for understanding climate change impacts on coastal vulnerability and refining early warning systems."
     },
     {
-      "headline": "Groundwater Users Offered Up to 75% Settlement Relief by Environment Ministry",
+      "headline": "Indigenous Quantum Innovation: Pune Startup Develops Indigenous Atomic Clock Prototype",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/centre-offers-up-to-75-relief-in-environmental-compensation-to-groundwater-users/article71715304.ece"
+          "url": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece"
         }
       ],
-      "date": "2026-11-18",
+      "date": "2026-11-21",
       "gsPaper": "GS III",
       "relevance": "Both",
-      "importance": "Medium",
-      "topic": "Environmental Conservation & Water Resources",
-      "summary": "The Centre has rolled out a dispute settlement initiative providing 30% to 75% relief on environmental compensation levies charged for unpermitted groundwater extraction across 19 States and UTs.",
-      "whyItMatters": "Critical for understanding statutory compliance mechanisms, Central Ground Water Authority (CGWA) guidelines, and sustainable resource extraction."
+      "importance": "High",
+      "topic": "Indigenisation of Technology & Strategic Sector",
+      "summary": "A Pune-based startup has developed a functional atomic clock prototype, boosting domestic capabilities in ultra-precise timing critical for satellite navigation, telecommunications, and defense systems.",
+      "whyItMatters": "Enhances technological self-reliance (Atmanirbharta) in dual-use strategic hardware amidst global supply restrictions."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "Pichwai Painting",
-      "category": "Terminology",
-      "detail": "A traditional Indian textile painting art form originating from Nathdwara, Rajasthan, predominantly depicting Lord Krishna (Shrinathji)."
-    },
-    {
-      "fact": "Voyager 1",
+      "fact": "BepiColombo",
       "category": "Organizations",
-      "detail": "NASA space probe launched in 1977 that has crossed into interstellar space and recently reached 1 light-day distance from Earth."
+      "detail": "Joint space exploration mission by ESA (Europe) and JAXA (Japan) designed to study Mercury's composition, geophysics, and magnetic field."
     },
     {
-      "fact": "Thiamine (Vitamin B1)",
+      "fact": "Attappady",
+      "category": "Places",
+      "detail": "A prominent tribal block in Palakkad district of Kerala, frequently in news regarding indigenous health and land alienation issues."
+    },
+    {
+      "fact": "Wolbachia Method",
       "category": "Terminology",
-      "detail": "An essential water-soluble micronutrient crucial for carbohydrate metabolism and neural function; deficiency causes beriberi."
+      "detail": "A biological vector control technique introducing naturally occurring Wolbachia bacteria into mosquitoes to block their ability to transmit viruses like Dengue, Zika, and Chikungunya."
     },
     {
-      "fact": "Andaman Cobra (Naja sagittifera)",
-      "category": "Species",
-      "detail": "Endemic venomous spitting cobra species found exclusively in the Andaman Islands."
-    },
-    {
-      "fact": "Earthshot Prize",
-      "category": "Reports/Indices",
-      "detail": "Global environmental award founded to incentivize solution-oriented climate and conservation initiatives worldwide."
-    },
-    {
-      "fact": "Shakti Cloud",
+      "fact": "Core Sector Industries",
       "category": "Terminology",
-      "detail": "India's highest-ranked supercomputer featured on the global TOP500 high-performance computing list."
+      "detail": "Refers to eight key sectors (Coal, Crude Oil, Natural Gas, Refinery Products, Fertilisers, Steel, Cement, and Electricity) comprising 40.27% of the Index of Industrial Production (IIP)."
+    },
+    {
+      "fact": "Kuno National Park",
+      "category": "Places",
+      "detail": "Wildlife reserve in Madhya Pradesh designated as the primary reintroduction site for African cheetahs in India under Project Cheetah."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding 'Thiamine' (Vitamin B1), consider the following statements:\n1. It is a fat-soluble vitamin stored in large quantities in the liver.\n2. Severe deficiency of Thiamine can lead to Beriberi and Wernicke-Korsakoff syndrome.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the Index of Eight Core Industries in India, consider the following statements:\n1. It comprises over 40% of the weight of items included in the Index of Industrial Production (IIP).\n2. Electricity carries the highest weightage among the eight core industries.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "Thiamine (Vitamin B1) is a water-soluble vitamin (not fat-soluble) and is not stored in large amounts by the body. Severe deficiency causes disorders like Beriberi and Wernicke-Korsakoff syndrome."
-    },
-    {
-      "question": "Which of the following geographical features primarily makes the Bay of Bengal highly prone to severe tropical cyclones compared to the Arabian Sea?",
-      "options": [
-        "Higher sea surface temperatures and abundant freshwater runoff from rivers",
-        "Presence of strong vertical wind shear throughout the year",
-        "Higher salinity levels preventing evaporation",
-        "Complete absence of Coriolis force near the coastal belts"
-      ],
       "correctIndex": 0,
-      "explanation": "High sea surface temperatures coupled with heavy freshwater influx from major river systems maintain high thermal energy and stratification, facilitating cyclone formation in the Bay of Bengal."
+      "explanation": "Statement 1 is correct (Core industries constitute 40.27% of IIP). Statement 2 is incorrect because Petroleum Refinery Products holds the highest weightage (~28%), not Electricity."
     },
     {
-      "question": "With reference to space technology, what does the term 'One Light-Day' represent?",
+      "question": "The BepiColombo mission, which recently entered planetary orbit, is a joint initiative of which two space agencies?",
       "options": [
-        "The time taken by the Sun to complete one rotation on its axis",
-        "The distance light travels in a vacuum over a period of 24 hours",
-        "The maximum operational life of a solar-powered satellite",
-        "The distance between the Earth and the Kuiper Belt edge"
+        "NASA and ISRO",
+        "ESA and JAXA",
+        "Roscosmos and CNSA",
+        "ESA and NASA"
       ],
       "correctIndex": 1,
-      "explanation": "A light-day is a unit of length equal to the distance light travels in a vacuum in 24 hours, approximately 25.9 billion kilometers."
+      "explanation": "BepiColombo is a joint mission conducted by the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to study Mercury."
     },
     {
-      "question": "The famous traditional 'Pichwai' art style originated in which of the following Indian states?",
+      "question": "The 'Wolbachia method' often discussed in public health news is primarily used for which of the following purposes?",
       "options": [
-        "Gujarat",
-        "Rajasthan",
-        "Madhya Pradesh",
-        "Odisha"
+        "Enhancing crop yield through nitrogen fixation",
+        "Controlling mosquito-borne viral transmission",
+        "Purifying heavy metals from contaminated soil",
+        "Developing synthetic vaccines against tuberculosis"
       ],
       "correctIndex": 1,
-      "explanation": "Pichwai paintings originated in Nathdwara, Rajasthan, and traditionally depict themes centered on Shrinathji (Lord Krishna)."
+      "explanation": "Wolbachia bacteria infect Aedes aegypti mosquitoes and prevent viruses like dengue, chikungunya, and zika from replicating inside them."
     }
   ],
   "schemes": [
     {
-      "name": "One-Time Groundwater Settlement Scheme",
-      "ministry": "Ministry of Jal Shakti",
-      "beneficiaries": "Industrial, commercial, infrastructure, and mining project operators using groundwater across 19 States/UTs",
-      "objective": "To resolve pending disputes and regularize unauthorized groundwater extraction by offering partial waivers on environmental compensation fees.",
+      "name": "Human Papillomavirus (HPV) Vaccination Campaign",
+      "ministry": "Ministry of Health and Family Welfare",
+      "beneficiaries": "Adolescent girls aged 14 years across India",
+      "objective": "Prevent cervical cancer by administering quadrivalent/bivalent HPV vaccines prior to virus exposure.",
       "keyFeatures": [
-        "Provides 30% to 75% relief on environmental compensation charges.",
-        "Aims to encourage regularisation and formal compliance under Central Ground Water Authority (CGWA) guidelines.",
-        "Applicable across designated non-notified and notified assessment units."
+        "Targeted immunisation drive for 14-year-old girls nationwide",
+        "Integration into routine public health delivery networks",
+        "Focus on high-burden states including Uttar Pradesh and Bihar"
       ],
-      "funding": "Not specified in source coverage",
-      "upscRelevance": "GS III - Infrastructure, Water Resources, and Environmental Compliance Policy."
+      "funding": "Centrally supported public health intervention initiative",
+      "upscRelevance": "Relevant for GS II (Health Governance) and GS III (Biotechnology applications in health)."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Nutrition and Public Health Governance",
+      "topic": "Financial Market Structure",
       "points": [
-        "ICMR-NIN research indicates 1 in 5 women in parts of Northeast India face Vitamin B1 deficiency, highlighting the need for targeted micronutrient fortification in public distribution systems.",
-        "Strengthening operational research alongside frontline worker experience improves health interventions and policy outcomes."
+        "India's equity market capitalization stands at ~130% of GDP, whereas the corporate bond market is only ~16% of GDP (Source: CEA briefing).",
+        "Highlighting debt market underdevelopment is useful when writing answers on capital mobilization and long-term infrastructure funding."
       ]
     },
     {
-      "topic": "Sub-Regional Energy Security",
+      "topic": "Public Health Success",
       "points": [
-        "India's approval of 350 MW electricity supply to Nepal during winter illustrates effective neighborhood energy integration and seasonal demand balancing."
+        "India covered 87% (over 1 crore) of its annual target cohort of 14-year-old girls under the national HPV vaccination campaign within nine months.",
+        "Can be cited as an example of effective preventive healthcare scale-up."
       ]
     }
   ],
   "whatToRemember": [
-    "India-U.S. trade agreement signing remains deferred pending the finalization of the new U.S. tariff structure.",
-    "Severe Cyclonic Storm 'Akvan' picked up speed in the Bay of Bengal, threatening coastal districts of Andhra Pradesh and Odisha.",
-    "NASA's Voyager 1 spacecraft hit the landmark distance of one light-day (approx. 26 billion km) from Earth.",
-    "ISRO's Chandrayaan-3 data revealed three distinct soil layers in the upper lunar regolith.",
-    "Central government introduced up to 75% relief on environmental compensation for groundwater users under a one-time settlement scheme.",
-    "ICMR-NIN study found 20% of women in parts of North-East India suffer from Thiamine (Vitamin B1) deficiency."
+    "India and the EU aim to sign their long-negotiated Free Trade Agreement on December 16, 2026.",
+    "India's eight core sector industries grew by 10.9% in October 2026, driven by power, coal, and cement.",
+    "Over 1 crore adolescent girls (87% of annual target) were vaccinated against HPV in India within 9 months.",
+    "US banned data centers using advanced AI chips from offering cloud compute access to China.",
+    "BepiColombo spacecraft successfully entered orbit around Mercury after an 8-year journey."
   ]
 }
