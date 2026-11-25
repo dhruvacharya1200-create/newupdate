@@ -1,321 +1,328 @@
 {
-  "date": "2026-11-22",
-  "updatedAt": "2026-11-22T11:50:41.527Z",
+  "date": "2026-11-25",
+  "updatedAt": "2026-11-25T13:21:55.491Z",
   "frontPage": [
     {
-      "headline": "India and EU Finalize Free Trade Agreement Ahead of December Summit",
+      "headline": "Union Cabinet Approves ₹19,934-Crore Package Including Domestic Construction Equipment Ecosystem",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/from-construction-equipment-to-postal-services-cabinet-clears-rs-19934-crore-package-key-decisions/articleshow/136157105.cms"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/why-india-is-betting-rs-11000-crore-on-construction-infrastructure-equipment-manufacturing-explained/articleshow/136159765.cms"
+        }
+      ],
+      "date": "2026-11-25",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Industrial Policy & Infrastructure",
+      "summary": "The Union Cabinet has sanctioned a ₹19,934-crore overall development package, featuring an ₹11,000-crore targeted scheme to manufacture construction and infrastructure equipment domestically. The initiative aims to reduce import dependencies and bolster national supply chain resilience in critical engineering goods.",
+      "whyItMatters": "Crucial for GS-III topics on industrial growth, 'Make in India', and supply chain resilience. Aspirants should note how public capital expenditure is targeted to strengthen local manufacturing capability for heavy machinery."
+    },
+    {
+      "headline": "COP31 Negotiations Collapse Amid Deep Fractures Over Fossil Fuel Phase-Out and Climate Finance",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece"
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/business/global-climate-talks-must-shut-the-door-on-fossil-fuel-influence/article71738093.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/cop31-deadlock-why-countries-failed-to-agree-on-fossil-fuels-climate-finance/articleshow/136132361.cms"
         }
       ],
-      "date": "2026-11-22",
+      "date": "2026-11-25",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation & Global Climate Diplomacy",
+      "summary": "Global climate negotiations at COP31 ended in a stalemate after over 130 countries, including the EU, rejected a draft agreement that omitted explicit commitments to phase out fossil fuels. Emerging economies like India and China, alongside major oil producers, resisted unfunded transition mandates without binding climate finance commitments from developed nations.",
+      "whyItMatters": "Directly impacts GS-III (Environment & Climate Change Diplomacy). Highlights the persistent global rift between developed and developing nations regarding Common But Differentiated Responsibilities (CBDR) and adaptation funding."
+    },
+    {
+      "headline": "India Advocates for Inclusive Global AI Governance and Human Oversight in Autonomous Weapons",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece"
+        }
+      ],
+      "date": "2026-11-25",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "International Relations & Emerging Technologies",
+      "summary": "Addressing the United Nations, India warned against using artificial intelligence as a instrument for strategic domination, calling for equitable, democratic governance of technology. India emphasized that legal and moral responsibility over Lethal Autonomous Weapons Systems (LAWS) must permanently remain with human operators.",
+      "whyItMatters": "Relevant for GS-II (Global Ethics & UN Bodies) and GS-III (Internal Security & Cyber Tech). Illustrates India's strategic positioning on global technology standards, AI safety, and military ethics."
+    },
+    {
+      "headline": "FSSAI Initiates Nationwide Bottled Water Inspection Following Safety Violations",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/why-has-the-fssai-sanctioned-prosecution-against-bisleri-explained/article71738475.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/bisleri-row-fssai-launches-pan-india-water-quality-checks-results-within-1-2-months/articleshow/136157196.cms"
+        }
+      ],
+      "date": "2026-11-25",
       "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Bilateral Trade & Agreements",
-      "summary": "India and the European Union are set to sign a comprehensive Free Trade Agreement (FTA) during Prime Minister Narendra Modi's visit to Brussels on December 16, with implementation targeted for 2027.",
-      "whyItMatters": "This pact will significantly boost bilateral trade, enhance supply chain resilience, and strengthen India's strategic economic partnership with Europe amid global trade realignments."
-    },
-    {
-      "headline": "COP31 Draft Outcome Draws Criticism Over Omission of Fossil Fuel Phase-Out Timelines",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/home/environment/cop31-trkiyes-draft-agreement-omits-fossil-fuels-draws-backlash/articleshow/136070785.cms"
-        }
-      ],
-      "date": "2026-11-22",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation & International Treaties",
-      "summary": "Negotiations at COP31 in Turkiye pushed into overtime after the presidency released a draft text that omitted explicit references to phasing out fossil fuels, triggering resistance from developing countries and European nations alike.",
-      "whyItMatters": "Highlights persistent challenges in reaching global consensus on climate action, energy transition timelines, and climate finance commitments between global North and South."
-    },
-    {
-      "headline": "India's Core Sector Output Surges to Series High of 10.9% in October 2026",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/infra-push-and-low-base-effect-pushes-core-sector-growth-to-series-high-in-october-2026/article71724481.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/power-cement-fuel-october-core-sector-growth-of-10-9/articleshow/136043007.cms"
-        }
-      ],
-      "date": "2026-11-21",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & Industrial Growth",
-      "summary": "India's eight core infrastructure industries recorded a growth rate of 10.9% in October 2026, driven primarily by strong performance in power, coal, and cement sectors alongside a low base effect.",
-      "whyItMatters": "Core sector growth serves as a key lead indicator for overall industrial production (IIP) and reflects capital expenditure momentum in infrastructure."
-    },
-    {
-      "headline": "United States Restricts Advanced AI Hardware and Cloud Compute Access to China",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/world/china/chinas-secret-ai-chip-hunt-how-its-spyverse-is-helping-firms-bypass-us-curbs/articleshow/136071843.cms"
-        }
-      ],
-      "date": "2026-11-22",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Science & Tech - Critical Technologies & Geopolitics",
-      "summary": "The US Department of Commerce introduced regulatory rules blocking data centers using advanced American AI chips from providing remote cloud compute capabilities to companies in China and select other nations.",
-      "whyItMatters": "Illustrates tech-denial regimes, weaponized supply chains, and the ongoing superpower race over semiconductor sovereignty and Artificial Intelligence dominance."
-    },
-    {
-      "headline": "Over One Crore 14-Year-Old Girls Vaccinated Under National HPV Campaign",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece"
-        }
-      ],
-      "date": "2026-11-21",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Public Health & Social Justice",
-      "summary": "India's national cervical cancer prevention drive achieved a milestone by vaccinating over one crore 14-year-old girls within nine months, covering roughly 87% of the annual target cohort.",
-      "whyItMatters": "Demonstrates successful public health intervention strategies against preventable cancers and underscores progress in preventive healthcare delivery."
-    },
-    {
-      "headline": "Japan-Europe BepiColombo Mission Enters Orbit Around Mercury",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/8-years-10-billion-km-japan-europe-spacecraft-enters-mercurys-orbit/articleshow/136069437.cms"
-        }
-      ],
-      "date": "2026-11-22",
-      "gsPaper": "GS III",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Space Technology",
-      "summary": "The joint JAXA-ESA BepiColombo spacecraft successfully entered Mercury's orbit after an 8-year, 10-billion-kilometer interplanetary journey launched in 2018.",
-      "whyItMatters": "Provides vital insights into solar system evolution, planetary magnetic fields, and deep-space mission trajectory engineering."
-    }
-  ],
-  "gs1": [
+      "topic": "Regulatory Bodies & Public Health Safety",
+      "summary": "The Food Safety and Standards Authority of India (FSSAI) launched a pan-India surveillance drive to check the quality of packaged drinking water after issuing prosecution orders against major brand samples that failed safety tests for chemical contaminants like bromate and polycyclic aromatic hydrocarbons (PAHs).",
+      "whyItMatters": "Important for GS-II Governance and GS-III Health & Environment. Demonstrates regulatory oversight by statutory bodies like FSSAI under the Food Safety and Standards Act, 2006."
+    },
     {
-      "headline": "Crisis in Attappady Highlights Vulnerability of Tribal Maternal and Infant Health",
+      "headline": "Solomon Islands Signs Security Pact with Australia, Restricting Foreign Military Bases",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/kerala/in-keralam-the-children-beyond-healthcare/article71720640.ece"
+          "url": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece"
         }
       ],
-      "date": "2026-11-22",
-      "gsPaper": "GS I",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Social Empowerment & Vulnerable Sections",
-      "summary": "A rise in infant mortality in Attappady, Kerala reveals underlying issues of land alienation, poverty, and loss of traditional indigenous food systems beyond basic healthcare delivery.",
-      "whyItMatters": "Serves as an essential case study on how structural socio-economic disruptions affect tribal communities and vulnerable social demographic groups."
-    }
-  ],
-  "gs2": [
-    {
-      "headline": "EPFO Proposes Systematic Withdrawal Plan for Retirees and Seeks Tax Alignment",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/systematic-withdrawal-epfo-seeks-income-tax-tweaks/articleshow/136042938.cms"
-        }
-      ],
-      "date": "2026-11-21",
+      "date": "2026-11-25",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Social Security & Governance",
-      "summary": "The Employees' Provident Fund Organisation (EPFO) has proposed a Systematic Withdrawal Plan (SWP) allowing retirees periodic payouts instead of single lump-sum withdrawals, requesting tax law adjustments to facilitate implementation.",
-      "whyItMatters": "Strengthens India's social security framework for formal sector workers and promotes structured retirement planning."
+      "topic": "Indo-Pacific Geopolitics",
+      "summary": "The Solomon Islands has officially designated Australia as its primary security partner under a bilateral treaty that expressly forbids the creation of any third-country foreign military base on its territory. The agreement recalibrates security arrangements in the South Pacific after previous security overtures toward China.",
+      "whyItMatters": "Crucial for GS-II (International Relations & Geopolitics of the Indo-Pacific). Shows shifting alignments in Pacific Island Countries (PICs) key to regional maritime security."
     },
     {
-      "headline": "Chief Economic Advisor Emphasizes Expansion of Corporate Bond Market to Match Equity Growth",
+      "headline": "Supreme Court Quashes High Court Directives for Premature CBI/ED Probes Without Due Process",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-assets-case-sc-quashes-allahabad-hc-orders-seeking-cbi-ed-inquiry/articleshow/136153125.cms"
+        }
+      ],
+      "date": "2026-11-25",
+      "gsPaper": "GS II",
+      "relevance": "Mains",
+      "importance": "Medium",
+      "topic": "Judiciary & Constitutional Law",
+      "summary": "The Supreme Court overturned directives from the High Court that ordered central investigative agencies like the CBI and ED to probe asset declarations without establishing a prima facie criminal offense. The apex court reiterated that judicial power to order central agency probes must be exercised sparingly and with extreme caution.",
+      "whyItMatters": "Significant for GS-II (Structure and Functioning of the Judiciary). Underscores judicial restraint and safeguards against arbitrary orders initiating federal agency inquiries."
+    }
+  ],
+  "gs1": [],
+  "gs2": [
+    {
+      "headline": "India-Nepal Relations Face Review Over Joint Reports and Border Management",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece"
+          "url": "https://www.thehindu.com/news/international/former-members-say-epg-report-was-highly-positive-for-india-nepal-ties/article71739669.ece"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/opinion/editorial/beyond-generosity-on-india-nepal-ties/article71738937.ece"
         }
       ],
-      "date": "2026-11-20",
-      "gsPaper": "GS III",
-      "relevance": "Mains",
-      "importance": "High",
-      "topic": "Capital Markets & Financial Sector",
-      "summary": "India's Chief Economic Advisor highlighted an imbalance in the capital market structure, pointing out that equity market capitalisation reached ~130% of GDP while the corporate bond market stood at only 16%.",
-      "whyItMatters": "Crucial for understanding capital formation challenges and debt market deepening required for long-term infrastructure funding."
+      "date": "2026-11-25",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "Medium",
+      "topic": "India and its Neighborhood Relations",
+      "summary": "Debate has resurfaced surrounding the non-acceptance of the India-Nepal Eminent Persons Group (EPG) report on revising bilateral treaties, including the 1950 Treaty of Peace and Friendship. Analysts stress that India must address trade, transit, and border grievances alongside development assistance to build sustainable diplomatic trust.",
+      "whyItMatters": "Directly impacts GS-II India's Neighborhood relations. Helps analyze bilateral institutional mechanisms, security interests, and trade ties with Nepal."
     }
   ],
   "gs3": [
     {
-      "headline": "Biological Control of Vector-Borne Diseases: Brazil Study Demonstrates Wolbachia Efficacy",
+      "headline": "India Maps Landslide Susceptibility Across 4.3 Lakh Sq Km in Risk Mitigation Shift",
       "sources": [
         {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/brazil-study-finds-69-fewer-dengue-chikungunya-infections-with-modified-mosquitoes/articleshow/136058674.cms"
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece"
         }
       ],
-      "date": "2026-11-21",
+      "date": "2026-11-25",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Disaster Management & Risk Reduction",
+      "summary": "India has completed nationwide landslide susceptibility mapping covering 4.3 lakh square kilometers. This initiative marks a strategic paradigm shift from reactive post-disaster relief to proactive disaster risk reduction, leveraging continuous spatial monitoring and hazard zoning.",
+      "whyItMatters": "Essential for GS-III Disaster Management topics. Aligns with the Sendai Framework for Disaster Risk Reduction by prioritizing risk mapping and early warning infrastructure."
+    },
+    {
+      "headline": "Household Solid Fuel Use Drives High Air Pollution in Rural Off-Grid Zones",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/delhis-rural-outskirts-are-more-polluted-than-the-megacity-and-crop-burning-is-not-the-culprit/article71737033.ece"
+        }
+      ],
+      "date": "2026-11-25",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Biotechnology & Health",
-      "summary": "A large-scale study in Brazil showed a 69% reduction in dengue and chikungunya cases among children following the release of Aedes aegypti mosquitoes carrying Wolbachia bacteria.",
-      "whyItMatters": "Presents a proven bio-control mechanism for tropical countries like India struggling with recurrent vector-borne outbreaks."
+      "topic": "Environmental Pollution & Public Health",
+      "summary": "A comprehensive study revealed that rural outskirts surrounding major metropolitan areas suffer higher baseline air pollution levels than city centers during winter. Researchers identified domestic combustion of fuel wood, biomass, and dung for heating and cooking—rather than agricultural stubble burning—as the primary factor.",
+      "whyItMatters": "Relevant for GS-III Air Pollution and GS-II Clean Energy schemes (e.g., PM Ujjwala Yojana). Highlights gaps in rural clean energy transition policies."
     },
     {
-      "headline": "Bay of Bengal Witnesses Increased Cyclone Frequency During Post-Monsoon Season",
+      "headline": "RBI Maintains Capital Surcharge for Domestic Systemically Important Banks (D-SIBs)",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
+          "url": "https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece"
         }
       ],
-      "date": "2026-11-22",
+      "date": "2026-11-25",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Disaster Management & Physical Geography",
-      "summary": "The occurrence of three tropical cyclones within three weeks in the Bay of Bengal highlights changing post-monsoon cyclogenesis dynamics and ocean thermal conditions.",
-      "whyItMatters": "Critical for understanding climate change impacts on coastal vulnerability and refining early warning systems."
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Indian Economy & Banking Regulation",
+      "summary": "The Reserve Bank of India (RBI) reaffirmed the Domestic Systemically Important Bank (D-SIB) status for State Bank of India, HDFC Bank, and ICICI Bank. Consequently, these institutions must continue maintaining higher Common Equity Tier 1 (CET1) capital buffers to mitigate systemic systemic financial risks.",
+      "whyItMatters": "Key concept for GS-III Banking and Monetary Policy. D-SIBs are financial institutions deemed 'too big to fail', requiring additional regulatory capital controls."
     },
     {
-      "headline": "Indigenous Quantum Innovation: Pune Startup Develops Indigenous Atomic Clock Prototype",
+      "headline": "Air Pollution Reprograms Brain Immune Cells Accelerating Cognitive Decline",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece"
+          "url": "https://www.thehindu.com/sci-tech/health/air-pollution-accelerates-dementia-by-reprogramming-brains-immune-cells-study/article71742501.ece"
         }
       ],
-      "date": "2026-11-21",
+      "date": "2026-11-25",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indigenisation of Technology & Strategic Sector",
-      "summary": "A Pune-based startup has developed a functional atomic clock prototype, boosting domestic capabilities in ultra-precise timing critical for satellite navigation, telecommunications, and defense systems.",
-      "whyItMatters": "Enhances technological self-reliance (Atmanirbharta) in dual-use strategic hardware amidst global supply restrictions."
+      "relevance": "Prelims",
+      "importance": "Low",
+      "topic": "Science & Technology - Health & Environment",
+      "summary": "Scientific research shows that prolonged exposure to high levels of ambient fine particulate matter causes epigenetic reprogramming of microglia (the brain's resident immune cells), raising the risk of developing neurodegenerative conditions like Alzheimer's by 25%.",
+      "whyItMatters": "Useful for understanding environmental health impacts and bio-medical developments under GS-III S&T."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "BepiColombo",
+      "fact": "Little Stint (Calidris minuta)",
+      "category": "Species",
+      "detail": "A small migratory shorebird that travels thousands of kilometers from Arctic Siberian tundra breeding grounds to winter in wetlands across the Indian subcontinent."
+    },
+    {
+      "fact": "Primary Ciliary Dyskinesia (PCD)",
+      "category": "Terminology",
+      "detail": "A rare genetic disorder causing defects in microscopic hair-like structures (cilia) lining the respiratory tract, leading to impaired mucociliary clearance and chronic lung infections."
+    },
+    {
+      "fact": "Shenzhou-24 Spaceflight",
+      "category": "Terminology",
+      "detail": "China's crewed space mission launched via Long March-2F rocket to the Tiangong space station, notably carrying Pakistan's first astronaut under bilateral space cooperation."
+    },
+    {
+      "fact": "National Gopal Ratna Award",
+      "category": "Schemes",
+      "detail": "One of the highest national awards in the livestock and dairy sector given to indigenous cattle rearers, artificial insemination technicians, and dairy cooperative societies."
+    },
+    {
+      "fact": "Service Producer Price Index (PPI)",
+      "category": "Reports/Indices",
+      "detail": "An index calculated by the Ministry of Commerce and Industry to measure average changes in selling prices received by domestic service providers (e.g., air transport, banking)."
+    },
+    {
+      "fact": "Exercise Surya Kiran (India-Nepal)",
       "category": "Organizations",
-      "detail": "Joint space exploration mission by ESA (Europe) and JAXA (Japan) designed to study Mercury's composition, geophysics, and magnetic field."
-    },
-    {
-      "fact": "Attappady",
-      "category": "Places",
-      "detail": "A prominent tribal block in Palakkad district of Kerala, frequently in news regarding indigenous health and land alienation issues."
-    },
-    {
-      "fact": "Wolbachia Method",
-      "category": "Terminology",
-      "detail": "A biological vector control technique introducing naturally occurring Wolbachia bacteria into mosquitoes to block their ability to transmit viruses like Dengue, Zika, and Chikungunya."
-    },
-    {
-      "fact": "Core Sector Industries",
-      "category": "Terminology",
-      "detail": "Refers to eight key sectors (Coal, Crude Oil, Natural Gas, Refinery Products, Fertilisers, Steel, Cement, and Electricity) comprising 40.27% of the Index of Industrial Production (IIP)."
-    },
-    {
-      "fact": "Kuno National Park",
-      "category": "Places",
-      "detail": "Wildlife reserve in Madhya Pradesh designated as the primary reintroduction site for African cheetahs in India under Project Cheetah."
+      "detail": "A joint military training exercise conducted annually between the armies of India and Nepal focusing on counter-terrorism in mountainous terrain and disaster response."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the Index of Eight Core Industries in India, consider the following statements:\n1. It comprises over 40% of the weight of items included in the Index of Industrial Production (IIP).\n2. Electricity carries the highest weightage among the eight core industries.\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following financial institutions are currently classified as Domestic Systemically Important Banks (D-SIBs) by the Reserve Bank of India?",
       "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "correctIndex": 0,
-      "explanation": "Statement 1 is correct (Core industries constitute 40.27% of IIP). Statement 2 is incorrect because Petroleum Refinery Products holds the highest weightage (~28%), not Electricity."
-    },
-    {
-      "question": "The BepiColombo mission, which recently entered planetary orbit, is a joint initiative of which two space agencies?",
-      "options": [
-        "NASA and ISRO",
-        "ESA and JAXA",
-        "Roscosmos and CNSA",
-        "ESA and NASA"
+        "A) State Bank of India, Punjab National Bank, and Bank of Baroda",
+        "B) State Bank of India, ICICI Bank, and HDFC Bank",
+        "C) HDFC Bank, Axis Bank, and Kotak Mahindra Bank",
+        "D) State Bank of India, HDFC Bank, and Axis Bank"
       ],
       "correctIndex": 1,
-      "explanation": "BepiColombo is a joint mission conducted by the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to study Mercury."
+      "explanation": "The Reserve Bank of India (RBI) classifies SBI, ICICI Bank, and HDFC Bank as D-SIBs ('too big to fail'), subjecting them to higher capital buffer requirements."
     },
     {
-      "question": "The 'Wolbachia method' often discussed in public health news is primarily used for which of the following purposes?",
+      "question": "The 'Little Stint' (Calidris minuta), often observed in Indian wetlands during winter, is a:",
       "options": [
-        "Enhancing crop yield through nitrogen fixation",
-        "Controlling mosquito-borne viral transmission",
-        "Purifying heavy metals from contaminated soil",
-        "Developing synthetic vaccines against tuberculosis"
+        "A) Critically endangered endemic freshwater fish",
+        "B) Small migratory shorebird originating from the Arctic tundra",
+        "C) High-altitude floral species of the Western Ghats",
+        "D) Invasive aquatic weed species"
       ],
       "correctIndex": 1,
-      "explanation": "Wolbachia bacteria infect Aedes aegypti mosquitoes and prevent viruses like dengue, chikungunya, and zika from replicating inside them."
+      "explanation": "The Little Stint is a tiny long-distance migratory wader bird that breeds in Arctic Siberia and migrates to South Asian wetlands for wintering."
+    },
+    {
+      "question": "With reference to Autonomous Weapons Systems, which of the following best reflects India's position at international forums like the United Nations?",
+      "options": [
+        "A) Total support for full operational independence of AI in military strike platforms",
+        "B) Demand for complete transfer of AI autonomous targeting technology to developing countries",
+        "C) Insistence that human accountability and control must be maintained over lethal autonomous weapons",
+        "D) Opposition to any civilian deployment of artificial intelligence algorithms"
+      ],
+      "correctIndex": 2,
+      "explanation": "India has consistently asserted at the UN that legal responsibility and decision-making over Lethal Autonomous Weapons Systems (LAWS) must strictly rest with human operators."
+    },
+    {
+      "question": "Under the Sendai Framework for Disaster Risk Reduction, national strategies emphasize a paradigm shift towards:",
+      "options": [
+        "A) Exclusively funding post-disaster compensation payouts",
+        "B) Proactive risk identification, mapping, and early warning measures",
+        "C) Nationalizing all private insurance providers for disaster claims",
+        "D) Relying solely on international humanitarian aid agencies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modern disaster management strategies, including India's landslide susceptibility mapping, focus on moving from post-disaster relief to pre-disaster risk reduction and spatial mapping."
     }
   ],
   "schemes": [
     {
-      "name": "Human Papillomavirus (HPV) Vaccination Campaign",
-      "ministry": "Ministry of Health and Family Welfare",
-      "beneficiaries": "Adolescent girls aged 14 years across India",
-      "objective": "Prevent cervical cancer by administering quadrivalent/bivalent HPV vaccines prior to virus exposure.",
+      "name": "Scheme for Enhancing Domestic Construction Equipment Manufacturing",
+      "ministry": "Ministry of Heavy Industries / Union Cabinet",
+      "beneficiaries": "Domestic equipment manufacturers, infrastructure developers, and industrial workers",
+      "objective": "Build local manufacturing capacity for heavy construction machinery, reduce import dependencies, and create domestic industrial employment.",
       "keyFeatures": [
-        "Targeted immunisation drive for 14-year-old girls nationwide",
-        "Integration into routine public health delivery networks",
-        "Focus on high-burden states including Uttar Pradesh and Bihar"
+        "₹11,000-crore targeted financial layout",
+        "Incentivization of high-value infrastructure component design and assembly within India"
       ],
-      "funding": "Centrally supported public health intervention initiative",
-      "upscRelevance": "Relevant for GS II (Health Governance) and GS III (Biotechnology applications in health)."
+      "funding": "Centrally sponsored outlay within the overall ₹19,934-crore capital package",
+      "upscRelevance": "High relevance for GS-III Industrial Growth, Manufacturing sector policy, and Infrastructure development."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Financial Market Structure",
+      "topic": "Disaster Management Paradigm Shift",
       "points": [
-        "India's equity market capitalization stands at ~130% of GDP, whereas the corporate bond market is only ~16% of GDP (Source: CEA briefing).",
-        "Highlighting debt market underdevelopment is useful when writing answers on capital mobilization and long-term infrastructure funding."
+        "India's mapping of 4.3 lakh sq km for landslide susceptibility illustrates the transition from reactive relief to proactive, preventive disaster risk management as envisioned under the Sendai Framework."
       ]
     },
     {
-      "topic": "Public Health Success",
+      "topic": "Clean Energy & Rural Air Quality Policy",
       "points": [
-        "India covered 87% (over 1 crore) of its annual target cohort of 14-year-old girls under the national HPV vaccination campaign within nine months.",
-        "Can be cited as an example of effective preventive healthcare scale-up."
+        "Studies showing higher winter pollution in rural outskirts due to domestic solid biomass combustion demonstrate that air pollution mitigation requires last-mile clean cooking energy delivery (LPG/electricity) alongside industrial emission controls."
+      ]
+    },
+    {
+      "topic": "Ethics in Artificial Intelligence",
+      "points": [
+        "India's stance at the UN highlights the ethical imperative that lethal force in warfare cannot be delegated to autonomous algorithms, preserving human agency and moral accountability."
       ]
     }
   ],
   "whatToRemember": [
-    "India and the EU aim to sign their long-negotiated Free Trade Agreement on December 16, 2026.",
-    "India's eight core sector industries grew by 10.9% in October 2026, driven by power, coal, and cement.",
-    "Over 1 crore adolescent girls (87% of annual target) were vaccinated against HPV in India within 9 months.",
-    "US banned data centers using advanced AI chips from offering cloud compute access to China.",
-    "BepiColombo spacecraft successfully entered orbit around Mercury after an 8-year journey."
+    "Cabinet approved an ₹11,000-crore initiative to promote domestic construction equipment manufacturing under a ₹19,934-crore development package.",
+    "COP31 climate talks ended in a stalemate over the inclusion of explicit fossil fuel phase-out language and climate finance mechanisms.",
+    "India advocated at the UN for inclusive global AI governance, insisting human control must be preserved over lethal autonomous weapons.",
+    "India completed landslide susceptibility mapping across 4.3 lakh sq km, marking a shift toward proactive hazard risk reduction.",
+    "RBI maintained Domestic Systemically Important Bank (D-SIB) status for SBI, ICICI Bank, and HDFC Bank.",
+    "Solomon Islands signed a key security treaty with Australia that bars any third-country foreign military bases on its territory."
   ]
 }
