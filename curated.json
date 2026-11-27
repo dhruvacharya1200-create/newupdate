@@ -1,328 +1,330 @@
 {
-  "date": "2026-11-25",
-  "updatedAt": "2026-11-25T13:21:55.491Z",
+  "date": "2026-11-27",
+  "updatedAt": "2026-11-27T12:58:52.421Z",
   "frontPage": [
     {
-      "headline": "Union Cabinet Approves ₹19,934-Crore Package Including Domestic Construction Equipment Ecosystem",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/from-construction-equipment-to-postal-services-cabinet-clears-rs-19934-crore-package-key-decisions/articleshow/136157105.cms"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/why-india-is-betting-rs-11000-crore-on-construction-infrastructure-equipment-manufacturing-explained/articleshow/136159765.cms"
-        }
-      ],
-      "date": "2026-11-25",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Industrial Policy & Infrastructure",
-      "summary": "The Union Cabinet has sanctioned a ₹19,934-crore overall development package, featuring an ₹11,000-crore targeted scheme to manufacture construction and infrastructure equipment domestically. The initiative aims to reduce import dependencies and bolster national supply chain resilience in critical engineering goods.",
-      "whyItMatters": "Crucial for GS-III topics on industrial growth, 'Make in India', and supply chain resilience. Aspirants should note how public capital expenditure is targeted to strengthen local manufacturing capability for heavy machinery."
-    },
-    {
-      "headline": "COP31 Negotiations Collapse Amid Deep Fractures Over Fossil Fuel Phase-Out and Climate Finance",
+      "headline": "Union Cabinet approves Delimitation Bill to increase Lok Sabha seats",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/global-climate-talks-must-shut-the-door-on-fossil-fuel-influence/article71738093.ece"
+          "url": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/science/cop31-deadlock-why-countries-failed-to-agree-on-fossil-fuels-climate-finance/articleshow/136132361.cms"
+          "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-50-increase-in-lok-sabha-seats-across-states-ceiling-to-remain-till-2051-sources/articleshow/136215708.cms"
         }
       ],
-      "date": "2026-11-25",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Environmental Conservation & Global Climate Diplomacy",
-      "summary": "Global climate negotiations at COP31 ended in a stalemate after over 130 countries, including the EU, rejected a draft agreement that omitted explicit commitments to phase out fossil fuels. Emerging economies like India and China, alongside major oil producers, resisted unfunded transition mandates without binding climate finance commitments from developed nations.",
-      "whyItMatters": "Directly impacts GS-III (Environment & Climate Change Diplomacy). Highlights the persistent global rift between developed and developing nations regarding Common But Differentiated Responsibilities (CBDR) and adaptation funding."
-    },
-    {
-      "headline": "India Advocates for Inclusive Global AI Governance and Human Oversight in Autonomous Weapons",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-warns-against-using-tech-for-strategic-one-upmanship-calls-for-inclusive-ai-governance/article71741155.ece"
-        }
-      ],
-      "date": "2026-11-25",
-      "gsPaper": "GS II & III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "International Relations & Emerging Technologies",
-      "summary": "Addressing the United Nations, India warned against using artificial intelligence as a instrument for strategic domination, calling for equitable, democratic governance of technology. India emphasized that legal and moral responsibility over Lethal Autonomous Weapons Systems (LAWS) must permanently remain with human operators.",
-      "whyItMatters": "Relevant for GS-II (Global Ethics & UN Bodies) and GS-III (Internal Security & Cyber Tech). Illustrates India's strategic positioning on global technology standards, AI safety, and military ethics."
-    },
-    {
-      "headline": "FSSAI Initiates Nationwide Bottled Water Inspection Following Safety Violations",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/why-has-the-fssai-sanctioned-prosecution-against-bisleri-explained/article71738475.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/bisleri-row-fssai-launches-pan-india-water-quality-checks-results-within-1-2-months/articleshow/136157196.cms"
-        }
-      ],
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Elections & Representation",
+      "summary": "The Union Cabinet has approved a new Delimitation Bill ahead of a special session of Parliament. The proposed legislation seeks a proportional increase in Lok Sabha seats across states while keeping state-wise seat allocations frozen until 2051 to address regional representation concerns.",
+      "whyItMatters": "Delimitation is a vital GS-II topic under Indian Constitution and federalism. Aspirants must understand Article 82, Article 170, the 84th Constitutional Amendment Act, and the federal tensions between Northern and Southern states regarding population-based redistribution."
+    },
+    {
+      "headline": "Supreme Court intervenes strictly in Thirupparankundram Deepam dispute citing contempt",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/deepam-to-be-lit-tomorrow-furious-sc-suspends-temple-trust-asks-crpf-to-step-in/articleshow/136217038.cms"
+        }
+      ],
+      "date": "2026-11-27",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Judiciary & Contempt of Court",
+      "summary": "The Supreme Court issued show-cause contempt notices against senior Tamil Nadu officials for wilful disobedience of its orders regarding the traditional lighting of the Karthigai Deepam at Thirupparankundram. The apex court reiterated the binding nature of judicial directives on executive authorities.",
+      "whyItMatters": "Highlights judicial enforcement powers under Article 129 and Article 142 of the Constitution, focusing on executive accountability and the rule of law."
+    },
+    {
+      "headline": "India stresses adaptation funding needs at COP31 climate negotiations",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/cop31-india-welcomes-50-million-climate-fund-pledge-says-adaptation-needs-far-greater/article71750462.ece"
+        }
+      ],
+      "date": "2026-11-27",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Environmental Conservation & Climate Change",
+      "summary": "India welcomed a $50 million pledge towards global climate funding at COP31 but emphasized that adaptation needs of developing countries require far greater financial support. India reiterated calls for transparency, accountability, and equity in climate finance delivery under the Paris Agreement framework.",
+      "whyItMatters": "Directly impacts GS-III syllabus on Environmental Impact Assessment and Climate Change negotiations (UNFCCC), emphasizing the principle of Common But Differentiated Responsibilities (CBDR)."
+    },
+    {
+      "headline": "RBI reduces daily minimum Cash Reserve Ratio maintenance to 90%",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/13622881.cms"
+        }
+      ],
+      "date": "2026-11-27",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Monetary Policy & Banking Sector",
+      "summary": "The Reserve Bank of India has lowered the minimum daily Cash Reserve Ratio (CRR) maintenance requirement for commercial banks from 99% to 90%. This measure provides commercial banks with enhanced flexibility in managing daily liquidity fluctuations.",
+      "whyItMatters": "Essential monetary policy tool under GS-III Economy syllabus. Candidates must grasp how CRR modifications influence systemic liquidity, bank balance sheets, and short-term interest rates."
+    },
+    {
+      "headline": "RBI repatriates 60 additional tonnes of gold to domestic vaults",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-continues-to-bring-back-gold-to-india-as-it-repatriates-60-tonnes-more-of-yellow-metal-india-now-houses-84-of-its-880-52-metric-tonnes-gold-reserves-while-remaining-are-with-bank-of-england-and-bank-for-international-settlements/articleshow/136167289.cms"
+        }
+      ],
+      "date": "2026-11-26",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Indian Economy & External Sector",
+      "summary": "The Reserve Bank of India has repatriated an additional 60 tonnes of gold from overseas vaults back to domestic storage. With this transfer, approximately 84% of India's total 880.52 metric tonnes of gold reserves are now held within the country.",
+      "whyItMatters": "Crucial for understanding foreign exchange reserves management, sovereign risk mitigation, and central bank asset diversification strategy under GS-III Macroeconomics."
+    },
+    {
+      "headline": "ISRO and JAXA reveal prototype of Chandrayaan-5 LUPEX lunar rover",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
+        }
+      ],
+      "date": "2026-11-27",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology",
+      "summary": "The prototype for the Lunar Polar Exploration (LUPEX) rover—a joint effort between India's ISRO and Japan's JAXA designated as Chandrayaan-5—was officially unveiled. The mission aims to explore water-ice deposits in the permanently shadowed regions of the lunar south pole.",
+      "whyItMatters": "Key development in Science & Tech syllabus covering international space collaborations, lunar exploration, and in-situ resource utilization."
+    }
+  ],
+  "gs1": [
+    {
+      "headline": "Archaeologists discover new species of bronzeback tree snake endemic to Western Ghats",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/discovery/new-beddomes-bronzeback-tree-snake-species-discovered-in-western-ghats-scientists-uncover-long-standing-confusion-with-a-related-species/articleshow/136187696.cms"
+        }
+      ],
+      "date": "2026-11-27",
+      "gsPaper": "GS I",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Regulatory Bodies & Public Health Safety",
-      "summary": "The Food Safety and Standards Authority of India (FSSAI) launched a pan-India surveillance drive to check the quality of packaged drinking water after issuing prosecution orders against major brand samples that failed safety tests for chemical contaminants like bromate and polycyclic aromatic hydrocarbons (PAHs).",
-      "whyItMatters": "Important for GS-II Governance and GS-III Health & Environment. Demonstrates regulatory oversight by statutory bodies like FSSAI under the Food Safety and Standards Act, 2006."
-    },
+      "topic": "Physical Geography & Biodiversity Hotspots",
+      "summary": "Researchers have identified a distinct species of tree snake, Dendrelaphis beddomei, endemic to the Western Ghats. The taxonomic study resolves long-standing morphological confusion with related species in the region.",
+      "whyItMatters": "Enhances understanding of Western Ghats biodiversity, endemism, and biogeography relevant to GS-I Geography."
+    }
+  ],
+  "gs2": [
     {
-      "headline": "Solomon Islands Signs Security Pact with Australia, Restricting Foreign Military Bases",
+      "headline": "Union Cabinet clears Delimitation Bill preserving state-wise seat ratios until 2051",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece"
+          "url": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece"
+        },
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-50-increase-in-lok-sabha-seats-across-states-ceiling-to-remain-till-2051-sources/articleshow/136215708.cms"
         }
       ],
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Indo-Pacific Geopolitics",
-      "summary": "The Solomon Islands has officially designated Australia as its primary security partner under a bilateral treaty that expressly forbids the creation of any third-country foreign military base on its territory. The agreement recalibrates security arrangements in the South Pacific after previous security overtures toward China.",
-      "whyItMatters": "Crucial for GS-II (International Relations & Geopolitics of the Indo-Pacific). Shows shifting alignments in Pacific Island Countries (PICs) key to regional maritime security."
+      "topic": "Constitutional Amendments & Federal Structure",
+      "summary": "The Union Cabinet has approved the Delimitation Bill to adjust parliamentary constituencies. The draft provisions propose expanding Lok Sabha seating capacity while retaining existing inter-state representation ratios to prevent political disadvantage to states with successful population stabilization.",
+      "whyItMatters": "Directly links to constitutional provisions governing delimitation (Articles 82 & 170) and inter-state equity in Indian federalism."
     },
     {
-      "headline": "Supreme Court Quashes High Court Directives for Premature CBI/ED Probes Without Due Process",
+      "headline": "Former CJI addresses President regarding judicial representation across social groups",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-assets-case-sc-quashes-allahabad-hc-orders-seeking-cbi-ed-inquiry/articleshow/136153125.cms"
+          "url": "https://timesofindia.indiatimes.com/india/one-community-being-favoured-ex-cji-gavai-writes-to-president-murmu-cites-low-obc-sc-and-st-representation-in-judiciary/articleshow/136216500.cms"
         }
       ],
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "gsPaper": "GS II",
       "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Judiciary & Constitutional Law",
-      "summary": "The Supreme Court overturned directives from the High Court that ordered central investigative agencies like the CBI and ED to probe asset declarations without establishing a prima facie criminal offense. The apex court reiterated that judicial power to order central agency probes must be exercised sparingly and with extreme caution.",
-      "whyItMatters": "Significant for GS-II (Structure and Functioning of the Judiciary). Underscores judicial restraint and safeguards against arbitrary orders initiating federal agency inquiries."
-    }
-  ],
-  "gs1": [],
-  "gs2": [
-    {
-      "headline": "India-Nepal Relations Face Review Over Joint Reports and Border Management",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/former-members-say-epg-report-was-highly-positive-for-india-nepal-ties/article71739669.ece"
-        },
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/opinion/editorial/beyond-generosity-on-india-nepal-ties/article71738937.ece"
-        }
-      ],
-      "date": "2026-11-25",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "Medium",
-      "topic": "India and its Neighborhood Relations",
-      "summary": "Debate has resurfaced surrounding the non-acceptance of the India-Nepal Eminent Persons Group (EPG) report on revising bilateral treaties, including the 1950 Treaty of Peace and Friendship. Analysts stress that India must address trade, transit, and border grievances alongside development assistance to build sustainable diplomatic trust.",
-      "whyItMatters": "Directly impacts GS-II India's Neighborhood relations. Helps analyze bilateral institutional mechanisms, security interests, and trade ties with Nepal."
+      "topic": "Structure & Functioning of Higher Judiciary",
+      "summary": "Former Chief Justice of India B.R. Gavai wrote to President Droupadi Murmu highlighting the underrepresentation of OBC, SC, and ST communities in higher judicial appointments, advocating for broader social diversity within the bench.",
+      "whyItMatters": "Useful for Mains discussions on judicial reforms, Collegium system transparency, and social justice in constitutional institutions."
     }
   ],
   "gs3": [
     {
-      "headline": "India Maps Landslide Susceptibility Across 4.3 Lakh Sq Km in Risk Mitigation Shift",
+      "headline": "RBI eases minimum daily Cash Reserve Ratio compliance threshold to 90%",
       "sources": [
         {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece"
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/136222881.cms"
         }
       ],
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Disaster Management & Risk Reduction",
-      "summary": "India has completed nationwide landslide susceptibility mapping covering 4.3 lakh square kilometers. This initiative marks a strategic paradigm shift from reactive post-disaster relief to proactive disaster risk reduction, leveraging continuous spatial monitoring and hazard zoning.",
-      "whyItMatters": "Essential for GS-III Disaster Management topics. Aligns with the Sendai Framework for Disaster Risk Reduction by prioritizing risk mapping and early warning infrastructure."
+      "topic": "Indian Economy & Monetary Policy",
+      "summary": "The RBI lowered the daily minimum CRR maintenance limit for banks from 99% to 90%, offering commercial banks operational flexibility to manage daily cash flows without altering the overall fortnightly CRR target.",
+      "whyItMatters": "Important core concept for Prelims and Mains under banking operation, RBI liquidity management instruments, and statutory reserve requirements."
     },
     {
-      "headline": "Household Solid Fuel Use Drives High Air Pollution in Rural Off-Grid Zones",
+      "headline": "India brings back 60 tonnes of gold reserves held in foreign vaults",
+      "sources": [
+        {
+          "name": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-continues-to-bring-back-gold-to-india-as-it-repatriates-60-tonnes-more-of-yellow-metal-india-now-houses-84-of-its-880-52-metric-tonnes-gold-reserves-while-remaining-are-with-bank-of-england-and-bank-for-international-settlements/articleshow/136167289.cms"
+        }
+      ],
+      "date": "2026-11-26",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Foreign Exchange & Reserve Management",
+      "summary": "In a strategic asset relocation, the RBI transferred 60 metric tonnes of gold from the UK back to domestic vaults. Over 84% of India's total gold reserves are now stored domestically to mitigate geopolitical risks.",
+      "whyItMatters": "Relevant to macroeconomic policy, balance of payments reserve stability, and central bank security strategies."
+    },
+    {
+      "headline": "ISRO-JAXA joint lunar mission LUPEX unveils rover prototype",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/delhis-rural-outskirts-are-more-polluted-than-the-megacity-and-crop-burning-is-not-the-culprit/article71737033.ece"
+          "url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
         }
       ],
-      "date": "2026-11-25",
+      "date": "2026-11-27",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology & Science",
+      "summary": "JAXA unveiled the rover prototype for the upcoming Chandrayaan-5/LUPEX mission, co-developed with ISRO. The mission will explore the moon's south pole region to investigate potential volatile elements and lunar water resources.",
+      "whyItMatters": "Directly relevant to S&T syllabus on developments in space technology and international bilateral scientific ventures."
+    },
+    {
+      "headline": "Infectious disease risks from free-ranging domestic animals threaten Nilgiris wildlife",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/infectious-diseases-from-free-ranging-domestic-animals-threaten-nilgiris-wildlife/article71745974.ece"
+        }
+      ],
+      "date": "2026-11-26",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Environmental Pollution & Public Health",
-      "summary": "A comprehensive study revealed that rural outskirts surrounding major metropolitan areas suffer higher baseline air pollution levels than city centers during winter. Researchers identified domestic combustion of fuel wood, biomass, and dung for heating and cooking—rather than agricultural stubble burning—as the primary factor.",
-      "whyItMatters": "Relevant for GS-III Air Pollution and GS-II Clean Energy schemes (e.g., PM Ujjwala Yojana). Highlights gaps in rural clean energy transition policies."
-    },
-    {
-      "headline": "RBI Maintains Capital Surcharge for Domestic Systemically Important Banks (D-SIBs)",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece"
-        }
-      ],
-      "date": "2026-11-25",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Medium",
-      "topic": "Indian Economy & Banking Regulation",
-      "summary": "The Reserve Bank of India (RBI) reaffirmed the Domestic Systemically Important Bank (D-SIB) status for State Bank of India, HDFC Bank, and ICICI Bank. Consequently, these institutions must continue maintaining higher Common Equity Tier 1 (CET1) capital buffers to mitigate systemic systemic financial risks.",
-      "whyItMatters": "Key concept for GS-III Banking and Monetary Policy. D-SIBs are financial institutions deemed 'too big to fail', requiring additional regulatory capital controls."
-    },
-    {
-      "headline": "Air Pollution Reprograms Brain Immune Cells Accelerating Cognitive Decline",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/health/air-pollution-accelerates-dementia-by-reprogramming-brains-immune-cells-study/article71742501.ece"
-        }
-      ],
-      "date": "2026-11-25",
-      "gsPaper": "GS III",
-      "relevance": "Prelims",
-      "importance": "Low",
-      "topic": "Science & Technology - Health & Environment",
-      "summary": "Scientific research shows that prolonged exposure to high levels of ambient fine particulate matter causes epigenetic reprogramming of microglia (the brain's resident immune cells), raising the risk of developing neurodegenerative conditions like Alzheimer's by 25%.",
-      "whyItMatters": "Useful for understanding environmental health impacts and bio-medical developments under GS-III S&T."
+      "topic": "Biodiversity Conservation & Wildlife Health",
+      "summary": "A Forest Department report highlighted that untethered domestic and feral animals are transmitting deadly infectious pathogens to native wildlife populations in the Nilgiris Biosphere Reserve, posing severe conservation challenges.",
+      "whyItMatters": "Connects to environmental degradation, One Health approach, and wildlife sanctuary management in ecological hotspots."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
+      "fact": "LUPEX (Lunar Polar Exploration) Mission",
+      "category": "Organizations",
+      "detail": "A joint lunar mission by India's ISRO and Japan's JAXA aimed at studying water-ice availability at the Moon's polar region."
+    },
+    {
+      "fact": "Dendrelaphis beddomei",
+      "category": "Species",
+      "detail": "A newly classified endemic species of bronzeback tree snake discovered in the Western Ghats of India."
+    },
+    {
       "fact": "Little Stint (Calidris minuta)",
       "category": "Species",
-      "detail": "A small migratory shorebird that travels thousands of kilometers from Arctic Siberian tundra breeding grounds to winter in wetlands across the Indian subcontinent."
+      "detail": "A small migratory shorebird that breeds in Arctic tundra and winters across Indian coastal mudflats and inland wetlands."
     },
     {
-      "fact": "Primary Ciliary Dyskinesia (PCD)",
+      "fact": "Ibisbill (Ibidorhyncha struthersii)",
+      "category": "Species",
+      "detail": "A distinctive bird species that inhabits stony riverbeds of the Himalayas, dependent on natural gravelly river dynamics free from illegal sand mining."
+    },
+    {
+      "fact": "Cash Reserve Ratio (CRR) Daily Floor",
       "category": "Terminology",
-      "detail": "A rare genetic disorder causing defects in microscopic hair-like structures (cilia) lining the respiratory tract, leading to impaired mucociliary clearance and chronic lung infections."
-    },
-    {
-      "fact": "Shenzhou-24 Spaceflight",
-      "category": "Terminology",
-      "detail": "China's crewed space mission launched via Long March-2F rocket to the Tiangong space station, notably carrying Pakistan's first astronaut under bilateral space cooperation."
-    },
-    {
-      "fact": "National Gopal Ratna Award",
-      "category": "Schemes",
-      "detail": "One of the highest national awards in the livestock and dairy sector given to indigenous cattle rearers, artificial insemination technicians, and dairy cooperative societies."
-    },
-    {
-      "fact": "Service Producer Price Index (PPI)",
-      "category": "Reports/Indices",
-      "detail": "An index calculated by the Ministry of Commerce and Industry to measure average changes in selling prices received by domestic service providers (e.g., air transport, banking)."
-    },
-    {
-      "fact": "Exercise Surya Kiran (India-Nepal)",
-      "category": "Organizations",
-      "detail": "A joint military training exercise conducted annually between the armies of India and Nepal focusing on counter-terrorism in mountainous terrain and disaster response."
+      "detail": "The minimum percentage of daily required reserves that banks must maintain with the RBI on any given day within a fortnightly reporting period."
     }
   ],
   "quiz": [
     {
-      "question": "Which of the following financial institutions are currently classified as Domestic Systemically Important Banks (D-SIBs) by the Reserve Bank of India?",
+      "question": "Regarding the Lunar Polar Exploration (LUPEX) mission, consider the following statements:\n1. It is a joint collaborative lunar exploration project between ISRO and NASA.\n2. Its primary objective is to investigate the quantity and quality of water resources in the lunar south polar region.\nWhich of the statements given above is/are correct?",
       "options": [
-        "A) State Bank of India, Punjab National Bank, and Bank of Baroda",
-        "B) State Bank of India, ICICI Bank, and HDFC Bank",
-        "C) HDFC Bank, Axis Bank, and Kotak Mahindra Bank",
-        "D) State Bank of India, HDFC Bank, and Axis Bank"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
       "correctIndex": 1,
-      "explanation": "The Reserve Bank of India (RBI) classifies SBI, ICICI Bank, and HDFC Bank as D-SIBs ('too big to fail'), subjecting them to higher capital buffer requirements."
+      "explanation": "Statement 1 is incorrect because LUPEX is a joint mission between ISRO (India) and JAXA (Japan). Statement 2 is correct as it targets lunar polar water-ice deposits."
     },
     {
-      "question": "The 'Little Stint' (Calidris minuta), often observed in Indian wetlands during winter, is a:",
+      "question": "The Reserve Bank of India recently lowered the minimum daily maintenance requirement for the Cash Reserve Ratio (CRR). What is the new minimum daily requirement?",
       "options": [
-        "A) Critically endangered endemic freshwater fish",
-        "B) Small migratory shorebird originating from the Arctic tundra",
-        "C) High-altitude floral species of the Western Ghats",
-        "D) Invasive aquatic weed species"
+        "85%",
+        "90%",
+        "95%",
+        "99%"
       ],
       "correctIndex": 1,
-      "explanation": "The Little Stint is a tiny long-distance migratory wader bird that breeds in Arctic Siberia and migrates to South Asian wetlands for wintering."
+      "explanation": "The RBI lowered the minimum daily CRR maintenance requirement from 99% to 90% to afford banks operational flexibility in liquidity management."
     },
     {
-      "question": "With reference to Autonomous Weapons Systems, which of the following best reflects India's position at international forums like the United Nations?",
+      "question": "The rare bird species 'Ibisbill', found along Himalayan river systems, is primarily threatened by which of the following activities?",
       "options": [
-        "A) Total support for full operational independence of AI in military strike platforms",
-        "B) Demand for complete transfer of AI autonomous targeting technology to developing countries",
-        "C) Insistence that human accountability and control must be maintained over lethal autonomous weapons",
-        "D) Opposition to any civilian deployment of artificial intelligence algorithms"
-      ],
-      "correctIndex": 2,
-      "explanation": "India has consistently asserted at the UN that legal responsibility and decision-making over Lethal Autonomous Weapons Systems (LAWS) must strictly rest with human operators."
-    },
-    {
-      "question": "Under the Sendai Framework for Disaster Risk Reduction, national strategies emphasize a paradigm shift towards:",
-      "options": [
-        "A) Exclusively funding post-disaster compensation payouts",
-        "B) Proactive risk identification, mapping, and early warning measures",
-        "C) Nationalizing all private insurance providers for disaster claims",
-        "D) Relying solely on international humanitarian aid agencies"
+        "Deforestation in tropical rain forests",
+        "Illegal riverbed boulder mining and alteration of stony riverbed habitats",
+        "Introduction of invasive marine species",
+        "Overfishing in coastal mangrove deltas"
       ],
       "correctIndex": 1,
-      "explanation": "Modern disaster management strategies, including India's landslide susceptibility mapping, focus on moving from post-disaster relief to pre-disaster risk reduction and spatial mapping."
+      "explanation": "Ibisbills rely on stony, gravelly riverbeds in the Himalayas. Unregulated riverbed mining and gravel extraction disrupt their feeding and breeding environments."
     }
   ],
   "schemes": [
     {
-      "name": "Scheme for Enhancing Domestic Construction Equipment Manufacturing",
-      "ministry": "Ministry of Heavy Industries / Union Cabinet",
-      "beneficiaries": "Domestic equipment manufacturers, infrastructure developers, and industrial workers",
-      "objective": "Build local manufacturing capacity for heavy construction machinery, reduce import dependencies, and create domestic industrial employment.",
+      "name": "EPFO Amnesty Scheme 2026",
+      "ministry": "Ministry of Labour and Employment",
+      "beneficiaries": "Establishments maintaining private/independent Provident Fund trusts and their employees",
+      "objective": "To provide a one-time regularization opportunity for legacy employer-managed provident fund trusts to comply with statutory EPFO standards.",
       "keyFeatures": [
-        "₹11,000-crore targeted financial layout",
-        "Incentivization of high-value infrastructure component design and assembly within India"
+        "Allows regularisation of unrecognized or legacy private PF trusts.",
+        "Ensures seamless transfer of employee balances and benefits to unified EPFO frameworks."
       ],
-      "funding": "Centrally sponsored outlay within the overall ₹19,934-crore capital package",
-      "upscRelevance": "High relevance for GS-III Industrial Growth, Manufacturing sector policy, and Infrastructure development."
+      "funding": "Not specified in source coverage",
+      "upscRelevance": "Relevant for questions on social security coverage, labour welfare reforms, and statutory compliance mechanisms in India."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Disaster Management Paradigm Shift",
+      "topic": "Sovereign Asset & Reserve Management",
       "points": [
-        "India's mapping of 4.3 lakh sq km for landslide susceptibility illustrates the transition from reactive relief to proactive, preventive disaster risk management as envisioned under the Sendai Framework."
+        "The RBI has brought back 60 metric tonnes of gold reserves from overseas, elevating the proportion of domestic gold storage to 84% (740 MT out of 880 MT total), showcasing strategic risk reduction against global monetary and geopolitical shocks."
       ]
     },
     {
-      "topic": "Clean Energy & Rural Air Quality Policy",
+      "topic": "Human-Wildlife Conflict & Biosecurity",
       "points": [
-        "Studies showing higher winter pollution in rural outskirts due to domestic solid biomass combustion demonstrate that air pollution mitigation requires last-mile clean cooking energy delivery (LPG/electricity) alongside industrial emission controls."
-      ]
-    },
-    {
-      "topic": "Ethics in Artificial Intelligence",
-      "points": [
-        "India's stance at the UN highlights the ethical imperative that lethal force in warfare cannot be delegated to autonomous algorithms, preserving human agency and moral accountability."
+        "Pathogen spillover from feral domestic species accounts for significant wildlife mortality in protected areas like the Nilgiris, highlighting the urgent need for a integrated 'One Health' wildlife management strategy."
       ]
     }
   ],
   "whatToRemember": [
-    "Cabinet approved an ₹11,000-crore initiative to promote domestic construction equipment manufacturing under a ₹19,934-crore development package.",
-    "COP31 climate talks ended in a stalemate over the inclusion of explicit fossil fuel phase-out language and climate finance mechanisms.",
-    "India advocated at the UN for inclusive global AI governance, insisting human control must be preserved over lethal autonomous weapons.",
-    "India completed landslide susceptibility mapping across 4.3 lakh sq km, marking a shift toward proactive hazard risk reduction.",
-    "RBI maintained Domestic Systemically Important Bank (D-SIB) status for SBI, ICICI Bank, and HDFC Bank.",
-    "Solomon Islands signed a key security treaty with Australia that bars any third-country foreign military bases on its territory."
+    "Union Cabinet has approved the Delimitation Bill, proposing to freeze inter-state Lok Sabha seat proportions until 2051.",
+    "RBI reduced the daily CRR maintenance floor for commercial banks from 99% to 90%.",
+    "India now stores 84% of its total 880.52 metric tonnes of gold reserves within domestic vaults.",
+    "ISRO and Japan's JAXA revealed the rover prototype for the joint Chandrayaan-5/LUPEX lunar mission.",
+    "India highlighted at COP31 that developing countries require far larger adaptation fund allocations than current commitments."
   ]
 }
