@@ -1,49 +1,81 @@
 {
-  "date": "2026-11-27",
-  "updatedAt": "2026-11-27T12:58:52.421Z",
+  "date": "2026-11-28",
+  "updatedAt": "2026-11-28T12:10:57.247Z",
   "frontPage": [
     {
-      "headline": "Union Cabinet approves Delimitation Bill to increase Lok Sabha seats",
+      "headline": "President Grants Approval for Tabling Revised Delimitation Bill in Parliament Amid Political Debate",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece"
+          "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-50-increase-in-lok-sabha-seats-across-states-ceiling-to-remain-till-2051-sources/articleshow/136215708.cms"
+          "url": "https://timesofindia.indiatimes.com/india/president-murmu-clears-key-procedural-step-for-tabling-of-revised-delimitation-bill-in-parliament/articleshow/136245031.cms"
         }
       ],
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "gsPaper": "GS II",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Elections & Representation",
-      "summary": "The Union Cabinet has approved a new Delimitation Bill ahead of a special session of Parliament. The proposed legislation seeks a proportional increase in Lok Sabha seats across states while keeping state-wise seat allocations frozen until 2051 to address regional representation concerns.",
-      "whyItMatters": "Delimitation is a vital GS-II topic under Indian Constitution and federalism. Aspirants must understand Article 82, Article 170, the 84th Constitutional Amendment Act, and the federal tensions between Northern and Southern states regarding population-based redistribution."
+      "topic": "Elections & Representation of People",
+      "summary": "President Droupadi Murmu has cleared the procedural recommendation for the Lok Sabha to consider the new Delimitation Bill. The legislation seeks to address parliamentary seat adjustments and federal representation post-census, sparking intense political debates regarding regional seat allocation and federal balance.",
+      "whyItMatters": "Delimitation directly impacts the principles of federalism, equitable representation, and democratic balance between high-population and demographic-stabilized southern states."
     },
     {
-      "headline": "Supreme Court intervenes strictly in Thirupparankundram Deepam dispute citing contempt",
+      "headline": "RBI Reduces Daily Cash Reserve Ratio Maintenance Threshold to 90% to Ease System Liquidity",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece"
+          "url": "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece"
         },
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/deepam-to-be-lit-tomorrow-furious-sc-suspends-temple-trust-asks-crpf-to-step-in/articleshow/136217038.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/136222881.cms"
         }
       ],
       "date": "2026-11-27",
-      "gsPaper": "GS II",
+      "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "High",
-      "topic": "Judiciary & Contempt of Court",
-      "summary": "The Supreme Court issued show-cause contempt notices against senior Tamil Nadu officials for wilful disobedience of its orders regarding the traditional lighting of the Karthigai Deepam at Thirupparankundram. The apex court reiterated the binding nature of judicial directives on executive authorities.",
-      "whyItMatters": "Highlights judicial enforcement powers under Article 129 and Article 142 of the Constitution, focusing on executive accountability and the rule of law."
+      "topic": "Monetary Policy & Banking",
+      "summary": "The Reserve Bank of India has reduced the minimum daily Cash Reserve Ratio (CRR) maintenance requirement for commercial banks from 99% to 90%. This regulatory adjustment aims to unlock over ₹40,000 crore in liquidity, helping banks manage seasonal tight liquidity and enhance credit availability.",
+      "whyItMatters": "This is a key monetary policy tool shift directly relevant to RBI operational frameworks, banking system liquidity, and economic growth."
     },
     {
-      "headline": "India stresses adaptation funding needs at COP31 climate negotiations",
+      "headline": "Supreme Court Directs FSSAI to Implement Mandatory Front-of-Pack Nutrition Labelling",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece"
+        }
+      ],
+      "date": "2026-11-28",
+      "gsPaper": "GS II & III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Public Health & Governance",
+      "summary": "The Supreme Court of India has ordered the Food Safety and Standards Authority of India (FSSAI) to mandate a single-phase Front-of-Pack Nutrition Labelling (FoPNL) regime within four months. The order focuses on prominent red warning labels on packaged foods exceeding safe thresholds of sugar, salt, and saturated fats to curb non-communicable diseases.",
+      "whyItMatters": "Highlights judicial intervention in public health governance, consumer protection rights, and regulatory frameworks targeting non-communicable lifestyle diseases."
+    },
+    {
+      "headline": "ISRO Invites Private Industry Partnerships to Build Human Spaceflight Analog Simulation Facility",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/isro-invites-indian-industry-to-develop-human-space-flight-analog-simulation-facility/article71751015.ece"
+        }
+      ],
+      "date": "2026-11-28",
+      "gsPaper": "GS III",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Space Technology",
+      "summary": "ISRO's Human Space Flight Centre (HSFC) has issued an Expression of Interest inviting Indian private sector industries to design and construct an analog simulation facility. The facility will replicate isolated, high-stress environments to prepare astronauts and technology for future space missions like Gaganyaan.",
+      "whyItMatters": "Reflects India's expanding space ecosystem and private sector participation in high-technology human spaceflight infrastructure."
+    },
+    {
+      "headline": "COP31 Concludes with $50 Million Adaptation Pledge Amid Criticism Over Structural Underfunding",
       "sources": [
         {
           "name": "The Hindu",
@@ -55,61 +87,29 @@
       "relevance": "Both",
       "importance": "High",
       "topic": "Environmental Conservation & Climate Change",
-      "summary": "India welcomed a $50 million pledge towards global climate funding at COP31 but emphasized that adaptation needs of developing countries require far greater financial support. India reiterated calls for transparency, accountability, and equity in climate finance delivery under the Paris Agreement framework.",
-      "whyItMatters": "Directly impacts GS-III syllabus on Environmental Impact Assessment and Climate Change negotiations (UNFCCC), emphasizing the principle of Common But Differentiated Responsibilities (CBDR)."
+      "summary": "At the COP31 climate conference, India acknowledged a new $50 million pledge for the Adaptation Fund but stressed that financial commitments remain vastly inadequate relative to actual developing world adaptation requirements. Developing nations called for greater funding transparency and predictable delivery mechanisms under Article 6.4 of the Paris Agreement.",
+      "whyItMatters": "Critical for understanding global climate negotiations, equity, Common But Differentiated Responsibilities (CBDR), and climate finance deficits."
     },
     {
-      "headline": "RBI reduces daily minimum Cash Reserve Ratio maintenance to 90%",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/13622881.cms"
-        }
-      ],
-      "date": "2026-11-27",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Monetary Policy & Banking Sector",
-      "summary": "The Reserve Bank of India has lowered the minimum daily Cash Reserve Ratio (CRR) maintenance requirement for commercial banks from 99% to 90%. This measure provides commercial banks with enhanced flexibility in managing daily liquidity fluctuations.",
-      "whyItMatters": "Essential monetary policy tool under GS-III Economy syllabus. Candidates must grasp how CRR modifications influence systemic liquidity, bank balance sheets, and short-term interest rates."
-    },
-    {
-      "headline": "RBI repatriates 60 additional tonnes of gold to domestic vaults",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-continues-to-bring-back-gold-to-india-as-it-repatriates-60-tonnes-more-of-yellow-metal-india-now-houses-84-of-its-880-52-metric-tonnes-gold-reserves-while-remaining-are-with-bank-of-england-and-bank-for-international-settlements/articleshow/136167289.cms"
-        }
-      ],
-      "date": "2026-11-26",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & External Sector",
-      "summary": "The Reserve Bank of India has repatriated an additional 60 tonnes of gold from overseas vaults back to domestic storage. With this transfer, approximately 84% of India's total 880.52 metric tonnes of gold reserves are now held within the country.",
-      "whyItMatters": "Crucial for understanding foreign exchange reserves management, sovereign risk mitigation, and central bank asset diversification strategy under GS-III Macroeconomics."
-    },
-    {
-      "headline": "ISRO and JAXA reveal prototype of Chandrayaan-5 LUPEX lunar rover",
+      "headline": "Transboundary Air Pollution via Northeast Monsoon Impacts Regional Air Quality",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
+          "url": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece"
         }
       ],
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Space Technology",
-      "summary": "The prototype for the Lunar Polar Exploration (LUPEX) rover—a joint effort between India's ISRO and Japan's JAXA designated as Chandrayaan-5—was officially unveiled. The mission aims to explore water-ice deposits in the permanently shadowed regions of the lunar south pole.",
-      "whyItMatters": "Key development in Science & Tech syllabus covering international space collaborations, lunar exploration, and in-situ resource utilization."
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Environmental Pollution & Physical Geography",
+      "summary": "Scientific analyses demonstrate how agricultural fires and industrial emissions from northern India travel southwards across the Bay of Bengal during the northeast monsoon, deteriorating ambient air quality as far as Sri Lanka.",
+      "whyItMatters": "Demonstrates the transboundary nature of atmospheric pollution driven by seasonal monsoon wind patterns, relevant to South Asian environmental geography."
     }
   ],
   "gs1": [
     {
-      "headline": "Archaeologists discover new species of bronzeback tree snake endemic to Western Ghats",
+      "headline": "New Bronzeback Tree Snake Species Endemic to Western Ghats Identified",
       "sources": [
         {
           "name": "Times of India",
@@ -120,211 +120,176 @@
       "gsPaper": "GS I",
       "relevance": "Prelims",
       "importance": "Medium",
-      "topic": "Physical Geography & Biodiversity Hotspots",
-      "summary": "Researchers have identified a distinct species of tree snake, Dendrelaphis beddomei, endemic to the Western Ghats. The taxonomic study resolves long-standing morphological confusion with related species in the region.",
-      "whyItMatters": "Enhances understanding of Western Ghats biodiversity, endemism, and biogeography relevant to GS-I Geography."
+      "topic": "Biogeography & Biodiversity Hotspots",
+      "summary": "Taxonomists have formally described a distinct new species of bronzeback tree snake, *Dendrelaphis beddomei*, endemic to the Western Ghats. The identification resolves long-standing taxonomic ambiguity with closely related reptilian species in the region.",
+      "whyItMatters": "Highlights the rich biological endemism of the Western Ghats biodiversity hotspot, a frequent focus of UPSC geography and ecology questions."
     }
   ],
   "gs2": [
     {
-      "headline": "Union Cabinet clears Delimitation Bill preserving state-wise seat ratios until 2051",
+      "headline": "Delimitation Challenges in Strategic Border Belts Flagged as Governance and Security Concern",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/union-cabinet-clears-delimitation-bill/article71750210.ece"
-        },
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/cabinet-clears-50-increase-in-lok-sabha-seats-across-states-ceiling-to-remain-till-2051-sources/articleshow/136215708.cms"
+          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/delimitation-in-indias-strategic-periphery-a-national-security-blind-spot/article71754170.ece"
         }
       ],
-      "date": "2026-11-27",
-      "gsPaper": "GS II",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Constitutional Amendments & Federal Structure",
-      "summary": "The Union Cabinet has approved the Delimitation Bill to adjust parliamentary constituencies. The draft provisions propose expanding Lok Sabha seating capacity while retaining existing inter-state representation ratios to prevent political disadvantage to states with successful population stabilization.",
-      "whyItMatters": "Directly links to constitutional provisions governing delimitation (Articles 82 & 170) and inter-state equity in Indian federalism."
-    },
-    {
-      "headline": "Former CJI addresses President regarding judicial representation across social groups",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/one-community-being-favoured-ex-cji-gavai-writes-to-president-murmu-cites-low-obc-sc-and-st-representation-in-judiciary/articleshow/136216500.cms"
-        }
-      ],
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "gsPaper": "GS II",
       "relevance": "Mains",
       "importance": "Medium",
-      "topic": "Structure & Functioning of Higher Judiciary",
-      "summary": "Former Chief Justice of India B.R. Gavai wrote to President Droupadi Murmu highlighting the underrepresentation of OBC, SC, and ST communities in higher judicial appointments, advocating for broader social diversity within the bench.",
-      "whyItMatters": "Useful for Mains discussions on judicial reforms, Collegium system transparency, and social justice in constitutional institutions."
+      "topic": "Federalism & Security Governance",
+      "summary": "Experts flag that conducting parliamentary and assembly delimitation strictly on population metrics in border states like Jammu & Kashmir can disproportionately alter political representation, potentially creating security blind spots in strategic peripheral regions.",
+      "whyItMatters": "Combines federal governance, border area management, and democratic equity into a comprehensive Mains analytical topic."
+    },
+    {
+      "headline": "Study Highlights Structural Deficits in ASHA Scheme, Recommends Uniform National Framework",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/study-calls-for-uniform-national-framework-to-regulate-ashas-pay-roles/article71750895.ece"
+        }
+      ],
+      "date": "2026-11-28",
+      "gsPaper": "GS II",
+      "relevance": "Both",
+      "importance": "High",
+      "topic": "Health Governance & Social Justice",
+      "summary": "A comprehensive study on Accredited Social Health Activists (ASHAs) emphasizes an expanding gap between their nominal status as honorary volunteers and their increasing public health workloads. It recommends establishing a standardized national regulatory framework for honorariums, defined working hours, and institutional grievance redressal.",
+      "whyItMatters": "Directly impacts public health delivery, gendered informal work, and primary healthcare administration under the National Health Mission."
     }
   ],
   "gs3": [
     {
-      "headline": "RBI eases minimum daily Cash Reserve Ratio compliance threshold to 90%",
+      "headline": "Road Transport Ministry Introduces Enhanced Penalties for Electronic Toll Evasion",
       "sources": [
         {
           "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/136222881.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/nitin-gadkari-led-road-transport-ministry-announces-five-times-penalty-for-drivers-who-deliberately-mask-number-plates-or-skip-fastag-to-evade-charges-at-barrier-free-toll-plazas-over-and-above-the-original-user-fee/articleshow/136241718.cms"
         }
       ],
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Indian Economy & Monetary Policy",
-      "summary": "The RBI lowered the daily minimum CRR maintenance limit for banks from 99% to 90%, offering commercial banks operational flexibility to manage daily cash flows without altering the overall fortnightly CRR target.",
-      "whyItMatters": "Important core concept for Prelims and Mains under banking operation, RBI liquidity management instruments, and statutory reserve requirements."
+      "relevance": "Prelims",
+      "importance": "Medium",
+      "topic": "Infrastructure & Transportation",
+      "summary": "The Ministry of Road Transport and Highways announced a five-fold penalty over standard user fees for drivers intentionally obscuring registration plates or evading Multi-Lane Free Flow (MLFF) electronic tolling points using automatic number plate recognition systems.",
+      "whyItMatters": "Relates to transport infrastructure modernization, intelligent transport systems (ITS), and regulatory enforcement mechanisms."
     },
     {
-      "headline": "India brings back 60 tonnes of gold reserves held in foreign vaults",
-      "sources": [
-        {
-          "name": "Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-continues-to-bring-back-gold-to-india-as-it-repatriates-60-tonnes-more-of-yellow-metal-india-now-houses-84-of-its-880-52-metric-tonnes-gold-reserves-while-remaining-are-with-bank-of-england-and-bank-for-international-settlements/articleshow/136167289.cms"
-        }
-      ],
-      "date": "2026-11-26",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Foreign Exchange & Reserve Management",
-      "summary": "In a strategic asset relocation, the RBI transferred 60 metric tonnes of gold from the UK back to domestic vaults. Over 84% of India's total gold reserves are now stored domestically to mitigate geopolitical risks.",
-      "whyItMatters": "Relevant to macroeconomic policy, balance of payments reserve stability, and central bank security strategies."
-    },
-    {
-      "headline": "ISRO-JAXA joint lunar mission LUPEX unveils rover prototype",
+      "headline": "World Remained on Target for Ozone Layer Recovery Despite Seasonal Hole Expansion",
       "sources": [
         {
           "name": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
+          "url": "https://www.thehindu.com/sci-tech/science/ozone-hole-largest-in-a-decade-yet-world-remains-on-track-to-shrinking-it/article71753776.ece"
         }
       ],
-      "date": "2026-11-27",
-      "gsPaper": "GS III",
-      "relevance": "Both",
-      "importance": "High",
-      "topic": "Space Technology & Science",
-      "summary": "JAXA unveiled the rover prototype for the upcoming Chandrayaan-5/LUPEX mission, co-developed with ISRO. The mission will explore the moon's south pole region to investigate potential volatile elements and lunar water resources.",
-      "whyItMatters": "Directly relevant to S&T syllabus on developments in space technology and international bilateral scientific ventures."
-    },
-    {
-      "headline": "Infectious disease risks from free-ranging domestic animals threaten Nilgiris wildlife",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/infectious-diseases-from-free-ranging-domestic-animals-threaten-nilgiris-wildlife/article71745974.ece"
-        }
-      ],
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "gsPaper": "GS III",
       "relevance": "Both",
       "importance": "Medium",
-      "topic": "Biodiversity Conservation & Wildlife Health",
-      "summary": "A Forest Department report highlighted that untethered domestic and feral animals are transmitting deadly infectious pathogens to native wildlife populations in the Nilgiris Biosphere Reserve, posing severe conservation challenges.",
-      "whyItMatters": "Connects to environmental degradation, One Health approach, and wildlife sanctuary management in ecological hotspots."
+      "topic": "Environmental Pollution & Treaties",
+      "summary": "Although atmospheric observations recorded the Antarctic ozone hole reaching 27.3 million sq. km in late 2026 due to atmospheric temperature fluctuations, global atmospheric models confirm that overall concentrations of Ozone Depleting Substances (ODS) continue to decline under the Montreal Protocol framework.",
+      "whyItMatters": "Illustrates the effectiveness of international environmental treaties (Montreal Protocol and Kigali Amendment) despite natural meteorological variability."
     }
   ],
   "gs4": [],
   "prelimsRadar": [
     {
-      "fact": "LUPEX (Lunar Polar Exploration) Mission",
-      "category": "Organizations",
-      "detail": "A joint lunar mission by India's ISRO and Japan's JAXA aimed at studying water-ice availability at the Moon's polar region."
-    },
-    {
       "fact": "Dendrelaphis beddomei",
       "category": "Species",
-      "detail": "A newly classified endemic species of bronzeback tree snake discovered in the Western Ghats of India."
+      "detail": "A newly described endemic species of bronzeback tree snake discovered in the Western Ghats of India."
     },
     {
-      "fact": "Little Stint (Calidris minuta)",
-      "category": "Species",
-      "detail": "A small migratory shorebird that breeds in Arctic tundra and winters across Indian coastal mudflats and inland wetlands."
-    },
-    {
-      "fact": "Ibisbill (Ibidorhyncha struthersii)",
-      "category": "Species",
-      "detail": "A distinctive bird species that inhabits stony riverbeds of the Himalayas, dependent on natural gravelly river dynamics free from illegal sand mining."
-    },
-    {
-      "fact": "Cash Reserve Ratio (CRR) Daily Floor",
+      "fact": "Multi-Lane Free Flow (MLFF) Tolling",
       "category": "Terminology",
-      "detail": "The minimum percentage of daily required reserves that banks must maintain with the RBI on any given day within a fortnightly reporting period."
+      "detail": "A barrier-free electronic toll collection method using high-overhead gantries with RFID readers and Automatic Number Plate Recognition (ANPR) cameras."
+    },
+    {
+      "fact": "Front-of-Pack Nutrition Labelling (FoPNL)",
+      "category": "Terminology",
+      "detail": "A simplified nutritional information system displayed on the front of pre-packaged food packages to clearly warn consumers of high levels of sugar, salt, or saturated fats."
+    },
+    {
+      "fact": "Leukocyte Telomere Length",
+      "category": "Terminology",
+      "detail": "Protective DNA caps at the ends of white blood cell chromosomes; shorter telomere lengths are biomarker indicators of accelerated cellular aging and chronic disease risk."
+    },
+    {
+      "fact": "Shahdag National Park",
+      "category": "Places",
+      "detail": "A major protected area located in the Greater Caucasus region of Azerbaijan, currently hosting reintroduction projects for European Bison."
     }
   ],
   "quiz": [
     {
-      "question": "Regarding the Lunar Polar Exploration (LUPEX) mission, consider the following statements:\n1. It is a joint collaborative lunar exploration project between ISRO and NASA.\n2. Its primary objective is to investigate the quantity and quality of water resources in the lunar south polar region.\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the Cash Reserve Ratio (CRR) regulations in India, consider the following statements:\n1. CRR represents the fraction of total Net Demand and Time Liabilities (NDTL) that commercial banks must maintain as cash reserves with the Reserve Bank of India.\n2. RBI pays a fixed interest rate matching the Repo rate on the funds maintained by banks under the CRR mandate.\nWhich of the statements given above is/are correct?",
       "options": [
         "1 only",
         "2 only",
         "Both 1 and 2",
         "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "Statement 1 is incorrect because LUPEX is a joint mission between ISRO (India) and JAXA (Japan). Statement 2 is correct as it targets lunar polar water-ice deposits."
+      "correctIndex": 0,
+      "explanation": "Statement 1 is correct. CRR is a mandatory cash reserve held with the RBI based on NDTL. Statement 2 is incorrect because the RBI does not pay any interest to commercial banks on the reserves maintained under the CRR requirement."
     },
     {
-      "question": "The Reserve Bank of India recently lowered the minimum daily maintenance requirement for the Cash Reserve Ratio (CRR). What is the new minimum daily requirement?",
+      "question": "Which international environmental treaty is directly responsible for phasing out substances that cause depletion of the Earth's stratospheric ozone layer?",
       "options": [
-        "85%",
-        "90%",
-        "95%",
-        "99%"
+        "Basel Convention",
+        "Montreal Protocol",
+        "Rotterdam Convention",
+        "Minamata Convention"
       ],
       "correctIndex": 1,
-      "explanation": "The RBI lowered the minimum daily CRR maintenance requirement from 99% to 90% to afford banks operational flexibility in liquidity management."
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer is the global treaty designed to phase out the production and consumption of ozone-depleting substances."
     },
     {
-      "question": "The rare bird species 'Ibisbill', found along Himalayan river systems, is primarily threatened by which of the following activities?",
+      "question": "Consider the following statements regarding the Accredited Social Health Activist (ASHA) scheme in India:\n1. ASHAs are instituted as community-level health volunteers under the National Health Mission.\n2. The ASHA worker model was first introduced in India through the Ayushman Bharat Scheme in 2018.\nWhich of the statements given above is/are correct?",
       "options": [
-        "Deforestation in tropical rain forests",
-        "Illegal riverbed boulder mining and alteration of stony riverbed habitats",
-        "Introduction of invasive marine species",
-        "Overfishing in coastal mangrove deltas"
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
       ],
-      "correctIndex": 1,
-      "explanation": "Ibisbills rely on stony, gravelly riverbeds in the Himalayas. Unregulated riverbed mining and gravel extraction disrupt their feeding and breeding environments."
+      "correctIndex": 0,
+      "explanation": "Statement 1 is correct. Statement 2 is incorrect because the ASHA worker scheme was launched in 2005 under the National Rural Health Mission (NRHM), not Ayushman Bharat."
     }
   ],
   "schemes": [
     {
-      "name": "EPFO Amnesty Scheme 2026",
-      "ministry": "Ministry of Labour and Employment",
-      "beneficiaries": "Establishments maintaining private/independent Provident Fund trusts and their employees",
-      "objective": "To provide a one-time regularization opportunity for legacy employer-managed provident fund trusts to comply with statutory EPFO standards.",
+      "name": "Accredited Social Health Activist (ASHA) Program",
+      "ministry": "Ministry of Health and Family Welfare",
+      "beneficiaries": "Rural and urban community members, particularly women and children",
+      "objective": "To act as an interface between the community and the public health system, facilitating access to primary healthcare services.",
       "keyFeatures": [
-        "Allows regularisation of unrecognized or legacy private PF trusts.",
-        "Ensures seamless transfer of employee balances and benefits to unified EPFO frameworks."
+        "Employs trained female community health activists selected from the local village itself.",
+        "Performance-based incentive model for mobilizing immunizations, institutional deliveries, and sanitation awareness."
       ],
-      "funding": "Not specified in source coverage",
-      "upscRelevance": "Relevant for questions on social security coverage, labour welfare reforms, and statutory compliance mechanisms in India."
+      "funding": "Centrally Sponsored Scheme under the National Health Mission (NHM)",
+      "upscRelevance": "GS II: Issues relating to development and management of Social Sector/Services relating to Health."
     }
   ],
   "mainsEnrichment": [
     {
-      "topic": "Sovereign Asset & Reserve Management",
+      "topic": "Public Health & Policy Interventions",
       "points": [
-        "The RBI has brought back 60 metric tonnes of gold reserves from overseas, elevating the proportion of domestic gold storage to 84% (740 MT out of 880 MT total), showcasing strategic risk reduction against global monetary and geopolitical shocks."
+        "Judicial directive on FoPNL: Supreme Court mandated FSSAI to enforce front-of-pack warning labels, highlighting judicial enforcement of fundamental rights to health (Article 21) against non-communicable lifestyle diseases.",
+        "ASHA Cadre Reforms: Institutionalizing formal work norms and uniform honorariums for over 1 million ASHAs is crucial for strengthening India's primary health pillar."
       ]
     },
     {
-      "topic": "Human-Wildlife Conflict & Biosecurity",
+      "topic": "Fiscal & Monetary Policy Coordination",
       "points": [
-        "Pathogen spillover from feral domestic species accounts for significant wildlife mortality in protected areas like the Nilgiris, highlighting the urgent need for a integrated 'One Health' wildlife management strategy."
+        "Monetary Flexibility: RBI's reduction of daily CRR maintenance from 99% to 90% releases approximately ₹40,000 crore, showing how operational adjustments support systemic liquidity during period constraints."
       ]
     }
   ],
   "whatToRemember": [
-    "Union Cabinet has approved the Delimitation Bill, proposing to freeze inter-state Lok Sabha seat proportions until 2051.",
-    "RBI reduced the daily CRR maintenance floor for commercial banks from 99% to 90%.",
-    "India now stores 84% of its total 880.52 metric tonnes of gold reserves within domestic vaults.",
-    "ISRO and Japan's JAXA revealed the rover prototype for the joint Chandrayaan-5/LUPEX lunar mission.",
-    "India highlighted at COP31 that developing countries require far larger adaptation fund allocations than current commitments."
+    "RBI reduced the minimum daily CRR maintenance limit for commercial banks from 99% to 90%, releasing ~₹40,000 crore into the banking system.",
+    "Supreme Court ordered FSSAI to implement mandatory Front-of-Pack Nutrition Labelling (FoPNL) with clear red warnings within four months.",
+    "ISRO invited private industry participation to build an astronaut analog simulation facility for future space missions.",
+    "India highlighted at COP31 that the $50 million Adaptation Fund pledge remains vastly inadequate for developing world climate risks.",
+    "Northeast monsoon wind patterns cause transboundary movement of atmospheric pollutants from North India across the Bay of Bengal to Sri Lanka."
   ]
 }
